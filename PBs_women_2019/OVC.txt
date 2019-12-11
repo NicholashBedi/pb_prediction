@@ -1,0 +1,82 @@
+1	Sanga, PURITY	SO-2	Tennessee Tech	4:26.32	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+2	Knott, Carli	JR-3	SE Missouri	4:27.99	Joe Walker Classic	Apr 12, 2019
+3	Rowan, Grace	JR-3	Eastern Illinois	4:31.54	Drake Relays presented by Hy-Vee	Apr 24, 2019
+4	Grams, Meggan	SR-4	Eastern Kentucky	4:32.15	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+5	Schardt, Kortney	JR-3	Belmont	4:33.26	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+6	Shea, Kaitlyn	JR-3	SE Missouri	4:38.20	Joe Walker Classic	Apr 12, 2019
+7	Goff, Aly	JR-3	SIU Edwardsville	4:40.31	SIU Bill Cornell Spring Classic	Mar 22, 2019
+8	Faris, Mya	SR-4	Morehead State	4:43.11	OVC Championship	May 9, 2019
+9	Trois , Lou	FR-1	Eastern Kentucky	4:43.55	Raleigh Relays	Mar 29, 2019
+10	Mohrmann, Danielle	JR-3	SE Missouri	4:44.10	OVC Championship	May 9, 2019
+11	Dexheimer, Kassidy	SO-2	SIU Edwardsville	4:44.45	2019 SIUE Gateway Classic	May 3, 2019
+12	Charat Reix, Jeanne	FR-1	Eastern Kentucky	4:46.24	OVC Championship	May 9, 2019
+13	Kwambai, Janet	FR-1	Tennessee Tech	4:46.44	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+14	Chinn, Alison	JR-3	Morehead State	4:47.64	Bellarmine Classic 2019	Apr 13, 2019
+15	Grandys, Alexis	FR-1	Tennessee-Martin	4:47.92	APSU Governors Invitational	Apr 12, 2019
+16	Pingpank, Saskia	FR-1	Eastern Kentucky	4:47.96	Kentucky Track & Field Invitational	Apr 20, 2019
+17	Kiborus, Lilian	SR-4	Eastern Kentucky	4:48.47	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+18	Mendoza, Jocelyne	JR-3	Eastern Illinois	4:48.59	OVC Championship	May 9, 2019
+19	Hutchcraft, Rachel	SR-4	SE Missouri	4:48.82	Joe Walker Classic	Apr 12, 2019
+20	Cheriuyot, Galdys	SR-4	Eastern Kentucky	4:48.84	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+21	Creviston, Emma	FR-1	Murray State	4:49.12	Georgia Tech Invitational	Apr 19, 2019
+22	Keller, Maddie	FR-1	SE Missouri	4:49.69	Joe Walker Classic	Apr 12, 2019
+23	Corona-Luna, Gloria	SR-4	Morehead State	4:49.84	Bellarmine Classic 2019	Apr 13, 2019
+24	Chapman, Olivia	SO-2	Morehead State	4:49.94	Charlotte 49er Classic	Mar 14, 2019
+25	Pelfrey, Madison	SO-2	Morehead State	4:50.69	Bellarmine Classic 2019	Apr 13, 2019
+26	Wiggins, Ruth	SO-2	Belmont	4:50.88	Georgia Tech Invitational	Apr 19, 2019
+27	Adams, Megan	FR-1	Eastern Illinois	4:51.13	OVC Championship	May 9, 2019
+28	Dorn, Abbigail	JR-3	Morehead State	4:51.30	Charlotte 49er Classic	Mar 14, 2019
+29	Cheeseman, Claire	SO-2	Belmont	4:51.47	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+30	Alderton, Breanna	FR-1	Tennessee-Martin	4:51.48	Ole Miss Classic	Mar 30, 2019
+31	AYERS, Beighley	FR-1	Eastern Kentucky	4:51.67	Kentucky Track & Field Invitational	Apr 20, 2019
+32	Morrill, Claire	FR-1	SE Missouri	4:52.40	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+33	Sorrell, Emily	JR-3	Jacksonville St.	4:52.70	JSU Girls Day Out Track & Field Meet	Apr 6, 2019
+34	Kiper, Maggie	SO-2	Morehead State	4:52.79	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+35	McAdam, Hilary	JR-3	Murray State	4:52.91	APSU Governors Invitational	Apr 12, 2019
+36	Daniel, Caroline	SO-2	Belmont	4:53.53	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+37	Lax, Sierra	SR-4	Belmont	4:53.62	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+38	Fisher, Abby	JR-3	Eastern Illinois	4:53.99	Illinois Twilight	Apr 13, 2019
+39	Thomas, Anna	SR-4	SE Missouri	4:54.46	Joe Walker Classic	Apr 12, 2019
+40	Howard, Molly	FR-1	Austin Peay	4:54.50	OVC Championship	May 9, 2019
+41	Kiplagat, Emmaculate	SR-4	Austin Peay	4:54.65	Memphis Tiger invitational	Apr 26, 2019
+42	Roy, Breanna	FR-1	Tennessee-Martin	4:54.73	APSU Governors Invitational	Apr 12, 2019
+43	Wright, Danielle	FR-1	Murray State	4:55.42	APSU Governors Invitational	Apr 12, 2019
+44	Bushue, Kate	SO-2	Eastern Illinois	4:55.48	2019 Billy Hayes Invitational	May 3, 2019
+45	Shell, Keleah	SO-2	Austin Peay	4:56.07	APSU Governors Invitational	Apr 12, 2019
+46	Cuneo, Taylor	FR-1	Belmont	4:57.50	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+47	Watkins, Shelby	JR-3	Morehead State	4:57.70	Bellarmine Classic 2019	Apr 13, 2019
+48	Mutai, Ida	SR-4	Murray State	4:57.89	The Island Meet	Mar 22, 2019
+49	Ellis, Emily	FR-1	SIU Edwardsville	4:58.14	Joe Walker Classic	Apr 12, 2019
+50	Young, Sydney	JR-3	Morehead State	4:58.35	Kentucky Track & Field Invitational	Apr 20, 2019
+50	Gilbert, Katelyn	JR-3	Murray State	4:58.35	APSU Governors Invitational	Apr 12, 2019
+52	Ortega, Jazmin	SO-2	Jacksonville St.	4:58.56	JSU Choccolocco Challenge	Mar 8, 2019
+53	Nereo, Chemutai	JR-3	Jacksonville St.	4:58.68	Doc Anderson Invitational	Mar 15, 2019
+54	Greenwell, Kansas	SR-4	Morehead State	4:59.00	Bellarmine Classic 2019	Apr 13, 2019
+55	Vosler, Morgan	FR-1	Murray State	4:59.10	The Island Meet	Mar 22, 2019
+56	Flanagan, Avani	SO-2	Eastern Illinois	4:59.17	SIU Bill Cornell Spring Classic	Mar 22, 2019
+57	Smith, Mikaela	FR-1	Austin Peay	5:00.00	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+58	Martin, Sara	FR-1	Austin Peay	5:01.85	Memphis Tiger invitational	Apr 26, 2019
+59	Denemark, Lauren	JR-3	Belmont	5:03.82	APSU Governors Invitational	Apr 12, 2019
+60	Kopplin, Natalie	SR-4	SE Missouri	5:04.80	Gibson Invitational	Apr 6, 2019
+61	Schoenherr, Olivia	SO-2	Eastern Kentucky	5:05.48	Blizzard Buster	Mar 23, 2019
+62	Brugere, Alexa	FR-1	Tennessee Tech	5:05.81	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+63	Polycarpou, Leah	SR-4	Eastern Kentucky	5:06.06	Blizzard Buster	Mar 23, 2019
+64	Chesire, Vivian	FR-1	Tennessee Tech	5:06.97	OVC Championship	May 9, 2019
+65	Wynn, Rebekah	SO-2	Tennessee St.	5:07.11	Hilltopper Relays 2019	Apr 5, 2019
+66	Lee, Lydia	JR-3	Tennessee-Martin	5:07.27	APSU Governors Invitational	Apr 12, 2019
+67	Wood, Gabby	FR-1	SIU Edwardsville	5:07.67	2019 SIUE Gateway Classic	May 3, 2019
+68	Burmester, Keri	JR-3	SIU Edwardsville	5:08.99	Memphis Tiger invitational	Apr 26, 2019
+69	Mabry, Sam	FR-1	Eastern Illinois	5:11.30	SIU Bill Cornell Spring Classic	Mar 22, 2019
+70	Wilson, Cherie	SR-4	Tennessee-Martin	5:11.52	Memphis Tiger invitational	Apr 26, 2019
+71	Motor, Natalie	JR-3	Tennessee-Martin	5:14.04	Margaret Simmons Invitational	Mar 15, 2019
+72	Parker, Amanda	JR-3	Murray State	5:14.43	The Island Meet	Mar 22, 2019
+73	Rich, Autumn	JR-3	Jacksonville St.	5:19.38	Doc Anderson Invitational	Mar 15, 2019
+74	Wilson, Chantal	SR-4	Tennessee-Martin	5:21.89	Memphis Tiger invitational	Apr 26, 2019
+75	Boessen, Jane	SO-2	SE Missouri	5:23.29	OVC Championship	May 9, 2019
+76	Hudgins, Alyssa	SO-2	Jacksonville St.	5:29.41	Doc Anderson Invitational	Mar 15, 2019
+77	Poytress, Briar	FR-1	Jacksonville St.	5:30.08	Don McGarey Invitational Track and Field Invitational	Apr 26, 2019
+78	Endres, Alura	SO-2	Austin Peay	5:31.37	Memphis Tiger invitational	Apr 26, 2019
+79	Helton, Reese	FR-1	Morehead State	5:35.32	Bellarmine Classic 2019	Apr 13, 2019
+80	Easton, Meghan	FR-1	Murray State	5:38.00	Margaret Simmons Invitational	Mar 15, 2019
+81	Wilson, Sophia	FR-1	Austin Peay	5:43.50	Coastal Carolina Invitational	Mar 8, 2019
+82	Shannon, Elizabeth	FR-1	Morehead State	5:51.77	8th Annual Terrier Relays	Mar 30, 2019

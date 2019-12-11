@@ -1,0 +1,500 @@
+1	Hull, Jessica	JR-3	Oregon	4:12.08	Payton Jordan Invitational	May 2, 2019
+2	Fuller, Alexis	SR-4	Boise State	4:13.06	Portland Twilight	May 3, 2019
+3	Johnson, Sinclaire	JR-3	Oklahoma State	4:13.35	Cardinal Classic	Apr 19, 2019
+4	Feeny, Sarah	JR-3	Utah	4:13.53	Bryan Clay Invitational	Apr 17, 2019
+5	Birk, Erica	JR-3	BYU	4:13.57	40th Sun Angel Track Classic	Apr 5, 2019
+6	Orton, Whittni	JR-3	BYU	4:14.02	Bryan Clay Invitational	Apr 17, 2019
+7	Viljoen, Carina	JR-3	Arkansas	4:14.27	Bryan Clay Invitational	Apr 17, 2019
+8	Jones, Dani	JR-3	Colorado	4:14.68@	Jack Christiansen Invitational	Apr 26, 2019
+9	Ostrander, Allie	JR-3	Boise State	4:14.76	Bryan Clay Invitational	Apr 17, 2019
+10	Camp, Anna	JR-3	BYU	4:15.15	Bryan Clay Invitational	Apr 17, 2019
+11	Gregory, Lauren	FR-1	Arkansas	4:15.62	Payton Jordan Invitational	May 2, 2019
+12	Koech, Lilian	SR-4	UTEP	4:16.44	Bryan Clay Invitational	Apr 17, 2019
+13	Schadler, Allie	SO-2	Washington	4:16.57	Payton Jordan Invitational	May 2, 2019
+14	Rawlings, Taryn	SR-4	Portland	4:16.65	Bryan Clay Invitational	Apr 17, 2019
+15	Klein, Dana	SR-4	San Francisco	4:16.82	Portland Twilight	May 3, 2019
+16	Lawson, Jessica	SO-2	Stanford	4:16.85	Stanford Invitational	Mar 29, 2019
+17	Clark, Devin	JR-3	Arkansas	4:17.01	Payton Jordan Invitational	May 2, 2019
+18	Heymach, Julia	SO-2	Stanford	4:17.74	Payton Jordan Invitational	May 2, 2019
+19	Werner, Taylor	SO-2	Arkansas	4:17.79	Bryan Clay Invitational	Apr 17, 2019
+20	Sughroue, Molly	SR-4	Oklahoma State	4:17.81	John McDonnell Invitational	Apr 12, 2019
+21	Dimick, Sharlie	SR-4	Southern Utah	4:17.83	Payton Jordan Invitational	May 2, 2019
+21	Donaghu, Ella	SO-2	Stanford	4:17.83	2019 Pac-12 Track & Field Championships	May 4, 2019
+23	Celis, Jenny	SR-4	Oklahoma State	4:17.98	John McDonnell Invitational	Apr 12, 2019
+24	Ejore, Susan	SR-4	Oregon	4:18.11	Stanford Invitational	Mar 29, 2019
+25	Rainsberger, Katie	JR-3	Washington	4:18.39	2019 Pac-12 Track & Field Championships	May 4, 2019
+25	Huerta, Samantha	JR-3	Cal St. Fullerton	4:18.39	Bryan Clay Invitational	Apr 17, 2019
+27	Kurgat, Ednah	SR-4	New Mexico	4:18.61	Bryan Clay Invitational	Apr 17, 2019
+28	Oakes, Jordan	SO-2	Stanford	4:18.85	Payton Jordan Invitational	May 2, 2019
+29	Ellsworth, Lauren	SO-2	BYU	4:18.95	Stanford Invitational	Mar 29, 2019
+30	Collins, Destiny	SO-2	Texas	4:19.16	National Relay Championships	Apr 26, 2019
+31	Reed, Maddy	JR-3	Arkansas	4:19.22	John McDonnell Invitational	Apr 12, 2019
+32	Ballner, Ariane	SR-4	Oklahoma State	4:19.40	John McDonnell Invitational	Apr 12, 2019
+33	Hoj, Olivia	JR-3	BYU	4:19.48	Payton Jordan Invitational	May 2, 2019
+34	Morley, Makena	JR-3	Colorado	4:19.68	Cardinal Classic	Apr 19, 2019
+35	Hunter, Kate	SO-2	BYU	4:19.90	Payton Jordan Invitational	May 2, 2019
+36	Herberg, Haley	FR-1	Oklahoma	4:20.03	Big 12 Outdoor Track and Field Championships	May 10, 2019
+37	Hasz, Bethany	SO-2	Minnesota	4:20.12	Big Ten Championships	May 10, 2019
+38	Johnson, Kassidy	FR-1	Kansas State	4:20.28	Big 12 Outdoor Track and Field Championships	May 10, 2019
+39	Chiotti, Taylor	FR-1	Oregon	4:20.29	Payton Jordan Invitational	May 2, 2019
+40	Tinoco, Bianca	SO-2	Arizona State	4:20.59	Bryan Clay Invitational	Apr 17, 2019
+41	Brown, Sydney	SR-4	Arkansas	4:20.69	SEC Outdoor Track & Field Championships	May 9, 2019
+42	O'Keeffe, Fiona	JR-3	Stanford	4:20.97	Big Meet	Apr 6, 2019
+43	Nickerson, Angie	SR-4	Southern Utah	4:21.08@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+44	Graham, Aisha	SR-4	Utah Valley	4:21.21	Payton Jordan Invitational	May 2, 2019
+45	McNulty, Abbie	SR-4	Stanford	4:21.24	Big Meet	Apr 6, 2019
+46	Cruz, Alex	SR-4	Texas	4:21.52	Bryan Clay Invitational	Apr 17, 2019
+47	Anglero, Mina	SO-2	California	4:21.57	Big Meet	Apr 6, 2019
+48	Hill, Annie	FR-1	Colorado	4:21.85	2019 Pac-12 Track & Field Championships	May 4, 2019
+49	Schoffield, Kristie	SO-2	Boise State	4:22.10	Bryan Clay Invitational	Apr 17, 2019
+50	Underwood, Meghan	FR-1	Arkansas	4:22.39	Bryan Clay Invitational	Apr 17, 2019
+51	Boreman, Madison	SO-2	Colorado	4:22.70	Stanford Invitational	Mar 29, 2019
+52	Neuberger, Savannah	SR-4	Utah Valley	4:22.72@	WAC Outdoor Track and Field Championships	May 9, 2019
+53	Cohen, Adva	SO-2	New Mexico	4:22.88	Mountain West Outdoor Track & Field Championship	May 8, 2019
+54	Scholl, Tabor	JR-3	Colorado	4:22.90	Cardinal Classic	Apr 19, 2019
+55	Maxwell, Anna	SR-4	Washington	4:22.92	Stanford Invitational	Mar 29, 2019
+56	Mann, Karina	SR-4	Colorado	4:23.02@	Jack Christiansen Invitational	Apr 26, 2019
+57	Forsberg, Elsa	JR-3	Nebraska	4:23.29	Big Ten Championships	May 10, 2019
+58	Fielding, Alissa	FR-1	BYU	4:23.37@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+59	Newton, Sarah	JR-3	Utah	4:23.43	Bryan Clay Invitational	Apr 17, 2019
+59	Eitel, Pipi	SO-2	Northern Arizona	4:23.43	Bryan Clay Invitational	Apr 17, 2019
+61	Szekely, Morgan	SR-4	Oklahoma State	4:23.50	John McDonnell Invitational	Apr 12, 2019
+62	Chepkosgei, Carolyne	SO-2	UTEP	4:23.52	Bryan Clay Invitational	Apr 17, 2019
+63	Amberg, Crissey	SR-4	New Mexico St.	4:23.89@	WAC Outdoor Track and Field Championships	May 9, 2019
+64	Brooks, Madelyn	SR-4	BYU	4:23.99@(1)	2019 BYU Cougar Invitational	May 9, 2019
+64	Quinones, Amy	SR-4	Sacramento St.	4:23.99	Bryan Clay Invitational	Apr 17, 2019
+66	Liggett, Catherine	SO-2	Kansas	4:24.13	Big 12 Outdoor Track and Field Championships	May 10, 2019
+67	Rice, Christina	SO-2	UCLA	4:24.26	USC vs UCLA	Apr 27, 2019
+68	Weber, Kamryn	JR-3	USC	4:24.38	2019 Pac-12 Track & Field Championships	May 4, 2019
+69	Lyons, Maddy	JR-3	Portland	4:24.48	2019 West Coast Invitational	May 11, 2019
+70	Davis, Amy	JR-3	Wisconsin	4:24.63	Wisconsin Alumni Classic	May 3, 2019
+71	Camarena, Katie	JR-3	UC Santa Barbara	4:24.68	2019 UCSB vs. Cal Poly	Apr 27, 2019
+72	Lowry, Maryn	SR-4	Montana	4:24.72	Bryan Clay Invitational	Apr 17, 2019
+73	Behunin, Hannah	SO-2	Northern Arizona	4:24.75	Bryan Clay Invitational	Apr 17, 2019
+74	Topham, Rebekah	JR-3	Wichita State	4:24.76	Drake Relays presented by Hy-Vee	Apr 24, 2019
+75	Daschian, Miranda	SR-4	Cal Poly	4:24.89	2019 UCSB vs. Cal Poly	Apr 27, 2019
+75	Woolnough, Cara	FR-1	Utah	4:24.89	Portland Twilight	May 3, 2019
+77	Stenman-Fahey, Erinn	SR-4	Iowa State	4:24.98	Stanford Invitational	Mar 29, 2019
+78	Korzenowski, Anastasia	FR-1	Minnesota	4:24.99	Big Ten Championships	May 10, 2019
+79	King, Rachel	SR-4	South Dakota St.	4:25.12	Drake Relays presented by Hy-Vee	Apr 24, 2019
+80	Owen, Quinn	FR-1	Arkansas	4:25.27	Arkansas Twilight	May 3, 2019
+81	Ramirez, Kelsey	SO-2	Stephen F. Austin	4:25.28	Bryan Clay Invitational	Apr 17, 2019
+82	Dale, Scarlet	FR-1	Utah	4:25.31	Portland Twilight	May 3, 2019
+83	Cardama Baez, Carmela	JR-3	Oregon	4:25.47	Cardinal Classic	Apr 19, 2019
+84	Rosvall, Astrid	SO-2	UC Santa Barbara	4:25.55	UCSB vs. UC Riverside vs. Cal Poly	Mar 9, 2019
+85	Wilson-Perteete, Avi' Tal	SO-2	UNLV	4:25.57	UC-Riverside Spring Track Classic	Mar 21, 2019
+86	O' Brien, Kelly	JR-3	Northwestern	4:25.59	Bryan Clay Invitational	Apr 17, 2019
+87	Callahan, Mackenzie	SO-2	Northern Illinois	4:25.65	Bryan Clay Invitational	Apr 17, 2019
+88	Prouse, Charlotte	JR-3	New Mexico	4:25.70	Bryan Clay Invitational	Apr 17, 2019
+89	Berry, Chloe	JR-3	USC	4:25.74	Mt. SAC Relays	Apr 18, 2019
+90	Crank, Gabby	SR-4	Texas	4:25.98	The Reveille Meet	Apr 6, 2019
+91	Keefe, Kaili	JR-3	Washington St.	4:26.00	Oregon State High Performance Meet	Apr 26, 2019
+92	Campbell, Hannah	SR-4	Texas A&M	4:26.11	Bryan Clay Invitational	Apr 17, 2019
+93	Anderson, Kelby	FR-1	North Dakota State	4:26.12	Drake Relays presented by Hy-Vee	Apr 24, 2019
+94	Markham, Niamh	SR-4	Bradley	4:26.20	Drake Relays presented by Hy-Vee	Apr 24, 2019
+95	Kreutz, Macy	JR-3	Colorado St.	4:26.23	Stanford Invitational	Mar 29, 2019
+96	Wright, Gwynne	JR-3	Iowa State	4:26.27	Big 12 Outdoor Track and Field Championships	May 10, 2019
+97	Trotter, Roxy	SR-4	Colorado St.	4:26.29	Bryan Clay Invitational	Apr 17, 2019
+98	Lucki, Mikaela	SO-2	Illinois	4:26.56	Stanford Invitational	Mar 29, 2019
+98	Reed, Lexi	SO-2	Oregon State	4:26.56	Oregon State High Performance Meet	Apr 26, 2019
+100	Boos, Annie	SO-2	California	4:26.64	2019 Hornet Invitational	Mar 15, 2019
+101	Mooney, Madison	FR-1	Wisconsin	4:26.96	Bryan Clay Invitational	Apr 17, 2019
+101	Pray, Alison	SO-2	Southern Utah	4:26.96@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+103	Kohut-Jackson, Abby	SO-2	Minnesota	4:27.06	Big Ten Championships	May 10, 2019
+104	Izzo, Katie	JR-3	Cal Poly	4:27.09	2019 Cal Poly Shareslo.com Invitational	Mar 22, 2019
+105	Seidel, Isabel	SR-4	Northwestern	4:27.12	2019 Oxy Invitational (College/University)	May 11, 2019
+106	Baragar-Petrash, Jennie	JR-3	Arizona	4:27.22	2019 Desert Heat Classic	Apr 27, 2019
+107	Davies, Megan	JR-3	San Francisco	4:27.30	Portland Twilight	May 3, 2019
+108	Niggemann, Alissa	SO-2	Wisconsin	4:27.45	Wisconsin Alumni Classic	May 3, 2019
+109	Miller, Hannah	JR-3	SMU	4:27.47	Houston Spring Break Invitational	Mar 14, 2019
+110	Mazzei, Adrena	SO-2	Tulsa	4:27.52	Bryan Clay Invitational	Apr 17, 2019
+111	Grujic, Zorana	SO-2	Washington St.	4:27.61	Bryan Clay Invitational	Apr 17, 2019
+112	Leather, Ellie	SO-2	Fresno State	4:27.62	adidas/Steve Scott Invitational	Apr 26, 2019
+113	Knott, Carli	JR-3	SE Missouri	4:27.99	Joe Walker Classic	Apr 12, 2019
+114	Schott, Megan	JR-3	Iowa	4:28.00	Drake Relays presented by Hy-Vee	Apr 24, 2019
+115	Ojstersek, Svenja	SR-4	SMU	4:28.02	Houston Spring Break Invitational	Mar 14, 2019
+116	Bowden, Philippa	SR-4	Oregon	4:28.12	Oregon State High Performance Meet	Apr 26, 2019
+117	Norris, Mahala	SO-2	Air Force	4:28.25	Mountain West Outdoor Track & Field Championship	May 8, 2019
+118	ISELI, Rea	SR-4	North Texas	4:28.43	Bryan Clay Invitational	Apr 17, 2019
+119	Hummel, Olivia	SO-2	Minnesota	4:28.47	Drake Relays presented by Hy-Vee	Apr 24, 2019
+120	Collier, Caitlin	FR-1	Stanford	4:28.50	Stanford Invitational	Mar 29, 2019
+121	Goodisson, Eva	FR-1	UC Davis	4:28.51	Big West Outdoor Track & Field Championships	May 10, 2019
+122	Crouch, Lucinda	FR-1	Wisconsin	4:28.52	Wisconsin Alumni Classic	May 3, 2019
+123	Constien, Val	SR-4	Colorado	4:28.62@	Colorado Invitational 2019	Apr 5, 2019
+124	Dodge, Jenica	SR-4	Idaho State	4:28.69@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+125	Ryan, Sophie	FR-1	Utah	4:28.73	Bryan Clay Invitational	Apr 17, 2019
+126	George, Gwyn	FR-1	UCLA	4:28.77	Rafer Johnson & Jackie Joyner-Kersee Invitational	Apr 13, 2019
+127	Rasmussen, Delaney	SO-2	Northern Arizona	4:28.89	Bryan Clay Invitational	Apr 17, 2019
+128	LaRocco, Lauren	SR-4	Portland	4:29.11	Bryan Clay Invitational	Apr 17, 2019
+129	Ward, Anaya	FR-1	UC Davis	4:29.14	Big West Outdoor Track & Field Championships	May 10, 2019
+130	Benner, Kaitlyn	SR-4	Colorado	4:29.20@	Colorado Invitational 2019	Apr 5, 2019
+131	Brewer, Alyssa	FR-1	USC	4:29.24	USC Trojan Invite	Mar 15, 2019
+132	Koskei, Winny	SO-2	Wichita State	4:29.30	Drake Relays presented by Hy-Vee	Apr 24, 2019
+133	Wright, Yazmine	FR-1	Wichita State	4:29.39	Drake Relays presented by Hy-Vee	Apr 24, 2019
+134	Ryan, Megan	SR-4	Utah State	4:29.42@	Aggie Iinvitational	Apr 12, 2019
+135	Wolf, Haley	FR-1	Oregon State	4:29.52	2019 Pac-12 Track & Field Championships	May 4, 2019
+136	Cox, Courtney	SR-4	Portland	4:29.60	Portland Twilight	May 3, 2019
+136	Flores, Sandra	JR-3	Cal St. Fullerton	4:29.60	Titan Team Challenge	Mar 30, 2019
+138	Huckabee, Micah	JR-3	Arkansas	4:29.67	SEC Outdoor Track & Field Championships	May 9, 2019
+139	Russell, Jemima	FR-1	USC	4:29.68	USC Trojan Invite	Mar 15, 2019
+140	Carruth, Maggie	SR-4	Northern Arizona	4:29.69	2019 Baldy Castillo Invitational	Mar 15, 2019
+140	Martin, Emily	JR-3	New Mexico	4:29.69	Bryan Clay Invitational	Apr 17, 2019
+142	Milburn, Emma	FR-1	Illinois	4:29.70	Big Ten Championships	May 10, 2019
+142	Sorensen, Shaelyn	SR-4	Wisconsin	4:29.70	Wisconsin Alumni Classic	May 3, 2019
+144	Bent, Holly	FR-1	Colorado	4:29.73@	Colorado Invitational 2019	Apr 5, 2019
+145	Bostrom, Katie	SR-4	North Dakota State	4:29.76	Drake Relays presented by Hy-Vee	Apr 24, 2019
+146	Story, Kara	JR-3	Idaho	4:29.81@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+147	Fetherstonhaugh, Grace	FR-1	Oregon State	4:30.00	Portland Twilight	May 3, 2019
+147	Makin, Kelly	FR-1	Washington	4:30.00	Stanford Invitational	Mar 29, 2019
+149	Huglen, Madeline	SR-4	South Dakota	4:30.05	Drake Relays presented by Hy-Vee	Apr 24, 2019
+150	Brooks, Olivia	FR-1	Colorado	4:30.08@	Jack Christiansen Invitational	Apr 26, 2019
+151	Friedman, Mari	FR-1	Oregon State	4:30.20	Mike Fanelli Track Classic	Mar 28, 2019
+152	Brewis, Lindsey	SR-4	Loyola (Ill.)	4:30.23	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+153	Gonzales, Britani	SR-4	Houston	4:30.33	37th Annual Victor Lopez Classic	Mar 21, 2019
+154	McCulloch, Shona	SO-2	Washington	4:30.43	2019 Ken Shannon Invitational	May 4, 2019
+155	Mettler, Maria	SO-2	Air Force	4:30.47	Bryan Clay Invitational	Apr 17, 2019
+156	Zambrano, Jeanette	JR-3	San Jose St.	4:30.65	2019 Hornet Invitational	Mar 15, 2019
+157	Smith, Natalie	JR-3	Portland	4:30.86	Portland Twilight	May 3, 2019
+158	Reimers, Mimi	SO-2	Loyola (Ill.)	4:30.87	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+159	Maloney, Shannon	SR-4	Utah State	4:31.00@	Aggie Iinvitational	Apr 12, 2019
+160	Greenlund, Lindsey	SO-2	Minnesota	4:31.06	Drake Relays presented by Hy-Vee	Apr 24, 2019
+161	Scott, Sarah	SR-4	Oklahoma	4:31.08	Roadrunner Invitational	Mar 21, 2019
+162	Block, Alyssa	SO-2	Cal St. Fullerton	4:31.09	Big West Challenge	Apr 5, 2019
+163	Schneider, Devina	JR-3	Texas State	4:31.15	Texas State Bobcat Classic	Apr 26, 2019
+164	Revord, Reilly	FR-1	Missouri	4:31.16	Mike Fanelli Track Classic	Mar 28, 2019
+164	Takeuchi, Brigette	FR-1	Oregon State	4:31.16	Portland Twilight	May 3, 2019
+166	Jones, Judi	JR-3	Nebraska	4:31.22@	Corky/Crofoot Shootout	Apr 26, 2019
+167	Oscarson, Hannah	JR-3	North Dakota	4:31.24	Bryan Clay Invitational	Apr 17, 2019
+167	Perkins, Megan	SR-4	Utah	4:31.24	2019 Pac-12 Track & Field Championships	May 4, 2019
+169	Overby, Madison	JR-3	North Dakota	4:31.26	Bryan Clay Invitational	Apr 17, 2019
+170	Menghini, Melissa	SO-2	Missouri	4:31.31	John McDonnell Invitational	Apr 12, 2019
+171	O'Brien, Patty	SR-4	Minnesota	4:31.35	Drake Relays presented by Hy-Vee	Apr 24, 2019
+172	Windemuller, Kayla	FR-1	Baylor	4:31.37	Baylor Invitational	Mar 23, 2019
+173	Beattie, Grace	JR-3	Illinois State	4:31.39	Tennessee Relays	Apr 11, 2019
+174	Blancaflor, Claudine	SO-2	Texas	4:31.42	The Reveille Meet	Apr 6, 2019
+175	Rowan, Grace	JR-3	Eastern Illinois	4:31.54	Drake Relays presented by Hy-Vee	Apr 24, 2019
+176	Duncan, Cagnei	SO-2	Sacramento St.	4:31.59	Bryan Clay Invitational	Apr 17, 2019
+177	Prescott, Elyse	SO-2	Minnesota	4:31.63	Drake Relays presented by Hy-Vee	Apr 24, 2019
+178	Charles, Anaelle	SR-4	Arkansas State	4:31.68	Memphis Tiger invitational	Apr 26, 2019
+179	Mitchell, MarLee	JR-3	Weber State	4:31.73@	Weber State Spring Classic	Apr 12, 2019
+180	Thacker, Malaina	SO-2	Idaho	4:31.75	2019 Triton Invitational	Apr 12, 2019
+181	Harris, Alexandra	SO-2	New Mexico	4:31.80	Mike Fanelli Track Classic	Mar 28, 2019
+182	Nuttall, Hannah	JR-3	New Mexico	4:31.88	Stanford Invitational	Mar 29, 2019
+183	Williams, Bella	SO-2	Utah	4:32.02	Drake Relays presented by Hy-Vee	Apr 24, 2019
+184	Gibson, Kaila	JR-3	Portland State	4:32.09	Oregon State High Performance Meet	Apr 26, 2019
+185	Bernardo, Rachel	SO-2	Texas A&M	4:32.25	Bryan Clay Invitational	Apr 17, 2019
+186	Dar, Edna	FR-1	Missouri State	4:32.46	MVC Championship	May 10, 2019
+187	Gee, Emma	JR-3	BYU	4:32.50	40th Sun Angel Track Classic	Apr 5, 2019
+187	Macdermid, Zia	FR-1	Wyoming	4:32.50	Beach Invitational	Apr 19, 2019
+189	Noe, Camila	FR-1	Montana State	4:32.62@	Tom Gage Classic	May 3, 2019
+190	Schinkel, Lyndsie	SR-4	Northern Iowa	4:32.66	Tom Botts Invitational	Apr 19, 2019
+191	McCabe , Grace	FR-1	Iowa	4:32.68	Big Ten Championships	May 10, 2019
+192	Hamilton, Madeline	SO-2	Montana	4:32.71	Bryan Clay Invitational	Apr 17, 2019
+192	Miller, Aaliyah	SO-2	Baylor	4:32.71	The Reveille Meet	Apr 6, 2019
+194	Moreno, Trina	SO-2	Utah	4:32.75	USC Trojan Invite	Mar 15, 2019
+195	Hostetler, Anna	FR-1	Iowa	4:32.86	Bryan Clay Invitational	Apr 17, 2019
+196	Hanson, Heather	FR-1	BYU	4:33.04	Bryan Clay Invitational	Apr 17, 2019
+197	Harrell, Lauren	SR-4	Kansas	4:33.06	Ward Haylett Invitational	May 3, 2019
+198	Hildebrandt, Paige	JR-3	Grand Canyon	4:33.07	2019 Triton Invitational	Apr 12, 2019
+199	Johnson, Halle	FR-1	Wichita State	4:33.11	Drake Relays presented by Hy-Vee	Apr 24, 2019
+200	Watson, Shanieke	SR-4	Arkansas-Little Rock	4:33.12	Memphis Tiger invitational	Apr 26, 2019
+201	Misgen, Tess	SO-2	Drake	4:33.16	Drake Relays presented by Hy-Vee	Apr 24, 2019
+202	Nye, Jessica	FR-1	California	4:33.23	Mike Fanelli Track Classic	Mar 28, 2019
+203	Dunlap, Jennifer	SR-4	Houston	4:33.24	The American Outdoor Track & Field Championships	May 10, 2019
+204	Biddle, Meagan	SO-2	Northern Illinois	4:33.38	Michael Johnson Invitational	Apr 19, 2019
+205	Brill, Sierra	SO-2	Cal Poly	4:33.41	2019 UCSB vs. Cal Poly	Apr 27, 2019
+206	Nusser, Brooke	SR-4	Bradley	4:33.48	2019 Kip Janvrin Open	Apr 25, 2019
+207	Ricci, Melissa	JR-3	Northern Illinois	4:33.49	Drake Relays presented by Hy-Vee	Apr 24, 2019
+208	Lewis, Courtney	JR-3	Arizona State	4:33.50	40th Sun Angel Track Classic	Apr 5, 2019
+209	Durgy, Cassandra	JR-3	UCLA	4:33.52	2019 Pac-12 Track & Field Championships	May 4, 2019
+210	Vu, Jaylene	FR-1	Texas	4:33.59	National Relay Championships	Apr 26, 2019
+211	Billington, Megan	SR-4	South Dakota	4:33.60	South Dakota Challenge	Apr 6, 2019
+212	Schmidt, Lilly	SO-2	UCLA	4:33.61	USC vs UCLA	Apr 27, 2019
+213	Story, Krista	JR-3	Idaho	4:33.67	Oregon State High Performance Meet	Apr 26, 2019
+214	Sjolund, Emma	FR-1	Northern Arizona	4:33.70	Bryan Clay Invitational	Apr 17, 2019
+215	Ruelas, Trinity	SO-2	Cal St. Fullerton	4:33.74	Big West Challenge	Apr 5, 2019
+216	Miller, Caroline	FR-1	Tulsa	4:33.75	The American Outdoor Track & Field Championships	May 10, 2019
+216	Renaud, Emilie	FR-1	Cal Baptist	4:33.75	Oxy Distance Carnival Spring Break Classic	Mar 9, 2019
+218	Sandoval, Jennifer	JR-3	San Jose St.	4:33.82	2019 Hornet Invitational	Mar 15, 2019
+219	Simmons, Cierra	SR-4	Utah State	4:33.86	Mt. SAC Relays	Apr 18, 2019
+220	Condie, Andrea	SR-4	Idaho	4:33.88	14th Sam Adams Classic Scoring Invite	Mar 21, 2019
+221	Samuel, Swathi	JR-3	Air Force	4:33.89	Bryan Clay Invitational	Apr 17, 2019
+222	Jacob, Jordan	JR-3	Boise State	4:33.92	40th Sun Angel Track Classic	Apr 5, 2019
+223	Viertel, Taylor	FR-1	Utah Valley	4:33.96@	WAC Outdoor Track and Field Championships	May 9, 2019
+224	Rowe, Madeleine	SO-2	UT-Arlington	4:34.01	Bryan Clay Invitational	Apr 17, 2019
+225	Zlatunich, Marea	FR-1	California	4:34.09	Big Meet	Apr 6, 2019
+226	Gallegos-Francksen, Emily	SO-2	Arizona State	4:34.11	Bryan Clay Invitational	Apr 17, 2019
+227	Atwell, Emma	JR-3	Colorado St.	4:34.14	Bryan Clay Invitational	Apr 17, 2019
+227	Musselman, Sara	SO-2	BYU	4:34.14	2019 Oxy Invitational (College/University)	May 11, 2019
+229	Hull, Hannah	SR-4	Cal Poly	4:34.18	2019 UCSB vs. Cal Poly	Apr 27, 2019
+230	Scott, Sophie	FR-1	UCLA	4:34.26	Rafer Johnson & Jackie Joyner-Kersee Invitational	Apr 13, 2019
+231	Welborn, Jordan	JR-3	Texas	4:34.31	The Reveille Meet	Apr 6, 2019
+232	Rovere, Elisa	SO-2	UNLV	4:34.40	adidas/Steve Scott Invitational	Apr 26, 2019
+233	Friesen, Ellie	FR-1	South Dakota St.	4:34.41	Mike Fanelli Track Classic	Mar 28, 2019
+234	Leroudier, Melodie	JR-3	Cal Poly	4:34.53	2019 Cal Poly Shareslo.com Invitational	Mar 22, 2019
+235	McGrath, Allison	SO-2	Illinois	4:34.54	War Eagle Invitational 2019	Apr 19, 2019
+235	Plumb, Hattie	JR-3	Illinois State	4:34.54	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+235	Wollmering, Erica	JR-3	Missouri State	4:34.54	Drake Relays presented by Hy-Vee	Apr 24, 2019
+238	Sjolund, Emma	FR-1	Northern Arizona	4:34.65@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+238	Gallardo, Jessica	JR-3	Texas Tech	4:34.65@	Corky/Crofoot Shootout	Apr 26, 2019
+240	Somogyi, Anett	JR-3	Cal Baptist	4:34.68	adidas/Steve Scott Invitational	Apr 26, 2019
+240	Kyro, Alexi	SO-2	Montana State	4:34.68@	Tom Gage Classic	May 3, 2019
+242	Bernd, Kelly	JR-3	UCLA	4:34.69	2019 Pac-12 Track & Field Championships	May 4, 2019
+243	Colter, Jordyn	JR-3	California	4:34.73	Stanford Invitational	Mar 29, 2019
+244	Powell, Kennedy	FR-1	Utah	4:34.80	Bryan Clay Invitational	Apr 17, 2019
+245	Ricci, Hannah	FR-1	Northern Illinois	4:34.85	Texas State Bobcat Invitational	Mar 28, 2019
+246	McCardell, Rachel	FR-1	Northwestern	4:34.90	Bryan Clay Invitational	Apr 17, 2019
+247	Moore, Annie	JR-3	Illinois State	4:34.92	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+247	Rasmussen, Delaney	SO-2	Northern Arizona	4:34.92	Stanford Invitational	Mar 29, 2019
+249	Kill, Jenna	FR-1	Air Force	4:34.94	Bryan Clay Invitational	Apr 17, 2019
+250	Nichols, Alexis	JR-3	Arizona State	4:34.95	2019 Baldy Castillo Invitational	Mar 15, 2019
+251	Novak, Natalia	SO-2	Cal Baptist	4:34.96	Bryan Clay Invitational	Apr 17, 2019
+251	Williams, Isabella	JR-3	Weber State	4:34.96	Bryan Clay Invitational	Apr 17, 2019
+253	Roberts, Aubrey	JR-3	Northwestern	4:35.00	Bryan Clay Invitational	Apr 17, 2019
+254	Hanson, Mary	JR-3	Marquette	4:35.06	Bryan Clay Invitational	Apr 17, 2019
+255	Howard, Becca	SR-4	Portland	4:35.07	Portland Twilight	May 3, 2019
+256	Jones, Baylee	SO-2	Colorado	4:35.08@	Colorado Invitational 2019	Apr 5, 2019
+257	Balsan, Elizabeth	SO-2	Grand Canyon	4:35.11@	WAC Outdoor Track and Field Championships	May 9, 2019
+258	Quistorff, Solana	SR-4	Wyoming	4:35.14	Beach Invitational	Apr 19, 2019
+259	Riggs-Cowley, Maddie	SR-4	Utah Valley	4:35.19	Bryan Clay Invitational	Apr 17, 2019
+260	van der Marel, Merel	FR-1	San Francisco	4:35.22	Mike Fanelli Track Classic	Mar 28, 2019
+261	Branch, Cydney		UC Riverside	4:35.42	Chris Rinne Highlander Twilight	Apr 12, 2019
+262	Derby, Hannah	SR-4	Washington	4:35.44	Stanford Invitational	Mar 29, 2019
+263	Hill, Jacquelyn	SO-2	UCLA	4:35.50	Rafer Johnson & Jackie Joyner-Kersee Invitational	Apr 13, 2019
+264	Sorensen, Meredith	JR-3	Houston	4:35.51	Mt. SAC Relays	Apr 18, 2019
+265	Eastman, Maria	SO-2	Minnesota	4:35.60	Lady Bear Twilight	Apr 19, 2019
+266	Liz, Karina	JR-3	Missouri	4:35.61	Wichita State Herm Wilson Invitational	Mar 21, 2019
+266	McPhee, Jordan	SR-4	Gonzaga	4:35.61	Oregon State High Performance Meet	Apr 26, 2019
+268	Corda, Meredith	SO-2	California	4:35.66	Mike Fanelli Track Classic	Mar 28, 2019
+269	Findley, Tori	FR-1	Missouri	4:35.67	John McDonnell Invitational	Apr 12, 2019
+270	Porcaro, Morgan	SR-4	Southern Utah	4:35.69@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+271	Buckley, Katie	JR-3	Lamar	4:35.77	Bryan Clay Invitational	Apr 17, 2019
+272	Akers, Mikayla	FR-1	San Jose St.	4:35.83	Woody Wilson Classic	Apr 13, 2019
+273	Reed, Mikayla	FR-1	Missouri	4:35.86	Wichita State Herm Wilson Invitational	Mar 21, 2019
+274	Cannon, Maddie	SR-4	BYU	4:35.88	40th Sun Angel Track Classic	Apr 5, 2019
+275	Ladanyi, Fruzsina	JR-3	Cal Baptist	4:35.97	UC-Riverside Spring Track Classic	Mar 21, 2019
+276	Carter, Paige	SO-2	UCLA	4:36.00	Bob Larsen Distance Carnival	Mar 29, 2019
+277	Johnson, Olivia	SO-2	Boise State	4:36.11	Border Clash 2019	Apr 26, 2019
+277	Somers, Taylor	JR-3	Oklahoma State	4:36.11	Arkansas Spring Invitational	Mar 22, 2019
+279	Wood, Sophie	JR-3	Lamar	4:36.14	37th Annual Victor Lopez Classic	Mar 21, 2019
+280	Geissler, Haley	SR-4	Oklahoma State	4:36.22	Arkansas Twilight	May 3, 2019
+281	Surratt, Taryn	JR-3	Stephen F. Austin	4:36.24	37th Annual Victor Lopez Classic	Mar 21, 2019
+282	Carlson, Patricia	SO-2	Montana State	4:36.27	2019 Triton Invitational	Apr 12, 2019
+283	Adler, Erika	FR-1	UCLA	4:36.31	USC vs UCLA	Apr 27, 2019
+283	Legard, Ally	SO-2	Gonzaga	4:36.31	Oregon State High Performance Meet	Apr 26, 2019
+285	Rogers, Grace	JR-3	Illinois	4:36.34	War Eagle Invitational 2019	Apr 19, 2019
+286	Ledsham, Rebecca	SO-2	Oregon State	4:36.43	L&C Spring Break Open 2019	Mar 16, 2019
+287	Medved, Sarah	SR-4	Portland State	4:36.48	Oregon State High Performance Meet	Apr 26, 2019
+288	Offerman, Lauren	SO-2	Texas Tech	4:36.54	Bryan Clay Invitational	Apr 17, 2019
+289	Knoblock, Kennidi	SR-4	Illinois State	4:36.55	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+290	Fisk, Abigail	SO-2	Cal Poly	4:36.57	2019 Cal Poly Shareslo.com Invitational	Mar 22, 2019
+291	Loren, Kira	FR-1	UCLA	4:36.60	Bob Larsen Distance Carnival	Mar 29, 2019
+292	Guidry, Abby	JR-3	Texas	4:36.69	The Reveille Meet	Apr 6, 2019
+293	Nolke, Elizabeth	SR-4	UMKC	4:36.74	Arkansas Twilight	May 3, 2019
+294	Hutton, Sailor	FR-1	Boise State	4:36.79	40th Sun Angel Track Classic	Apr 5, 2019
+295	Lasota, Kelsi	SR-4	Montana State	4:36.83@	Cat-Griz Dual	Apr 27, 2019
+296	Cast, Nicki	SO-2	Illinois	4:36.85	SIU Bill Cornell Spring Classic	Mar 22, 2019
+297	Schmitz, Sophie	FR-1	Minnesota	4:36.95	Duke Invitational	Apr 19, 2019
+298	Ewe, Natalie	FR-1	UC Irvine	4:36.99	Bob Larsen Distance Carnival	Mar 29, 2019
+299	Peterson, Emily	JR-3	Portland	4:37.03	2019 West Coast Invitational	May 11, 2019
+300	Freyhof, Erika	SO-2	Nebraska	4:37.07	Crimson Tide Invitational	Apr 11, 2019
+301	Gueldner, Cameron	SO-2	Kansas	4:37.11	National Relay Championships	Apr 26, 2019
+302	Griffiths, Nicole	JR-3	Utah	4:37.15	Bryan Clay Invitational	Apr 17, 2019
+302	Thompson, Alicia	SR-4	Northern Colorado	4:37.15@	2019 Tom Benich Invite	Mar 30, 2019
+304	Lemak, Julia	JR-3	UC Davis	4:37.21	Woody Wilson Classic	Apr 13, 2019
+305	Gillman, Stella	SO-2	Portland	4:37.27	Portland Twilight	May 3, 2019
+306	Ryan, Kaitlin	FR-1	Stanford	4:37.32	Stanford Invitational	Mar 29, 2019
+307	Bishop, Kelly	SO-2	UC Santa Barbara	4:37.40	Bryan Clay Invitational	Apr 17, 2019
+308	Roth, Emma	FR-1	Missouri	4:37.45	Mizzou Spring Open	Apr 6, 2019
+309	Meck, Abbey	SO-2	Pepperdine	4:37.50	Jim Bush Legends Invitational	Mar 30, 2019
+310	Molvin, Shannon	JR-3	Northern Arizona	4:37.53	2019 Baldy Castillo Invitational	Mar 15, 2019
+311	Dock, Carissa	SO-2	Minnesota	4:37.56	Drake Relays presented by Hy-Vee	Apr 24, 2019
+312	Gerlach, Briahna	SO-2	Abilene Christian	4:37.57	Bryan Clay Invitational	Apr 17, 2019
+312	Herner, Sommer	FR-1	UMKC	4:37.57	Arkansas Twilight	May 3, 2019
+314	Adelman, Kathryn	SR-4	Bradley	4:37.71	2019 Kip Janvrin Open	Apr 25, 2019
+315	Alcantar, Itzel	FR-1	Incarnate Word	4:37.97	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+316	Mitchem, Katelyn	FR-1	Wyoming	4:37.99	Beach Invitational	Apr 19, 2019
+317	Maurais, Rita	JR-3	Loyola (Ill.)	4:38.02	Raleigh Relays	Mar 29, 2019
+318	Blair, Charlotte	SO-2	Central Arkansas	4:38.04	North Florida Spring Break Invitational	Mar 21, 2019
+319	Born, Molly	FR-1	Oklahoma State	4:38.06	Arkansas Spring Invitational	Mar 22, 2019
+320	Diaz, Misty	FR-1	Cal Poly	4:38.07	Bryan Clay Invitational	Apr 17, 2019
+321	Johnson, Avryl	FR-1	Kansas	4:38.08	Kansas Relays	Apr 17, 2019
+322	Henderson, Alia	FR-1	Incarnate Word	4:38.10	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+322	Maness, Gillian	JR-3	Montana State	4:38.10	Jim Bush Legends Invitational	Mar 30, 2019
+324	Foley, Emily	FR-1	Marquette	4:38.14	BIG EAST Outdoor Track & Field Championships	May 10, 2019
+325	Manes, Cammy	SO-2	San Diego	4:38.20	41st Annual Aztec Open	Mar 21, 2019
+325	Shea, Kaitlyn	JR-3	SE Missouri	4:38.20	Joe Walker Classic	Apr 12, 2019
+327	Cox, Chloe	SO-2	UC Santa Barbara	4:38.24	Bryan Clay Invitational	Apr 17, 2019
+327	Perez, Savanna	JR-3	San Jose St.	4:38.24	Cardinal Classic	Apr 19, 2019
+329	Holmes, Celia	FR-1	Baylor	4:38.25	Michael Johnson Invitational	Apr 19, 2019
+330	Keys, Nikki	JR-3	Texas A&M	4:38.51	Roadrunner Invitational	Mar 21, 2019
+331	Meza, Evelin	SO-2	San Jose St.	4:38.55	2019 Hornet Invitational	Mar 15, 2019
+332	Grogan, Anneke	SR-4	SMU	4:38.57	Texas State Bobcat Invitational	Mar 28, 2019
+333	Liechty, Madison	JR-3	Montana State	4:38.62@	Tom Gage Classic	May 3, 2019
+334	Helmers, Ryann	FR-1	Rice	4:38.65	37th Annual Victor Lopez Classic	Mar 21, 2019
+335	Graves, Claire	SO-2	Boise State	4:38.69	Border Clash 2019	Apr 26, 2019
+336	Kress, Megan	JR-3	Saint Louis	4:38.73	Raleigh Relays	Mar 29, 2019
+337	Finegan, Nora	SO-2	Northern Illinois	4:38.74	Black and Gold Challange	Mar 15, 2019
+338	Cushing-murray, Jessica	SR-4	Hawaii	4:38.78	2019 Hornet Invitational	Mar 15, 2019
+339	Allen, Alyssa	JR-3	Long Beach St.	4:38.83	Beach Invitational	Apr 19, 2019
+340	Anderson, Jenna	JR-3	Colorado St.	4:38.87@	2019 Tom Benich Invite	Mar 30, 2019
+341	Driscoll, Ashley	JR-3	Texas A&M	4:38.97	The Reveille Meet	Apr 6, 2019
+342	Pratt, Michelle	FR-1	Weber State	4:38.98	Mike Fanelli Track Classic	Mar 28, 2019
+343	Wainfan, Amanda	JR-3	UC Davis	4:39.00	Mike Fanelli Track Classic	Mar 28, 2019
+344	Thomsen, Jaycie	FR-1	Minnesota	4:39.03	Lady Bear Twilight	Apr 19, 2019
+345	Hanson, Camilla	JR-3	San Jose St.	4:39.07	Cardinal Classic	Apr 19, 2019
+346	Conner, Lacey	SO-2	Portland	4:39.11	Bryan Clay Invitational	Apr 17, 2019
+346	Meyer, Pauline	SO-2	Arkansas State	4:39.11	Sun Belt Outdoor Track and Field Championships	May 10, 2019
+348	Malaspina, Mikayla	JR-3	Northern Arizona	4:39.20	2019 Baldy Castillo Invitational	Mar 15, 2019
+349	Altmayer, McKenzie	SO-2	Bradley	4:39.24	SIU Bill Cornell Spring Classic	Mar 22, 2019
+350	Wirthlin, Camille	FR-1	Utah State	4:39.28@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+351	Serrao, Sienna	SO-2	UC Santa Barbara	4:39.36	Bryan Clay Invitational	Apr 17, 2019
+352	Olsen, Molly	SO-2	Idaho State	4:39.38	Mike Fanelli Track Classic	Mar 28, 2019
+353	Piercy, Aimee	JR-3	Gonzaga	4:39.43	14th Sam Adams Classic Scoring Invite	Mar 21, 2019
+354	Alvarenga, Katie	SR-4	Cal St. Northridge	4:39.53	Big West Outdoor Track & Field Championships	May 10, 2019
+355	Fix, Caroline	SO-2	Illinois	4:39.56	War Eagle Invitational 2019	Apr 19, 2019
+356	Safranski, Megan	SO-2	Milwaukee	4:39.62	Horizon League Outdoor Track & Field Championships	May 3, 2019
+357	Tatum, Alyssa	FR-1	Northern Colorado	4:39.64@	2019 Tom Benich Invite	Mar 30, 2019
+358	Parvin, Sera	SO-2	San Diego	4:39.68	Bryan Clay Invitational	Apr 17, 2019
+359	Balandran, Alyssa	FR-1	Rice	4:39.71	Conference USA Outdoor Championships	May 9, 2019
+360	Larson, Kendra	SR-4	Montana State	4:39.76	Bob Larsen Distance Carnival	Mar 29, 2019
+360	Yamauchi, Kelsey	SR-4	Utah State	4:39.76@	Aggie Iinvitational	Apr 12, 2019
+362	Freetly, Alaysia	JR-3	North Dakota State	4:39.87	Mike Fanelli Track Classic	Mar 28, 2019
+362	Garbutt, Shanice	FR-1	Illinois	4:39.87	War Eagle Invitational 2019	Apr 19, 2019
+362	Tobias, Valery	FR-1	Texas	4:39.87	Bryan Clay Invitational	Apr 17, 2019
+365	Nabholz, Janie	SO-2	Santa Clara	4:39.91	East Bay Invite	Apr 12, 2019
+366	Moore, Zani	SR-4	San Diego	4:40.14	2019 Triton Invitational	Apr 12, 2019
+367	Doner, Kacey	JR-3	Wyoming	4:40.17	Beach Invitational	Apr 19, 2019
+368	Goff, Aly	JR-3	SIU Edwardsville	4:40.31	SIU Bill Cornell Spring Classic	Mar 22, 2019
+369	Neal, Mary Claire	SO-2	Rice	4:40.35	37th Annual Victor Lopez Classic	Mar 21, 2019
+370	Hyde, Gracie	FR-1	Central Arkansas	4:40.39(1)	2019 Rhodes Invitational Track & Field Meet	Mar 15, 2019
+371	Frentheway, Aubrey	FR-1	BYU	4:40.42	2019 Willie Williams Classic College	Mar 15, 2019
+372	Lopez, Kyra	JR-3	Boise State	4:40.43	Bryan Clay Invitational	Apr 17, 2019
+373	Swanson, Karlie	SO-2	Boise State	4:40.50	Bryan Clay Invitational	Apr 17, 2019
+374	Danforth, Kyla	SR-4	Loyola Marymount	4:40.54	adidas/Steve Scott Invitational	Apr 26, 2019
+374	Hite, Dylan	SR-4	Portland	4:40.54	2019 West Coast Invitational	May 11, 2019
+376	Hanners, Katherine	SO-2	UMKC	4:40.57	2019 Husker Spring Invitational	Apr 5, 2019
+377	Palumbo, Linda	FR-1	Cal Baptist	4:40.62@	WAC Outdoor Track and Field Championships	May 9, 2019
+378	Gonzalez, Rebeca	SO-2	Sam Houston St.	4:40.68	Bryan Clay Invitational	Apr 17, 2019
+378	Romanini, Mikaela	SO-2	Cal Poly	4:40.68	UCSB vs. UC Riverside vs. Cal Poly	Mar 9, 2019
+380	Spinler, Sierra	JR-3	UT-Rio Grande Valley	4:40.69	J Fred Duckett Twilight Meet	Apr 20, 2019
+381	Rodriguez, Marisa	SO-2	UC Santa Barbara	4:40.73	41st Annual Aztec Invitational	Mar 22, 2019
+382	Kavulich, Linnaea	FR-1	Portland State	4:40.74	Mike Fanelli Track Classic	Mar 28, 2019
+382	Smith, Ally	JR-3	Minnesota	4:40.74	Tommie Twilight	May 1, 2019
+384	Hutcherson, Ashton	JR-3	Texas A&M	4:40.83	Texas A&M Alumni Muster	Apr 27, 2019
+385	Ordeman , Elizabeth	FR-1	California	4:40.84	Brutus Hamilton Invitational	Apr 27, 2019
+385	Sondag, Ashley	SR-4	Idaho State	4:40.84@	Montana State Open	Apr 20, 2019
+387	Bradley, Valarie	JR-3	Texas A&M	4:40.86	2019 Baldy Castillo Invitational	Mar 15, 2019
+388	Mandel, Evelyn	SO-2	TCU	4:40.88	2019 TCU Invitational	Mar 16, 2019
+389	Parle, Yukino	FR-1	Boise State	4:40.91	Border Clash 2019	Apr 26, 2019
+390	Larson, Kaytlyn	SR-4	Oklahoma State	4:40.99	Stanford Invitational	Mar 29, 2019
+391	Seligman, Cayla	JR-3	Colorado	4:41.05@	Colorado Invitational 2019	Apr 5, 2019
+392	Exline, Maddi	FR-1	Illinois State	4:41.12	MVC Championship	May 10, 2019
+392	Fasen, Anna	JR-3	South Dakota St.	4:41.12	Summit League T&F Outdoor Championships	May 8, 2019
+394	Burns, Shanna	SR-4	Air Force	4:41.13	Bryan Clay Invitational	Apr 17, 2019
+395	Taylor, Madison	FR-1	Utah State	4:41.14@	Aggie Iinvitational	Apr 12, 2019
+396	Rogers, Olivia	JR-3	Drake	4:41.18	2019 Nebraska Invitational	May 4, 2019
+397	Kautz, Alaina	FR-1	Arizona	4:41.20	41st Annual Aztec Open	Mar 21, 2019
+398	Andrews-Paul, Alison	JR-3	Baylor	4:41.22	The Reveille Meet	Apr 6, 2019
+399	Oliver, Layne	SR-4	Montana State	4:41.23@	Montana State Open	Apr 20, 2019
+400	Sierra, Tina	SO-2	Texas State	4:41.30	Roadrunner Invitational	Mar 21, 2019
+401	Tanne, Haley	FR-1	Southern Utah	4:41.41@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+402	Ong, Jessica	SO-2	San Diego	4:41.46	2019 Oxy Invitational (College/University)	May 11, 2019
+403	Dean, Halley	JR-3	UMKC	4:41.49	Arkansas Twilight	May 3, 2019
+404	Iznerowicz, Karolina	FR-1	Cal Baptist	4:41.56	UC-Riverside Spring Track Classic	Mar 21, 2019
+405	Eades, Erica	JR-3	North Dakota	4:41.58	South Dakota Challenge	Apr 6, 2019
+406	Ehrhardt, Emma	FR-1	Bradley	4:41.62	Illinois Twilight	Apr 13, 2019
+407	Carson, Josie	FR-1	Arkansas	4:41.67	Arkansas Twilight	May 3, 2019
+408	DiPentino, Angela	SO-2	Cal Poly	4:41.68	2019 Cal Poly Shareslo.com Invitational	Mar 22, 2019
+408	Walford, Tabatha	FR-1	Nevada	4:41.68	41st Annual Aztec Invitational	Mar 22, 2019
+410	Hansen, Allison	SR-4	Illinois-Chicago	4:41.69	Horizon League Outdoor Track & Field Championships	May 3, 2019
+411	Keurentjes, Kyra	FR-1	UT-Rio Grande Valley	4:41.76	UIW Invitational	Apr 12, 2019
+412	Wassum, Sadie	SR-4	Utah	4:41.82	Bryan Clay Invitational	Apr 17, 2019
+413	Mate, Anna	FR-1	Cal Baptist	4:41.91	adidas/Steve Scott Invitational	Apr 26, 2019
+414	Ramirez, Katherine	JR-3	Incarnate Word	4:41.97	Texas State Bobcat Invitational	Mar 28, 2019
+415	Dobbs, Hiley	SO-2	Nevada	4:41.98	2019 Hornet Invitational	Mar 15, 2019
+415	Constien, Elizabeth	FR-1	Colorado	4:41.98@	Colorado Invitational 2019	Apr 5, 2019
+417	Shine, Andrea	SR-4	Iowa	4:42.04	2019 Baldy Castillo Invitational	Mar 15, 2019
+418	Yescas, Julia	JR-3	New Mexico St.	4:42.06	Bryan Clay Invitational	Apr 17, 2019
+419	Campos, Nathalia	FR-1	Idaho	4:42.19	8th Annual Whitworth Twilight	Apr 18, 2019
+419	Hansel, Chloe	SO-2	California	4:42.19	Big Meet	Apr 6, 2019
+421	Schell, Mackenzie	SR-4	South Dakota St.	4:42.23	Howard Wood Dakota Relays	May 3, 2019
+422	Geisler, Christina	FR-1	Boise State	4:42.28	Bryan Clay Invitational	Apr 17, 2019
+423	Anderson, Katie	SR-4	Saint Louis	4:42.30	Tom Botts Invitational	Apr 19, 2019
+424	McCutchen, Morgan	JR-3	Texas A&M-CC	4:42.35	J Fred Duckett Twilight Meet	Apr 20, 2019
+425	Arndt, Ariane	JR-3	California	4:42.38	2019 Cal Opener	Mar 2, 2019
+426	Thomas, Hannah	SR-4	Missouri	4:42.40	Tom Botts Invitational	Apr 19, 2019
+427	Katz, Lauren	FR-1	Illinois	4:42.43	Illinois Twilight	Apr 13, 2019
+428	Cole, Mckayla	SO-2	Northern Iowa	4:42.45	2019 Husker Spring Invitational	Apr 5, 2019
+429	Meade, Maddie	SO-2	UC Santa Barbara	4:42.46	Bob Larsen Distance Carnival	Mar 29, 2019
+430	Aldadah, Ayah	FR-1	Bradley	4:42.51	SIU Bill Cornell Spring Classic	Mar 22, 2019
+431	Schiera, Kayla	FR-1	Southern Illinois	4:42.59	Tennessee Relays	Apr 11, 2019
+432	Lesher, Amelia	FR-1	Bradley	4:42.62	SIU Bill Cornell Spring Classic	Mar 22, 2019
+432	Rea, Miranda	SR-4	DePaul	4:42.62	SIU Bill Cornell Spring Classic	Mar 22, 2019
+434	Kearney, Sielle	FR-1	Northwestern	4:42.70	Benedictine Invitational	Apr 6, 2019
+435	King, Sarah	SO-2	Santa Clara	4:42.83	Portland Twilight	May 3, 2019
+435	Roldan, Presley	FR-1	Cal Poly	4:42.83	Bryan Clay Invitational	Apr 17, 2019
+437	Brown, Josie	SR-4	Washington St.	4:42.85	Bryan Clay Invitational	Apr 17, 2019
+438	Koech, Dorcas	FR-1	UT-Rio Grande Valley	4:42.87	South Texas Showdown	Apr 6, 2019
+439	Schmidt, Aubrey	FR-1	North Texas	4:42.91	Conference USA Outdoor Championships	May 9, 2019
+440	Santoro, Abbey	FR-1	Texas A&M	4:43.06	Michael Johnson Invitational	Apr 19, 2019
+441	Gillett, Claire	SO-2	Gonzaga	4:43.09	Mike Fanelli Track Classic	Mar 28, 2019
+442	McCaffrey, Jenna	SO-2	Northern Arizona	4:43.11	40th Sun Angel Track Classic	Apr 5, 2019
+443	Slater, Luna	FR-1	Northern Arizona	4:43.12	40th Sun Angel Track Classic	Apr 5, 2019
+444	Vincent, Lucina	FR-1	Cal St. Fullerton	4:43.14	UC Irvine Spring Break Collegiate Classic	Mar 15, 2019
+445	Neugeboren , Lauren	FR-1	Arizona	4:43.24	41st Annual Aztec Invitational	Mar 22, 2019
+446	Link, Courtney	SR-4	Saint Louis	4:43.29	Joe Walker Classic	Apr 12, 2019
+447	Boyd, Amber	SO-2	UTSA	4:43.33	Conference USA Outdoor Championships	May 9, 2019
+448	McNeil, Nyjari	FR-1	San Diego St.	4:43.35	2019 Triton Invitational	Apr 12, 2019
+449	Maurer, Lauren	SR-4	USC	4:43.38	Mt. SAC Relays	Apr 18, 2019
+449	Nichwitz, Rachel	JR-3	Arkansas	4:43.38	Bryan Clay Invitational	Apr 17, 2019
+449	Ramos, Beth	FR-1	Texas	4:43.38	The Reveille Meet	Apr 6, 2019
+452	Wahlenmaier, Emma	SO-2	UNLV	4:43.39	UC-Riverside Spring Track Classic	Mar 21, 2019
+453	Noone, Emily	FR-1	Marquette	4:43.41	Marquette Invitational	Apr 5, 2019
+454	Waskom, Hannah	SO-2	Washington	4:43.43	4th Annual Doris Heritage Track Festival	Mar 16, 2019
+454	Wallace, Erika	JR-3	Grand Canyon	4:43.43@	WAC Outdoor Track and Field Championships	May 9, 2019
+456	Bolt, Abby	JR-3	St. Mary's (Cal.)	4:43.45	2019 Hornet Invitational	Mar 15, 2019
+456	McGauley, Caitlin	JR-3	Marquette	4:43.45	Wisconsin Alumni Classic	May 3, 2019
+458	Bablak, Hannah	JR-3	Rice	4:43.50	37th Annual Victor Lopez Classic	Mar 21, 2019
+459	Masedo, Giselle	SR-4	Loyola Marymount	4:43.56	UC Irvine Spring Break Collegiate Classic	Mar 15, 2019
+460	Weber, Macie	JR-3	Iowa	4:43.70	Florida Relays	Mar 28, 2019
+461	Keller, Nora	JR-3	Marquette	4:43.72	Marquette Invitational	Apr 5, 2019
+462	Pruter, Anna	JR-3	Arizona State	4:43.74	2019 Baldy Castillo Invitational	Mar 15, 2019
+463	Davis, LaSean	SO-2	Stephen F. Austin	4:43.75	SFA Carl Kight Invitational	Apr 3, 2019
+464	Jacobson, Lindy	SR-4	Grand Canyon	4:43.78	2019 Willie Williams Classic College	Mar 15, 2019
+465	Johnson, Juanita	FR-1	New Mexico	4:43.80	Brutus Hamilton Invitational	Apr 27, 2019
+466	Kleefeld, Carly	JR-3	Oregon	4:43.82	Oregon State High Performance Meet	Apr 26, 2019
+467	Peterson, Cailee	FR-1	South Dakota St.	4:43.84	Phil Esten Challenge @ UW-La Crosse	Apr 18, 2019
+468	Beatty, Kiyena	SO-2	Washington St.	4:43.91	8th Annual Whitworth Twilight	Apr 18, 2019
+469	Jones, Steffi	SO-2	New Mexico	4:43.95	Titan Team Challenge	Mar 30, 2019
+470	Satterlee, Gabrielle	JR-3	Baylor	4:43.96	Baylor Invitational	Mar 23, 2019
+471	Valgardson, Erin	FR-1	North Dakota State	4:44.02	Mike Fanelli Track Classic	Mar 28, 2019
+472	Klein, Molly	SO-2	San Diego	4:44.03	adidas/Steve Scott Invitational	Apr 26, 2019
+473	Mohrmann, Danielle	JR-3	SE Missouri	4:44.10	OVC Championship	May 9, 2019
+474	Vandegrift, Sydney	FR-1	California	4:44.14	2019 Hornet Invitational	Mar 15, 2019
+475	Peoples, Matti	SO-2	UC Santa Barbara	4:44.20	2019 UCSB vs. Cal Poly	Apr 27, 2019
+476	Saitta, Angela	SO-2	Arizona State	4:44.23	2019 ASU Invitational	Mar 22, 2019
+477	Schroeder, Erica	SO-2	Washington	4:44.25	UW vs WSU Dual	Apr 6, 2019
+478	Pesendorfer, Katharina	FR-1	Tulsa	4:44.26	Arkansas Spring Invitational	Mar 22, 2019
+479	Rasmussen, Hannah	SO-2	San Diego	4:44.27	adidas/Steve Scott Invitational	Apr 26, 2019
+480	Kelly, Ann	JR-3	Loyola Marymount	4:44.28	Bryan Clay Invitational	Apr 17, 2019
+481	Wosika, Caitlin	FR-1	Rice	4:44.33	J Fred Duckett Twilight Meet	Apr 20, 2019
+482	Everett, MacKenzie	SR-4	New Mexico	4:44.34	Brutus Hamilton Invitational	Apr 27, 2019
+483	Fairchild, Laura	FR-1	Texas A&M	4:44.44	2019 Baldy Castillo Invitational	Mar 15, 2019
+484	Dexheimer, Kassidy	SO-2	SIU Edwardsville	4:44.45	2019 SIUE Gateway Classic	May 3, 2019
+485	Cordova, McKayla	SO-2	Grand Canyon	4:44.48@	WAC Outdoor Track and Field Championships	May 9, 2019
+486	Kresl, Elana	SO-2	New Mexico St.	4:44.50	Texas State Bobcat Invitational	Mar 28, 2019
+487	Shults, Mikayla	FR-1	Nevada	4:44.53	41st Annual Aztec Invitational	Mar 22, 2019
+488	Lloyd, Meghan	SR-4	Texas	4:44.57	Roadrunner Invitational	Mar 21, 2019
+489	Moravec, Emma	SO-2	Marquette	4:44.59	Marquette Invitational	Apr 5, 2019
+490	Dorantes, Brenda	JR-3	UC Irvine	4:44.61	UC-Riverside Spring Track Classic	Mar 21, 2019
+491	Cabrera, Haley	SO-2	UC Riverside	4:44.71	Bryan Clay Invitational	Apr 17, 2019
+491	Makowski, Emma	JR-3	Bradley	4:44.71	2019 Kip Janvrin Open	Apr 25, 2019
+493	Williams, Alyssa	JR-3	Northern Iowa	4:44.72	2019 Husker Spring Invitational	Apr 5, 2019
+494	Janes, Sabrina	SR-4	UC Santa Barbara	4:44.81	2019 UCSB vs. Cal Poly	Apr 27, 2019
+494	Sargent, Cammy	SR-4	Northern Colorado	4:44.81@	Colorado Invitational 2019	Apr 5, 2019
+496	Corah, Payton	FR-1	TCU	4:44.84	Big 12 Outdoor Track and Field Championships	May 10, 2019
+497	Campos, Valentina	SO-2	Texas A&M-CC	4:44.87	Roadrunner Invitational	Mar 21, 2019
+498	Covington, Brynnan	SO-2	North Dakota State	4:44.88	Cobber Twilight	Apr 23, 2019
+498	Morck, Mia	FR-1	Nebraska	4:44.88	2019 Husker Spring Invitational	Apr 5, 2019
+500	Dobry, Marissa	JR-3	California	4:44.89	2019 Hornet Invitational	Mar 15, 2019

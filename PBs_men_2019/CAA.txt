@@ -1,0 +1,46 @@
+1	McGorty, Ryan	SR-4	William and Mary	3:44.94	George Mason Spring Invitational	Apr 13, 2019
+2	Goodell , Evan	FR-1	William and Mary	3:49.66	2019 Colonial Relays	Apr 4, 2019
+3	Korczynski, Alexander	FR-1	Northeastern	3:52.57(1)	Ocean State Invitational	Apr 12, 2019
+4	Leslie, Cooper	JR-3	William and Mary	3:52.71	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+5	Clay, Eric	SO-2	Northeastern	3:54.76	University of MA Minuteman Invitational	Apr 6, 2019
+6	Lamberth, Chance	JR-3	Northeastern	3:55.17	Raleigh Relays	Mar 29, 2019
+7	Pratt, Micah	FR-1	William and Mary	3:55.96	2019 Dan Stimson Memorial Meet	Mar 23, 2019
+8	Keller, Brian	SO-2	Northeastern	3:56.27	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+9	Jones, Evan	SO-2	UNCW	3:56.31	CAA Outdoor Track and Field Championships	May 3, 2019
+10	Garbier, James	SR-4	Northeastern	3:56.95	CAA Outdoor Track and Field Championships	May 3, 2019
+11	Stafford, Christian	SR-4	Northeastern	3:58.23	University of MA Minuteman Invitational	Apr 6, 2019
+12	Owens, Miles	SO-2	William and Mary	3:59.91	Virginia Grand Prix	Apr 26, 2019
+13	Novak, Luke	JR-3	Northeastern	4:00.01	University of MA Minuteman Invitational	Apr 6, 2019
+14	Donovan, Connor	SR-4	Northeastern	4:01.07	Jay Carisella Coaches Invitational	Apr 20, 2019
+15	Heinicke-Peart, Matthew	SR-4	William and Mary	4:03.62	CAA Outdoor Track and Field Championships	May 3, 2019
+16	Clark, Cole	JR-3	William and Mary	4:04.17	William & Mary Triangular	Mar 16, 2019
+17	Mackey, Jack	FR-1	William and Mary	4:04.40	CAA Outdoor Track and Field Championships	May 3, 2019
+18	Chavez-Gutierrez, Raul	JR-3	William and Mary	4:04.56	William & Mary Triangular	Mar 16, 2019
+19	Jarnagin, Zachary	FR-1	Northeastern	4:05.23	University of MA Minuteman Invitational	Apr 6, 2019
+20	Fish, Tyler	SO-2	Col. of Charleston	4:05.37	Duke Invitational	Apr 19, 2019
+21	Hines, Declan	SO-2	Col. of Charleston	4:07.09	Gamecock Invitational Outdoor	Apr 13, 2019
+22	Cacciatore , Johnny	SO-2	William and Mary	4:07.16	William & Mary Triangular	Mar 16, 2019
+23	Duggan, Michael	SR-4	Northeastern	4:08.89	University of MA Minuteman Invitational	Apr 6, 2019
+24	Weingart, Benjamin	JR-3	Northeastern	4:08.94	University of MA Minuteman Invitational	Apr 6, 2019
+25	Daughtry, Calvin	SR-4	UNCW	4:11.03	UNCW Invitational	Mar 15, 2019
+26	Kuchan , Tyler	SO-2	William and Mary	4:11.86	Virginia Grand Prix	Apr 26, 2019
+27	Flanagan, Steven	SO-2	Northeastern	4:12.70	University of MA Minuteman Invitational	Apr 6, 2019
+28	Venancio, Carter	SO-2	UNCW	4:14.73	Duke Invitational	Apr 19, 2019
+29	Fiumefreddo, Steven	FR-1	Hofstra	4:15.01	Stony Brook University Snow Flake Spring Opener	Mar 23, 2019
+29	Lynch, Patrick	FR-1	William and Mary	4:15.01	CAA Outdoor Track and Field Championships	May 3, 2019
+31	Markovina, Paul	FR-1	Hofstra	4:15.25	Stony Brook University Snow Flake Spring Opener	Mar 23, 2019
+32	Ibironke, Tosin	FR-1	Hofstra	4:16.83	Rider Invitational 2019	Apr 13, 2019
+33	Peirce, Evan	JR-3	Col. of Charleston	4:16.95	Gamecock Invitational Outdoor	Apr 13, 2019
+34	Beattie, Sam	JR-3	Col. of Charleston	4:23.27	Duke Invitational	Apr 19, 2019
+35	Moosbrugger, Ryan	FR-1	Col. of Charleston	4:23.30	Phoenix Invitational 2019	Apr 6, 2019
+36	Wedge, Jackson	FR-1	Col. of Charleston	4:24.07	USC Open Outdoor	Apr 20, 2019
+37	Tausch, Luca	FR-1	Hofstra	4:32.93	2019 Yale Springtime Invitational	Apr 28, 2019
+38	Perez, Dante	JR-3	Hofstra	4:38.29	2019 Yale Springtime Invitational	Apr 28, 2019
+39	Meltzer, Marc	FR-1	Hofstra	4:39.92	Rider Invitational 2019	Apr 13, 2019
+40	Perez, Dante	JR-3	Hofstra	4:40.26	Rider Invitational 2019	Apr 13, 2019
+41	Rynkowski, Konrad	FR-1	Hofstra	5:00.93	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+42	Rodgers, Nathan	SR-4	UNCW	5:07.42	2019 Adidas Winthrop University Invitational	Mar 21, 2019
+43	Robakiewicz, Kurt	SR-4	Northeastern	5:10.22	SCSU Northeast Combined Events Challenge	Apr 11, 2019
+44	Kilpatrick, Hayden	SR-4	Northeastern	5:10.23	SCSU Northeast Combined Events Challenge	Apr 11, 2019
+45	Lloyd, Jonathan	FR-1	UNCW	5:22.06	CAA Outdoor Track and Field Championships	May 3, 2019
+46	Puglia, Mark	SR-4	Northeastern	5:34.97	CAA Outdoor Track and Field Championships	May 3, 2019

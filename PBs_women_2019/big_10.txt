@@ -1,0 +1,140 @@
+1	McClintock, Dillon	JR-3	Michigan State	4:12.46	NCAA Division I Outdoor Track & Field Championships	Jun 5, 2019
+2	Rizk, Julia	SR-4	Ohio State	4:13.70	NCAA Division I Outdoor Track & Field Championships	Jun 5, 2019
+3	Rivers, Danae	JR-3	Penn State	4:15.17	Virginia Challenge	Apr 19, 2019
+4	Fuller, Annie	JR-3	Michigan State	4:17.18	Virginia Challenge	Apr 19, 2019
+5	Harris, Kelsey	JR-3	Indiana	4:18.23	Florida Relays	Mar 28, 2019
+6	Lucki, Alexandra	SR-4	Maryland	4:18.62	Florida Relays	Mar 28, 2019
+7	Hasz, Bethany	SO-2	Minnesota	4:20.12	Big Ten Championships	May 10, 2019
+8	DeGenero, Micaela	SO-2	Michigan	4:20.30	Big Ten Championships	May 10, 2019
+9	Darmofal, Meg	JR-3	Michigan	4:20.49	Stanford Invitational	Mar 29, 2019
+10	Harris, Haley	SR-4	Indiana	4:20.74	Big Ten Championships	May 10, 2019
+11	Meier, Hannah	SR-4	Michigan	4:21.14	Stanford Invitational	Mar 29, 2019
+12	Arteaga, Carlyn	JR-3	Michigan State	4:21.22	Raleigh Relays	Mar 29, 2019
+13	Nichols, Abby	SO-2	Ohio State	4:21.76	Jesse Owens Classic - The Ohio State University	Apr 26, 2019
+14	Hamilton, Claire	FR-1	Indiana	4:22.24	Big Ten Championships	May 10, 2019
+15	Receveur, Katherine	SR-4	Indiana	4:22.26	Tennessee Relays	Apr 11, 2019
+16	Kavulich, Kayla	SR-4	Michigan State	4:22.49	Big Ten Championships	May 10, 2019
+17	Forsberg, Elsa	JR-3	Nebraska	4:23.29	Big Ten Championships	May 10, 2019
+18	O'Shea, Moira	SO-2	Penn State	4:23.34	Bison Outdoor Classic	Apr 13, 2019
+19	Stoffel, Hannah	SO-2	Indiana	4:23.64	Big Ten Championships	May 10, 2019
+20	McDonald, Erin	SR-4	Michigan State	4:24.19	Louisville Invitational	Apr 12, 2019
+21	Hill, Alice	SO-2	Michigan	4:24.56	Louisville Invitational	Apr 12, 2019
+22	Davis, Amy	JR-3	Wisconsin	4:24.63	Wisconsin Alumni Classic	May 3, 2019
+23	Smith, Karrigan	JR-3	Michigan State	4:24.91	Louisville Invitational	Apr 12, 2019
+24	Korzenowski, Anastasia	FR-1	Minnesota	4:24.99	Big Ten Championships	May 10, 2019
+25	Davre, Camille	FR-1	Michigan	4:25.35	Big Ten Championships	May 10, 2019
+26	Laurie, Christine	SO-2	Maryland	4:25.56	Bison Outdoor Classic	Apr 13, 2019
+27	Lucki, Mikaela	SO-2	Illinois	4:26.56	Stanford Invitational	Mar 29, 2019
+28	Allen, Margaret	SR-4	Indiana	4:26.83	Tennessee Relays	Apr 11, 2019
+29	Mooney, Madison	FR-1	Wisconsin	4:26.96	Bryan Clay Invitational	Apr 17, 2019
+30	Kohut-Jackson, Abby	SO-2	Minnesota	4:27.06	Big Ten Championships	May 10, 2019
+31	Niggemann, Alissa	SO-2	Wisconsin	4:27.45	Wisconsin Alumni Classic	May 3, 2019
+32	Hubbard, Susan	SR-4	Purdue	4:27.50	Drake Relays presented by Hy-Vee	Apr 24, 2019
+33	Schott, Megan	JR-3	Iowa	4:28.00	Drake Relays presented by Hy-Vee	Apr 24, 2019
+34	Poe, Jeralyn	JR-3	Michigan State	4:28.01	Louisville Invitational	Apr 12, 2019
+35	Metwalli, Jena	SO-2	Michigan	4:28.27	Big Ten Championships	May 10, 2019
+36	Hummel, Olivia	SO-2	Minnesota	4:28.47	Drake Relays presented by Hy-Vee	Apr 24, 2019
+37	Crouch, Lucinda	FR-1	Wisconsin	4:28.52	Wisconsin Alumni Classic	May 3, 2019
+38	Walther, Grace	SO-2	Indiana	4:28.57	Big Ten Championships	May 10, 2019
+39	Clody, Courtney	SR-4	Ohio State	4:29.14	Florida Relays	Mar 28, 2019
+40	Magness, Jenna	FR-1	Michigan State	4:29.62	Louisville Invitational	Apr 12, 2019
+41	Milburn, Emma	FR-1	Illinois	4:29.70	Big Ten Championships	May 10, 2019
+41	Sorensen, Shaelyn	SR-4	Wisconsin	4:29.70	Wisconsin Alumni Classic	May 3, 2019
+43	Hertenstein, Bailey	FR-1	Indiana	4:29.71	2019 ASU Invitational	Mar 22, 2019
+44	Rynda, Aurora	FR-1	Michigan	4:29.91	Stanford Invitational	Mar 29, 2019
+45	Munks, Kathryn	JR-3	Penn State	4:30.06	Bison Outdoor Classic	Apr 13, 2019
+46	Pinkston, Joely	SO-2	Indiana	4:30.54	Tennessee Relays	Apr 11, 2019
+47	Greenlund, Lindsey	SO-2	Minnesota	4:31.06	Drake Relays presented by Hy-Vee	Apr 24, 2019
+48	Jones, Judi	JR-3	Nebraska	4:31.22@	Corky/Crofoot Shootout	Apr 26, 2019
+49	O'Brien, Patty	SR-4	Minnesota	4:31.35	Drake Relays presented by Hy-Vee	Apr 24, 2019
+50	Wiitala, Kayla	SO-2	Michigan State	4:31.52	Louisville Invitational	Apr 12, 2019
+51	Prescott, Elyse	SO-2	Minnesota	4:31.63	Drake Relays presented by Hy-Vee	Apr 24, 2019
+52	Worrel, Megan	FR-1	Michigan	4:31.73	Louisville Invitational	Apr 12, 2019
+53	Munley, Lexi	FR-1	Michigan	4:31.85	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+54	Soenhlen, Kalee	FR-1	Ohio State	4:31.90	Virginia Challenge	Apr 19, 2019
+55	Trucilla, Grace	SR-4	Penn State	4:31.97	Bison Outdoor Classic	Apr 13, 2019
+56	Belf, Audrey	JR-3	Michigan	4:32.22	Louisville Invitational	Apr 12, 2019
+57	Forsyth, Anne	FR-1	Michigan	4:32.30	Louisville Invitational	Apr 12, 2019
+58	McCabe , Grace	FR-1	Iowa	4:32.68	Big Ten Championships	May 10, 2019
+59	Hostetler, Anna	FR-1	Iowa	4:32.86	Bryan Clay Invitational	Apr 17, 2019
+60	Kanney, Sarah	SR-4	Ohio State	4:33.16	Jesse Owens Classic - The Ohio State University	Apr 26, 2019
+61	Vanitvelt, Julia	FR-1	Michigan	4:33.73	Louisville Invitational	Apr 12, 2019
+62	Ayoub, Aziza	SO-2	Ohio State	4:34.09	Jesse Owens Classic - The Ohio State University	Apr 26, 2019
+63	Reynolds, Faith	JR-3	Michigan	4:34.14	Louisville Invitational	Apr 12, 2019
+64	Rudden, Lindsey	SO-2	Michigan State	4:34.19	Virginia Challenge	Apr 19, 2019
+65	Paternain, Julia	FR-1	Penn State	4:34.45	2019 ASU Invitational	Mar 22, 2019
+66	McGrath, Allison	SO-2	Illinois	4:34.54	War Eagle Invitational 2019	Apr 19, 2019
+67	Studebaker, Lainey	JR-3	Ohio State	4:34.78	Virginia Challenge	Apr 19, 2019
+68	Korte, Josey	FR-1	Indiana	4:34.87	Florida Relays	Mar 28, 2019
+69	Yuska, Rachel	SR-4	Purdue	4:35.00	Drake Relays presented by Hy-Vee	Apr 24, 2019
+70	Blake, Bridget	SR-4	Michigan State	4:35.12	Big Ten Championships	May 10, 2019
+71	Badger, Sydney	SR-4	Michigan	4:35.55	Louisville Invitational	Apr 12, 2019
+72	Eastman, Maria	SO-2	Minnesota	4:35.60	Lady Bear Twilight	Apr 19, 2019
+73	Biggs, Lauren	FR-1	Michigan	4:35.68	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+74	Jenkins, Lauren	SR-4	Michigan State	4:35.94	Louisville Invitational	Apr 12, 2019
+75	Rogers, Grace	JR-3	Illinois	4:36.34	War Eagle Invitational 2019	Apr 19, 2019
+76	Lang, Brittany	JR-3	Maryland	4:36.56	Kehoe Twilight Meet	May 3, 2019
+77	Cast, Nicki	SO-2	Illinois	4:36.85	SIU Bill Cornell Spring Classic	Mar 22, 2019
+78	Schmitz, Sophie	FR-1	Minnesota	4:36.95	Duke Invitational	Apr 19, 2019
+79	Freyhof, Erika	SO-2	Nebraska	4:37.07	Crimson Tide Invitational	Apr 11, 2019
+80	Coleman, Rachel	SR-4	Michigan	4:37.20	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+81	Dock, Carissa	SO-2	Minnesota	4:37.56	Drake Relays presented by Hy-Vee	Apr 24, 2019
+82	Guerra, Julia	SO-2	Penn State	4:37.62	2019 ASU Invitational	Mar 22, 2019
+83	Barrott, Lexa	SO-2	Indiana	4:38.14	Kentucky Track & Field Invitational	Apr 20, 2019
+84	Demko, Andrea	FR-1	Penn State	4:38.41	Team Challenge	Apr 20, 2019
+85	Ball, Kyra	JR-3	Purdue	4:38.79	UTSA Invitational	Mar 15, 2019
+86	Thomsen, Jaycie	FR-1	Minnesota	4:39.03	Lady Bear Twilight	Apr 19, 2019
+87	Slamkowski, Megan	SO-2	Purdue	4:39.49	UTSA Invitational	Mar 15, 2019
+88	Fix, Caroline	SO-2	Illinois	4:39.56	War Eagle Invitational 2019	Apr 19, 2019
+89	Garbutt, Shanice	FR-1	Illinois	4:39.87	War Eagle Invitational 2019	Apr 19, 2019
+90	Sparreo, Isabelle	FR-1	Purdue	4:40.19	SIU Bill Cornell Spring Classic	Mar 22, 2019
+91	Kass, Yasmine	FR-1	Maryland	4:40.64	Virginia v. Maryland, Pitt, West Virginia	Apr 6, 2019
+92	Smith, Ally	JR-3	Minnesota	4:40.74	Tommie Twilight	May 1, 2019
+93	Sobieski, Jenna	SR-4	Rutgers	4:41.32	USF Bulls Invitational	Mar 22, 2019
+94	Nealon, Kiera	SO-2	Rutgers	4:41.93	Florida Relays	Mar 28, 2019
+95	Saniel-Banrey, Lilly	SR-4	Ohio State	4:41.96	Virginia Challenge	Apr 19, 2019
+96	Shine, Andrea	SR-4	Iowa	4:42.04	2019 Baldy Castillo Invitational	Mar 15, 2019
+97	Katz, Lauren	FR-1	Illinois	4:42.43	Illinois Twilight	Apr 13, 2019
+98	Gearhart, Kathryn	JR-3	Maryland	4:43.02	Kehoe Twilight Meet	May 3, 2019
+99	Weber, Macie	JR-3	Iowa	4:43.70	Florida Relays	Mar 28, 2019
+100	Morck, Mia	FR-1	Nebraska	4:44.88	2019 Husker Spring Invitational	Apr 5, 2019
+101	Morgan, Mackenzie	FR-1	Maryland	4:45.19	Maryland Invitational	Mar 16, 2019
+101	Ubbing, Annie	JR-3	Ohio State	4:45.19	Jesse Owens Classic - The Ohio State University	Apr 26, 2019
+103	Hanson, Nicole	SO-2	Michigan State	4:45.42	Spartan Invitational	Apr 5, 2019
+104	Bragen, Kaitlyn	SO-2	Rutgers	4:45.43	Sam Howell Invitational	Apr 6, 2019
+105	Neustedter, Leah	FR-1	Purdue	4:46.06	SIU Bill Cornell Spring Classic	Mar 22, 2019
+106	Stapleton, Katie	SO-2	Illinois	4:46.33	SIU Bill Cornell Spring Classic	Mar 22, 2019
+107	Woltjen, Alexa	FR-1	Maryland	4:46.76	Virginia v. Maryland, Pitt, West Virginia	Apr 6, 2019
+108	Jansohn, Carola	SO-2	Michigan	4:46.84	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+109	Broschard, Gabrielle	SR-4	Purdue	4:47.21	Louisville Invitational	Apr 12, 2019
+110	Bergman, Emma	SO-2	Rutgers	4:47.27	2019 Larry Ellis Invitational	Apr 20, 2019
+111	Klecker, Bit	FR-1	Minnesota	4:47.41	Minnesota Women's Twilight	Apr 24, 2019
+112	Bertscha, Erin	FR-1	Rutgers	4:47.80	USF Bulls Invitational	Mar 22, 2019
+113	Werking, Sarah	SO-2	Minnesota	4:48.68	Minnesota Women's Twilight	Apr 24, 2019
+114	Kargol, Abby	JR-3	Minnesota	4:49.08	Minnesota Women's Twilight	Apr 24, 2019
+115	Gordon, Emma	FR-1	Iowa	4:50.86	Musco Twilight	Apr 13, 2019
+116	McNamara, Mary Kate	JR-3	Michigan	4:51.19	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+117	Novak, Paige	JR-3	Maryland	4:51.34	Virginia v. Maryland, Pitt, West Virginia	Apr 6, 2019
+118	Mossholder, Casey	JR-3	Michigan State	4:51.82	Spartan Invitational	Apr 5, 2019
+119	Mialhe, Lou	SO-2	Rutgers	4:51.83	Sam Howell Invitational	Apr 6, 2019
+120	Bresser, Emma	SO-2	Nebraska	4:52.16	2019 Husker Spring Invitational	Apr 5, 2019
+121	Callahan, Kelli	SO-2	Illinois	4:52.81	SIU Bill Cornell Spring Classic	Mar 22, 2019
+122	McAllister, Emily	SO-2	Maryland	4:53.61	Hopkins Loyola Invitational	Apr 12, 2019
+123	Abramson, Mary	SR-4	Purdue	4:54.44	SIU Bill Cornell Spring Classic	Mar 22, 2019
+124	Tiamfook, Jasmine	FR-1	Maryland	4:55.27	Hopkins Loyola Invitational	Apr 12, 2019
+125	McKee, Jessica	SO-2	Iowa	4:55.64	2019 Baldy Castillo Invitational	Mar 15, 2019
+126	Mann, Courtney	SO-2	Maryland	4:56.55	Hopkins Loyola Invitational	Apr 12, 2019
+127	Girardot, Patricia	SO-2	Michigan State	4:57.45	Spartan Invitational	Apr 5, 2019
+128	Bryja, Ashley	SO-2	Iowa	4:57.80	Florida Relays	Mar 28, 2019
+129	Bales, Rachel	JR-3	Purdue	4:58.27	Illinois Twilight	Apr 13, 2019
+130	Olsen, Mikayla	FR-1	Illinois	4:59.92	2019 Kip Janvrin Open	Apr 25, 2019
+131	Go, Gabrielle	SR-4	Maryland	5:00.47	Hopkins Loyola Invitational	Apr 12, 2019
+132	Vanis, Stephanie	SO-2	Michigan State	5:01.67	Spartan Invitational	Apr 5, 2019
+133	Deichert, Marisa	JR-3	Penn State	5:04.39	Jim Thorpe	May 3, 2019
+134	George, Amanda	JR-3	Michigan State	5:06.41	Spartan Invitational	Apr 5, 2019
+135	Herrman, Rachel	FR-1	Rutgers	5:07.41	Sam Howell Invitational	Apr 6, 2019
+136	Campbell, Brittney	FR-1	Purdue	5:07.78	UTSA Invitational	Mar 15, 2019
+137	Keller, Kiernan	SR-4	Maryland	5:08.57	2019 Navy Spring Meet	Mar 30, 2019
+138	Teggatz, Patty	FR-1	Iowa	5:10.74	Musco Twilight	Apr 13, 2019
+139	Reicin, Julia	SO-2	Maryland	5:12.84	Maryland Invitational	Mar 16, 2019
+140	Farbanish, Kelsey	SO-2	Rutgers	5:13.57	Sam Howell Invitational	Apr 6, 2019

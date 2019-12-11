@@ -1,0 +1,51 @@
+1	Schwind, Jonathan	SO-2	Lipscomb	3:46.10	Tiger Track Classic 2019	Apr 5, 2019
+2	Perkins, Noah	JR-3	North Florida	3:47.40	Georgia Tech Invitational	Apr 19, 2019
+3	Vazquez, Jared	FR-1	North Florida	3:47.80	UF Tom Jones Memorial	Apr 26, 2019
+4	Doyle, Timothy	FR-1	North Florida	3:48.04	Georgia Tech Invitational	Apr 19, 2019
+5	Israel, Zach	JR-3	Lipscomb	3:51.00	Tiger Track Classic 2019	Apr 5, 2019
+6	Queyrou, Leo	SO-2	North Florida	3:51.10	UF Tom Jones Memorial	Apr 26, 2019
+7	Kennedy , Chase	SO-2	Kennesaw State	3:53.24	Al Schmidt Bulldog Relays Invite	Mar 22, 2019
+8	Doan, Nick	JR-3	Liberty	3:54.43	Gamecock Invitational Outdoor	Apr 13, 2019
+9	Sultanov, Sem	JR-3	North Florida	3:54.69	North Florida Spring Break Invitational	Mar 21, 2019
+10	Kandie, Felix	SO-2	Liberty	3:54.87	Gamecock Invitational Outdoor	Apr 13, 2019
+11	Jubran, Nathan	FR-1	North Florida	3:54.95	North Florida Spring Break Invitational	Mar 21, 2019
+12	Conder, Christian	SO-2	North Florida	3:55.14	UNF Invitational	Apr 5, 2019
+13	Kirwa, Azaria	SR-4	Liberty	3:55.26	CSU Spring Break Invitational	Mar 16, 2019
+14	Speer, Ryan	SR-4	Lipscomb	3:55.49	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+15	Spitzer, Joe	FR-1	Liberty	3:55.87	Raleigh Relays	Mar 29, 2019
+16	Stivers, Andrew	JR-3	North Florida	3:58.77	UF Tom Jones Memorial	Apr 26, 2019
+17	Johnson, Kyle	SR-4	Lipscomb	3:59.33	Berry Field Day Invitational	Apr 12, 2019
+18	Klemmeck, Benjamin	JR-3	Liberty	4:01.23	CSU Spring Break Invitational	Mar 16, 2019
+19	Beiler, Brody	JR-3	Lipscomb	4:02.03	2019 Billy Hayes Invitational	May 3, 2019
+20	Muse, Austin	FR-1	Kennesaw State	4:03.88	Don McGarey Invitational Track and Field Invitational	Apr 26, 2019
+21	Williams , Mekhi	FR-1	Kennesaw State	4:03.96	Al Schmidt Bulldog Relays Invite	Mar 22, 2019
+22	Snyder, Sean	FR-1	North Florida	4:04.47	UF Tom Jones Memorial	Apr 26, 2019
+23	Squires, Paul	SO-2	Liberty	4:04.68	2019 Twilight Qualifier	May 1, 2019
+24	Timm, Fynn	SR-4	North Florida	4:04.76	North Florida Spring Break Invitational	Mar 21, 2019
+25	Williams, Koi	FR-1	Kennesaw State	4:05.03	Yellow Jacket Invitational	Mar 15, 2019
+26	Zentmeyer, James	JR-3	Liberty	4:05.28	2019 Twilight Qualifier	May 1, 2019
+27	Rodriguez, Adan	FR-1	Lipscomb	4:05.92	Tiger Track Classic 2019	Apr 5, 2019
+28	Hinkle, Josh	FR-1	Lipscomb	4:06.09	Tiger Track Classic 2019	Apr 5, 2019
+29	Budhu, Ryan	JR-3	New Jersey Institute	4:07.25	24th Annual Monmouth Season Opener	Mar 29, 2019
+30	Bobo, John	SO-2	North Florida	4:07.27	UF Tom Jones Memorial	Apr 26, 2019
+31	Essel, David	FR-1	New Jersey Institute	4:09.35	Peacocks and Brick City Classic 19	Apr 28, 2019
+32	McGlew, Brian	SO-2	New Jersey Institute	4:09.82	Peacocks and Brick City Classic 19	Apr 28, 2019
+33	Camby, Gavin	SO-2	New Jersey Institute	4:11.31	ASUN Outdoor Track & Field Championships	May 10, 2019
+34	Underwood, Benjamin	FR-1	Lipscomb	4:13.67	Tiger Track Classic 2019	Apr 5, 2019
+35	Lisoreng, Augostine	SO-2	Liberty	4:14.19	CSU Spring Break Invitational	Mar 16, 2019
+36	Shenoda, Andrew	FR-1	New Jersey Institute	4:15.05	Peacocks and Brick City Classic 19	Apr 28, 2019
+37	Underwood, Jacob	FR-1	Liberty	4:15.68	CSU Spring Break Invitational	Mar 16, 2019
+38	Cashin, Matthew	SO-2	North Florida	4:17.76	UF Tom Jones Memorial	Apr 26, 2019
+39	Russell, Michael	SR-4	New Jersey Institute	4:17.83	North Florida Spring Break Invitational	Mar 21, 2019
+40	Spies, Robert	SO-2	New Jersey Institute	4:19.16	Peacocks and Brick City Classic 19	Apr 28, 2019
+41	Ramirez, Nicholas	SR-4	New Jersey Institute	4:24.61	24th Annual Monmouth Season Opener	Mar 29, 2019
+42	Vazquez, Steve	FR-1	New Jersey Institute	4:25.99	24th Annual Monmouth Season Opener	Mar 29, 2019
+43	Farrell, Weston	FR-1	New Jersey Institute	4:32.39	13th Annual All American Meet	Apr 20, 2019
+44	Skerrett, Carlos	SR-4	New Jersey Institute	4:33.48	North Florida Spring Break Invitational	Mar 21, 2019
+45	Newkirk, Justin	SR-4	New Jersey Institute	4:47.48	13th Annual All American Meet	Apr 20, 2019
+46	Rider, Caleb	JR-3	Liberty	4:48.38	ASUN Outdoor Track & Field Championships	May 10, 2019
+47	Penrod, Connor	SO-2	New Jersey Institute	4:49.25	ASUN Outdoor Track & Field Championships	May 10, 2019
+48	Singh, Pritinder	SR-4	New Jersey Institute	4:56.78	The Penn Relays Combined Events	Apr 23, 2019
+49	Williams, Paris	JR-3	Kennesaw State	4:58.81	2019 92nd Clyde Littlefield Texas Relays	Mar 27, 2019
+50	Davis, Jeremy	SO-2	Liberty	5:06.17	ASUN Outdoor Track & Field Championships	May 10, 2019
+51	Myrick, Kysheen	SO-2	Liberty	5:48.22	Virginia Challenge	Apr 19, 2019

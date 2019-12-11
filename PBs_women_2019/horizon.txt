@@ -1,0 +1,64 @@
+1	Wright, Allie	SR-4	IUPUI	4:33.92	Beach Invitational	Apr 19, 2019
+2	Flairty, Jennah	SR-4	Northern Kentucky	4:34.53	Ball State Challenge	Apr 12, 2019
+3	Squatrito, Nicole	SO-2	Youngstown St.	4:36.68	Bison Outdoor Classic	Apr 13, 2019
+4	Levy, Rachel	JR-3	Oakland	4:38.39	Horizon League Outdoor Track & Field Championships	May 3, 2019
+5	Angelopoulos, Victoria	JR-3	Wright State	4:39.15	HPU VertKlasse Meeting	Mar 21, 2019
+6	Leigh, Madison	FR-1	Oakland	4:39.32	Raleigh Relays	Mar 29, 2019
+7	Czarnecki, Heather	SO-2	Oakland	4:39.59	2019 Golden Grizzlies Invite	Apr 12, 2019
+8	Safranski, Megan	SO-2	Milwaukee	4:39.62	Horizon League Outdoor Track & Field Championships	May 3, 2019
+9	Hansen, Allison	SR-4	Illinois-Chicago	4:41.69	Horizon League Outdoor Track & Field Championships	May 3, 2019
+10	Shuman, Lauren	SO-2	Wright State	4:41.71	Oliver Nikoloff Invitational	Apr 6, 2019
+11	Cruz, Amairany	SR-4	IUPUI	4:41.96	Oliver Nikoloff Invitational	Apr 6, 2019
+12	Nichols, Megan	SO-2	Oakland	4:42.25	Horizon League Outdoor Track & Field Championships	May 3, 2019
+13	Fleming, Natalie	SO-2	Youngstown St.	4:43.62	Bison Outdoor Classic	Apr 13, 2019
+14	Nolan, Shelby	JR-3	Wright State	4:43.96	Ball State Challenge	Apr 12, 2019
+15	Hohn, Nicole	SR-4	Milwaukee	4:45.37	Horizon League Outdoor Track & Field Championships	May 3, 2019
+16	Muhlenkamp, Jennifer	SR-4	Youngstown St.	4:47.30	Akron - Northeast Ohio Quad	Apr 5, 2019
+17	Tobler, Hannah	SR-4	Northern Kentucky	4:47.74	Ball State Challenge	Apr 12, 2019
+18	Turner, Aurora	SR-4	Wright State	4:47.77	Stan Lyons 2019	Mar 16, 2019
+19	Wood, Maddie	SO-2	Milwaukee	4:48.41	Illinois Twilight	Apr 13, 2019
+20	Dolak, Lauren	FR-1	Youngstown St.	4:48.59	Bison Outdoor Classic	Apr 13, 2019
+21	Black, Elyse	JR-3	Northern Kentucky	4:48.74	Ball State Challenge	Apr 12, 2019
+22	Brandt, Anna	SO-2	Cleveland St.	4:49.87	Charlotte 49er Classic	Mar 14, 2019
+23	DeDolph, Sarah	JR-3	Detroit Mercy	4:50.93	Bison Outdoor Classic	Apr 13, 2019
+24	Franson, Alayna	FR-1	Milwaukee	4:51.35	Illinois Twilight	Apr 13, 2019
+25	Backherms, Jessica	JR-3	IUPUI	4:52.59	Horizon League Outdoor Track & Field Championships	May 3, 2019
+26	Schneider, Maggie	SO-2	Oakland	4:52.79	53rd Annual Hillsdale "GINA" Relays	Apr 25, 2019
+27	Isom, Kayla	SO-2	Illinois-Chicago	4:53.69	Lewis Twilight	Apr 23, 2019
+28	Mejia, Teresa	FR-1	Illinois-Chicago	4:54.21	Illinois Twilight	Apr 13, 2019
+29	Markulin, Raquel	SO-2	Youngstown St.	4:54.58	Westminster Invitational 2019	Apr 12, 2019
+30	Kearns, Molly	JR-3	Wright State	4:56.12	Ball State Challenge	Apr 12, 2019
+31	Jaramillo, Natalie	JR-3	Illinois-Chicago	4:58.44	Lewis Twilight	Apr 23, 2019
+32	Van Thiel, Becky	SR-4	Milwaukee	4:58.84	Marquette Mid-Week Challenge	Apr 24, 2019
+33	McArdle , Heather	FR-1	Cleveland St.	4:59.85	Ball State Challenge	Apr 12, 2019
+34	Baker, Tessa	JR-3	Wright State	5:01.90	Horizon League Outdoor Track & Field Championships	May 3, 2019
+35	Frey, Maddie	FR-1	Northern Kentucky	5:02.07	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+36	Schwartz, Alex	SO-2	IUPUI	5:03.08	Yellow Jacket Invitational	Mar 15, 2019
+37	Riley, Graicen	FR-1	Cleveland St.	5:04.31	2019 Fred Hardy Invitational	Mar 29, 2019
+38	Halsey, Abigail	SO-2	Wright State	5:04.86	Cedarville University Yellow Jacket Collegiate Outdoor Open	Mar 30, 2019
+39	Grindling, Nicole	FR-1	Oakland	5:05.04	2019 Golden Grizzlies Invite	Apr 12, 2019
+40	Sass, Emily	SO-2	Milwaukee	5:05.57	Marquette Mid-Week Challenge	Apr 24, 2019
+41	Zajakowski, Mya	SO-2	IUPUI	5:05.72	Pacesetter Sports Invitational	Apr 19, 2019
+42	Rice, Olivia	FR-1	Oakland	5:07.37	GVSU Al Owens Classic	Apr 19, 2019
+43	Ward, Tiffany	JR-3	Wright State	5:07.85	Otterbein Twilight Invitational	Apr 19, 2019
+44	Brady, Savannah	FR-1	Northern Kentucky	5:08.34	Blizzard Buster	Mar 23, 2019
+45	Vican, Ashley	FR-1	Oakland	5:08.67	2019 Oakland vs Detroit	Apr 6, 2019
+46	Larock, Maddie	SR-4	Illinois-Chicago	5:08.92	Illinois Twilight	Apr 13, 2019
+47	Kisting, Erika	FR-1	Milwaukee	5:09.54	Marquette Mid-Week Challenge	Apr 24, 2019
+48	Michael, Lily	FR-1	Cleveland St.	5:11.02	2019 Fred Hardy Invitational	Mar 29, 2019
+49	Schroeder, Mahal	SO-2	Illinois-Chicago	5:11.58	Illinois Twilight	Apr 13, 2019
+50	Douglas, Taylor	JR-3	Milwaukee	5:12.50	Marquette Mid-Week Challenge	Apr 24, 2019
+51	Holmes, Grace	FR-1	Cleveland St.	5:13.55	CWRU Invitational	Apr 20, 2019
+52	Kaisho, Ai	JR-3	Illinois-Chicago	5:15.37	Big Blue Classic at EIU	Mar 29, 2019
+53	Mangette, Sydnee	FR-1	Northern Kentucky	5:15.75	Ball State Challenge	Apr 12, 2019
+54	Rojeck, Abbey	SO-2	Cleveland St.	5:18.38	CWRU Invitational	Apr 20, 2019
+55	Papadelis, Marisa	SO-2	Oakland	5:18.74	2019 Oakland vs Detroit	Apr 6, 2019
+56	Waz, Sylvia	FR-1	Illinois-Chicago	5:19.37	Lewis Twilight	Apr 23, 2019
+57	Zajac, Megan	JR-3	IUPUI	5:23.10	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+58	Shields, Maggie	SR-4	IUPUI	5:23.41	Yellow Jacket Invitational	Mar 15, 2019
+59	Lienhart, Natalie	JR-3	Northern Kentucky	5:24.51	Ball State Challenge	Apr 12, 2019
+60	Cronin, Bailey	FR-1	Oakland	5:25.23	2019 Oakland vs Detroit	Apr 6, 2019
+60	Gustavus, Macy	JR-3	Oakland	5:25.23	2019 Oakland vs Detroit	Apr 6, 2019
+62	Hassan, Titi	FR-1	Illinois-Chicago	5:25.63	Big Blue Classic at EIU	Mar 29, 2019
+63	Taylor, Annmarie	SR-4	Detroit Mercy	5:37.09	2019 Oakland vs Detroit	Apr 6, 2019
+64	Jones, Hannah	FR-1	Wright State	5:52.10	Stan Lyons 2019	Mar 16, 2019

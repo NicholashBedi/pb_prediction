@@ -1,0 +1,500 @@
+1IC4A/ECAC	Rivers, Danae	JR-3	Penn State	4:09.51(1)	112th NYRR Millrose Games	Feb 9, 2019
+2IC4A/ECAC	Black, Lotte	SO-2	Rhode Island	4:13.02	NCAA Division I Outdoor Track & Field Championships	Jun 5, 2019
+3IC4A/ECAC	Hutchinson, Nicole	SR-4	Villanova	4:13.21(1)	Dr. Sander Columbia Challenge	Jan 24, 2019
+4IC4A/ECAC	Paladino, Millie	SR-4	Providence	4:13.51(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+5IC4A/ECAC	Norris, Josette	SR-4	Georgetown	4:13.77	2019 Larry Ellis Invitational	Apr 20, 2019
+6IC4A/ECAC	McArthur, Rachel	SO-2	Villanova	4:14.91	Cardinal Classic	Apr 19, 2019
+7IC4A/ECAC	Wilson, Allie	SR-4	Monmouth	4:15.16	Virginia Challenge	Apr 19, 2019
+8IC4A/ECAC	Akins, Nia	JR-3	Penn	4:16.44	2019 Larry Ellis Invitational	Apr 20, 2019
+9IC4A/ECAC	Howard, Millie	JR-3	Temple	4:16.81	Bison Outdoor Classic	Apr 13, 2019
+10IC4A/ECAC	Villalba, Maddie	JR-3	Penn	4:16.83	Bison Outdoor Classic	Apr 13, 2019
+11IC4A/ECAC	Lucki, Alexandra	SR-4	Maryland	4:18.62	Florida Relays	Mar 28, 2019
+12IC4A/ECAC	Chau, Jocelyn	FR-1	Yale	4:19.07	Army West Point Twilight	May 9, 2019
+13IC4A/ECAC	Morenaite, Egle	SO-2	Iona	4:19.41	Bryan Clay Invitational	Apr 17, 2019
+14IC4A/ECAC	Duca, Paige	JR-3	Boston College	4:19.66	NCAA Division I East Region Preliminary Rounds	May 23, 2019
+15IC4A/ECAC	Jackson , Hayley	FR-1	West Virginia	4:19.69	Big 12 Outdoor Track and Field Championships	May 10, 2019
+16IC4A/ECAC	Anastasakis, Melissa	JR-3	Elon	4:19.75	NCAA Division I East Region Preliminary Rounds	May 23, 2019
+17IC4A/ECAC	Alcorta, Caroline	SR-4	Villanova	4:19.85	2019 Larry Ellis Invitational	Apr 20, 2019
+18IC4A/ECAC	Juul, Anna	SO-2	Harvard	4:20.02	NCAA Division I East Region Preliminary Rounds	May 23, 2019
+19IC4A/ECAC	Holm Gottlieb, Helene	SO-2	Temple	4:20.29	Raleigh Relays	Mar 29, 2019
+20IC4A/ECAC	Murdock, Shannon	JR-3	New Hampshire	4:20.75(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+21IC4A/ECAC	Salvo, Miranda	SR-4	Pittsburgh	4:20.78(1)	ACC Indoor Track & Field Championships	Feb 21, 2019
+22IC4A/ECAC	Ohrtman, Kaitlyn	JR-3	Iona	4:20.81	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+23IC4A/ECAC	Taylor, Annie	SR-4	Cornell	4:20.94	Bison Outdoor Classic	Apr 13, 2019
+24IC4A/ECAC	Cantine, Sophie	SO-2	Princeton	4:21.02	NCAA Division I East Region Preliminary Rounds	May 23, 2019
+25IC4A/ECAC	Wasserman, Katie	JR-3	Columbia	4:21.06(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+26IC4A/ECAC	Gillespie, Kathryn	JR-3	Harvard	4:21.59(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+27IC4A/ECAC	Ilarda, Brianna	SR-4	Providence	4:21.64(1)	Ocean State Invitational	Apr 12, 2019
+28IC4A/ECAC	Fanta, Annie	SR-4	Columbia	4:21.71	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+29IC4A/ECAC	Offstein, Madison	SR-4	Princeton	4:22.65	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+30IC4A/ECAC	Severe, Clare	SR-4	Lehigh	4:22.78	Bison Outdoor Classic	Apr 13, 2019
+31IC4A/ECAC	Richards, Kaley	JR-3	UMass Lowell	4:22.95	Army West Point Twilight	May 9, 2019
+31IC4A/ECAC	Forman, Sarah	SR-4	Siena	4:22.95	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+33IC4A/ECAC	Jones, Candace	JR-3	West Virginia	4:23.00	Bison Outdoor Classic	Apr 13, 2019
+34IC4A/ECAC	Bryson, Emily	SR-4	Brandeis	4:23.02	2019 Larry Ellis Invitational	Apr 20, 2019
+35IC4A/ECAC	Fordyce, Alie	JR-3	Princeton	4:23.10	2019 Larry Ellis Invitational	Apr 20, 2019
+36IC4A/ECAC	Halbrook, Abby	SR-4	Army West Point	4:23.22	Bison Outdoor Classic	Apr 13, 2019
+37IC4A/ECAC	Ryan, Lauren	SO-2	Villanova	4:23.32	BIG EAST Outdoor Track & Field Championships	May 10, 2019
+38IC4A/ECAC	Corman, Sami	FR-1	Georgetown	4:23.34	Kehoe Twilight Meet	May 3, 2019
+38IC4A/ECAC	O'Shea, Moira	SO-2	Penn State	4:23.34	Bison Outdoor Classic	Apr 13, 2019
+40IC4A/ECAC	Nahom, Mia	SO-2	Connecticut	4:23.73(1)	Boston University Bruce Lehane Scarlet and White Invitationa	Feb 2, 2019
+41IC4A/ECAC	Nuttall, Gemma	JR-3	Iona	4:23.97	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+42IC4A/ECAC	Seibert, Reilly	FR-1	Villanova	4:24.00(1)	Dr. Sander Columbia Challenge	Jan 24, 2019
+43IC4A/ECAC	Reinhardt, Hannah	JR-3	Albany	4:24.05	2019 America East Outdoor Championships	May 4, 2019
+44IC4A/ECAC	O'Neill, Taryn	FR-1	Villanova	4:24.14(1)	BIG EAST Indoor Track & Field Championships	Feb 22, 2019
+45IC4A/ECAC	Glover, Breanna	FR-1	Dartmouth	4:24.29	Ivy League Outdoor Track & Field Championships	May 4, 2019
+46IC4A/ECAC	Wagner, Gillian	FR-1	Princeton	4:24.62	Sam Howell Invitational	Apr 6, 2019
+47IC4A/ECAC	Bonner, Rachel	JR-3	Syracuse	4:24.94(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+48IC4A/ECAC	Corbosiero, Amanda	SR-4	Richmond	4:25.14	Duke Invitational	Apr 19, 2019
+49IC4A/ECAC	Laurie, Christine	SO-2	Maryland	4:25.56	Bison Outdoor Classic	Apr 13, 2019
+50IC4A/ECAC	Wheeler, Abbey	JR-3	Providence	4:25.70(1)	Ocean State Invitational	Apr 12, 2019
+51IC4A/ECAC	DeLay, Kayley	SO-2	Yale	4:25.86(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+52IC4A/ECAC	Jurew, Anna	SR-4	Princeton	4:26.05	Ivy League Outdoor Track & Field Championships	May 4, 2019
+53IC4A/ECAC	Goldstein, Abbe	SO-2	Harvard	4:26.12(1)	H-Y-P	Jan 26, 2019
+54IC4A/ECAC	Clermont, Nicole	FR-1	Boston College	4:26.16(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+55IC4A/ECAC	Brumley, Briar	SR-4	Cornell	4:26.52(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+56IC4A/ECAC	Ryan, Olivia	SR-4	Penn	4:26.67	2019 Larry Ellis Invitational	Apr 20, 2019
+57IC4A/ECAC	Fear, Georgia	JR-3	Dartmouth	4:26.72	Ivy League Outdoor Track & Field Championships	May 4, 2019
+58IC4A/ECAC	Trumble, Lauren	SR-4	Vermont	4:26.73(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+59IC4A/ECAC	Claeson, Andrea	FR-1	Boston University	4:26.89	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+60IC4A/ECAC	Sumner, Madeleine	JR-3	Princeton	4:27.00	Ivy League Outdoor Track & Field Championships	May 4, 2019
+61IC4A/ECAC	Hofstad, Paige	SO-2	Georgetown	4:27.02(1)	Penn State National	Jan 25, 2019
+62IC4A/ECAC	Mackay, Emily	JR-3	Binghamton	4:27.45	Virginia Challenge	Apr 19, 2019
+63IC4A/ECAC	Brunton, Ally	SO-2	Pittsburgh	4:27.46	Bison Outdoor Classic	Apr 13, 2019
+64IC4A/ECAC	Moore, Grace	JR-3	Temple	4:27.50(1)	Penn 8-Team Select	Jan 19, 2019
+65IC4A/ECAC	Eickhoff, Ayden	SR-4	Bates	4:27.53	New England Outdoor Championship - NEICAAA	May 10, 2019
+66IC4A/ECAC	Dougherty, Claire	JR-3	Dartmouth	4:27.58	Sam Howell Invitational	Apr 6, 2019
+67IC4A/ECAC	Smith, Chelsea	SR-4	Elon	4:27.61	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+68IC4A/ECAC	Archer, Lauren	JR-3	Dartmouth	4:27.87	New England Outdoor Championship - NEICAAA	May 10, 2019
+69IC4A/ECAC	Stratz, Amber	SR-4	Monmouth	4:27.94(1)	Boston University Bruce Lehane Scarlet and White Invitationa	Feb 2, 2019
+70IC4A/ECAC	Glasergreen, Eve	SR-4	Cornell	4:27.98	2019 Pomona-Pitzer Invitational (College/Univ)	Apr 6, 2019
+71IC4A/ECAC	Bockoven, Sammy	SR-4	Villanova	4:27.99	Sam Howell Invitational	Apr 6, 2019
+72IC4A/ECAC	Dammer, Katie	FR-1	Georgetown	4:28.14	Kehoe Twilight Meet	May 3, 2019
+73IC4A/ECAC	Rayle, Maya	FR-1	Harvard	4:28.18	Ivy League Outdoor Track & Field Championships	May 4, 2019
+74IC4A/ECAC	Brown, Claire	JR-3	Richmond	4:28.27(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+75IC4A/ECAC	Kompelien, Emily	FR-1	Brown	4:28.40(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+76IC4A/ECAC	Hays, Alexandra	SO-2	Columbia	4:28.52(1)	Villanova Invitational	Feb 2, 2019
+77IC4A/ECAC	Campbell, Ann	SR-4	Villanova	4:28.64	George Mason Spring Invitational	Apr 13, 2019
+78IC4A/ECAC	Brown, Halley	SR-4	George Washington	4:28.67	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+79IC4A/ECAC	Spiers, Abigail	FR-1	Syracuse	4:28.81	Bison Outdoor Classic	Apr 13, 2019
+80IC4A/ECAC	Olivere, Lydia	FR-1	Villanova	4:29.01	2019 Larry Ellis Invitational	Apr 20, 2019
+81IC4A/ECAC	Morgan, Maggie	JR-3	George Mason	4:29.07	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+82IC4A/ECAC	Jackson, Erica	SR-4	James Madison	4:29.42	2019 Colonial Relays	Apr 4, 2019
+83IC4A/ECAC	Meyer, Michaela	JR-3	Delaware	4:29.55	2019 Larry Ellis Invitational	Apr 20, 2019
+84IC4A/ECAC	McDowell, Delaney	SR-4	Liberty	4:29.99	FSU Relays (College)	Mar 22, 2019
+85IC4A/ECAC	Munks, Kathryn	JR-3	Penn State	4:30.06	Bison Outdoor Classic	Apr 13, 2019
+86IC4A/ECAC	Sheva, Marissa	JR-3	Penn State	4:30.09(1)	Penn State National	Jan 25, 2019
+87IC4A/ECAC	Kearley, Julia	JR-3	Iona	4:30.11(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+88IC4A/ECAC	Mancini, Grace	JR-3	La Salle	4:30.15(1)	Villanova Invitational	Feb 2, 2019
+89IC4A/ECAC	Sapone, Lauren	JR-3	Dartmouth	4:30.22	Sam Howell Invitational	Apr 6, 2019
+90IC4A/ECAC	Stratz, Brianna	SR-4	Monmouth	4:30.49	Bison Outdoor Classic	Apr 13, 2019
+91IC4A/ECAC	Ghazarian, Sevanne	SO-2	Yale	4:30.53	Sam Howell Invitational	Apr 6, 2019
+92IC4A/ECAC	Leach, Brighie	SR-4	Princeton	4:30.66	2019 Larry Ellis Invitational	Apr 20, 2019
+93IC4A/ECAC	Velock, Kyra	SO-2	Monmouth	4:30.74	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+94IC4A/ECAC	Valentine, Samantha	SO-2	Brown	4:30.82	Sam Howell Invitational	Apr 6, 2019
+95IC4A/ECAC	Zammitti, Melissa	SO-2	Cornell	4:30.97(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+96IC4A/ECAC	Chittenden, Melia	SO-2	Princeton	4:30.99(1)	H-Y-P	Jan 26, 2019
+97IC4A/ECAC	Sienski, Julia	SR-4	Columbia	4:31.14(1)	Villanova Invitational	Feb 2, 2019
+98IC4A/ECAC	Tanaka , Melissa	SO-2	Penn	4:31.15(1)	Penn 8-Team Select	Jan 19, 2019
+99IC4A/ECAC	Lodge, Melissa	SR-4	Syracuse	4:31.32	ACC Championships	May 9, 2019
+100IC4A/ECAC	Mills, Eryn	SR-4	Richmond	4:31.39	2019 Fred Hardy Invitational	Mar 29, 2019
+101IC4A/ECAC	Weisner, Kennedy	SR-4	Georgetown	4:31.40(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+102IC4A/ECAC	Stoner, Paige	SR-4	Syracuse	4:31.43(1)	Cornell Upstate Challenge	Jan 18, 2019
+103IC4A/ECAC	Mastromatteo, Gianna	SO-2	Marist	4:31.48	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+104IC4A/ECAC	Olshanski, Therese	SO-2	Johns Hopkins	4:31.58	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+105IC4A/ECAC	Modrall, Katherine	FR-1	Georgetown	4:31.59(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+106IC4A/ECAC	Trucilla, Grace		Penn State	4:31.62(1)	2019 Husky Classic	Feb 8, 2019
+107IC4A/ECAC	Chigatayeva, Aziza	FR-1	Binghamton	4:31.64	Bison Outdoor Classic	Apr 13, 2019
+108IC4A/ECAC	Gardizy, Ariana	FR-1	Penn	4:31.65(1)	Fastrack National Invite	Feb 8, 2019
+108IC4A/ECAC	Thompson, Grace	SR-4	Dartmouth	4:31.65(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+110IC4A/ECAC	Aneno, Susan	SR-4	Connecticut	4:31.82(1)	Nittany Lion Challenge	Jan 12, 2019
+111IC4A/ECAC	Kowalk, Charlotte	JR-3	William and Mary	4:32.02	Raleigh Relays	Mar 29, 2019
+112IC4A/ECAC	Quimby, Megan	SO-2	Yale	4:32.07	Ivy League Outdoor Track & Field Championships	May 4, 2019
+113IC4A/ECAC	Roberts, Kaleigh	SR-4	Quinnipiac	4:32.10(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+114IC4A/ECAC	Williams, Jordan	SO-2	Penn State	4:32.14(1)	Penn State Tune-Up	Feb 16, 2019
+115IC4A/ECAC	Harmon, Caroline	SR-4	Lafayette	4:32.28	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+116IC4A/ECAC	Sessa, Rachel	FR-1	Georgetown	4:32.31	2019 Larry Ellis Invitational	Apr 20, 2019
+117IC4A/ECAC	Hergenrother, Laura	SR-4	Princeton	4:32.34(1)	Fastrack National Invite	Feb 8, 2019
+118IC4A/ECAC	Brawner, Megan	JR-3	Central Connecticut	4:32.39	Bison Outdoor Classic	Apr 13, 2019
+119IC4A/ECAC	Parlier, Calli	FR-1	Liberty	4:32.57(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+120IC4A/ECAC	Cullen, Margie	JR-3	Georgetown	4:32.58(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+120IC4A/ECAC	Grosenheider, Ave	SR-4	Richmond	4:32.58(1)	JDL DMR Invitational	Feb 15, 2019
+122IC4A/ECAC	Finikiotis, Lauren	SO-2	William and Mary	4:32.62	2019 Colonial Relays	Apr 4, 2019
+123IC4A/ECAC	Bohan, Shea	SR-4	Marist	4:32.80(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+124IC4A/ECAC	Gregoire, Erin	SR-4	Columbia	4:32.81(1)	Dartmouth-Yale-Columbia	Jan 18, 2019
+124IC4A/ECAC	Robelen , Caroline	SO-2	Richmond	4:32.81(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+126IC4A/ECAC	Rome, Regan	SR-4	Providence	4:32.83(1)	Ocean State Invitational	Apr 12, 2019
+126IC4A/ECAC	Staiger, Talia	SR-4	Connecticut	4:32.83(1)	The American Indoor Track & Field Championships	Feb 22, 2019
+128IC4A/ECAC	Starn, Brooke	SO-2	Harvard	4:33.08	2019 Harvard - Yale Match	Apr 13, 2019
+129IC4A/ECAC	Medrano, Tessa	SO-2	Harvard	4:33.10	Raleigh Relays	Mar 29, 2019
+130IC4A/ECAC	Quinonero, Neus	SR-4	Maryland-Eastern Shore	4:33.12	MEAC Outdoor Track & Field Championships	May 2, 2019
+131IC4A/ECAC	McPhillips, Marissa	JR-3	MIT	4:33.19(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+132IC4A/ECAC	Von Ehren, Kira	JR-3	Temple	4:33.23(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+133IC4A/ECAC	Krzyzanowski, Katarzyna	JR-3	Fordham	4:33.26	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+133IC4A/ECAC	Toth, Rhemi	JR-3	Tufts	4:33.26(1)	NCAA Division III Indoor Track & Field Championships	Mar 8, 2019
+135IC4A/ECAC	Chewning-Kulick, Morgan	SO-2	Army West Point	4:33.34	Bison Outdoor Classic	Apr 13, 2019
+136IC4A/ECAC	Vanderheyden, Mikenna	FR-1	West Virginia	4:33.50	Bison Outdoor Classic	Apr 13, 2019
+137IC4A/ECAC	Orie, Gabrielle	SO-2	Cornell	4:33.63	Bison Outdoor Classic	Apr 13, 2019
+138IC4A/ECAC	Thorne, Jacqueline	JR-3	Sacred Heart	4:33.76	George Mason Spring Invitational	Apr 13, 2019
+138IC4A/ECAC	Fairchild, Melissa	SR-4	Northeastern	4:33.76(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+140IC4A/ECAC	Mathison, Meg	JR-3	Georgetown	4:33.80(1)	Penn State National	Jan 25, 2019
+141IC4A/ECAC	Tardy, Tiara	SO-2	Bucknell	4:33.83	Bison Outdoor Classic	Apr 13, 2019
+142IC4A/ECAC	Capes-Davis, Payton	SO-2	Bucknell	4:33.86	2019 Colonial Relays	Apr 4, 2019
+143IC4A/ECAC	Gajewski, Danielle	SR-4	New Hampshire	4:33.95	Raleigh Relays	Mar 29, 2019
+144IC4A/ECAC	Geraniotis, Coralea	SR-4	Elon	4:33.99	Charlotte Invitational 2019	Apr 12, 2019
+145IC4A/ECAC	Masselink, Tess	SO-2	Col. of Charleston	4:34.09(1)	USC Open Indoor	Feb 16, 2019
+146IC4A/ECAC	Vick, Rachel	SO-2	Connecticut	4:34.10	The American Outdoor Track & Field Championships	May 10, 2019
+147IC4A/ECAC	Ogundeko, Tatiana	JR-3	Coppin State	4:34.11	MEAC Outdoor Track & Field Championships	May 2, 2019
+148	Rudge, Sarah	JR-3	Ithaca	4:34.31	NCAA Division III Outdoor Track & Field Championships	May 23, 2019
+149	Zimmer, Annie	FR-1	Penn	4:34.35(1)	Boston University Bruce Lehane Scarlet and White Invitationa	Feb 2, 2019
+150	O'Leary, Colette	FR-1	UMass Amherst	4:34.36	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+151	Lord, Arianna	JR-3	Yale	4:34.37	Army West Point Twilight	May 9, 2019
+152	Paternain, Julia	FR-1	Penn State	4:34.45	2019 ASU Invitational	Mar 22, 2019
+153	Orie, Danielle	SO-2	Penn	4:34.61(1)	Penn State National	Jan 25, 2019
+154	Mancini, Elizabeth	FR-1	La Salle	4:34.63	2019 Fred Hardy Invitational	Mar 29, 2019
+155	Martin, Olympia	SO-2	Rutgers	4:34.67(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+156	Hayes, Stephanie	SR-4	Lehigh	4:34.70	Bison Outdoor Classic	Apr 13, 2019
+157	Catania, Julianna	JR-3	Penn	4:34.71	Raleigh Relays	Mar 29, 2019
+158	Oremus, Lindsey	SR-4	St. Joseph's (Pa.)	4:34.78(1)	Fastrack Last Chance	Feb 15, 2019
+159	Brown, Peyton	SO-2	Princeton	4:34.81	North Florida Spring Break Invitational	Mar 21, 2019
+160	Wills , Sarah	SO-2	West Virginia	4:34.84(1)	Penn State Tune-Up	Feb 16, 2019
+161	Hammerstone, Diana	JR-3	Lehigh	4:34.85	Raleigh Relays	Mar 29, 2019
+162	Palmer, Noel	SO-2	Liberty	4:34.96	FSU Relays (College)	Mar 22, 2019
+163	Grohn, Denise	JR-3	Marist	4:34.98(1)	Metro Atlantic Indoor Track & Field Championships	Feb 16, 2019
+164	Coletti, Samantha	JR-3	Army West Point	4:35.00	Bison Outdoor Classic	Apr 13, 2019
+165	Sessa, Emily	SO-2	UMass Lowell	4:35.01	2019 America East Outdoor Championships	May 4, 2019
+166	Knibb, Taylor	JR-3	Cornell	4:35.14(1)	2019 Beantown Challenge	Jan 12, 2019
+167	Sherman, Cara	SR-4	Albany	4:35.15(1)	Fastrack National Invite	Feb 8, 2019
+168	Viparina, Olivia	SR-4	James Madison	4:35.29	George Mason Spring Invitational	Apr 13, 2019
+169	Mulhern, Emily	JR-3	VCU	4:35.38(1)	Winter Relays 2019	Feb 8, 2019
+170	Weiss, Olivia	JR-3	Sacred Heart	4:35.46	Raleigh Relays	Mar 29, 2019
+171	Manning, Holly	JR-3	Stony Brook	4:35.47	UCONN Northeast Challenge	Apr 13, 2019
+172	Murphy, Nicole	JR-3	UMass Lowell	4:35.53	2019 America East Outdoor Championships	May 4, 2019
+172	Schein-Becker, Teagan	FR-1	Rider	4:35.53	Swarthmore Final Qualifier Meet	May 13, 2019
+174	Castaneda, Sierra	SO-2	Princeton	4:35.60	North Florida Spring Break Invitational	Mar 21, 2019
+175	Crawford, Ashleigh	JR-3	Lehigh	4:35.69	Bison Outdoor Classic	Apr 13, 2019
+176	Barretto, Cayla	SO-2	New Hampshire	4:35.73	2019 Larry Ellis Invitational	Apr 20, 2019
+177	Mundekis, Cassie	SR-4	Army West Point	4:35.75(1)	Patriot League Indoor Track and Field Championships	Feb 16, 2019
+178	O'Reilly, Clodagh	JR-3	Stony Brook	4:35.81(1)	Fastrack National Invite	Feb 8, 2019
+179	Savioz, Natacha	SR-4	Elon	4:35.82	Raleigh Relays	Mar 29, 2019
+180	Martin, Jessica	SR-4	Boston College	4:35.85	ACC Championships	May 9, 2019
+181	Brehler, Alyssa	SR-4	Rhode Island	4:35.86(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+182	Voight, Morgan	JR-3	Quinnipiac	4:35.87(1)	Metro Atlantic Indoor Track & Field Championships	Feb 16, 2019
+183	Smith, Maria	SO-2	Marist	4:35.89(1)	Metro Atlantic Indoor Track & Field Championships	Feb 16, 2019
+184	Caggiano, Kayleigh	JR-3	Loyola (Md.)	4:35.91	2019 Larry Ellis Invitational	Apr 20, 2019
+185	Klemens, Klaire	FR-1	Stony Brook	4:35.94(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+186	O'Shea, Caroline	SO-2	Vermont	4:35.98	2019 America East Outdoor Championships	May 4, 2019
+187	Jones, Hannah	SO-2	Saint Francis University	4:36.15(1)	Penn State National	Jan 25, 2019
+188	Spadaccini, Erin	SR-4	Manhattan	4:36.23	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+189	Anicic, Kylie	FR-1	Towson	4:36.42	2019 Larry Ellis Invitational	Apr 20, 2019
+190	Zeh, Makenzie	SR-4	Pittsburgh	4:36.50	Mountaineer Open	May 4, 2019
+191	Lang, Brittany	JR-3	Maryland	4:36.56	Kehoe Twilight Meet	May 3, 2019
+192	Fisher, Laurel	SR-4	Fordham	4:36.59(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+193	Hunt, Madeleine	SO-2	Bucknell	4:36.63	Bison Outdoor Classic	Apr 13, 2019
+194	Young, Emily	FR-1	Quinnipiac	4:36.64	New England Outdoor Championship - NEICAAA	May 10, 2019
+195	Murphy, Sophie	SO-2	Iona	4:36.66	Mets Outdoor Track and Field Championship	Apr 12, 2019
+196	Dekker, Eliza	SR-4	Dartmouth	4:36.67	2019 Larry Ellis Invitational	Apr 20, 2019
+197	Clark, Caroline	SO-2	UMass Amherst	4:36.68	2019 Larry Ellis Invitational	Apr 20, 2019
+197	Donohue, Ciara	SR-4	George Mason	4:36.68	George Mason Spring Invitational	Apr 13, 2019
+197	Buckley, Colleen	SR-4	Bucknell	4:36.68(1)	Boston University Bruce Lehane Scarlet and White Invitationa	Feb 2, 2019
+200	Keklak, Ariel	FR-1	Johns Hopkins	4:36.72	Bison Outdoor Classic	Apr 13, 2019
+201	Digman, Emily	JR-3	Columbia	4:36.76	2019 Larry Ellis Invitational	Apr 20, 2019
+202	Zodl, Lauren	SR-4	Delaware	4:36.89(1)	2019 Navy Select	Feb 8, 2019
+202	Delanis, Emeline	JR-3	Boston College	4:36.89(1)	Ocean State Invitational	Apr 12, 2019
+204	Hill, Olivia	JR-3	West Virginia	4:36.99(1)	Penn State Tune-Up	Feb 16, 2019
+205	Eastman, Annabelle	FR-1	George Mason	4:37.01(1)	Winter Relays 2019	Feb 8, 2019
+206	Cueva-Scarpelli, Jessica	JR-3	Binghamton	4:37.03	2019 Colonial Relays	Apr 4, 2019
+207	Scheriff, Jessica	SR-4	Iona	4:37.07	Sam Howell Invitational	Apr 6, 2019
+207	Champagne, Margaret	JR-3	New Hampshire	4:37.07(1)	Ocean State Invitational	Apr 12, 2019
+209	Martell, AnneMarie	SO-2	Vermont	4:37.27	2019 America East Outdoor Championships	May 4, 2019
+209	Murphy, Kathleen	FR-1	Navy	4:37.27	2019 Larry Ellis Invitational	Apr 20, 2019
+211	Valotta, Rachel	JR-3	Duquesne	4:37.29	Bison Outdoor Classic	Apr 13, 2019
+212	Alsup, Allie	SO-2	Connecticut	4:37.31(1)	The American Indoor Track & Field Championships	Feb 22, 2019
+213	O'Sullivan, Caroline	FR-1	Penn	4:37.40(1)	Penn 8-Team Select	Jan 19, 2019
+214	Tierney, Kelsey	SR-4	Tufts	4:37.44	Silfen Invitational 2019	Apr 12, 2019
+215	Ocker, Coco	JR-3	Boston University	4:37.52(1)	Ocean State Invitational	Apr 12, 2019
+216	Warner, Marin	SR-4	Penn	4:37.55	Sam Howell Invitational	Apr 6, 2019
+217	Yeomans, Nicole	FR-1	New Hampshire	4:37.60	New England Outdoor Championship - NEICAAA	May 10, 2019
+218	Guerra, Julia	SO-2	Penn State	4:37.62	2019 ASU Invitational	Mar 22, 2019
+219	Dowie, Katherine	FR-1	West Virginia	4:37.73(1)	Penn State Tune-Up	Feb 16, 2019
+220	Tuthill, Margaret	JR-3	Dartmouth	4:37.96	2019 Dartmouth Outdoor Invitational	Apr 12, 2019
+221	Paxton, Olivia	JR-3	William and Mary	4:37.98	2019 Dan Stimson Memorial Meet	Mar 23, 2019
+222	Tripodi, Serena	SO-2	Columbia	4:37.99(1)	Ocean State Invitational	Apr 12, 2019
+223	Harmon, Lucy	SR-4	St. Joseph's (Pa.)	4:38.01(1)	Penn 8-Team Select	Jan 19, 2019
+224	Kovacs, Anna	FR-1	Navy	4:38.05	2019 Larry Ellis Invitational	Apr 20, 2019
+225	Endres, Erin	JR-3	Princeton	4:38.08(1)	Sykes & Sabock Challange Cup	Feb 2, 2019
+226	Leisher, Katie	SR-4	Temple	4:38.09	Bison Outdoor Classic	Apr 13, 2019
+227	Smith, Kayla	FR-1	Boston College	4:38.10(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+228	Bryson, Julia	SR-4	Brandeis	4:38.13(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+229	Brown, Ashley	JR-3	VCU	4:38.15	George Mason Spring Invitational	Apr 13, 2019
+230	Conery, Michaella	JR-3	New Hampshire	4:38.21(1)	Ocean State Invitational	Apr 12, 2019
+231	Trautner, Margaret	JR-3	MIT	4:38.23	DIII New England Outdoor Track & Field Championships	May 2, 2019
+232	Hooks, Adriana	SR-4	American	4:38.28	George Mason Spring Invitational	Apr 13, 2019
+233	Jones, Lucy	SO-2	Temple	4:38.29	Bison Outdoor Classic	Apr 13, 2019
+234	Smither, Kendra	FR-1	Richmond	4:38.30	2019 Colonial Relays	Apr 4, 2019
+234	Stanford, Destiny	SO-2	Howard	4:38.30	MEAC Outdoor Track & Field Championships	May 2, 2019
+236	Koufos, Emily	FR-1	Holy Cross	4:38.36	Patriot League Outdoor Track & Field Championships	May 3, 2019
+237	Demko, Andrea	FR-1	Penn State	4:38.41	Team Challenge	Apr 20, 2019
+237	Knake, Kaya	JR-3	UMBC	4:38.41	George Mason Spring Invitational	Apr 13, 2019
+239	Kole, Madeline	JR-3	Mount St. Mary's	4:38.44(1)	Liberty Kickoff 2019	Jan 25, 2019
+240	Condell, Alyssa	SO-2	Penn	4:38.45	Sam Howell Invitational	Apr 6, 2019
+241	Salas, Sydney	SR-4	Northeastern	4:38.50(1)	2019 Beantown Challenge	Jan 12, 2019
+242	Bonaguidi, Hannah	JR-3	Lehigh	4:38.51(1)	Boston University Bruce Lehane Scarlet and White Invitationa	Feb 2, 2019
+243	Scott, Nichelle	SR-4	VCU	4:38.53(1)	Virginia Tech Invitational	Jan 11, 2019
+244	Curtin, Meghan	JR-3	Quinnipiac	4:38.57	War Eagle Invitational 2019	Apr 19, 2019
+244	Stevenson, Julia	JR-3	Dartmouth	4:38.57	2019 Dartmouth Outdoor Invitational	Apr 12, 2019
+246	Ludwikowski, Rachel	SO-2	Dartmouth	4:38.64(1)	Dartmouth-Yale-Columbia	Jan 18, 2019
+247	Preeo, Hannah	FR-1	Elon	4:38.72	Phoenix Invitational 2019	Apr 6, 2019
+248	Walak, Kelsey	SO-2	Northeastern	4:38.73	Black and Gold Challange	Mar 15, 2019
+249	Chavey, Helen	SR-4	Colby	4:38.76(1)	Tufts National Qualifying Meet	Mar 2, 2019
+249	Janke, Olivia	FR-1	Towson	4:38.76(1)	2019 Navy Invitational II	Jan 26, 2019
+251	Burd, Emily	SO-2	Pittsburgh	4:38.83	Bison Outdoor Classic	Apr 13, 2019
+252	Yerke, Madison	SR-4	George Washington	4:38.85	2019 Morgan State Legacy Track & Field Meet	Apr 19, 2019
+253	Romero, Valerie	JR-3	Delaware	4:38.86	CAA Outdoor Track and Field Championships	May 3, 2019
+254	Bowser, Naomi	FR-1	Liberty	4:38.88	Raleigh Relays	Mar 29, 2019
+255	McArdle, Allison	JR-3	Holy Cross	4:38.90	Patriot League Outdoor Track & Field Championships	May 3, 2019
+256	King, Paige	JR-3	Elon	4:38.95	Phoenix Invitational 2019	Apr 6, 2019
+257	Witt, Averi	SO-2	James Madison	4:38.97(1)	Marshall Women's Classic	Jan 12, 2019
+258	Archer, Antigone	SO-2	West Virginia	4:39.12(1)	Penn State Tune-Up	Feb 16, 2019
+259	Conway, Chloe	JR-3	Brown	4:39.13	University of MA Minuteman Invitational	Apr 6, 2019
+260	Huelskamp, Audrey	JR-3	Cornell	4:39.19	Titan Team Challenge	Mar 30, 2019
+261	Blair, Ashley	SO-2	Bucknell	4:39.24	Jim Taylor Invite	Mar 30, 2019
+261	Rutkowski, Christiana	SR-4	Monmouth	4:39.24(1)	Wagner College Invitational	Jan 4, 2019
+263	Crissman, Sarah	FR-1	Monmouth	4:39.28(1)	Wagner College Invitational	Jan 4, 2019
+263	DeLoreto, Katherine	SO-2	Boston College	4:39.28(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+265	Rego, Eliza	SO-2	Harvard	4:39.29	Raleigh Relays	Mar 29, 2019
+266	Antonioli, Sophie	JR-3	Lehigh	4:39.30	Patriot League Outdoor Track & Field Championships	May 3, 2019
+267	Hatcher, Samantha	FR-1	West Virginia	4:39.31(1)	2019 SPIRE NCAA D-1 Classic	Feb 8, 2019
+268	Oeser, Anna	FR-1	Boston College	4:39.32(1)	NEICAAA Indoor Track & Field Championships	Feb 1, 2019
+269	Vlasic, Mikaela	SO-2	Pittsburgh	4:39.39(1)	Bison Outdoor Classic	Apr 13, 2019
+270	Strain, Monica	SO-2	Siena	4:39.40	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+271	Bendolph, Jeanette	SR-4	Delaware	4:39.45(1)	2018 TCNJ Indoor Open	Dec 1, 2018
+272	Steffke, Hannah	JR-3	Yale	4:39.46(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+273	Parker, Hannah	SR-4	Connecticut	4:39.50	Brown Springtime Invitational	Apr 28, 2019
+274	Kenny, Rachel	FR-1	Columbia	4:39.61(1)	Ocean State Invitational	Apr 12, 2019
+275	Connelly, Kayla	SO-2	James Madison	4:39.64	2019 Fred Hardy Invitational	Mar 29, 2019
+275	Jones, Taylor	SO-2	William and Mary	4:39.64	George Mason Spring Invitational	Apr 13, 2019
+277	Beroutsos, Carolina	SO-2	Harvard	4:39.71(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+278	Murphy, Glennis	SO-2	Dartmouth	4:39.89	2019 Dartmouth Outdoor Invitational	Apr 12, 2019
+279	Hauff, Tara	FR-1	Stony Brook	4:39.94	2019 America East Outdoor Championships	May 4, 2019
+279	Siegle, Kristin	JR-3	Rider	4:39.94	2019 Colonial Relays	Apr 4, 2019
+281	Criscuolo, Emily	SO-2	Boston College	4:39.95(1)	ACC Indoor Track & Field Championships	Feb 21, 2019
+282	Baran, Ella	FR-1	Johns Hopkins	4:40.01	Centennial Conference Outdoor Championships	May 3, 2019
+282	McCormick, Morgan	FR-1	Yale	4:40.01(1)	Dartmouth-Yale-Columbia	Jan 18, 2019
+284	Carney, Sara	JR-3	Wagner	4:40.02	2019 Colonial Relays	Apr 4, 2019
+285	Serkes, Morgan	SO-2	Siena	4:40.06	Bison Outdoor Classic	Apr 13, 2019
+286	Miller, Jane	JR-3	Yale	4:40.11(1)	H-Y-P	Jan 26, 2019
+287	Pavicic, Peri	JR-3	Rider	4:40.15	Swarthmore Final Qualifier Meet	May 13, 2019
+287	Snow, Sydney	JR-3	Fordham	4:40.15	2019 Colonial Relays	Apr 4, 2019
+289	Leggat-Barr, Katherine	SO-2	Princeton	4:40.20	North Florida Spring Break Invitational	Mar 21, 2019
+290	Nagpaul, Sunny	JR-3	Vermont	4:40.23	New England Outdoor Championship - NEICAAA	May 10, 2019
+291	Hoernlein, Devon	FR-1	Pittsburgh	4:40.25	Bison Outdoor Classic	Apr 13, 2019
+292	Gaye, Kerry	SR-4	Marist	4:40.37	2019 Colonial Relays	Apr 4, 2019
+293	D'Addario, Gina	SR-4	Johns Hopkins	4:40.39	Bison Outdoor Classic	Apr 13, 2019
+294	Buscher, Mim	SR-4	Princeton	4:40.42	North Florida Spring Break Invitational	Mar 21, 2019
+295	Quarshie, Kaylah	SO-2	Albany	4:40.47(1)	Boston University / Sharon Colyear-Danville Season Opener	Dec 1, 2018
+296	Kirk, Phoebe	JR-3	Navy	4:40.48	Army vs. Navy Outdoor Star Meet	Apr 6, 2019
+297	Gelvin, McKenzie	SO-2	Temple	4:40.61	Ole Miss Classic	Mar 30, 2019
+298	Rowe, Infinnatie	SO-2	Morgan State	4:40.62(1)	MEAC Indoor Track & Field Championships	Feb 21, 2019
+299	Kass, Yasmine	FR-1	Maryland	4:40.64	Virginia v. Maryland, Pitt, West Virginia	Apr 6, 2019
+299	Bennett, Nora	FR-1	Bucknell	4:40.64(1)	Patriot League Indoor Track and Field Championships	Feb 16, 2019
+301	Hue, Eugenie	SR-4	LIU Brooklyn	4:40.67(1)	2019 NEC Indoor Track & Field Championships	Feb 15, 2019
+302	Hazzard, Lauren	SR-4	Bucknell	4:40.71(1)	Bison Outdoor Classic	Apr 13, 2019
+303	Piccinic, Shelby	FR-1	Army West Point	4:40.75	Army West Point Twilight	May 9, 2019
+304	Casey, Jordan	SR-4	Marist	4:40.76	Bison Outdoor Classic	Apr 13, 2019
+305	Hasser, Rebecca	FR-1	Cornell	4:40.80	Bison Outdoor Classic	Apr 13, 2019
+306	Sciortino, Lexi	SO-2	La Salle	4:40.83	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+307	Jaskot, Erin	SR-4	Mount St. Mary's	4:40.91	Raleigh Relays	Mar 29, 2019
+307	Sculli, Meghan	FR-1	Navy	4:40.91	George Mason Spring Invitational	Apr 13, 2019
+309	Kelly, Caitlin	SR-4	George Mason	4:41.05	2019 Colonial Relays	Apr 4, 2019
+310	West, Grace	JR-3	Navy	4:41.09(1)	2019 Navy Invitational II	Jan 26, 2019
+311	Ruffo, Kerri	SR-4	Northeastern	4:41.16(1)	Ocean State Invitational	Apr 12, 2019
+312	Sobieski, Jenna	SR-4	Rutgers	4:41.32	USF Bulls Invitational	Mar 22, 2019
+313	Guerra, Jac	FR-1	Brandeis	4:41.34(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+314	Sands, Autumn	FR-1	Lafayette	4:41.35	Bison Outdoor Classic	Apr 13, 2019
+315	Giesing, Isabella	FR-1	UMass Lowell	4:41.43(1)	Alan Connie Shamrock Invite	Mar 14, 2019
+316	Capparell, Tina	FR-1	Delaware	4:41.58	2019 Morgan State Legacy Track & Field Meet	Apr 19, 2019
+317	Butler, Hannah	SO-2	Brown	4:41.63	University of MA Minuteman Invitational	Apr 6, 2019
+318	Wolff, Emily	SR-4	Quinnipiac	4:41.70(1)	Ocean State Invitational	Apr 12, 2019
+319	Dannheim, Suzanne	JR-3	George Washington	4:41.79(1)	Princeton Indoor Invitational	Feb 16, 2019
+319	Grebe, Angelina	SR-4	Fordham	4:41.79(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+321	Fazio , Brooke	SO-2	Richmond	4:41.87	Duke Invitational	Apr 19, 2019
+322	Brush, Erin	SR-4	Johns Hopkins	4:41.92	Bison Outdoor Classic	Apr 13, 2019
+322	Sessions, Jade	FR-1	Lehigh	4:41.92	Bison Outdoor Classic	Apr 13, 2019
+324	Nealon, Kiera	SO-2	Rutgers	4:41.93	Florida Relays	Mar 28, 2019
+325	Freed, Tasha	SR-4	Johns Hopkins	4:42.01	Centennial Conference Outdoor Championships	May 3, 2019
+326	Ciluffo, Kaley	SR-4	Villanova	4:42.11	Penn Challenge	Mar 23, 2019
+327	Swanson, Kelsey	SR-4	Connecticut	4:42.16(1)	The American Indoor Track & Field Championships	Feb 22, 2019
+328	Bond, Maggie	JR-3	RPI	4:42.32	Bates, RPI, MIT, Tufts Quad Meet	Apr 6, 2019
+329	Pellegrini, Carolyn	JR-3	Siena	4:42.40	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+330	Davison, Madeleine	JR-3	Syracuse	4:42.41	Bison Outdoor Classic	Apr 13, 2019
+331	Rutt, Samantha	FR-1	Albany	4:42.43	UCONN Northeast Challenge	Apr 13, 2019
+332	Hayes, Delia	SR-4	Boston College	4:42.45(1)	2019 Beantown Challenge	Jan 12, 2019
+333	Iocca, Kelly	SO-2	Albany	4:42.46	UCONN Northeast Challenge	Apr 13, 2019
+334	Brazil, Abigail	SO-2	Dartmouth	4:42.58	2019 Dartmouth Outdoor Invitational	Apr 12, 2019
+335	Romanchick, Katelynn	SO-2	Connecticut	4:42.60	Brown Springtime Invitational	Apr 28, 2019
+336	Cooper, Natalie	SR-4	TCNJ	4:42.61	Widener Invitational	Apr 19, 2019
+337	Rancan, Christina	JR-3	Penn	4:42.65	Sam Howell Invitational	Apr 6, 2019
+338	Koski, Phoebe	JR-3	Vermont	4:42.76(1)	2019 America East Indoor Championships	Feb 22, 2019
+339	Matora, Katia	SR-4	Brown	4:42.77(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+340	Weir, Susanna	SO-2	Delaware	4:42.81(1)	2019 Navy Select	Feb 8, 2019
+341	Machabee, Holly	JR-3	Albany	4:42.83(1)	Fastrack National Invite	Feb 8, 2019
+342	Hurley, Alexina	FR-1	UMass Amherst	4:42.93	2019 Larry Ellis Invitational	Apr 20, 2019
+343	Holzbaur, Erin	SR-4	TCNJ	4:42.99	Widener Invitational	Apr 19, 2019
+344	Anderson, Lillian	SR-4	Dartmouth	4:43.00	Yellow Jacket Invitational	Mar 15, 2019
+345	Gearhart, Kathryn	JR-3	Maryland	4:43.02	Kehoe Twilight Meet	May 3, 2019
+346	Barry, Caroline	FR-1	Boston College	4:43.25(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+347	Stratton, Nadia	SO-2	Cornell	4:43.27(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+348	Hughes, Kaleigh	SO-2	Villanova	4:43.28	Penn Challenge	Mar 23, 2019
+349	Chacko, Celia	FR-1	Connecticut	4:43.30	Brown Springtime Invitational	Apr 28, 2019
+349	Martino, Dani	SR-4	Iona	4:43.30	Sam Howell Invitational	Apr 6, 2019
+351	Sturm, Maddie	SR-4	RPI	4:43.31	Bison Outdoor Classic	Apr 13, 2019
+352	Holl, Marissa	SR-4	Cornell	4:43.36	Bison Outdoor Classic	Apr 13, 2019
+352	Quinn, Siobhan	SR-4	Canisius	4:43.36	Dave Labor Invitational	Apr 6, 2019
+354	Christian, Skye	JR-3	Seton Hill	4:43.39	Ashland Alumni Open	Apr 19, 2019
+355	Burda, Bella	SR-4	Villanova	4:43.41	2019 Larry Ellis Invitational	Apr 20, 2019
+356	Abbondandelo, Nicole	FR-1	Lehigh	4:43.50(1)	Villanova Invitational	Feb 2, 2019
+357	Ielfield, Hali	FR-1	Manhattan	4:43.51(1)	2018 Yale Season Opener	Dec 8, 2018
+358	Weir, Kosana	FR-1	Yale	4:43.54(1)	H-Y-P	Jan 26, 2019
+359	Casaletto, Stephanie	FR-1	Boston University	4:43.63(1)	Boston University Bruce Lehane Scarlet and White Invitationa	Feb 2, 2019
+360	Aller, Meg	JR-3	Duquesne	4:43.65	Bison Outdoor Classic	Apr 13, 2019
+360	Bollinger, Morgan	SO-2	Navy	4:43.65	2019 Navy Spring Meet	Mar 30, 2019
+360	Harsch, Carole	SR-4	Penn	4:43.65	Sam Howell Invitational	Apr 6, 2019
+363	Suss, Rachel	JR-3	Yale	4:43.75	2019 Harvard - Yale Match	Apr 13, 2019
+364	Kroepfl, Lauren	FR-1	William and Mary	4:43.76(1)	Sykes & Sabock Challange Cup	Feb 2, 2019
+365	Summitt, Arielle	FR-1	Johns Hopkins	4:43.87	Bison Outdoor Classic	Apr 13, 2019
+366	Levy, Sam	JR-3	Johns Hopkins	4:43.93	Towson Invitational 2019	Apr 6, 2019
+367	Smith, Heidi	SO-2	Liberty	4:43.99	Raleigh Relays	Mar 29, 2019
+367	Bracken, Emily	JR-3	St. Joseph's (Pa.)	4:43.99(1)	Penn 8-Team Select	Jan 19, 2019
+367	Kane, Lindsey	SR-4	Connecticut	4:43.99(1)	Dr. Sander Columbia Challenge	Jan 24, 2019
+370	Ambrose, Cate	SO-2	Col. of Charleston	4:44.02	CAA Outdoor Track and Field Championships	May 3, 2019
+371	Keenan, Helena	SR-4	Iona	4:44.07(1)	Metro Atlantic Indoor Track & Field Championships	Feb 16, 2019
+372	Royds, Miranda	SO-2	Lehigh	4:44.11(1)	2019 Navy Invitational II	Jan 26, 2019
+373	Bragen, Kaitlyn	SO-2	Rutgers	4:44.13(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+374	Andrews, Mika	SO-2	Army West Point	4:44.16	Bison Outdoor Classic	Apr 13, 2019
+375	Sun, Hana	JR-3	Columbia	4:44.19(1)	Ocean State Invitational	Apr 12, 2019
+376	Cortina, Camila	SR-4	Northeastern	4:44.21(1)	Joe Donahue Games	Jan 18, 2019
+377	Dunn, Diana	JR-3	Delaware	4:44.31	Raleigh Relays	Mar 29, 2019
+378	Turner, Terri	SO-2	Columbia	4:44.32	Penn Challenge	Mar 23, 2019
+379	Jones, Mackenzie	JR-3	Delaware	4:44.33	2019 Adidas Winthrop University Invitational	Mar 21, 2019
+380	Bower, Emma	FR-1	Liberty	4:44.34	Raleigh Relays	Mar 29, 2019
+381	DeLoreto, Katherine	SO-2	Boston College	4:44.37(1)	Boston University Last Chance Qualifier	Feb 24, 2019
+381	Potts, Kelsey	JR-3	Syracuse	4:44.37(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+383	Visconto, Karli	SR-4	Penn	4:44.41	Sam Howell Invitational	Apr 6, 2019
+383	Searles, Jade	JR-3	Fairleigh Dickinson	4:44.41(1)	NYC Gotham Cup	Jan 18, 2019
+385	Coffin, Maria	SO-2	Providence	4:44.44(1)	Brown University Invitational	Feb 16, 2019
+386	Powlette, Allana	SO-2	La Salle	4:44.53	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+386	Shepherd, Gemma	JR-3	Yale	4:44.53	2019 Yale Springtime Invitational	Apr 28, 2019
+388	Batsu, Corinne	SO-2	Boston University	4:44.54(1)	Ocean State Invitational	Apr 12, 2019
+389	Mitchell, Bridget	FR-1	Providence	4:44.64	Raleigh Relays	Mar 29, 2019
+390	Velasco, Pollyanna	SR-4	Hampton	4:44.68	2019 Twilight Qualifier	May 1, 2019
+391	De Lucia, Bianca	JR-3	Sacred Heart	4:44.83	Sam Howell Invitational	Apr 6, 2019
+392	Alonzo, Bianca	JR-3	Columbia	4:44.84(1)	Fastrack Metro Season Opener	Dec 1, 2018
+393	Hayes , Niamh	SO-2	Penn	4:44.87	Rider Invitational 2019	Apr 13, 2019
+393	Joyce, Michelle	SO-2	Temple	4:44.87	Charlotte 49er Classic	Mar 14, 2019
+395	Schaeffer, Emily	JR-3	St. Joseph's (Pa.)	4:44.88(1)	Penn State National	Jan 25, 2019
+396	Casey, Deirdre	JR-3	William and Mary	4:44.90	2019 Dan Stimson Memorial Meet	Mar 23, 2019
+397	Cunningham, Alexis	FR-1	Seton Hill	4:44.91	Dave Labor Invitational	Apr 6, 2019
+398	Camacho, Sofia	FR-1	Columbia	4:44.95(1)	Villanova Invitational	Feb 2, 2019
+399	Farmer, Jenna	SR-4	Bucknell	4:44.96	Team Challenge	Apr 20, 2019
+400	Perez, Madeline	SR-4	Georgetown	4:45.00	Kehoe Twilight Meet	May 3, 2019
+401	Berardi, Skyler	SR-4	Colgate	4:45.03	Patriot League Outdoor Track & Field Championships	May 3, 2019
+402	Novak, Paige	JR-3	Maryland	4:45.05(1)	2019 Navy Select	Feb 8, 2019
+403	Snyder, Rachel	SR-4	William and Mary	4:45.14	William & Mary Triangular	Mar 16, 2019
+403	White, Judith Marley	JR-3	VCU	4:45.14	Ram Invite	Mar 22, 2019
+405	Rafter, Angelia	SO-2	Central Connecticut	4:45.15	24th Annual Monmouth Season Opener	Mar 29, 2019
+406	Morgan, Mackenzie	FR-1	Maryland	4:45.19	Maryland Invitational	Mar 16, 2019
+407	Burr, Randi	FR-1	Connecticut	4:45.20(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+408	Nuechertlein, Zoe	SO-2	Yale	4:45.24	2019 Yale Springtime Invitational	Apr 28, 2019
+409	Walters, Rebecca	FR-1	Marist	4:45.30	Bryan Clay Invitational	Apr 17, 2019
+410	Raftis, Kylee	SO-2	Boston College	4:45.31	Tufts Snowflake Classic	Mar 30, 2019
+411	Todd, Gracie	SR-4	Cornell	4:45.32(1)	Cornell Upstate Challenge	Jan 18, 2019
+412	Garcia, Carina	JR-3	William and Mary	4:45.35	George Mason Spring Invitational	Apr 13, 2019
+413	Brandon, Madeleine	JR-3	New Hampshire	4:45.37	Jay Carisella Coaches Invitational	Apr 20, 2019
+414	Saine, Noelle	FR-1	George Mason	4:45.38	2019 Colonial Relays	Apr 4, 2019
+414	Foote, Bridget	FR-1	Northeastern	4:45.38(1)	2019 Beantown Challenge	Jan 12, 2019
+416	Noullet, Noemie	SR-4	Penn State	4:45.40(1)	Nittany Lion Challenge	Jan 12, 2019
+417	Hilton, Natalie	SR-4	Pittsburgh	4:45.46	2019 CMU 5 Team Invite	Mar 23, 2019
+418	Virtue, Emily	FR-1	Columbia	4:45.48(1)	Dartmouth-Yale-Columbia	Jan 18, 2019
+419	Sayer, Samantha	SR-4	Vermont	4:45.51(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+420	Casey, Morgan	FR-1	UMBC	4:45.55	Florida Relays	Mar 28, 2019
+421	Bolduc, Andrea	SO-2	Brandeis	4:45.57	UAA Outdoor Championship	Apr 27, 2019
+422	Leatherwood, Sarah	FR-1	Connecticut	4:45.63(1)	Dr. Sander Columbia Challenge	Jan 24, 2019
+423	Coogan, Margaret	SO-2	George Washington	4:45.64	Towson Invitational 2019	Apr 6, 2019
+424	O'Connell, Erin	SR-4	Pittsburgh	4:45.66	Raleigh Relays	Mar 29, 2019
+425	Paolella, Vanessa	SO-2	Bates	4:45.79(1)	Women's State of Maine	Feb 1, 2019
+426	Sullivan, Carlin	SR-4	Canisius	4:45.80	Dave Labor Invitational	Apr 6, 2019
+426	Buttrey, Kira	FR-1	MIT	4:45.80(1)	Bowdoin Invite II	Jan 19, 2019
+428	Leighton, Jane	FR-1	Vermont	4:45.83	University of MA Minuteman Invitational	Apr 6, 2019
+429	Vizza, Diana	JR-3	Dartmouth	4:45.89	2019 Dartmouth Outdoor Invitational	Apr 12, 2019
+430	Curtin, Catherine	SO-2	UMass Amherst	4:46.13	University of MA Minuteman Invitational	Apr 6, 2019
+431	Dalton, Abby	FR-1	Muhlenberg	4:46.18	Coach Pollard Invite	Apr 12, 2019
+432	Livingstone, Alexa	SR-4	UMass Amherst	4:46.20	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+433	Seaberg, Abigail	SR-4	Richmond	4:46.22	Virginia Grand Prix	Apr 26, 2019
+434	Lazarou, Olivia	FR-1	Iona	4:46.24(1)	Dr. Sander Columbia Challenge	Jan 24, 2019
+435	Roberts, Briana	JR-3	UMBC	4:46.31	Towson Invitational 2019	Apr 6, 2019
+436	Martin, Clare	SO-2	Princeton	4:46.60	2019 Larry Ellis Invitational	Apr 20, 2019
+437	Rogers, Jessica	FR-1	Liberty	4:46.61	2019 Twilight Qualifier	May 1, 2019
+437	Shimko, Monika	SO-2	Army West Point	4:46.61	Bison Outdoor Classic	Apr 13, 2019
+439	Hubbell, Dawn	SR-4	Central Connecticut	4:46.63(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+440	Caplazi, Isabel	SO-2	RPI	4:46.64	Bates, RPI, MIT, Tufts Quad Meet	Apr 6, 2019
+441	Meyers, Isa	FR-1	Cornell	4:46.68	Bison Outdoor Classic	Apr 13, 2019
+442	Wise, Louiza	JR-3	Northeastern	4:46.71(1)	Boston University Last Chance Qualifier	Feb 24, 2019
+443	Jaskowak, Catherine	JR-3	Saint Francis University	4:46.75	George Mason Spring Invitational	Apr 13, 2019
+444	Woltjen, Alexa	FR-1	Maryland	4:46.76	Virginia v. Maryland, Pitt, West Virginia	Apr 6, 2019
+444	Weiss, Tessa	JR-3	MIT	4:46.76(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+446	Rittler, Mary	FR-1	Dartmouth	4:46.82	University of MA Minuteman Invitational	Apr 6, 2019
+447	Wilkinson, Brittany	SO-2	George Washington	4:46.83	Raleigh Relays	Mar 29, 2019
+448	Redding, Bridgett	JR-3	UMBC	4:46.88	Towson Invitational 2019	Apr 6, 2019
+449	Nadel, Stacie	SR-4	Lehigh	4:46.89	Carol & John Covert Classic	Apr 26, 2019
+449	Hasty, Haley	SR-4	Connecticut	4:46.89(1)	Dr. Sander Columbia Challenge	Jan 24, 2019
+451	Glodek, Annie	SO-2	Cornell	4:46.90(1)	Cornell Sunday Invitational	Feb 10, 2019
+452	Ehrenberger, Laura	SO-2	Duquesne	4:46.94	2019 CMU Quad Meet	Mar 30, 2019
+453	Collins, Katie	FR-1	MIT	4:46.95(1)	Bowdoin Invite II	Jan 19, 2019
+454	Nobili, Madaket	FR-1	Dartmouth	4:46.96	University of MA Minuteman Invitational	Apr 6, 2019
+455	Lupica, Johanna	FR-1	Richmond	4:46.98(1)	George Mason Patriot Games	Jan 25, 2019
+456	Howard, Antonia	SR-4	St. John's	4:47.03(1)	2018 Bill Ward Invitational	Dec 9, 2018
+457	Grahn, Kayla	SR-4	Georgetown	4:47.04	George Mason Spring Invitational	Apr 13, 2019
+458	Werren, Hannah	SO-2	Navy	4:47.07	2019 Dan Stimson Memorial Meet	Mar 23, 2019
+459	Schiappa, Regan	SR-4	Connecticut	4:47.10	Brown Springtime Invitational	Apr 28, 2019
+460	Bergman, Emma	SO-2	Rutgers	4:47.27	2019 Larry Ellis Invitational	Apr 20, 2019
+460	Thomson, Margaret	SR-4	Bucknell	4:47.27	Team Challenge	Apr 20, 2019
+462	Moro, Mariah	FR-1	George Washington	4:47.39	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+462	Pillard, Sarah	SO-2	Yale	4:47.39	2019 Yale Springtime Invitational	Apr 28, 2019
+462	Bonaventure, Emily	FR-1	Pittsburgh	4:47.39(1)	Bison Outdoor Classic	Apr 13, 2019
+465	Saunders, Shaylyn	FR-1	New Hampshire	4:47.52	2019 UNH Season Opener	Apr 6, 2019
+466	Hajda, Allison	SO-2	Brown	4:47.58	University of MA Minuteman Invitational	Apr 6, 2019
+467	Dwyer, Amanda	SO-2	Monmouth	4:47.76	2019 Colonial Relays	Apr 4, 2019
+468	Bertscha, Erin	FR-1	Rutgers	4:47.80	USF Bulls Invitational	Mar 22, 2019
+469	Hurt, Lucy	FR-1	Cornell	4:47.88(1)	Sykes & Sabock Challange Cup	Feb 2, 2019
+470	Bartelloni, Alexis	SR-4	UMBC	4:47.90	Florida Relays	Mar 28, 2019
+471	Carlson, Amanda	SO-2	Quinnipiac	4:47.95	2019 Yale Springtime Invitational	Apr 28, 2019
+472	Manion, Brooke	SO-2	James Madison	4:47.99(1)	Marshall Women's Classic	Jan 12, 2019
+473	McCormack, Kate	SR-4	Fordham	4:48.00	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+473	White, Melanie	FR-1	Howard	4:48.00	Wendy's Seahawk Invitational	Mar 8, 2019
+475	Nickerson, Margaret	JR-3	Ithaca	4:48.01	Liberty League Outdoor Track & Field Championships	May 3, 2019
+476	Hedrick, Helen	FR-1	Army West Point	4:48.06(1)	2018 Crowell Open	Dec 1, 2018
+477	Rice, Allison	SO-2	George Mason	4:48.08	2019 Colonial Relays	Apr 4, 2019
+478	Hamer, Khalilah	JR-3	George Mason	4:48.09	William & Mary Triangular	Mar 16, 2019
+479	Babski, Olivia	FR-1	Penn	4:48.10	Sam Howell Invitational	Apr 6, 2019
+480	Bacher, Katie	JR-3	MIT	4:48.11(1)	Bates, Colby, MIT Tri-Meet	Jan 12, 2019
+481	Breyer, Marie-Fee	SR-4	Princeton	4:48.14	Rider Invitational 2019	Apr 13, 2019
+482	Palmer, Shaina	SR-4	Johns Hopkins	4:48.20	Hopkins Loyola Invitational	Apr 12, 2019
+483	Galletta, Gabi	SO-2	Lafayette	4:48.24	Bison Outdoor Classic	Apr 13, 2019
+484	Flower, Julia	JR-3	Iona	4:48.28	Stony Brook University Snow Flake Spring Opener	Mar 23, 2019
+485	Silva, Abigail	SO-2	St. Joseph's (Pa.)	4:48.42	2019 Colonial Relays	Apr 4, 2019
+486	Mertz, Emilie	SR-4	Ithaca	4:48.43	Liberty League Outdoor Track & Field Championships	May 3, 2019
+487	Lustiber, Shannon	SO-2	Vermont	4:48.49	2019 America East Outdoor Championships	May 4, 2019
+488	Krebs, Emma	FR-1	Connecticut	4:48.50	Brown Springtime Invitational	Apr 28, 2019
+489	Tebeau-Sherry, Alicia	FR-1	Vermont	4:48.51(1)	NEICAAA Indoor Track & Field Championships	Feb 1, 2019
+490	Aarden, Shelby	JR-3	Rhode Island	4:48.53	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+491	Lazzari, Julianna	FR-1	Johns Hopkins	4:48.66	Towson Invitational 2019	Apr 6, 2019
+492	Warren , Bree	SO-2	West Virginia	4:48.73(1)	Penn State Tune-Up	Feb 16, 2019
+493	Chapey, Lauren	JR-3	Yale	4:48.79	2019 Harvard - Yale Match	Apr 13, 2019
+494	Ricalton, Maria	SR-4	Quinnipiac	4:48.83(1)	Ocean State Invitational	Apr 12, 2019
+495	Bonadies, Taylor	SO-2	Connecticut	4:48.88(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+496	Gerland, Stephanie	JR-3	St. John's	4:49.04	2019 Tom Farrell Classic	May 4, 2019
+496	Stanwood, Katherine	FR-1	Boston College	4:49.04(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+498	Moroz, Aidan	SR-4	Fordham	4:49.05	Ram Invite	Mar 22, 2019
+499	Falla, Jamie	FR-1	Bucknell	4:49.06	Bison Outdoor Classic	Apr 13, 2019
+500	Bonner, Kara	SO-2	Lehigh	4:49.14	Bison Outdoor Classic	Apr 13, 2019

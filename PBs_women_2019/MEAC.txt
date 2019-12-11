@@ -1,0 +1,31 @@
+1	Bissah, Martha	JR-3	Norfolk State	4:18.78	Florida Relays	Mar 28, 2019
+2	Quinonero, Neus	SR-4	Maryland-Eastern Shore	4:33.12	MEAC Outdoor Track & Field Championships	May 2, 2019
+3	Ogundeko, Tatiana	JR-3	Coppin State	4:34.11	MEAC Outdoor Track & Field Championships	May 2, 2019
+4	Rotich, Mercy	SO-2	Florida A&M	4:37.68	MEAC Outdoor Track & Field Championships	May 2, 2019
+5	Stanford, Destiny	SO-2	Howard	4:38.30	MEAC Outdoor Track & Field Championships	May 2, 2019
+6	Butler, G'Jasmyne	JR-3	N. Carolina A&T	4:38.53	Florida Relays	Mar 28, 2019
+7	Rowe, Infinnatie	SO-2	Morgan State	4:41.70	MEAC Outdoor Track & Field Championships	May 2, 2019
+8	Davis, Deja	SR-4	Bethune-Cookman	4:43.67	MEAC Outdoor Track & Field Championships	May 2, 2019
+9	White, Melanie	FR-1	Howard	4:48.00	Wendy's Seahawk Invitational	Mar 8, 2019
+10	Means, Shalah	FR-1	N. Carolina A&T	4:51.35	Phoenix Invitational 2019	Apr 6, 2019
+11	Kiplagat, Emmax	JR-3	Florida A&M	4:51.70	UNF Invitational	Apr 5, 2019
+12	Koech, Fridah	FR-1	Norfolk State	4:55.48	Virginia Grand Prix	Apr 26, 2019
+13	McDowell, Valencia	JR-3	Morgan State	4:56.46	Aggie Invitational	Apr 12, 2019
+14	Barnes, Kristoni	JR-3	N. Carolina A&T	4:56.57	HPU VertKlasse Meeting	Mar 21, 2019
+15	Haynie, Zakyrah	SO-2	Morgan State	4:57.71	North Florida Spring Break Invitational	Mar 21, 2019
+16	Chemutai, Mercy	FR-1	Maryland-Eastern Shore	4:58.56	Towson Invitational 2019	Apr 6, 2019
+17	Wooten, Nikyia	FR-1	Maryland-Eastern Shore	4:59.49	Towson Invitational 2019	Apr 6, 2019
+18	Creary, Monzerad	FR-1	N. Carolina A&T	5:00.37	HPU VertKlasse Meeting	Mar 21, 2019
+19	Jean-Raymond, Ashley	FR-1	N.C. Central	5:00.88	Duke Invitational	Apr 19, 2019
+20	Samoei, Caroline	JR-3	Norfolk State	5:01.36	Virginia Grand Prix	Apr 26, 2019
+21	Rosikon, Katarzyna	JR-3	Delaware State	5:04.48	2019 Morgan State Legacy Track & Field Meet	Apr 19, 2019
+22	Koech, Ashah	JR-3	Norfolk State	5:05.22	Virginia Grand Prix	Apr 26, 2019
+23	Gill, Brittany	SO-2	Bethune-Cookman	5:07.10	Miami Hurricane Alumni Invitational	Apr 12, 2019
+24	Field, Rachel	FR-1	Morgan State	5:12.16	Towson Invitational 2019	Apr 6, 2019
+25	Martin, Camille	JR-3	N. Carolina A&T	5:13.99	HPU VertKlasse Meeting	Mar 21, 2019
+26	Brown, Bernita	SO-2	Bethune-Cookman	5:19.83	Embry-Riddle Spike's Classic (collegiate teams)	Mar 29, 2019
+27	Smith, Chantai	SR-4	Morgan State	5:25.15	Charlotte 49er Classic	Mar 14, 2019
+28	Hairston-Waller, Cajazzalyn	FR-1	N.C. Central	5:28.65	HPU VertKlasse Meeting	Mar 21, 2019
+29	Kipyego, Fancy	FR-1	Maryland-Eastern Shore	5:31.62	2019 Eastern Shore Challenge	Apr 13, 2019
+30	Cystrunk, Yamia	SO-2	Savannah State	5:37.23	Savannah State EyeOpener	Mar 2, 2019
+31	Browning , Marisa	FR-1	Delaware State	6:49.44	Ursinus College Outdoor Invitational	Mar 23, 2019

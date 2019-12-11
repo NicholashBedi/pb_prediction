@@ -1,0 +1,101 @@
+1	Villarreal, Carlos	JR-3	Arizona	3:37.22	Bryan Clay Invitational	Apr 17, 2019
+2	Paulson, William	SR-4	Arizona State	3:38.35	Bryan Clay Invitational	Apr 17, 2019
+3	Brown, Reed	SO-2	Oregon	3:38.76	Payton Jordan Invitational	May 2, 2019
+4	Fisher, Grant	SR-4	Stanford	3:39.60	Payton Jordan Invitational	May 2, 2019
+5	Klecker, Joe	JR-3	Colorado	3:39.75@	Colorado Invitational 2019	Apr 5, 2019
+6	Stanovsek, Mick	JR-3	Washington	3:41.20	Payton Jordan Invitational	May 2, 2019
+7	Herrera, Eduardo	SO-2	Colorado	3:41.35	NCAA Division I West Region Preliminary Rounds	May 23, 2019
+8	West, James	SR-4	Oregon	3:42.41	Payton Jordan Invitational	May 2, 2019
+9	Teare, Cooper	SO-2	Oregon	3:43.01(1)	40th Sun Angel Track Classic	Apr 5, 2019
+10	Hunter, Charlie	SO-2	Oregon	3:43.08	Payton Jordan Invitational	May 2, 2019
+11	Dressel, John	JR-3	Colorado	3:43.87@	Colorado Invitational 2019	Apr 5, 2019
+12	Ryan, Paul	JR-3	Washington St.	3:44.36	Bryan Clay Invitational	Apr 17, 2019
+13	Ratcliffe, Thomas	SO-2	Stanford	3:44.53	Stanford Invitational	Mar 29, 2019
+14	Brandt, Robert	JR-3	UCLA	3:44.66	USC vs UCLA	Apr 27, 2019
+15	Corcoran, Garrett	SR-4	California	3:44.73	2019 Cal Opener	Mar 2, 2019
+16	Hull, Talon	SO-2	Washington	3:44.78	Stanford Invitational	Mar 29, 2019
+17	Forsyth, Ryan	SR-4	Colorado	3:44.86@	Colorado Invitational 2019	Apr 5, 2019
+18	Fahy, Steven	SR-4	Stanford	3:45.03	Stanford Invitational	Mar 29, 2019
+19	Sotomayor , Arturo	JR-3	UCLA	3:45.06(1)	Bob Larsen Distance Carnival	Mar 29, 2019
+20	Fendel, Gabe	FR-1	Colorado	3:45.78	Stanford Invitational	Mar 29, 2019
+21	Beamer, Nate	SO-2	Washington	3:46.08	Stanford Invitational	Mar 29, 2019
+22	Morzenti, Chris	SO-2	UCLA	3:46.12	USC vs UCLA	Apr 27, 2019
+23	Curtin, Fearghal	SO-2	Arizona State	3:46.74(1)	40th Sun Angel Track Classic	Apr 5, 2019
+24	Janes, Tyler	SO-2	UCLA	3:46.89(1)	Bob Larsen Distance Carnival	Mar 29, 2019
+25	Curtin, Fearghal	SO-2	Arizona State	3:47.11	2019 ASU Invitational	Mar 22, 2019
+26	Tamagno, Austin	SO-2	Oregon	3:47.38	Linfield Open	May 4, 2019
+27	Green, Issac	SO-2	Washington	3:47.54	Cardinal Classic	Apr 19, 2019
+27	Janke, Justin	JR-3	Washington St.	3:47.54	Bryan Clay Invitational	Apr 17, 2019
+29	Burkhardt, Andrew		California	3:47.76(1)	Brutus Hamilton Invitational	Apr 27, 2019
+30	Okada, Takeshi	SR-4	California	3:48.06	2019 Hornet Invitational	Mar 15, 2019
+31	Zeiss, Paul		California	3:48.41(1)	Brutus Hamilton Invitational	Apr 27, 2019
+32	Reniewicki, John	SR-4	Arizona State	3:48.70	2019 ASU Invitational	Mar 22, 2019
+33	Trujillo, Millen	JR-3	UCLA	3:48.79	USC vs UCLA	Apr 27, 2019
+34	Lane, Connor	FR-1	Stanford	3:49.19	Cardinal Classic	Apr 19, 2019
+35	Slenning, Alex	FR-1	Washington	3:49.72	2019 Ken Shannon Invitational	May 4, 2019
+36	Dinger, Tai	SR-4	Stanford	3:50.25	Stanford Invitational	Mar 29, 2019
+37	Ehrenberg, Andy	SO-2	UCLA	3:50.40(1)	Bob Larsen Distance Carnival	Mar 29, 2019
+38	Benedict, Kai	JR-3	California	3:50.44	Mt. SAC Relays	Apr 18, 2019
+39	Lawson, DJ	FR-1	UCLA	3:50.58	Mt. SAC Relays	Apr 18, 2019
+40	Mendez, Clayton	FR-1	Stanford	3:51.35	Stanford Invitational	Mar 29, 2019
+41	Van Dorpe, Sam	FR-1	USC	3:51.36	Mt. SAC Relays	Apr 18, 2019
+42	Gonzales, Ethan	SR-4	Colorado	3:51.62@	Colorado Invitational 2019	Apr 5, 2019
+43	Little, Kyler	SR-4	Washington St.	3:51.69	Bryan Clay Invitational	Apr 17, 2019
+44	Kabbara, Munir	FR-1	UCLA	3:52.21(1)	Bob Larsen Distance Carnival	Mar 29, 2019
+45	Jakowec, Nicolaus	JR-3	USC	3:52.32	USC Trojan Invite	Mar 15, 2019
+46	Laccinole, Nicholas	SO-2	Washington	3:52.54	2019 Ken Shannon Invitational	May 4, 2019
+47	Morello, Connor	JR-3	Washington	3:53.36	Stanford Invitational	Mar 29, 2019
+48	Myrtue, Matthew	JR-3	USC	3:53.80	USC Trojan Invite	Mar 15, 2019
+49	Shinn, Kyle	SR-4	Arizona State	3:53.92	40th Sun Angel Track Classic	Apr 5, 2019
+50	Hornecker, Alec	SO-2	Colorado	3:54.07@	Colorado Invitational 2019	Apr 5, 2019
+51	Roth, Bailey	SR-4	Arizona	3:54.15	Jim Click Shootout	Apr 6, 2019
+52	Ado, Amir	FR-1	Washington St.	3:54.18	USC Trojan Invite	Mar 15, 2019
+53	Newcomb, Gus	FR-1	Colorado	3:54.45@	Jack Christiansen Invitational	Apr 26, 2019
+53	Nicholson, Jacob	SO-2	Washington St.	3:54.45	Bryan Clay Invitational	Apr 17, 2019
+55	Beyer, Charles	FR-1	Washington	3:54.50	2019 Ken Shannon Invitational	May 4, 2019
+56	Sathyamurthy, Hari	SO-2	Stanford	3:54.62	Stanford Invitational	Mar 29, 2019
+57	Harper, Ben	SO-2	California	3:54.65	2019 Hornet Invitational	Mar 15, 2019
+58	Mestler, Jackson	JR-3	Oregon	3:54.75	41st Annual Aztec Invitational	Mar 22, 2019
+59	Thomas, Andrew	FR-1	Washington	3:55.16	2019 Ken Shannon Invitational	May 4, 2019
+60	Medrano, Moises	FR-1	California	3:55.41	Mike Fanelli Track Classic	Mar 28, 2019
+61	Dylla, Collin	SO-2	Arizona	3:56.49	Mt. SAC Relays	Apr 18, 2019
+62	Cortes, Isaac	SO-2	Stanford	3:57.50	Stanford Invitational	Mar 29, 2019
+63	Haney, Blake	SR-4	Oregon	3:57.84	2019 Pac-12 Track & Field Championships	May 4, 2019
+64	Lewis, Jackson	SO-2	Arizona State	3:58.07	2019 ASU Invitational	Mar 22, 2019
+65	Dempsey, John	FR-1	USC	3:58.13	2019 Triton Invitational	Apr 12, 2019
+66	Meyer, Adam	SO-2	Arizona State	3:58.21	2019 Baldy Castillo Invitational	Mar 15, 2019
+67	Smith, Paxton	JR-3	Colorado	3:58.49@	Colorado Invitational 2019	Apr 5, 2019
+68	Libby, Mitch	FR-1	USC	3:58.55	USC Trojan Invite	Mar 15, 2019
+69	Yearian, Jack	SO-2	Oregon	3:58.77	Cardinal Classic	Apr 19, 2019
+70	Kibet, Timothy	FR-1	Arizona	3:59.00	Mt. SAC Relays	Apr 18, 2019
+71	Klein, Adam	FR-1	Arizona State	4:00.58	40th Sun Angel Track Classic	Apr 5, 2019
+72	Kindl, Zak	SO-2	Washington St.	4:00.74	8th Annual Whitworth Twilight	Apr 18, 2019
+73	Peck, Ryan	JR-3	California	4:00.83	2019 Hornet Invitational	Mar 15, 2019
+74	Horton, Jonathan	FR-1	Colorado	4:01.73@	Jerry Quiller Classic 2019	Mar 15, 2019
+75	Jewett, Isaiah	JR-3	USC	4:02.21	Jim Click Shootout	Apr 6, 2019
+76	FitzGerald, Colin	FR-1	California	4:02.32	2019 Cal Opener	Mar 2, 2019
+77	Woodward, Trevor	FR-1	California	4:02.89	2019 Hornet Invitational	Mar 15, 2019
+78	Court, Xavier	FR-1	California	4:03.20	Brutus Hamilton Open	Apr 26, 2019
+79	Dean, Cameron	JR-3	Washington St.	4:03.25	14th Sam Adams Classic Scoring Invite	Mar 21, 2019
+80	Cooper, Andrew	JR-3	Washington St.	4:03.44	Bryan Clay Invitational	Apr 17, 2019
+81	Kebenei, Ian	FR-1	Arizona State	4:04.12	2019 ASU Invitational	Mar 22, 2019
+82	Pendleton, Nate	FR-1	Washington St.	4:05.36	14th Sam Adams Classic Scoring Invite	Mar 21, 2019
+83	Watkins, Matthew	SO-2	Washington St.	4:05.43	USC Trojan Invite	Mar 15, 2019
+84	Schrag, Kennan	JR-3	Washington St.	4:05.54	USC Trojan Invite	Mar 15, 2019
+85	Laurie, Fitz	FR-1	Arizona State	4:06.16	2019 ASU Invitational	Mar 22, 2019
+86	Hulme, David	SO-2	USC	4:11.62	Beach Opener	Mar 1, 2019
+87	Dicke, Joseph	FR-1	Arizona State	4:13.19	2019 ASU Invitational	Mar 22, 2019
+88	Bissell, Shane	FR-1	California	4:16.56	Brutus Hamilton Open	Apr 26, 2019
+89	Kumar, Shyam	FR-1	California	4:17.20	Mike Fanelli Track Classic	Mar 28, 2019
+90	Owens, Ayden	FR-1	USC	4:28.90	Bryan Clay Invitational	Apr 17, 2019
+91	Williams, Harrison	SR-4	Stanford	4:30.16	Bryan Clay Invitational	Apr 17, 2019
+92	Vollmer, Max	FR-1	Oregon	4:34.57	2019 Pac-12 Track & Field Championships	May 4, 2019
+93	Kennedy, Parker	SO-2	Washington	4:42.32	2019 Pac-12 Track & Field Championships	May 4, 2019
+94	Farmer, Josh	FR-1	Colorado	4:42.48	2019 Pac-12 Track & Field Championships	May 4, 2019
+95	McMorris, Hakim	FR-1	California	4:43.02	2019 Pac-12 Track & Field Championships	May 4, 2019
+96	Fernandez, Gregory	SO-2	Arizona State	4:45.54	2019 Pac-12 Track & Field Championships	May 4, 2019
+97	Littles, Ray	SR-4	Washington St.	4:46.26	2019 Pac-12 Track & Field Championships	May 4, 2019
+98	Hargett, Dalen	JR-3	Oregon	4:47.76	2019 Pac-12 Track & Field Championships	May 4, 2019
+99	Rhoads, Wyatt	JR-3	Colorado	4:49.58	2019 Pac-12 Track & Field Championships	May 4, 2019
+100	Gehr, Dominic	SO-2	Arizona	4:52.46	2019 Pac-12 Track & Field Championships	May 4, 2019
+101	Almarhoun, Mohammad	JR-3	Arizona	5:35.82	2019 Pac-12 Track & Field Championships	May 4, 2019

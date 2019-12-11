@@ -1,0 +1,34 @@
+1	Span, Arion	SO-2	Alabama State	4:37.71	Black and Gold Challange	Mar 15, 2019
+2	Jacobs, Angelica	SR-4	Alcorn State	4:47.25	2019 SWAC Outdoor T&F Championships	May 3, 2019
+3	Mezidor, Hannah	SO-2	Alabama State	4:49.60	2019 SWAC Outdoor T&F Championships	May 3, 2019
+4	Murphy, Dinah	SO-2	Prairie View	4:50.62	2019 TSU Relays (College/University)	Mar 15, 2019
+5	Minor, Sydney	FR-1	Southern	4:51.73	Southeastern vs Southern Dual	Mar 22, 2019
+6	Chepkwony, Halima	SR-4	Grambling	4:53.44	2019 SWAC Outdoor T&F Championships	May 3, 2019
+7	Bryan, Jada	FR-1	Southern	4:54.14	Southeastern vs Southern Dual	Mar 22, 2019
+8	Kiprop, Naomi	SO-2	Grambling	4:54.98	2019 TSU Relays (College/University)	Mar 15, 2019
+9	Devereaux, Sydney	FR-1	Prairie View	4:56.13	2019 SWAC Outdoor T&F Championships	May 3, 2019
+10	Pitters, Derica	JR-3	Mississippi Valley	4:56.65	2019 SWAC Outdoor T&F Championships	May 3, 2019
+11	Hayes, Taylor	SO-2	Jackson State	5:00.45	Joe Walker Classic	Apr 12, 2019
+12	Archibald, Mariyah	FR-1	Alabama State	5:00.89	Tiger Track Classic 2019	Apr 5, 2019
+13	Bethea-Nurse, Ajani	SR-4	Arkansas-Pine Bluff	5:01.30	2019 SWAC Outdoor T&F Championships	May 3, 2019
+14	Griffin, Diamond	SO-2	Alabama A&M	5:01.65	'Southern Invitational	Mar 8, 2019
+15	Wooten, Sabria	SO-2	Alabama A&M	5:02.74	Joe Walker Classic	Apr 12, 2019
+16	Grant, Vinnelle	FR-1	Alabama State	5:04.32	'Southern Invitational	Mar 8, 2019
+17	Colston, Danae	SR-4	Southern	5:05.72	2019 SWAC Outdoor T&F Championships	May 3, 2019
+18	Chirchir, Winny	JR-3	Grambling	5:07.86	2019 TSU Relays (College/University)	Mar 15, 2019
+19	Quinonez, Tatyana	FR-1	Jackson State	5:12.28	LSU Alumni Gold	Apr 20, 2019
+20	Kibet, Priscilla	SO-2	Grambling	5:14.81	2019 SWAC Outdoor T&F Championships	May 3, 2019
+21	Ridle, RaShaunda	JR-3	Jackson State	5:17.28	Mississippi College Twilight Invitational	Apr 5, 2019
+22	Chebet, Mercy	SO-2	Jackson State	5:21.69	Joe Walker Classic	Apr 12, 2019
+23	Roddy, Helen	FR-1	Prairie View	5:23.82	2019 TSU Relays (College/University)	Mar 15, 2019
+24	Gates, Makayla		Alcorn State	5:24.24	Louisiana Tech Jim Mize Invitational	Apr 5, 2019
+25	Rutto, Carolyne	SO-2	Jackson State	5:26.15	Southern Miss Invitational	Mar 30, 2019
+26	True, Cassidy	FR-1	Texas Southern	5:29.39	J Fred Duckett Twilight Meet	Apr 20, 2019
+27	Hill, Shaquanda		Alcorn State	5:37.77	2019 SWAC Outdoor T&F Championships	May 3, 2019
+28	Taylor, Alisha	FR-1	Jackson State	5:39.40	Mississippi College Season Opener	Mar 2, 2019
+29	Saunders, Rikita	FR-1	Jackson State	5:42.81	2019 SWAC Outdoor T&F Championships	May 3, 2019
+30	Ball, Rakia	FR-1	Mississippi Valley	5:43.77	Louisiana Tech Jim Mize Invitational	Apr 5, 2019
+31	Sellers, Autezia	SR-4	Mississippi Valley	5:47.04	South Alabama Jaguar Opener	Mar 15, 2019
+32	Raven, Kristen	SR-4	Alcorn State	5:48.61	Al Schmidt Bulldog Relays Invite	Mar 22, 2019
+33	Del Abra, Mireya	FR-1	Texas Southern	5:56.68	2019 TSU Relays (College/University)	Mar 15, 2019
+34	Jelagat, Joan	FR-1	Grambling	6:35.82	2019 TSU Relays (College/University)	Mar 15, 2019

@@ -1,0 +1,162 @@
+1	Black, Lotte	SO-2	Rhode Island	4:13.02	NCAA Division I Outdoor Track & Field Championships	Jun 5, 2019
+2	Corbosiero, Amanda	SR-4	Richmond	4:25.14	Duke Invitational	Apr 19, 2019
+3	Brown, Claire	JR-3	Richmond	4:28.27(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+4	Mills, Sophia	SR-4	Davidson	4:28.60	Charlotte Invitational 2019	Apr 12, 2019
+5	Brown, Halley	SR-4	George Washington	4:28.67	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+6	Morgan, Maggie	JR-3	George Mason	4:29.07	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+7	Mancini, Grace	JR-3	La Salle	4:30.15(1)	Villanova Invitational	Feb 2, 2019
+8	Vernot, Taylor	SR-4	Dayton	4:31.08	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+9	Mills, Eryn	SR-4	Richmond	4:31.39	2019 Fred Hardy Invitational	Mar 29, 2019
+10	Borchers, Emily	JR-3	Dayton	4:31.98	Oliver Nikoloff Invitational	Apr 6, 2019
+11	Grosenheider, Ave	SR-4	Richmond	4:32.58(1)	JDL DMR Invitational	Feb 15, 2019
+12	Robelen , Caroline	SO-2	Richmond	4:32.81(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+13	Krzyzanowski, Katarzyna	JR-3	Fordham	4:33.26	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+14	O'Leary, Colette	FR-1	UMass Amherst	4:34.36	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+15	Mancini, Elizabeth	FR-1	La Salle	4:34.63	2019 Fred Hardy Invitational	Mar 29, 2019
+16	Oremus, Lindsey	SR-4	St. Joseph's (Pa.)	4:34.78(1)	Fastrack Last Chance	Feb 15, 2019
+17	Mulhern, Emily	JR-3	VCU	4:35.38(1)	Winter Relays 2019	Feb 8, 2019
+18	Brehler, Alyssa	SR-4	Rhode Island	4:35.86(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+19	Kress, Megan	JR-3	Saint Louis	4:36.45(1)	2019 Meyo Invitational	Feb 1, 2019
+20	Fisher, Laurel	SR-4	Fordham	4:36.59(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+21	Clark, Caroline	SO-2	UMass Amherst	4:36.68	2019 Larry Ellis Invitational	Apr 20, 2019
+21	Donohue, Ciara	SR-4	George Mason	4:36.68	George Mason Spring Invitational	Apr 13, 2019
+23	Yarbrough, Caroline	SR-4	Davidson	4:36.82	Charlotte Invitational 2019	Apr 12, 2019
+24	Eastman, Annabelle	FR-1	George Mason	4:37.01(1)	Winter Relays 2019	Feb 8, 2019
+25	Valotta, Rachel	JR-3	Duquesne	4:37.29	Bison Outdoor Classic	Apr 13, 2019
+26	Harmon, Lucy	SR-4	St. Joseph's (Pa.)	4:38.01(1)	Penn 8-Team Select	Jan 19, 2019
+27	Brown, Ashley	JR-3	VCU	4:38.15	George Mason Spring Invitational	Apr 13, 2019
+28	Smither, Kendra	FR-1	Richmond	4:38.30	2019 Colonial Relays	Apr 4, 2019
+29	Scott, Nichelle	SR-4	VCU	4:38.53(1)	Virginia Tech Invitational	Jan 11, 2019
+30	Yerke, Madison	SR-4	George Washington	4:38.85	2019 Morgan State Legacy Track & Field Meet	Apr 19, 2019
+31	Anderson, Katie	SR-4	Saint Louis	4:38.97(1)	Thundering Herd Invitational and Multi Events	Jan 25, 2019
+32	Triskett, Allison	SR-4	Dayton	4:39.61	Oliver Nikoloff Invitational	Apr 6, 2019
+33	Pierson, Hannah	JR-3	Saint Louis	4:39.78(1)	Atlantic 10 Indoor Track & Field Championships	Feb 23, 2019
+34	Snow, Sydney	JR-3	Fordham	4:40.15	2019 Colonial Relays	Apr 4, 2019
+35	Sciortino, Lexi	SO-2	La Salle	4:40.83	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+36	Kelly, Caitlin	SR-4	George Mason	4:41.05	2019 Colonial Relays	Apr 4, 2019
+37	Dannheim, Suzanne	JR-3	George Washington	4:41.79(1)	Princeton Indoor Invitational	Feb 16, 2019
+37	Grebe, Angelina	SR-4	Fordham	4:41.79(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+39	Fazio , Brooke	SO-2	Richmond	4:41.87	Duke Invitational	Apr 19, 2019
+40	Wilker, Kelly	SO-2	Dayton	4:41.91(1)	Atlantic 10 Indoor Track & Field Championships	Feb 23, 2019
+41	Constable, Carlee	SO-2	Dayton	4:42.58(1)	2019 SPIRE NCAA D-1 Classic	Feb 8, 2019
+42	Hurley, Alexina	FR-1	UMass Amherst	4:42.93	2019 Larry Ellis Invitational	Apr 20, 2019
+43	MacTurk, Katie	JR-3	Davidson	4:43.28(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+44	Link, Courtney	SR-4	Saint Louis	4:43.29	Joe Walker Classic	Apr 12, 2019
+45	Aller, Meg	JR-3	Duquesne	4:43.65	Bison Outdoor Classic	Apr 13, 2019
+46	Bracken, Emily	JR-3	St. Joseph's (Pa.)	4:43.99(1)	Penn 8-Team Select	Jan 19, 2019
+47	Powlette, Allana	SO-2	La Salle	4:44.53	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+48	Sreenan, Emily	FR-1	Dayton	4:44.80	Raleigh Relays	Mar 29, 2019
+49	Schaeffer, Emily	JR-3	St. Joseph's (Pa.)	4:44.88(1)	Penn State National	Jan 25, 2019
+50	White, Judith Marley	JR-3	VCU	4:45.14	Ram Invite	Mar 22, 2019
+51	Saine, Noelle	FR-1	George Mason	4:45.38	2019 Colonial Relays	Apr 4, 2019
+52	Coogan, Margaret	SO-2	George Washington	4:45.64	Towson Invitational 2019	Apr 6, 2019
+53	Curtin, Catherine	SO-2	UMass Amherst	4:46.13	University of MA Minuteman Invitational	Apr 6, 2019
+54	Livingstone, Alexa	SR-4	UMass Amherst	4:46.20	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+55	Seaberg, Abigail	SR-4	Richmond	4:46.22	Virginia Grand Prix	Apr 26, 2019
+56	Wilkinson, Brittany	SO-2	George Washington	4:46.83	Raleigh Relays	Mar 29, 2019
+57	Ehrenberger, Laura	SO-2	Duquesne	4:46.94	2019 CMU Quad Meet	Mar 30, 2019
+58	Lupica, Johanna	FR-1	Richmond	4:46.98(1)	George Mason Patriot Games	Jan 25, 2019
+59	Schmitz, Anna	SR-4	Saint Louis	4:47.21(1)	2019 Illini Open	Jan 12, 2019
+60	Moro, Mariah	FR-1	George Washington	4:47.39	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+61	McCormack, Kate	SR-4	Fordham	4:48.00	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+62	Rice, Allison	SO-2	George Mason	4:48.08	2019 Colonial Relays	Apr 4, 2019
+63	Hamer, Khalilah	JR-3	George Mason	4:48.09	William & Mary Triangular	Mar 16, 2019
+64	Silva, Abigail	SO-2	St. Joseph's (Pa.)	4:48.42	2019 Colonial Relays	Apr 4, 2019
+65	Aarden, Shelby	JR-3	Rhode Island	4:48.53	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+66	Brown, Garnet	SO-2	Davidson	4:48.99	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+67	Moroz, Aidan	SR-4	Fordham	4:49.05	Ram Invite	Mar 22, 2019
+68	Bamford, Gabriella	FR-1	St. Joseph's (Pa.)	4:49.37	2019 Colonial Relays	Apr 4, 2019
+69	Clary, Sydney	JR-3	UMass Amherst	4:49.48	University of MA Minuteman Invitational	Apr 6, 2019
+70	Gagliardi, Britton	SR-4	St. Joseph's (Pa.)	4:49.94(1)	Fastrack National Invite	Feb 8, 2019
+71	Grazia, Saige	SR-4	Rhode Island	4:50.47	University of MA Minuteman Invitational	Apr 6, 2019
+72	Alex, Bridget	FR-1	Fordham	4:50.58	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+73	Shapiro, Rachel	FR-1	Davidson	4:51.42	Duke Invitational	Apr 19, 2019
+74	Daniels, Sarah	FR-1	Fordham	4:51.51(1)	Fastrack Last Chance	Feb 15, 2019
+75	McGovern, Peyton	JR-3	Richmond	4:51.88(1)	JDL DMR Invitational	Feb 15, 2019
+76	Taylor, Abigail	SR-4	Fordham	4:51.95(1)	Fastrack Last Chance	Feb 15, 2019
+77	Freeland, Riley	SO-2	George Mason	4:52.32(1)	Boston University Bruce Lehane Scarlet and White Invitationa	Feb 2, 2019
+78	O'Brien, Margaret	FR-1	Saint Louis	4:52.45(1)	Thundering Herd Invitational and Multi Events	Jan 25, 2019
+79	Rulapaugh, Marie	SO-2	Duquesne	4:52.93	Bison Outdoor Classic	Apr 13, 2019
+80	Evans, Ashley	SO-2	Rhode Island	4:53.33(1)	NEICAAA Indoor Track & Field Championships	Feb 1, 2019
+81	Estes, Elaine	SR-4	St. Joseph's (Pa.)	4:53.51	Rider 5-Way	Mar 30, 2019
+82	Elwood, Blake	SR-4	Fordham	4:53.57	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+83	Bertholon, Camille	JR-3	Rhode Island	4:53.63(1)	URI Tribute to Bill Falk	Feb 9, 2019
+84	Perkins, Morgan	JR-3	Duquesne	4:53.95	Geneva College Invite	Apr 17, 2019
+85	Rustay, Abby	SO-2	George Washington	4:54.17(1)	George Mason Patriot Games	Jan 25, 2019
+86	McKinney, Paige	JR-3	Davidson	4:54.93	2019 Adidas Winthrop University Invitational	Mar 21, 2019
+87	Mayers, Samantha	JR-3	St. Joseph's (Pa.)	4:55.26	Widener Invitational	Apr 19, 2019
+88	Larkin, Margaret	SO-2	George Mason	4:55.52	George Mason Spring Invitational	Apr 13, 2019
+89	Horgan, Olivia	SO-2	George Washington	4:56.18	2019 Navy Spring Meet	Mar 30, 2019
+90	VanFossen, Abbie	SR-4	Dayton	4:56.47(1)	2019 Jim Green Track & Field Invitational	Jan 11, 2019
+91	Savedge, Delaney	JR-3	VCU	4:56.66(1)	2019 Liberty Flames Invite	Feb 2, 2019
+92	Lee, Chelsea	JR-3	Rhode Island	4:56.81	UCONN Northeast Challenge	Apr 13, 2019
+93	Stallkamp, Victoria	SR-4	Dayton	4:57.25	Ball State Challenge	Apr 12, 2019
+94	Treanor, Una	FR-1	Rhode Island	4:57.29	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+95	Miller, Katie	FR-1	Dayton	4:58.02	Ball State Challenge	Apr 12, 2019
+96	Davis, Natalie	SR-4	Saint Louis	4:58.81	Tom Botts Invitational	Apr 19, 2019
+97	Blow, Taylor	SO-2	UMass Amherst	4:59.03(1)	2019 Beantown Challenge	Jan 12, 2019
+98	Daley, Kiera	JR-3	Saint Louis	4:59.55	Joe Walker Classic	Apr 12, 2019
+99	Rankin, Sara	SR-4	St. Joseph's (Pa.)	4:59.76	Carol & John Covert Classic	Apr 26, 2019
+100	Loughery, Maddie	FR-1	Dayton	4:59.83	Ball State Challenge	Apr 12, 2019
+101	Riley, Mary	JR-3	Saint Louis	5:00.64	Joe Walker Classic	Apr 12, 2019
+102	Schwers, Samantha	FR-1	UMass Amherst	5:00.78	UCONN Northeast Challenge	Apr 13, 2019
+103	Pettengill, Grace	FR-1	UMass Amherst	5:01.13	Black and Gold Challange	Mar 15, 2019
+104	Nguyen, Thi	SO-2	St. Joseph's (Pa.)	5:01.77	Rider Invitational 2019	Apr 13, 2019
+105	Patterson, Emily	FR-1	Duquesne	5:02.15	2019 Colonial Relays	Apr 4, 2019
+106	O'Hare, Caitlin	FR-1	Richmond	5:02.43	Ram Invite	Mar 22, 2019
+107	Prial, Brigid	SR-4	George Washington	5:02.46	Towson Invitational 2019	Apr 6, 2019
+108	Weir, Olivia	SR-4	UMass Amherst	5:02.68	Holy Cross Invitational 2019	Apr 20, 2019
+109	Pressman, Jenna	FR-1	George Washington	5:03.21	George Mason Spring Invitational	Apr 13, 2019
+110	Levy, Beatrice	FR-1	Davidson	5:03.34(1)	JDL Early Bird Duals	Dec 2, 2018
+111	Gostovich, Alexa	SO-2	St. Joseph's (Pa.)	5:03.43(1)	Penn 8-Team Select	Jan 19, 2019
+112	Beeman, Sydney	JR-3	St. Bonaventure	5:03.63	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+113	Coleman, Elena	SO-2	Saint Louis	5:04.00(1)	2019 Illini Open	Jan 12, 2019
+114	Ng, Megan	SO-2	Saint Louis	5:04.79	Joe Walker Classic	Apr 12, 2019
+115	Langevin, Anna	JR-3	Saint Louis	5:04.88	Joe Walker Classic	Apr 12, 2019
+116	Stetson, Kelli	SR-4	George Washington	5:04.92(1)	Keydet Invitational	Jan 18, 2019
+117	Conley, Carolyn	SR-4	George Mason	5:05.32(1)	George Mason Father Diamond	Jan 5, 2019
+118	White, Bridget	SO-2	Fordham	5:06.24	Mets Outdoor Track and Field Championship	Apr 12, 2019
+119	Pettit, Emma	JR-3	Davidson	5:07.79	Charlotte Invitational 2019	Apr 12, 2019
+120	Shea, Kathryn	FR-1	Richmond	5:07.88	2019 Fred Hardy Invitational	Mar 29, 2019
+121	Henry, Samantha	SO-2	St. Bonaventure	5:08.71	Alfred State Invitational	Apr 16, 2019
+122	O'Connor, Maeve	SO-2	Fordham	5:09.91(1)	Brian Horowitz Invitational	Jan 11, 2019
+123	Henneberger, Ashley	FR-1	Davidson	5:10.33(1)	JDL Early Bird Duals	Dec 2, 2018
+124	Jacobs, Molly	SO-2	St. Joseph's (Pa.)	5:11.17	Rider Invitational 2019	Apr 13, 2019
+125	Gerland, Jennifer	JR-3	Duquesne	5:11.55	2019 CMU 5 Team Invite	Mar 23, 2019
+126	Kieliszewski, Amy	SR-4	Saint Louis	5:11.72(1)	2019 Illini Open	Jan 12, 2019
+127	Robertson, Amberlee	FR-1	St. Bonaventure	5:11.92	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+128	Gallivan, Rachel	JR-3	George Washington	5:12.82	2019 Navy Spring Meet	Mar 30, 2019
+129	Reilly, Madyson	FR-1	George Mason	5:13.97	George Mason Spring Invitational	Apr 13, 2019
+130	Fatica, Lesley	JR-3	George Washington	5:14.14	2019 Morgan State Legacy Track & Field Meet	Apr 19, 2019
+131	DeSousa, Joanna	JR-3	St. Joseph's (Pa.)	5:14.23(1)	Angry Birds Challenge	Jan 12, 2019
+132	Sheldon, Victoria	FR-1	St. Joseph's (Pa.)	5:14.33(1)	Fastrack National Invite	Feb 8, 2019
+133	Martin, Ashley	FR-1	St. Joseph's (Pa.)	5:14.67	Widener Invitational	Apr 19, 2019
+134	Hutton, Brooke	FR-1	Duquesne	5:15.19	Saint Francis University Red Flash Open	Apr 27, 2019
+135	Reid, Tristen	JR-3	St. Bonaventure	5:15.73	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+136	Richart, Sarah	SO-2	George Mason	5:15.84(1)	George Mason Father Diamond	Jan 5, 2019
+137	Kilby, Anna Kathyrn	FR-1	Davidson	5:15.87(1)	JDL College Team Challenge	Feb 7, 2019
+138	Evarts, Morgan	FR-1	St. Bonaventure	5:16.02	Dave Labor Invitational	Apr 6, 2019
+139	Ustanik, Madeline	SR-4	Richmond	5:16.28	George Mason Spring Invitational	Apr 13, 2019
+140	Lytle, Lindsay	FR-1	St. Bonaventure	5:16.87	Alfred State Invitational	Apr 16, 2019
+141	Coppinger, Kelsey	SR-4	Fordham	5:17.86(1)	NYC Gotham Cup	Jan 18, 2019
+142	Del Rio, Elizabeth	SR-4	St. Joseph's (Pa.)	5:17.94(1)	Fastrack Last Chance	Feb 15, 2019
+143	Madsen, Reilly	SO-2	Dayton	5:18.14	Pacesetter Sports Invitational	Apr 19, 2019
+144	Wood, Samantha	JR-3	George Mason	5:18.58(1)	George Mason Father Diamond	Jan 5, 2019
+145	Hughes, Kaylen	FR-1	Rhode Island	5:18.87	University of MA Minuteman Invitational	Apr 6, 2019
+146	Addario, Shannon	FR-1	St. Joseph's (Pa.)	5:18.88(1)	2019 Frank Colden Invitational	Feb 2, 2019
+147	Chapman, Nicolet	JR-3	UMass Amherst	5:19.53(1)	URI Tribute to Bill Falk	Feb 9, 2019
+148	Hanlon, Sarah	FR-1	La Salle	5:20.49	2019 Fred Hardy Invitational	Mar 29, 2019
+149	Cummings, Natalie	SO-2	St. Bonaventure	5:21.85	Cal U Early Bird	Mar 23, 2019
+150	Barrett, Rose	JR-3	St. Joseph's (Pa.)	5:21.97	Carol & John Covert Classic	Apr 26, 2019
+151	Clarke, Casey	FR-1	St. Joseph's (Pa.)	5:22.19	Carol & John Covert Classic	Apr 26, 2019
+152	Weber, Alexa	FR-1	St. Joseph's (Pa.)	5:23.19(1)	Wagner College Invitational	Jan 4, 2019
+153	Herms, Julia	JR-3	Fordham	5:23.48	Rider 5-Way	Mar 30, 2019
+154	Hanrahan, Kieran	SR-4	Fordham	5:24.99(1)	Fordham Season Opener	Dec 7, 2018
+155	Chavez, Serenity	SO-2	George Mason	5:27.71	William & Mary Triangular	Mar 16, 2019
+156	Lasko, Carlee	FR-1	St. Joseph's (Pa.)	5:28.45(1)	Fastrack Last Chance	Feb 15, 2019
+157	Cherry, Jenna	JR-3	St. Bonaventure	5:30.17	Dave Labor Invitational	Apr 6, 2019
+158	Brady, Morgan	FR-1	St. Bonaventure	5:30.22	Dave Labor Invitational	Apr 6, 2019
+159	Donahue, Julia	SR-4	St. Joseph's (Pa.)	5:30.28(1)	Fastrack Last Chance	Feb 15, 2019
+160	Reynolds, Kristin	SO-2	St. Bonaventure	5:33.33	Alfred State Invitational	Apr 16, 2019
+161	Olles, Carly	FR-1	St. Bonaventure	5:34.86	Cal U Early Bird	Mar 23, 2019
+162	Napoli, Gabrielle	JR-3	Rhode Island	5:53.14	UCONN Northeast Challenge	Apr 13, 2019

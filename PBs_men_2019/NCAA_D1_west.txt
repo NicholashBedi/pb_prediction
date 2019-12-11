@@ -1,0 +1,500 @@
+1	Hoare, Oliver	JR-3	Wisconsin	3:37.20	Bryan Clay Invitational	Apr 17, 2019
+2	Villarreal, Carlos	JR-3	Arizona	3:37.22	Bryan Clay Invitational	Apr 17, 2019
+3	Paulson, William	SR-4	Arizona State	3:38.35	Bryan Clay Invitational	Apr 17, 2019
+4	Worley, Sam	SO-2	Texas	3:38.64	Bryan Clay Invitational	Apr 17, 2019
+5	Brown, Reed	SO-2	Oregon	3:38.76	Payton Jordan Invitational	May 2, 2019
+6	Beamish, Geordie	JR-3	Northern Arizona	3:39.15	Bryan Clay Invitational	Apr 17, 2019
+7	Kusche, George	SO-2	Nebraska	3:39.33	Payton Jordan Invitational	May 2, 2019
+8	Grijalva, Luis	SO-2	Northern Arizona	3:39.52	Bryan Clay Invitational	Apr 17, 2019
+9	Fisher, Grant	SR-4	Stanford	3:39.60	Payton Jordan Invitational	May 2, 2019
+10	Klecker, Joe	JR-3	Colorado	3:39.75@	Colorado Invitational 2019	Apr 5, 2019
+11	Quax, Theo	FR-1	Northern Arizona	3:39.84	Bryan Clay Invitational	Apr 17, 2019
+12	Griffith, Cameron	SR-4	Arkansas	3:39.86	Bryan Clay Invitational	Apr 17, 2019
+13	Stanovsek, Mick	JR-3	Washington	3:41.20	Payton Jordan Invitational	May 2, 2019
+14	West, James	SR-4	Oregon	3:42.41	Payton Jordan Invitational	May 2, 2019
+15	Knevelbaard, Kasey	JR-3	Southern Utah	3:42.47@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+16	Franco, Talem	JR-3	BYU	3:42.51	Bryan Clay Invitational	Apr 17, 2019
+17	Anstey, Jack	JR-3	Illinois State	3:42.83	Bryan Clay Invitational	Apr 17, 2019
+18	Penrod, Zack	JR-3	Wichita State	3:42.96	Drake Relays presented by Hy-Vee	Apr 24, 2019
+19	Teare, Cooper	SO-2	Oregon	3:43.01(1)	40th Sun Angel Track Classic	Apr 5, 2019
+20	Hunter, Charlie	SO-2	Oregon	3:43.08	Payton Jordan Invitational	May 2, 2019
+21	Dickson, Marcus	SR-4	BYU	3:43.56	Bryan Clay Invitational	Apr 17, 2019
+22	Dressel, John	JR-3	Colorado	3:43.87@	Colorado Invitational 2019	Apr 5, 2019
+23	Wilson, Michael	SR-4	New Mexico	3:43.96	Bryan Clay Invitational	Apr 17, 2019
+24	Koech, Jonah	SR-4	Texas Tech	3:44.11	Bryan Clay Invitational	Apr 17, 2019
+25	White, Kevin	SR-4	Loyola (Ill.)	3:44.15	Bryan Clay Invitational	Apr 17, 2019
+26	Owens, Matt	SO-2	BYU	3:44.25	Bryan Clay Invitational	Apr 17, 2019
+27	Pollard, Brandon	SR-4	Gonzaga	3:44.32	2019 West Coast Invitational	May 11, 2019
+28	Reiser, Jesse	JR-3	Illinois	3:44.33	Illinois Twilight	Apr 13, 2019
+29	Ryan, Paul	JR-3	Washington St.	3:44.36	Bryan Clay Invitational	Apr 17, 2019
+30	Lagat, Festus	JR-3	Iowa State	3:44.40	Cardinal Classic	Apr 19, 2019
+31	Rooks, Kenneth	FR-1	BYU	3:44.44	Bryan Clay Invitational	Apr 17, 2019
+32	Mylenek, Nathan	JR-3	Iowa	3:44.49	Drake Relays presented by Hy-Vee	Apr 24, 2019
+33	Parker, Patrick	SO-2	BYU	3:44.50	Bryan Clay Invitational	Apr 17, 2019
+34	Ratcliffe, Thomas	SO-2	Stanford	3:44.53	Stanford Invitational	Mar 29, 2019
+35	Brandt, Robert	JR-3	UCLA	3:44.66	USC vs UCLA	Apr 27, 2019
+36	Didericksen, Wyatt	SR-4	Idaho State	3:44.67@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+37	Kelly, Kevin	SR-4	Drake	3:44.72	Drake Relays presented by Hy-Vee	Apr 24, 2019
+38	Corcoran, Garrett	SR-4	California	3:44.73	2019 Cal Opener	Mar 2, 2019
+39	Burdick, Kyle	SR-4	South Dakota St.	3:44.74	Bryan Clay Invitational	Apr 17, 2019
+40	Hull, Talon	SO-2	Washington	3:44.78	Stanford Invitational	Mar 29, 2019
+41	Nicklason, Hugh	SR-4	San Francisco	3:44.79	Bryan Clay Invitational	Apr 17, 2019
+42	Forsyth, Ryan	SR-4	Colorado	3:44.86@	Colorado Invitational 2019	Apr 5, 2019
+43	Ward, Michael	SR-4	Bradley	3:44.87	Bryan Clay Invitational	Apr 17, 2019
+44	Moehn, Ethan	SR-4	Arkansas	3:44.89	Bryan Clay Invitational	Apr 17, 2019
+45	Davidson, Jack	JR-3	Santa Clara	3:45.02	2019 Oxy Invitational (College/University)	May 11, 2019
+46	Fahy, Steven	SR-4	Stanford	3:45.03	Stanford Invitational	Mar 29, 2019
+47	Sotomayor , Arturo	JR-3	UCLA	3:45.06(1)	Bob Larsen Distance Carnival	Mar 29, 2019
+48	Webb, Caleb	JR-3	Portland	3:45.32	Bryan Clay Invitational	Apr 17, 2019
+49	Mantz, Conner	SO-2	BYU	3:45.39	Bryan Clay Invitational	Apr 17, 2019
+50	O'Callaghan, Denis	SR-4	Illinois	3:45.52	Illinois Twilight	Apr 13, 2019
+51	Cortez, Garett	SR-4	Incarnate Word	3:45.70	Bryan Clay Invitational	Apr 17, 2019
+52	Mong, Henry	SO-2	Boise State	3:45.75	Bryan Clay Invitational	Apr 17, 2019
+53	Fendel, Gabe	FR-1	Colorado	3:45.78	Stanford Invitational	Mar 29, 2019
+54	Mills, Charles	SR-4	Texas	3:45.81	Bryan Clay Invitational	Apr 17, 2019
+55	Espino, George	SR-4	Southern Utah	3:45.88	Stanford Invitational	Mar 29, 2019
+55	Calhoun, Garrett	JR-3	Oklahoma State	3:45.88	John McDonnell Invitational	Apr 12, 2019
+57	Prodanov, Martin	FR-1	Missouri	3:45.91	Stanford Invitational	Mar 29, 2019
+58	Hughes, Iolo	SO-2	New Mexico	3:45.92	Bryan Clay Invitational	Apr 17, 2019
+59	Hasty, Brodey	FR-1	Northern Arizona	3:46.05@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+60	Burks, Cade	JR-3	Northern Arizona	3:46.06@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+61	Beamer, Nate	SO-2	Washington	3:46.08	Stanford Invitational	Mar 29, 2019
+62	Morzenti, Chris	SO-2	UCLA	3:46.12	USC vs UCLA	Apr 27, 2019
+63	Warner, Eldon	SR-4	South Dakota	3:46.16	Howard Wood Dakota Relays	May 3, 2019
+64	Silva, Evert	FR-1	Portland	3:46.20	Bryan Clay Invitational	Apr 17, 2019
+65	Day, Tyler	JR-3	Northern Arizona	3:46.21	Bryan Clay Invitational	Apr 17, 2019
+66	Kopczynski, Scott	JR-3	Gonzaga	3:46.22	2019 West Coast Invitational	May 11, 2019
+67	Rowe, Jordan	JR-3	Lamar	3:46.34	Bryan Clay Invitational	Apr 17, 2019
+68	Herrera, Eduardo	SO-2	Colorado	3:46.39	2019 Pac-12 Track & Field Championships	May 4, 2019
+69	Curtin, Fearghal	SO-2	Arizona State	3:46.74(1)	40th Sun Angel Track Classic	Apr 5, 2019
+70	Barville, Isaac	JR-3	Eastern Washington	3:46.82@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+71	Janes, Tyler	SO-2	UCLA	3:46.89(1)	Bob Larsen Distance Carnival	Mar 29, 2019
+72	George, Luke	FR-1	Oklahoma	3:46.96	Rafer Johnson & Jackie Joyner-Kersee Invitational	Apr 13, 2019
+73	Rowe, Jack	SR-4	San Francisco	3:47.10	Woody Wilson Classic	Apr 13, 2019
+74	Curtin, Fearghal	SO-2	Arizona State	3:47.11	2019 ASU Invitational	Mar 22, 2019
+74	Ferro, Blaise	JR-3	Northern Arizona	3:47.11@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+76	Warnick, Tracen	SO-2	Weber State	3:47.26@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+77	Rockhold, Cole	SR-4	Colorado St.	3:47.33	Mountain West Outdoor Track & Field Championship	May 8, 2019
+78	Crowe-Wright, Ian	SR-4	New Mexico	3:47.38	Payton Jordan Invitational	May 2, 2019
+78	Tamagno, Austin	SO-2	Oregon	3:47.38	Linfield Open	May 4, 2019
+78	Colley, Ackeen	SO-2	Oklahoma	3:47.38(1)	Bob Larsen Distance Carnival	Mar 29, 2019
+81	Olley, Chris	SR-4	San Francisco	3:47.43	2019 Hornet Invitational	Mar 15, 2019
+81	Lautenslager, Jeff	SR-4	Boise State	3:47.43	Bryan Clay Invitational	Apr 17, 2019
+83	Helker, Jed	FR-1	Wichita State	3:47.46	Drake Relays presented by Hy-Vee	Apr 24, 2019
+84	Green, Issac	SO-2	Washington	3:47.54	Cardinal Classic	Apr 19, 2019
+84	Janke, Justin	JR-3	Washington St.	3:47.54	Bryan Clay Invitational	Apr 17, 2019
+86	Burkhardt, Andrew	SO-2	California	3:47.76(1)	Brutus Hamilton Invitational	Apr 27, 2019
+87	Johnson, Scott	SO-2	Air Force	3:47.80	Bryan Clay Invitational	Apr 17, 2019
+88	Hoppel, Bryce	JR-3	Kansas	3:47.98	LSU Battle on the Bayou	Apr 6, 2019
+89	Olguin, Reagan	SR-4	Rice	3:48.03	2019 TSU Relays (College/University)	Mar 15, 2019
+90	Okada, Takeshi	SR-4	California	3:48.06	2019 Hornet Invitational	Mar 15, 2019
+91	Bilvado, Jacob	SR-4	Air Force	3:48.17	Bryan Clay Invitational	Apr 17, 2019
+92	Priddey, Isaiah	FR-1	Oklahoma State	3:48.22	Cardinal Classic	Apr 19, 2019
+93	DeHaven, Addison	SR-4	Boise State	3:48.31	Mountain West Outdoor Track & Field Championship	May 8, 2019
+94	Sullivan, Patrick	JR-3	Air Force	3:48.38@	Air Force Twilight Open	May 3, 2019
+95	Zeiss, Paul	JR-3	California	3:48.41(1)	Brutus Hamilton Invitational	Apr 27, 2019
+96	Romero, Jeremy	JR-3	Northern Colorado	3:48.45@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+97	Dunderdale, Haran	SR-4	Bradley	3:48.48	SIU Bill Cornell Spring Classic	Mar 22, 2019
+98	Maier, Josh	SR-4	Southern Illinois	3:48.52	SIU Bill Cornell Spring Classic	Mar 22, 2019
+99	Riley, Noah	SR-4	Air Force	3:48.59@	Air Force Twilight Open	May 3, 2019
+100	Edmondson, Brandon	SR-4	Utah Valley	3:48.61@	WAC Outdoor Track and Field Championships	May 9, 2019
+101	Greder, Milo	FR-1	Iowa State	3:48.69	Stanford Invitational	Mar 29, 2019
+102	Reniewicki, John	SR-4	Arizona State	3:48.70	2019 ASU Invitational	Mar 22, 2019
+103	Muhumed, Ahmed	SO-2	Boise State	3:48.71	Bryan Clay Invitational	Apr 17, 2019
+104	Trujillo, Millen	JR-3	UCLA	3:48.79	USC vs UCLA	Apr 27, 2019
+105	Young, Clayton	SR-4	BYU	3:48.81	Bryan Clay Invitational	Apr 17, 2019
+106	Ayala, Sam	JR-3	UC Irvine	3:48.85	adidas/Steve Scott Invitational	Apr 26, 2019
+107	Guermali, Yacine	FR-1	Gonzaga	3:48.91	2019 West Coast Invitational	May 11, 2019
+108	Roudolff-Levisse, Emmanuel	JR-3	Portland	3:49.05	Portland Twilight	May 3, 2019
+109	MacIntosh, Jordan	FR-1	Minnesota	3:49.07	Drake Relays presented by Hy-Vee	Apr 24, 2019
+110	Smith, Jake	SO-2	Cal St. Fullerton	3:49.11	adidas/Steve Scott Invitational	Apr 26, 2019
+111	Wood, Kieran	JR-3	Missouri	3:49.14	Bryan Clay Invitational	Apr 17, 2019
+112	Lucas, Hunter	FR-1	Minnesota	3:49.15	Big Ten Championships	May 10, 2019
+113	Rafla, Andrew	SR-4	Boise State	3:49.17	Mountain West Outdoor Track & Field Championship	May 8, 2019
+114	Young, Matt	SO-2	Arkansas	3:49.18	John McDonnell Invitational	Apr 12, 2019
+115	Lane, Connor	FR-1	Stanford	3:49.19	Cardinal Classic	Apr 19, 2019
+116	Villarma, Mason	JR-3	Gonzaga	3:49.27	2019 Ken Shannon Invitational	May 4, 2019
+117	Downey, Michael	JR-3	Wyoming	3:49.33@	Doug Max Invitational	Apr 12, 2019
+118	Halsted, Scott	SR-4	San Francisco	3:49.45	Portland Twilight	May 3, 2019
+119	Heikkila, Tim	SO-2	North Dakota State	3:49.46	Bryan Clay Invitational	Apr 17, 2019
+120	Byrer, Austin	SO-2	Weber State	3:49.49@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+121	Sommer, Karson	SO-2	Iowa	3:49.52	Bryan Clay Invitational	Apr 17, 2019
+122	Hebert, Brendan	FR-1	Texas	3:49.59	Big 12 Outdoor Track and Field Championships	May 10, 2019
+123	Eagan, Brad	SR-4	Marquette	3:49.63	Bryan Clay Invitational	Apr 17, 2019
+124	Roberts, Jeff	FR-1	Iowa	3:49.71	Drake Relays presented by Hy-Vee	Apr 24, 2019
+125	Bailey, Luke	FR-1	Utah State	3:49.72	Mike Fanelli Track Classic	Mar 28, 2019
+125	Slenning, Alex	FR-1	Washington	3:49.72	2019 Ken Shannon Invitational	May 4, 2019
+127	Merder, Alex	SR-4	Cal Poly	3:49.73	2019 UCSB vs. Cal Poly	Apr 27, 2019
+127	Cardenas, Fabian	JR-3	Idaho	3:49.73@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+129	Tully, Robert	SR-4	Tulsa	3:49.81	Mike Fanelli Track Classic	Mar 28, 2019
+130	Brueckman, Jacob	SO-2	Colorado St.	3:49.82@	Jack Christiansen Invitational	Apr 26, 2019
+131	Benning, Zack	SR-4	Wisconsin	3:49.86	Wisconsin Alumni Classic	May 3, 2019
+132	Ocegueda, Anthony	SO-2	Utah Valley	3:49.92@	WAC Outdoor Track and Field Championships	May 9, 2019
+133	Topini, Alex	SO-2	Rice	3:49.93	37th Annual Victor Lopez Classic	Mar 21, 2019
+134	Levermore, Kyle	SR-4	Arkansas	3:49.96	Bryan Clay Invitational	Apr 17, 2019
+135	Clayton, Taylor	SR-4	Texas A&M	3:49.97	Bryan Clay Invitational	Apr 17, 2019
+136	Hebert, Jacques	SR-4	Seattle U.	3:50.11	Oregon State High Performance Meet	Apr 26, 2019
+137	Davidson, Dustan	SO-2	Missouri	3:50.14	SEC Outdoor Track & Field Championships	May 9, 2019
+138	Litoff, Zach	SO-2	Santa Clara	3:50.15	Bryan Clay Invitational	Apr 17, 2019
+139	Cleary, Ryan	SR-4	Abilene Christian	3:50.25	North Texas Classic	Apr 6, 2019
+139	Dinger, Tai	SR-4	Stanford	3:50.25	Stanford Invitational	Mar 29, 2019
+139	Grinwis, Jacob	SO-2	Boise State	3:50.25	Portland Twilight	May 3, 2019
+142	Magnesen, Billy	SR-4	Illinois	3:50.39	Illinois Twilight	Apr 13, 2019
+143	Ehrenberg, Andy	SO-2	UCLA	3:50.40(1)	Bob Larsen Distance Carnival	Mar 29, 2019
+144	Benedict, Kai	JR-3	California	3:50.44	Mt. SAC Relays	Apr 18, 2019
+145	Hardy, Deion	JR-3	Incarnate Word	3:50.46	UIW Invitational	Apr 12, 2019
+145	Powell, Trent	SR-4	Colorado St.	3:50.46@	Jack Christiansen Invitational	Apr 26, 2019
+147	Garnica, Brandon	FR-1	BYU	3:50.49@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+148	Barr, Alex	SO-2	UC Santa Barbara	3:50.54	Bryan Clay Invitational	Apr 17, 2019
+149	Johnson, Kimathi	JR-3	Illinois State	3:50.58	Mike Fanelli Track Classic	Mar 28, 2019
+149	Lawson, DJ	FR-1	UCLA	3:50.58	Mt. SAC Relays	Apr 18, 2019
+151	Basten, Alec	SO-2	Minnesota	3:50.66	Duke Invitational	Apr 19, 2019
+152	Benitez, Anthony	FR-1	Cal Poly	3:50.76	Bryan Clay Invitational	Apr 17, 2019
+153	Legemet, Timothy	FR-1	Cal Baptist	3:50.81@	WAC Outdoor Track and Field Championships	May 9, 2019
+154	Hoeft, Owen	SO-2	Minnesota	3:50.87	Jim Click Shootout	Apr 6, 2019
+155	Haines, Alec	SO-2	Oklahoma State	3:50.88	John McDonnell Invitational	Apr 12, 2019
+156	Hamilton, Duncan	FR-1	Montana State	3:50.93@	Tom Gage Classic	May 3, 2019
+157	Cotter, Alex	JR-3	Milwaukee	3:51.03	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+158	Potrykus, Ben	JR-3	Bradley	3:51.05	Bryan Clay Invitational	Apr 17, 2019
+159	Healy, Noah	FR-1	Iowa	3:51.07	Bryan Clay Invitational	Apr 17, 2019
+160	Khosla, Sukhi	JR-3	Oklahoma State	3:51.26	Arkansas Twilight	May 3, 2019
+161	Castro, Juan Diego	FR-1	Oklahoma State	3:51.28	Stanford Invitational	Mar 29, 2019
+162	Middleton, Mark	SR-4	Tulsa	3:51.34	Bryan Clay Invitational	Apr 17, 2019
+163	Mendez, Clayton	FR-1	Stanford	3:51.35	Stanford Invitational	Mar 29, 2019
+164	Bartholomay, Alex	SO-2	North Dakota State	3:51.36	Bryan Clay Invitational	Apr 17, 2019
+164	Van Dorpe, Sam	FR-1	USC	3:51.36	Mt. SAC Relays	Apr 18, 2019
+166	Seely, Caleb	SO-2	Idaho	3:51.37@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+167	Abdi, Hassan	SR-4	Oklahoma State	3:51.38	Arkansas Spring Invitational	Mar 22, 2019
+167	Warren, Heath	JR-3	Oklahoma	3:51.38	National Relay Championships	Apr 26, 2019
+169	Forsyth, Andrew	SO-2	Colorado St.	3:51.39@	Doug Max Invitational	Apr 12, 2019
+170	Birka, Grayson	SR-4	UT-Arlington	3:51.45	Sun Belt Outdoor Track and Field Championships	May 10, 2019
+171	Armstrong, Elijah	SO-2	Boise State	3:51.48	Bryan Clay Invitational	Apr 17, 2019
+172	Kottsick, Evan	JR-3	North Dakota State	3:51.49	Bryan Clay Invitational	Apr 17, 2019
+173	Wickoren, Nathan	SR-4	Wichita State	3:51.58	Drake Relays presented by Hy-Vee	Apr 24, 2019
+174	Gonzales, Ethan	SR-4	Colorado	3:51.62@	Colorado Invitational 2019	Apr 5, 2019
+175	Little, Kyler	SR-4	Washington St.	3:51.69	Bryan Clay Invitational	Apr 17, 2019
+176	Henry, Christopher	SO-2	Wyoming	3:51.70@	Doug Max Invitational	Apr 12, 2019
+177	Paige, Simon	JR-3	Bradley	3:51.72	Bryan Clay Invitational	Apr 17, 2019
+178	Collins, Josh	JR-3	Southern Utah	3:51.76@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+179	O'Mara, Colin	SR-4	Arkansas	3:51.85	SEC Outdoor Track & Field Championships	May 9, 2019
+180	Bonilla, Edgar	JR-3	San Jose St.	3:52.06	Mountain West Outdoor Track & Field Championship	May 8, 2019
+181	Bedard, Simon	JR-3	Cal Baptist	3:52.10	adidas/Steve Scott Invitational	Apr 26, 2019
+182	Seymour, Scott	JR-3	Bradley	3:52.14	Bryan Clay Invitational	Apr 17, 2019
+183	Taylor, Jerald	FR-1	Wyoming	3:52.16@	Doug Max Invitational	Apr 12, 2019
+184	Butterfield, Connor	SO-2	UT-Arlington	3:52.17	2019 92nd Clyde Littlefield Texas Relays	Mar 27, 2019
+184	Lussy, Florian	JR-3	North Texas	3:52.17	North Texas Classic	Apr 6, 2019
+186	Ramos, Justice		Colorado	3:52.19@	Jerry Quiller Classic 2019	Mar 15, 2019
+187	Khat, Wal	JR-3	Northern Iowa	3:52.21	Drake Relays presented by Hy-Vee	Apr 24, 2019
+187	Kabbara, Munir	FR-1	UCLA	3:52.21(1)	Bob Larsen Distance Carnival	Mar 29, 2019
+189	Loud, Irwin	FR-1	Illinois	3:52.31	The Reveille Meet	Apr 6, 2019
+190	Jakowec, Nicolaus	JR-3	USC	3:52.32	USC Trojan Invite	Mar 15, 2019
+191	Bashqawi, Alex	SR-4	Illinois-Chicago	3:52.38	Illinois Twilight	Apr 13, 2019
+192	George, Thomas	JR-3	Missouri	3:52.40	John McDonnell Invitational	Apr 12, 2019
+193	Flores, Daniel	SR-4	Grand Canyon	3:52.42	41st Annual Aztec Invitational	Mar 22, 2019
+194	Clusserath, Andrew	SO-2	Gonzaga	3:52.48	Cardinal Classic	Apr 19, 2019
+194	Contreras, Blake	SR-4	Houston	3:52.48	Tom Tellez Invitational	May 3, 2019
+196	Chamberlain, Gannon	SO-2	Montana State	3:52.49@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+197	Smeeton, Ryan	SO-2	Oklahoma State	3:52.50	Arkansas Spring Invitational	Mar 22, 2019
+198	Laccinole, Nicholas	SO-2	Washington	3:52.54	2019 Ken Shannon Invitational	May 4, 2019
+198	Van Niekerk, Heinrich	JR-3	UC Riverside	3:52.54	Big West Outdoor Track & Field Championships	May 10, 2019
+200	Herbst, Heinrich	JR-3	Arkansas State	3:52.61	Sun Belt Outdoor Track and Field Championships	May 10, 2019
+201	O'Connor, Matthew	SR-4	SIU Edwardsville	3:52.62	SIU Bill Cornell Spring Classic	Mar 22, 2019
+201	Wojciechowski, Josh	SR-4	Air Force	3:52.62@	Jack Christiansen Invitational	Apr 26, 2019
+203	Bishop, Jon	JR-3	Texas A&M	3:52.65	The Reveille Meet	Apr 6, 2019
+204	Opsahl, Elias	FR-1	Cal Poly	3:52.70	2019 Cal Poly Shareslo.com Invitational	Mar 22, 2019
+205	Roehl, Camron	SR-4	North Dakota State	3:52.82	Bryan Clay Invitational	Apr 17, 2019
+206	Hume, Carson	SR-4	Colorado St.	3:52.85	Bryan Clay Invitational	Apr 17, 2019
+207	Parson, Ryan	SO-2	UMKC	3:52.91	Arkansas Twilight	May 3, 2019
+208	Campbell, Josh	JR-3	Northern Colorado	3:52.93	2019 Triton Invitational	Apr 12, 2019
+209	Steck, Konrad	SO-2	Air Force	3:52.94@	Colorado Invitational 2019	Apr 5, 2019
+210	Samyn, Josh	FR-1	North Dakota State	3:52.97	Bryan Clay Invitational	Apr 17, 2019
+211	Schulz, Brian	FR-1	UC Santa Barbara	3:52.99	41st Annual Aztec Invitational	Mar 22, 2019
+212	Robison, Justin	SO-2	Cal Poly	3:53.04	2019 Cal Poly Shareslo.com Invitational	Mar 22, 2019
+213	Lundberg, Russell	SO-2	Weber State	3:53.15	Bryan Clay Invitational	Apr 17, 2019
+214	Dwyer, Colin	SO-2	Air Force	3:53.17@	Colorado Invitational 2019	Apr 5, 2019
+215	Miller, Alec	SR-4	Marquette	3:53.18	Marquette Invitational	Apr 5, 2019
+216	Quintero, Jorge	SR-4	Incarnate Word	3:53.21	UIW Cardinal Spring Break Classic	Mar 14, 2019
+217	Havriliak, Kyle	SR-4	Northern Arizona	3:53.29	2019 Baldy Castillo Invitational	Mar 15, 2019
+218	Morello, Connor	JR-3	Washington	3:53.36	Stanford Invitational	Mar 29, 2019
+219	Lomong, Peter	SR-4	Northern Arizona	3:53.38	2019 Baldy Castillo Invitational	Mar 15, 2019
+219	Olson, Connor	JR-3	Minnesota	3:53.38	Minnesota Men's Twilight	May 1, 2019
+221	Garcia, Hector	JR-3	UC Irvine	3:53.44	adidas/Steve Scott Invitational	Apr 26, 2019
+221	Rink, Nick	SO-2	Minnesota	3:53.44	Tomcat Twilight	Apr 18, 2019
+223	Farnsworth, Dallin	JR-3	BYU	3:53.49	2019 Oxy Invitational (College/University)	May 11, 2019
+223	Waters, Seth	SO-2	Arkansas State	3:53.49	Memphis Tiger invitational	Apr 26, 2019
+225	Johnson, Jake	SO-2	Texas	3:53.51	The Reveille Meet	Apr 6, 2019
+226	TeBeest, Kurt	SO-2	North Dakota State	3:53.52	Bryan Clay Invitational	Apr 17, 2019
+227	Ramirez, Luke	FR-1	Portland State	3:53.54@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+228	Cobos, Andrew	SR-4	North Texas	3:53.55	North Texas Classic	Apr 6, 2019
+228	LaRance, Dawson	SO-2	Minnesota	3:53.55	Stanford Invitational	Mar 29, 2019
+230	Pina, Jose	SO-2	San Jose St.	3:53.58	2019 Hornet Invitational	Mar 15, 2019
+231	Peterson, Danny	SO-2	Marquette	3:53.59	BIG EAST Outdoor Track & Field Championships	May 10, 2019
+232	Lagerstrom, Brennan	JR-3	Santa Clara	3:53.61	2019 Cal Opener	Mar 2, 2019
+233	Lozano, Isaiah	SO-2	UC Santa Barbara	3:53.79	2019 UCSB vs. Cal Poly	Apr 27, 2019
+234	Myrtue, Matthew	JR-3	USC	3:53.80	USC Trojan Invite	Mar 15, 2019
+235	Aljabaly, Shuaib	FR-1	Wisconsin	3:53.89	Wisconsin Alumni Classic	May 3, 2019
+236	Pancake, Devin	FR-1	Utah State	3:53.90	Mike Fanelli Track Classic	Mar 28, 2019
+237	Domangue, Justin	JR-3	UT-Arlington	3:53.91	2019 UTA Bobby Lane Invitational	Mar 22, 2019
+238	Shinn, Kyle	SR-4	Arizona State	3:53.92	40th Sun Angel Track Classic	Apr 5, 2019
+239	Dozier, Nolan	JR-3	St. Mary's (Cal.)	3:53.93	2019 Cal Opener	Mar 2, 2019
+240	Shaw, Ben	FR-1	Idaho	3:53.94	2019 Mondo Team Challenge	Mar 30, 2019
+241	Prest, Matt	JR-3	Saint Louis	3:53.97	SLU Billiken Invitational	Apr 5, 2019
+242	Schutte, Noah	SR-4	Portland	3:53.99	Bryan Clay Invitational	Apr 17, 2019
+243	Bielaczyc, Garek	JR-3	Texas	3:54.03	The Reveille Meet	Apr 6, 2019
+244	Hornecker, Alec	SO-2	Colorado	3:54.07@	Colorado Invitational 2019	Apr 5, 2019
+245	Ganahl, Kevin	SR-4	Saint Louis	3:54.10	Bryan Clay Invitational	Apr 17, 2019
+245	McPhail, Wes	FR-1	Texas A&M	3:54.10	The Reveille Meet	Apr 6, 2019
+247	DeMeulenaere, Riley	JR-3	Loyola (Ill.)	3:54.12	Bryan Clay Invitational	Apr 17, 2019
+248	Roth, Bailey	SR-4	Arizona	3:54.15	Jim Click Shootout	Apr 6, 2019
+249	Anaya Carmona, Israel	SO-2	Boise State	3:54.16	Bryan Clay Invitational	Apr 17, 2019
+250	Ado, Amir	FR-1	Washington St.	3:54.18	USC Trojan Invite	Mar 15, 2019
+250	Wagner, Tannor	SO-2	Wisconsin	3:54.18	Stanford Invitational	Mar 29, 2019
+252	Brenneman, Dylan	FR-1	Kansas State	3:54.20	Ward Haylett Invitational	May 3, 2019
+253	Guerrero, Michael	SR-4	UT-Arlington	3:54.22	2019 UTA Bobby Lane Invitational	Mar 22, 2019
+253	Pascoe, Bennett	SO-2	Arkansas State	3:54.22	Memphis Tiger invitational	Apr 26, 2019
+255	Estrella, Jorge	FR-1	Santa Clara	3:54.31	2019 Cal Opener	Mar 2, 2019
+256	Preston, Brandt	JR-3	Texas A&M	3:54.35	The Reveille Meet	Apr 6, 2019
+257	Johnson, Bryan	SO-2	UC Santa Barbara	3:54.39	2019 UCSB vs. Cal Poly	Apr 27, 2019
+258	Egan, Jacob	FR-1	Utah Valley	3:54.45	Bryan Clay Invitational	Apr 17, 2019
+258	Nicholson, Jacob	SO-2	Washington St.	3:54.45	Bryan Clay Invitational	Apr 17, 2019
+258	Newcomb, Gus	FR-1	Colorado	3:54.45@	Jack Christiansen Invitational	Apr 26, 2019
+261	Almog, Omer	JR-3	UT-Rio Grande Valley	3:54.47	UIW Invitational	Apr 12, 2019
+262	Eliason, Seth	FR-1	Minnesota	3:54.48	Stanford Invitational	Mar 29, 2019
+263	Raslowsky, Christian	JR-3	Santa Clara	3:54.49	Portland Twilight	May 3, 2019
+264	Beyer, Charles	FR-1	Washington	3:54.50	2019 Ken Shannon Invitational	May 4, 2019
+265	Hoffert, Jake	JR-3	Bradley	3:54.52	Illinois Twilight	Apr 13, 2019
+266	Gross, Derek	JR-3	Marquette	3:54.55	Bryan Clay Invitational	Apr 17, 2019
+267	Seagraves, Zephyr	SO-2	Texas A&M	3:54.56	Bryan Clay Invitational	Apr 17, 2019
+268	Quigley, Bryce	SO-2	Oklahoma State	3:54.58	John McDonnell Invitational	Apr 12, 2019
+269	Manderscheid, Jack	SO-2	Minnesota	3:54.59	Tomcat Twilight	Apr 18, 2019
+269	Miller, Bryce	SR-4	UMKC	3:54.59@	WAC Outdoor Track and Field Championships	May 9, 2019
+271	Bradley, Stefan	JR-3	Gonzaga	3:54.60	2019 Buc Scoring Meet	Mar 16, 2019
+272	Sathyamurthy, Hari	SO-2	Stanford	3:54.62	Stanford Invitational	Mar 29, 2019
+273	Chahal, Jimmy	FR-1	UC Santa Barbara	3:54.64	Big West Outdoor Track & Field Championships	May 10, 2019
+274	Cleveland, Alex	SR-4	North Texas	3:54.65	North Texas Classic	Apr 6, 2019
+274	Harper, Ben	SO-2	California	3:54.65	2019 Hornet Invitational	Mar 15, 2019
+274	May, CJ	SO-2	Northern Iowa	3:54.65	Wisconsin Alumni Classic	May 3, 2019
+277	Perrin, Jake	SO-2	Gonzaga	3:54.70	WAR 12	Apr 5, 2019
+277	Small, Mitchell	FR-1	Northern Arizona	3:54.70	2019 Baldy Castillo Invitational	Mar 15, 2019
+279	Fitzgerald, James	JR-3	Northern Arizona	3:54.71	Bryan Clay Invitational	Apr 17, 2019
+280	Embleton, Jerik	FR-1	Tulsa	3:54.72	John McDonnell Invitational	Apr 12, 2019
+281	Peters, Gabe	SO-2	South Dakota St.	3:54.73	Drake Relays presented by Hy-Vee	Apr 24, 2019
+282	Mestler, Jackson	JR-3	Oregon	3:54.75	41st Annual Aztec Invitational	Mar 22, 2019
+283	Garcia, Ashton	SR-4	UC Irvine	3:54.79	UC Irvine Spring Break Collegiate Classic	Mar 15, 2019
+283	Murphy, Daniel	JR-3	Iowa	3:54.79	2019 Baldy Castillo Invitational	Mar 15, 2019
+285	Fischer, Spencer	FR-1	Santa Clara	3:54.80	Portland Twilight	May 3, 2019
+286	Lamer, Justice	JR-3	Montana State	3:54.83@	Tom Gage Classic	May 3, 2019
+287	Bugg, Jason	SO-2	Rice	3:54.85	2019 TSU Relays (College/University)	Mar 15, 2019
+288	Duggan, Luke	JR-3	Northern Colorado	3:54.86@	2019 Tom Benich Invite	Mar 30, 2019
+289	Mueller, Lance	JR-3	Saint Louis	3:54.88	Joe Walker Classic	Apr 12, 2019
+290	Gindi, Elliot	SO-2	Northern Arizona	3:54.97	Bryan Clay Invitational	Apr 17, 2019
+291	Bootz, Jake	SR-4	Texas A&M	3:54.99	The Reveille Meet	Apr 6, 2019
+291	Field, Cameron	JR-3	Tulsa	3:54.99	The American Outdoor Track & Field Championships	May 10, 2019
+293	Hernandez, Matthew	SO-2	Incarnate Word	3:55.01	UIW Invitational	Apr 12, 2019
+294	Quinn, Jason	SR-4	Southern Utah	3:55.03	Bryan Clay Invitational	Apr 17, 2019
+295	McMillan, Terry	SR-4	Milwaukee	3:55.04	Marquette Mid-Week Challenge	Apr 24, 2019
+295	Baratte, Andrea	FR-1	Montana	3:55.04@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+297	Skelly, Landon	JR-3	SIU Edwardsville	3:55.06	Joe Walker Classic	Apr 12, 2019
+298	Pederson, Daniel	SO-2	Marquette	3:55.08	Bryan Clay Invitational	Apr 17, 2019
+299	Lewis, Jacob	FR-1	Grand Canyon	3:55.11@	WAC Outdoor Track and Field Championships	May 9, 2019
+300	Gooch, Jack	JR-3	Lamar	3:55.12	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+301	Ewing, Harry	SO-2	Wyoming	3:55.13@	Doug Max Invitational	Apr 12, 2019
+302	Thomas, Andrew	FR-1	Washington	3:55.16	2019 Ken Shannon Invitational	May 4, 2019
+303	Marquez, Aldo	JR-3	Northern Arizona	3:55.21	2019 Baldy Castillo Invitational	Mar 15, 2019
+304	Rast, Landon	FR-1	Grand Canyon	3:55.24	2019 Willie Williams Classic College	Mar 15, 2019
+304	Simmons, Jacob	SR-4	South Dakota	3:55.24	Summit League T&F Outdoor Championships	May 8, 2019
+306	Nelson, Lukas	JR-3	South Dakota St.	3:55.25	Bryan Clay Invitational	Apr 17, 2019
+307	Orlow, Christopher	SR-4	Eastern Illinois	3:55.27	Drake Relays presented by Hy-Vee	Apr 24, 2019
+308	Flowers, Ben	SO-2	Wichita State	3:55.32	Drake Relays presented by Hy-Vee	Apr 24, 2019
+308	West, Cooper	FR-1	Montana State	3:55.32@	Montana State Open	Apr 20, 2019
+310	Ramsey, Krey	SO-2	Weber State	3:55.34@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+311	Lechleitner, Xavier	JR-3	Drake	3:55.38	MVC Championship	May 10, 2019
+312	Medrano, Moises	FR-1	California	3:55.41	Mike Fanelli Track Classic	Mar 28, 2019
+313	Letner, George	JR-3	Kansas	3:55.43	National Relay Championships	Apr 26, 2019
+314	Ritter, Jake	SO-2	Cal Poly	3:55.44	2019 Cal Poly Shareslo.com Invitational	Mar 22, 2019
+315	Donahue, Keegan	JR-3	Kansas State	3:55.47	Wichita State KT Woodman Classic	Apr 10, 2019
+316	Arnold, Matthew	JR-3	Lamar	3:55.56	37th Annual Victor Lopez Classic	Mar 21, 2019
+316	Gardner, Andrew	SR-4	Gonzaga	3:55.56	WAR 12	Apr 5, 2019
+318	Wendle, Graham	SR-4	Gonzaga	3:55.57	2019 Buc Scoring Meet	Mar 16, 2019
+319	Rennie, Braydon	SR-4	Tulsa	3:55.67	The American Outdoor Track & Field Championships	May 10, 2019
+320	Panici, Demetri	JR-3	Loyola (Ill.)	3:55.69	Bryan Clay Invitational	Apr 17, 2019
+321	Hogan, Peter	SO-2	Gonzaga	3:55.71	WAR 12	Apr 5, 2019
+322	Champagne, Emmanuel	SO-2	Loyola (Ill.)	3:55.72	Bryan Clay Invitational	Apr 17, 2019
+323	Haughey, Gabriel	SR-4	Portland	3:55.74	Portland Twilight	May 3, 2019
+324	Cozine, Matt	JR-3	Drake	3:55.85	MVC Championship	May 10, 2019
+325	Breuckman, Tom	FR-1	South Dakota St.	3:55.87	Bryan Clay Invitational	Apr 17, 2019
+325	Demeku-Ousman, Solomon	SR-4	Loyola Marymount	3:55.87	UC Irvine Spring Break Collegiate Classic	Mar 15, 2019
+327	Schwartz, Jackson	SO-2	Tulsa	3:55.89	Arkansas Twilight	May 3, 2019
+328	Brown, Xolan	JR-3	UC Davis	3:55.94	Woody Wilson Classic	Apr 13, 2019
+329	Remington, Isaiah	JR-3	Northern Colorado	3:56.03@	UNC Invite	Apr 19, 2019
+330	Simpson, Michael	JR-3	Long Beach St.	3:56.07	adidas/Steve Scott Invitational	Apr 26, 2019
+331	Richardson, Tom	JR-3	Boise State	3:56.09	Bryan Clay Invitational	Apr 17, 2019
+332	Pixler, Nathan	SO-2	Seattle U.	3:56.13	4th Annual Doris Heritage Track Festival	Mar 16, 2019
+333	Stone, Elliott	JR-3	North Dakota State	3:56.16	IMG Academy Invitational	Mar 16, 2019
+334	Moll, Quinlan	SR-4	UMKC	3:56.18	Arkansas Twilight	May 3, 2019
+335	Estrada, Branden	SR-4	Loyola Marymount	3:56.26	UC Irvine Spring Break Collegiate Classic	Mar 15, 2019
+336	Pendley-Griffin, Ansel	FR-1	Seattle U.	3:56.29	Bryan Clay Invitational	Apr 17, 2019
+336	Truax, Sammy	JR-3	Gonzaga	3:56.29	WAR 12	Apr 5, 2019
+338	Jacklin, Zac	FR-1	BYU	3:56.37@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+339	Manley, Kellen	SR-4	Gonzaga	3:56.43(1)	Spokane Memorial 2019	May 3, 2019
+340	Merrell, Jake	FR-1	Baylor	3:56.48	USC Trojan Invite	Mar 15, 2019
+340	Haroldsen, Coen	SO-2	Utah State	3:56.48@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+342	Breaux, Adam	JR-3	Tulsa	3:56.49	Arkansas Spring Invitational	Mar 22, 2019
+342	Dylla, Collin	SO-2	Arizona	3:56.49	Mt. SAC Relays	Apr 18, 2019
+344	Keditukei, Lamek	SO-2	Utah Valley	3:56.50@	WAC Outdoor Track and Field Championships	May 9, 2019
+345	Bennett, John	FR-1	Cal Poly	3:56.58	2019 Cal Poly Shareslo.com Invitational	Mar 22, 2019
+345	McIntyre, Charlie	SO-2	DePaul	3:56.58	Illinois Twilight	Apr 13, 2019
+345	Olson, Teagan	FR-1	Montana State	3:56.58@	Tom Gage Classic	May 3, 2019
+348	Changco, Elijah	JR-3	Sacramento St.	3:56.62	Bryan Clay Invitational	Apr 17, 2019
+349	Fragola, Adam	FR-1	UC Davis	3:56.63	2019 Hornet Invitational	Mar 15, 2019
+349	Lehl, Connor	SO-2	Santa Clara	3:56.63	2019 Oxy Invitational (College/University)	May 11, 2019
+349	Wallace, Kenny	SO-2	Loyola (Ill.)	3:56.63	MVC Championship	May 10, 2019
+352	Garz, Daniel	SR-4	Idaho State	3:56.67	2019 Pomona-Pitzer Invitational (College/Univ)	Apr 6, 2019
+353	Burthem, Liam	JR-3	Lamar	3:56.68	37th Annual Victor Lopez Classic	Mar 21, 2019
+354	Danner, Alec	FR-1	Bradley	3:56.78	Illinois Twilight	Apr 13, 2019
+354	Hartman, Alec	SO-2	Bradley	3:56.78	Bryan Clay Invitational	Apr 17, 2019
+356	Pope, Charlie	SO-2	San Jose St.	3:56.81	Woody Wilson Classic	Apr 13, 2019
+357	Landon, Cory	SO-2	Wichita State	3:56.83	Wichita State KT Woodman Classic	Apr 10, 2019
+358	Elkins, Dereck	FR-1	Texas State	3:56.88	Sun Belt Outdoor Track and Field Championships	May 10, 2019
+359	Stremcha, Braden	FR-1	Montana State	3:56.90@	Tom Gage Classic	May 3, 2019
+360	Chavez, Luis	FR-1	San Jose St.	3:56.91	Brutus Hamilton Open	Apr 26, 2019
+361	Cates, Preston	JR-3	Arkansas	3:56.93	John McDonnell Invitational	Apr 12, 2019
+361	Jordan, Ty	JR-3	Boise State	3:56.93	Mike Fanelli Track Classic	Mar 28, 2019
+363	Hayes, Henry	SO-2	Portland	3:56.97	Portland Twilight	May 3, 2019
+364	Allegre, Peter	SO-2	Portland	3:56.98	John Knight Twilight	Apr 5, 2019
+365	Ornelas, Raymon	FR-1	Long Beach St.	3:57.02	USC Trojan Invite	Mar 15, 2019
+366	Young, Jack	FR-1	Kansas	3:57.06	National Relay Championships	Apr 26, 2019
+367	Prince, Beau	SO-2	Northern Arizona	3:57.09	2019 Baldy Castillo Invitational	Mar 15, 2019
+368	Michael, Cade	SO-2	Texas State	3:57.13	Sun Belt Outdoor Track and Field Championships	May 10, 2019
+369	Stafford, Andrew	JR-3	Portland State	3:57.18	Mike Fanelli Track Classic	Mar 28, 2019
+370	Loevenstein, Kurt	SR-4	Kansas State	3:57.21	2019 TCU Invitational	Mar 16, 2019
+371	Francis, Jacob	SO-2	Southern Utah	3:57.24@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+372	Hendrickson, Adam	SR-4	Utah State	3:57.28	Mike Fanelli Track Classic	Mar 28, 2019
+373	Lawton, Cal	SR-4	South Dakota St.	3:57.32	South Dakota Challenge	Apr 6, 2019
+373	Wilfert, Thomas	SO-2	UC Santa Barbara	3:57.32	Bryan Clay Invitational	Apr 17, 2019
+375	Schilling, Andrew	JR-3	Wisconsin	3:57.40	Wisconsin Alumni Classic	May 3, 2019
+375	Schwinghamer, Michael	SO-2	South Dakota St.	3:57.40	Howard Wood Dakota Relays	May 3, 2019
+377	Powell, Ethan	SO-2	Kansas State	3:57.45	2019 TCU Invitational	Mar 16, 2019
+378	Haas, Stephen	JR-3	Northern Colorado	3:57.46	adidas/Steve Scott Invitational	Apr 26, 2019
+379	Jeandree, Julien	SR-4	Central Arkansas	3:57.47	Mt. SAC Relays	Apr 18, 2019
+380	Eklin, Ian	SR-4	Iowa	3:57.48	2019 Baldy Castillo Invitational	Mar 15, 2019
+381	Bertschy, Montgomery	SR-4	UTSA	3:57.49	Conference USA Outdoor Championships	May 9, 2019
+382	Cortes, Isaac	SO-2	Stanford	3:57.50	Stanford Invitational	Mar 29, 2019
+383	Henderson, Matt	SO-2	Baylor	3:57.51	The Reveille Meet	Apr 6, 2019
+384	Greeves, Scott	SR-4	Idaho State	3:57.56	2019 Pomona-Pitzer Invitational (College/Univ)	Apr 6, 2019
+385	Timmons, Bailey	SO-2	Nebraska	3:57.67	Crimson Tide Invitational	Apr 11, 2019
+386	Sloan, Jack	SO-2	Eastern Washington	3:57.68	Bryan Clay Invitational	Apr 17, 2019
+387	Halewyn, Kieran	SO-2	Pepperdine	3:57.72	2019 Pomona-Pitzer Invitational (College/Univ)	Apr 6, 2019
+388	Oftedal, Eli	JR-3	Colorado St.	3:57.75@	2019 Tom Benich Invite	Mar 30, 2019
+389	Law, Reno	JR-3	Wichita State	3:57.77	Drake Relays presented by Hy-Vee	Apr 24, 2019
+390	Marsing, Garrett	SO-2	BYU	3:57.78@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+391	Gueguen, Jules	FR-1	DePaul	3:57.82	Gibson Invitational	Apr 6, 2019
+392	Haney, Blake	SR-4	Oregon	3:57.84	2019 Pac-12 Track & Field Championships	May 4, 2019
+393	Cook, Zach	SR-4	Missouri	3:57.93	Drake Relays presented by Hy-Vee	Apr 24, 2019
+393	Huff, Craig	SO-2	San Jose St.	3:57.93	2019 Hornet Invitational	Mar 15, 2019
+395	Messmer, Dennis	SR-4	Cal Baptist	3:57.94	Oxy Distance Carnival Spring Break Classic	Mar 9, 2019
+396	Gillum, Jake	SO-2	Illinois State	3:58.01	Ole Miss Classic	Mar 30, 2019
+397	Juarez, Erick	JR-3	Cal St. Fullerton	3:58.02	adidas/Steve Scott Invitational	Apr 26, 2019
+398	Lewis, Jackson	SO-2	Arizona State	3:58.07	2019 ASU Invitational	Mar 22, 2019
+399	Taylor, Kieran	SO-2	Arkansas	3:58.10	Arkansas Spring Invitational	Mar 22, 2019
+400	Dempsey, John	FR-1	USC	3:58.13	2019 Triton Invitational	Apr 12, 2019
+401	Staack, Hunter	SO-2	Minnesota	3:58.15	Minnesota Men's Twilight	May 1, 2019
+402	Ronzone, Michael	FR-1	Kansas	3:58.16	National Relay Championships	Apr 26, 2019
+402	Zachariou, Christos	JR-3	Houston Baptist	3:58.16	2019 TSU Relays (College/University)	Mar 15, 2019
+404	Henderson, Hunter	FR-1	Central Arkansas	3:58.18	Kansas Relays	Apr 17, 2019
+405	Meyer, Adam	SO-2	Arizona State	3:58.21	2019 Baldy Castillo Invitational	Mar 15, 2019
+406	Miller, Walker	FR-1	UMKC	3:58.27@	WAC Outdoor Track and Field Championships	May 9, 2019
+407	Misuraca, Evan	JR-3	Santa Clara	3:58.32	Portland Twilight	May 3, 2019
+408	Landa, Hociel	SO-2	Rice	3:58.34	2019 TSU Relays (College/University)	Mar 15, 2019
+409	Wiberg, Zach	SO-2	Weber State	3:58.35	Bryan Clay Invitational	Apr 17, 2019
+410	Ramirez, Mario	SR-4	Cal St. Northridge	3:58.36	USC Trojan Invite	Mar 15, 2019
+411	Loquercio, Justin	JR-3	Missouri	3:58.38	Tom Botts Invitational	Apr 19, 2019
+411	McNulty, Kevin	FR-1	Cal St. Fullerton	3:58.38	Big West Challenge	Apr 5, 2019
+413	Vanderbosch, Ben	FR-1	Montana	3:58.40@	Al Manuel Northwest Challenge	Mar 29, 2019
+414	Anderson, Josiah	JR-3	Idaho	3:58.46	Oregon State High Performance Meet	Apr 26, 2019
+415	Smith, Paxton	JR-3	Colorado	3:58.49@	Colorado Invitational 2019	Apr 5, 2019
+416	Libby, Mitch	FR-1	USC	3:58.55	USC Trojan Invite	Mar 15, 2019
+416	Sanders, Josh	SO-2	UMKC	3:58.55	John McDonnell Invitational	Apr 12, 2019
+418	Quere, Marcus	JR-3	Kansas	3:58.67	Ward Haylett Invitational	May 3, 2019
+419	Medina, Emilio	JR-3	Arkansas-Little Rock	3:58.69	Sun Belt Outdoor Track and Field Championships	May 10, 2019
+420	Delgado, Ronaldo	FR-1	Fresno State	3:58.74	Mountain West Outdoor Track & Field Championship	May 8, 2019
+421	Romano, Francesco	FR-1	Eastern Illinois	3:58.75	Illinois Twilight	Apr 13, 2019
+422	Yearian, Jack	SO-2	Oregon	3:58.77	Cardinal Classic	Apr 19, 2019
+423	Gould, Kody	SR-4	Utah State	3:58.80@	Aggie Iinvitational	Apr 12, 2019
+424	Quisenberry, Dylan	SO-2	Missouri	3:58.82	Mizzou Spring Open	Apr 6, 2019
+425	Flores, Ramon	JR-3	UC Santa Barbara	3:58.83	Bryan Clay Invitational	Apr 17, 2019
+426	Mierzwa, Henry	SR-4	Marquette	3:58.85	Marquette Invitational	Apr 5, 2019
+427	Henry, Philip	FR-1	Wyoming	3:58.88@	Doug Max Invitational	Apr 12, 2019
+428	Morrison, Joe	FR-1	Minnesota	3:58.91	Tomcat Twilight	Apr 18, 2019
+429	Simmons, Joe	JR-3	Idaho State	3:58.96@	Aggie Iinvitational	Apr 12, 2019
+430	Tew, Jakob	SO-2	Utah State	3:58.98@	2019 UVU Collegiate Invitational	Mar 29, 2019
+431	Conlin, Sean	JR-3	Saint Louis	3:59.00	SLU Billiken Invitational	Apr 5, 2019
+431	Kibet, Timothy	FR-1	Arizona	3:59.00	Mt. SAC Relays	Apr 18, 2019
+433	Lucking, Alex	SR-4	DePaul	3:59.02	Gibson Invitational	Apr 6, 2019
+434	Everson, Leif	SO-2	Boise State	3:59.06	Bryan Clay Invitational	Apr 17, 2019
+435	Kavulich, John T.	FR-1	Portland	3:59.11	Portland Twilight	May 3, 2019
+435	Lautenslager, Jared	SO-2	UT-Arlington	3:59.11	2019 TCU Invitational	Mar 16, 2019
+437	Ferle, Nejc	SO-2	Lamar	3:59.15	Texas State Bobcat Classic	Apr 26, 2019
+437	Ross, Cameron	FR-1	Northern Colorado	3:59.15@	Colorado Invitational 2019	Apr 5, 2019
+439	Musial, Clay	SR-4	Rice	3:59.18	2019 TSU Relays (College/University)	Mar 15, 2019
+440	Curran, Sean	SO-2	Wichita State	3:59.19	Wichita State KT Woodman Classic	Apr 10, 2019
+441	Dale, Zach	JR-3	Illinois	3:59.20	SIU Bill Cornell Spring Classic	Mar 22, 2019
+442	Ceja, Jordy	SR-4	UC Davis	3:59.22	Aggie Open 2019	Mar 9, 2019
+443	Donley, Ethan	SO-2	Kansas	3:59.23	2019 92nd Clyde Littlefield Texas Relays	Mar 27, 2019
+444	Maldonado, Abraham	FR-1	Sacramento St.	3:59.28	Bryan Clay Invitational	Apr 17, 2019
+445	Spence, Max	SO-2	Southern Utah	3:59.29	Bryan Clay Invitational	Apr 17, 2019
+446	Kiprotich, Cornelius	FR-1	Texas Tech	3:59.30	2019 92nd Clyde Littlefield Texas Relays	Mar 27, 2019
+447	Maneloveg, Daniel	SO-2	San Francisco	3:59.35	2019 Cal Opener	Mar 2, 2019
+447	Wise, Christopher	FR-1	UTSA	3:59.35	Roadrunner Invitational	Mar 21, 2019
+449	Kozuhar, Zlatko	FR-1	Cal Baptist	3:59.38	adidas/Steve Scott Invitational	Apr 26, 2019
+450	Kielhofner, Stephen	FR-1	Saint Louis	3:59.45	Joe Walker Classic	Apr 12, 2019
+451	Hartzenberg, McMarshall	SO-2	Cal Baptist	3:59.47	UC-Riverside Spring Track Classic	Mar 21, 2019
+452	Schaefer, Logan	SO-2	Long Beach St.	3:59.48	USC Trojan Invite	Mar 15, 2019
+453	Reed, Aidan	JR-3	Southern Utah	3:59.52@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+454	Garcia, Kyle	JR-3	Lamar	3:59.58	37th Annual Victor Lopez Classic	Mar 21, 2019
+455	Higgins, Jenner	SO-2	Idaho	3:59.64	14th Sam Adams Classic Scoring Invite	Mar 21, 2019
+456	Felkins, Jackson	FR-1	Pepperdine	3:59.65	2019 Triton Invitational	Apr 12, 2019
+457	Monk, Ben	SR-4	Seattle U.	3:59.70	4th Annual Doris Heritage Track Festival	Mar 16, 2019
+458	Salazar, Angel	JR-3	Grand Canyon	3:59.74	2019 Desert Heat Classic	Apr 27, 2019
+459	Nettleton, Colton	SR-4	Saint Louis	3:59.79	SLU Billiken Invitational	Apr 5, 2019
+460	Hurd, Aaron	SR-4	Houston	3:59.81	37th Annual Victor Lopez Classic	Mar 21, 2019
+461	Hatfield, Dustin	FR-1	Eastern Illinois	3:59.90	SIU Bill Cornell Spring Classic	Mar 22, 2019
+461	Kunkel, Cash	FR-1	Incarnate Word	3:59.90	UIW Cardinal Spring Break Classic	Mar 14, 2019
+463	Iverson, Blake	FR-1	South Dakota St.	3:59.93	Howard Wood Dakota Relays	May 3, 2019
+464	Ambriz, Juan	SO-2	UC Santa Barbara	3:59.94	Bryan Clay Invitational	Apr 17, 2019
+465	Zacharias, Matt	FR-1	Air Force	3:59.95@	Colorado Invitational 2019	Apr 5, 2019
+466	Orange, Carlton	JR-3	Texas A&M	4:00.01	Roadrunner Invitational	Mar 21, 2019
+466	Osorio Lopez, Pedro	FR-1	Texas State	4:00.01	Roadrunner Invitational	Mar 21, 2019
+468	Freetly, Keiser	FR-1	North Dakota State	4:00.02	Mike Fanelli Track Classic	Mar 28, 2019
+469	Mountcastle, Daniel	JR-3	UC Santa Barbara	4:00.05	Beach Opener	Mar 1, 2019
+470	Deck, Noah	SR-4	DePaul	4:00.07	SIU Bill Cornell Spring Classic	Mar 22, 2019
+471	Frantal, Jalen	JR-3	Pepperdine	4:00.09	2019 Cal Poly Shareslo.com Invitational	Mar 22, 2019
+471	Grannetia, Simon	SR-4	Portland	4:00.09	Bryan Clay Invitational	Apr 17, 2019
+473	Haren, Anthony	FR-1	Grand Canyon	4:00.11	2019 Triton Invitational	Apr 12, 2019
+474	Kedge, AJ	FR-1	Air Force	4:00.13@	Air Force Twilight Open	May 3, 2019
+475	Skinner, Marcus	JR-3	Eastern Illinois	4:00.18	SIU Bill Cornell Spring Classic	Mar 22, 2019
+476	Streich, Cole	SO-2	South Dakota	4:00.21	Summit League T&F Outdoor Championships	May 8, 2019
+477	Jacobs, Noah	SR-4	Texas A&M	4:00.23	Michael Johnson Invitational	Apr 19, 2019
+477	Adams, Noah	JR-3	Montana	4:00.23@	Al Manuel Northwest Challenge	Mar 29, 2019
+479	Blanco, Matt	FR-1	Illinois State	4:00.26	Illinois State Redbird Invitational	Apr 6, 2019
+480	Vargas, Isaac	SO-2	Texas A&M-CC	4:00.28	Roadrunner Invitational	Mar 21, 2019
+481	Zeratsion, Huruy	SR-4	San Jose St.	4:00.32	Cardinal Classic	Apr 19, 2019
+482	Walde, Alex	FR-1	Gonzaga	4:00.33	2019 Buc Scoring Meet	Mar 16, 2019
+483	Plunkett, Daniel	SR-4	SE Missouri	4:00.40	Gibson Invitational	Apr 6, 2019
+484	Wote, Jemal	FR-1	Houston	4:00.45	Houston Alumni Invitational	Apr 6, 2019
+485	Herrera, Adam	JR-3	Incarnate Word	4:00.51	UIW Cardinal Spring Break Classic	Mar 14, 2019
+486	Bojorquez, Moses	SO-2	St. Mary's (Cal.)	4:00.53	Brutus Hamilton Open	Apr 26, 2019
+486	Brooks, Ben	FR-1	Southern Utah	4:00.53@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+488	Chatham, Luca	SR-4	UTSA	4:00.54	UTSA Invitational	Mar 15, 2019
+489	Beeson, Cody	FR-1	Cal Baptist	4:00.55@	WAC Outdoor Track and Field Championships	May 9, 2019
+490	Eastman, Ryan	FR-1	Nebraska	4:00.56	Crimson Tide Invitational	Apr 11, 2019
+491	Carvalho, Adolfo	JR-3	Rice	4:00.58	Houston Alumni Invitational	Apr 6, 2019
+491	Klein, Adam	FR-1	Arizona State	4:00.58	40th Sun Angel Track Classic	Apr 5, 2019
+491	Sandoval, Andres	SO-2	Sacramento St.	4:00.58	UC-Riverside Spring Track Classic	Mar 21, 2019
+494	Currie, Spencer	FR-1	Milwaukee	4:00.59	Illinois Twilight	Apr 13, 2019
+495	Jard, Baptiste	JR-3	Incarnate Word	4:00.60	Baylor Invitational	Mar 23, 2019
+495	Knanishu, Shane	FR-1	DePaul	4:00.60	SIU Bill Cornell Spring Classic	Mar 22, 2019
+495	Pena, Tristan	FR-1	UT-Rio Grande Valley	4:00.60	Texas State Bobcat Classic	Apr 26, 2019
+498	Ghosh, Akhil	FR-1	Loyola (Ill.)	4:00.62	Bryan Clay Invitational	Apr 17, 2019
+498	Korby, Gavin	FR-1	Long Beach St.	4:00.62	USC Trojan Invite	Mar 15, 2019
+498	Roux, Malcolm	SR-4	Portland	4:00.62	2019 Willamette Invitational	Mar 23, 2019

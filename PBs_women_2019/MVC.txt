@@ -1,0 +1,83 @@
+1	Moore, S. Brooke	SR-4	Indiana State	4:23.70	Crimson Tide Invitational	Apr 11, 2019
+2	Quiles, Jocelyn	SO-2	Indiana State	4:24.41	Crimson Tide Invitational	Apr 11, 2019
+3	Markham, Niamh	SR-4	Bradley	4:26.20	Drake Relays presented by Hy-Vee	Apr 24, 2019
+4	Brewis, Lindsey	SR-4	Loyola (Ill.)	4:30.23	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+5	Reimers, Mimi	SO-2	Loyola (Ill.)	4:30.87	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+6	Beattie, Grace	JR-3	Illinois State	4:31.39	Tennessee Relays	Apr 11, 2019
+7	Dar, Edna	FR-1	Missouri State	4:32.46	MVC Championship	May 10, 2019
+8	Schinkel, Lyndsie	SR-4	Northern Iowa	4:32.66	Tom Botts Invitational	Apr 19, 2019
+9	Misgen, Tess	SO-2	Drake	4:33.16	Drake Relays presented by Hy-Vee	Apr 24, 2019
+10	Nusser, Brooke	SR-4	Bradley	4:33.48	2019 Kip Janvrin Open	Apr 25, 2019
+11	Wollmering, Erica	JR-3	Missouri State	4:34.54	Drake Relays presented by Hy-Vee	Apr 24, 2019
+11	Plumb, Hattie	JR-3	Illinois State	4:34.54	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+13	Moore, Annie	JR-3	Illinois State	4:34.92	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+14	Conley, Jessi	SR-4	Indiana State	4:35.27	Crimson Tide Invitational	Apr 11, 2019
+15	Knoblock, Kennidi	SR-4	Illinois State	4:36.55	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+16	Adelman, Kathryn	SR-4	Bradley	4:37.71	2019 Kip Janvrin Open	Apr 25, 2019
+17	Workman, Alli	JR-3	Indiana State	4:37.89	Crimson Tide Invitational	Apr 11, 2019
+18	Maurais, Rita	JR-3	Loyola (Ill.)	4:38.02	Raleigh Relays	Mar 29, 2019
+19	Lowry, Anna	SO-2	Evansville	4:38.26	MVC Championship	May 10, 2019
+20	Altmayer, McKenzie	SO-2	Bradley	4:39.24	SIU Bill Cornell Spring Classic	Mar 22, 2019
+21	Exline, Maddi	FR-1	Illinois State	4:41.12	MVC Championship	May 10, 2019
+22	Rogers, Olivia	JR-3	Drake	4:41.18	2019 Nebraska Invitational	May 4, 2019
+23	Ehrhardt, Emma	FR-1	Bradley	4:41.62	Illinois Twilight	Apr 13, 2019
+24	Cole, Mckayla	SO-2	Northern Iowa	4:42.45	2019 Husker Spring Invitational	Apr 5, 2019
+25	Aldadah, Ayah	FR-1	Bradley	4:42.51	SIU Bill Cornell Spring Classic	Mar 22, 2019
+26	Schiera, Kayla	FR-1	Southern Illinois	4:42.59	Tennessee Relays	Apr 11, 2019
+27	Lesher, Amelia	FR-1	Bradley	4:42.62	SIU Bill Cornell Spring Classic	Mar 22, 2019
+28	Makowski, Emma	JR-3	Bradley	4:44.71	2019 Kip Janvrin Open	Apr 25, 2019
+29	Williams, Alyssa	JR-3	Northern Iowa	4:44.72	2019 Husker Spring Invitational	Apr 5, 2019
+30	Ward, Michaela	JR-3	Indiana State	4:45.44	Ole Miss Classic	Mar 30, 2019
+31	Holub, Paige	FR-1	Northern Iowa	4:46.18	2019 Husker Spring Invitational	Apr 5, 2019
+32	Hoffman, Rachel	JR-3	Illinois State	4:46.21	Illinois State Redbird Invitational	Apr 6, 2019
+32	Saville, Madeline	SR-4	Missouri State	4:46.21	2019 Oral Roberts Invitational	Mar 29, 2019
+34	Fallis, Kayla	SR-4	Missouri State	4:46.28	Tom Botts Invitational	Apr 19, 2019
+35	Oakley, Kirstin	SO-2	Bradley	4:46.95	SIU Bill Cornell Spring Classic	Mar 22, 2019
+36	Krolak, Megan	SR-4	Southern Illinois	4:47.83	SIU Bill Cornell Spring Classic	Mar 22, 2019
+37	Clowser, Phoebe	JR-3	Illinois State	4:49.25	Illinois State Redbird Invitational	Apr 6, 2019
+38	Davis, Imani	JR-3	Indiana State	4:49.30	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+39	Selva, Rachel	SO-2	Drake	4:49.51	2019 Nebraska Invitational	May 4, 2019
+40	Kriener, Josie	SO-2	Northern Iowa	4:50.99	2019 Husker Spring Invitational	Apr 5, 2019
+41	Breiten, Grace	JR-3	Missouri State	4:51.12	Mizzou Spring Open	Apr 6, 2019
+42	Welch, Riley	SO-2	Indiana State	4:55.34	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+43	Zeck, Devon	SO-2	Indiana State	4:55.40	Gibson Invitational	Apr 6, 2019
+44	Cassidy, Tara	SO-2	Indiana State	4:55.92	Ole Miss Classic	Mar 30, 2019
+45	Jones, Abigail	SO-2	Loyola (Ill.)	4:56.22	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+46	Roorda, Tess	SO-2	Northern Iowa	4:56.34	Musco Twilight	Apr 13, 2019
+47	Howat, Paityn	JR-3	Missouri State	4:57.02	Tom Botts Invitational	Apr 19, 2019
+48	Justison, Taylor	SR-4	Valparaiso	4:57.87	MVC Championship	May 10, 2019
+49	Crawford, Jasmine	FR-1	Missouri State	4:58.40	Mizzou Spring Open	Apr 6, 2019
+50	Falsey, Erin	SR-4	Loyola (Ill.)	4:59.04	Illinois State Redbird Invitational	Apr 6, 2019
+51	Conroy, Lucy	SR-4	Northern Iowa	4:59.42	2019 Jim Duncan Invitational	Mar 29, 2019
+52	Hurt, Madeline	FR-1	Southern Illinois	4:59.87	Kentucky Track & Field Invitational	Apr 20, 2019
+53	Block, Maddie	FR-1	Northern Iowa	5:02.20	Musco Twilight	Apr 13, 2019
+54	Laird, Erin	JR-3	Loyola (Ill.)	5:02.43	Illinois State Redbird Invitational	Apr 6, 2019
+55	Capra, Jordyn	JR-3	Missouri State	5:02.66	Mizzou Spring Open	Apr 6, 2019
+56	Hansen, Cami	SO-2	Indiana State	5:02.77	Pacesetter Sports Invitational	Apr 19, 2019
+57	Bretl, Millie	SO-2	Drake	5:03.04	2019 Jim Duncan Invitational	Mar 29, 2019
+58	Spring, Dani	FR-1	Indiana State	5:03.30	Gibson Invitational	Apr 6, 2019
+59	Golden, Marygrace	FR-1	Loyola (Ill.)	5:03.46	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+60	Rowatt, Lindsey	FR-1	Drake	5:03.60	2019 Nebraska Invitational	May 4, 2019
+61	Falater, Margaret	FR-1	Indiana State	5:04.41	Gibson Invitational	Apr 6, 2019
+62	Del Real, Arsinoe	SO-2	Bradley	5:05.16	SIU Bill Cornell Spring Classic	Mar 22, 2019
+63	Robinson, Mercedes	JR-3	Missouri State	5:06.05	2019 Oral Roberts Invitational	Mar 29, 2019
+64	Peterson, Avery	SO-2	Northern Iowa	5:06.25	Wisconsin Alumni Classic	May 3, 2019
+65	Delaney, Adyson	FR-1	Missouri State	5:06.81	2019 Oral Roberts Invitational	Mar 29, 2019
+66	Buschling, Renae	JR-3	Missouri State	5:06.93	2019 Oral Roberts Invitational	Mar 29, 2019
+67	Palmer, Shelby	FR-1	Missouri State	5:07.47	2019 Oral Roberts Invitational	Mar 29, 2019
+68	Donahue, Maranda	FR-1	Valparaiso	5:08.33	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+69	Burchett, Michaella	SO-2	Indiana State	5:09.35	Gibson Invitational	Apr 6, 2019
+70	Planck, Emma	FR-1	Bradley	5:12.39	Gibson Invitational	Apr 6, 2019
+71	Yaeger, Emily	FR-1	Missouri State	5:12.97	2019 Oral Roberts Invitational	Mar 29, 2019
+72	Mills, Savanna	FR-1	Evansville	5:13.21	MVC Championship	May 10, 2019
+73	Rampton, Mia	FR-1	Northern Iowa	5:15.98	2019 Jim Duncan Invitational	Mar 29, 2019
+74	Odusola, Rebecca	SO-2	Indiana State	5:16.13	Ole Miss Classic	Mar 30, 2019
+75	Rogers, Taylor	JR-3	Indiana State	5:17.87	Gibson Invitational	Apr 6, 2019
+76	Bohannon, Danielle	JR-3	Missouri State	5:18.05	Mizzou Spring Open	Apr 6, 2019
+77	Biesemeyer, Lindsey	SO-2	Missouri State	5:19.75	2019 Oral Roberts Invitational	Mar 29, 2019
+78	Brown, Gabby	SO-2	Indiana State	5:20.99	Pacesetter Sports Invitational	Apr 19, 2019
+79	Boebinger, Emma	FR-1	Evansville	5:22.55	MVC Championship	May 10, 2019
+80	Recker, Oliva	SO-2	Valparaiso	5:23.89	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+81	Dawson, Izzy	SO-2	Evansville	5:24.44	Stan Lyons 2019	Mar 16, 2019
+82	Houston, Faith	FR-1	Southern Illinois	5:26.08	SIU Bill Cornell Spring Classic	Mar 22, 2019
+83	Neal, Anna	JR-3	Valparaiso	5:52.58	Illinois Twilight	Apr 13, 2019

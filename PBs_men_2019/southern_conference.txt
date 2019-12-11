@@ -1,0 +1,74 @@
+1	Adams, Ryan	JR-3	Furman	3:42.57	Swarthmore Final Qualifier Meet	May 13, 2019
+2	Templeton, Aaron	SR-4	Furman	3:45.73	Tennessee Relays	Apr 11, 2019
+3	Ogden, Jake	JR-3	Furman	3:46.07	Raleigh Relays	Mar 29, 2019
+4	Ponder, Cameron	FR-1	Furman	3:46.94	Tennessee Relays	Apr 11, 2019
+5	Shahbaz, Jahanzib	JR-3	VMI	3:50.07	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+6	Varghese, Ben	SO-2	East Tenn. St.	3:50.19	Tennessee Relays	Apr 11, 2019
+7	Scarr, Matthew	SO-2	East Tenn. St.	3:50.33	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+8	Pectol, Wes	FR-1	East Tenn. St.	3:50.86	Tennessee Relays	Apr 11, 2019
+9	Coppi, Mason	JR-3	Furman	3:51.10	Tennessee Relays	Apr 11, 2019
+10	Meade, Luke	JR-3	Furman	3:54.02	8th Annual Terrier Relays	Mar 30, 2019
+11	Bailey, Owen	SR-4	Samford	3:54.07	Raleigh Relays	Mar 29, 2019
+12	Zemp, Jack	JR-3	Wofford	3:54.39	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+13	Bernal, Daniel	FR-1	Furman	3:54.50	Tennessee Relays	Apr 11, 2019
+14	Benson, Khayvonn	JR-3	East Tenn. St.	3:54.53	Raleigh Relays	Mar 29, 2019
+15	Routh, Josh	SO-2	East Tenn. St.	3:58.45	Charlotte 49er Classic	Mar 14, 2019
+16	Dean, Dillon	JR-3	Samford	3:59.57	Falcon Finale	May 10, 2019
+17	Garner, Ben	SO-2	Samford	4:00.21	Falcon Finale	May 10, 2019
+18	Charles, Noah	JR-3	East Tenn. St.	4:01.02	HPU VertKlasse Meeting	Mar 21, 2019
+19	Rodriguez, Juan	SO-2	UNC-Greensboro	4:01.84	Charlotte 49er Classic	Mar 14, 2019
+20	Alexander, Colin	FR-1	UNC-Greensboro	4:02.00	Raleigh Relays	Mar 29, 2019
+21	Bostian, Jordan	SR-4	Western Carolina	4:02.07	2019 Catamount Classic	Apr 12, 2019
+22	McCoy , James	SO-2	Wofford	4:03.38	Gamecock Invitational Outdoor	Apr 13, 2019
+23	O'Connor, Ben	SO-2	East Tenn. St.	4:03.62	Charlotte 49er Classic	Mar 14, 2019
+24	Krafsur, Josh	FR-1	East Tenn. St.	4:03.82	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+25	Hynes, Ewan	SO-2	UNC-Greensboro	4:04.07	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+26	Bousquet, Joyner	SO-2	Samford	4:04.21	Tiger Track Classic 2019	Apr 5, 2019
+27	Thoma, Nicholas	FR-1	UNC-Greensboro	4:04.32	Aggie Invitational	Apr 12, 2019
+28	Britt, Mark	SR-4	Chattanooga	4:05.02	War Eagle Invitational 2019	Apr 19, 2019
+29	Poole, Hunter	SO-2	Samford	4:05.11	Tiger Track Classic 2019	Apr 5, 2019
+30	Robakiewicz, Tyler	JR-3	Western Carolina	4:05.41	2019 Catamount Classic	Apr 12, 2019
+31	Thoma, Joseph	FR-1	UNC-Greensboro	4:05.55	Aggie Invitational	Apr 12, 2019
+32	Clayton, Weston	FR-1	UNC-Greensboro	4:07.67	HPU VertKlasse Meeting	Mar 21, 2019
+33	Jordan, Andre	FR-1	VMI	4:07.82	2019 Colonial Relays	Apr 4, 2019
+34	Waite, Adam	FR-1	VMI	4:07.90	Bison Outdoor Classic	Apr 13, 2019
+35	Corey, Seth	FR-1	Samford	4:08.02	2019 South Alabama Invitational	Mar 22, 2019
+36	Maddox, Jake	FR-1	Samford	4:08.03	2019 South Alabama Invitational	Mar 22, 2019
+37	Albrecht, Caleb	SR-4	Western Carolina	4:09.44	Charlotte 49er Classic	Mar 14, 2019
+38	Miles, Dalton	FR-1	UNC-Greensboro	4:09.52	Wendy's Seahawk Invitational	Mar 8, 2019
+39	Bryant, Ben	JR-3	Samford	4:09.55	BSC Hilltop Classic	Mar 30, 2019
+40	Tucker, Justin	JR-3	Western Carolina	4:10.09	Charlotte 49er Classic	Mar 14, 2019
+41	Reesh, Ian	JR-3	Western Carolina	4:10.29	2019 Catamount Classic	Apr 12, 2019
+42	Belk, Cameron	FR-1	UNC-Greensboro	4:11.08	Wendy's Seahawk Invitational	Mar 8, 2019
+43	Timothy, Jonathan	SO-2	UNC-Greensboro	4:11.50	Charlotte 49er Classic	Mar 14, 2019
+44	Dolhare, Noah	FR-1	Furman	4:11.74	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+45	Lauster, Zach	FR-1	VMI	4:12.68	2019 Colonial Relays	Apr 4, 2019
+46	Knepshield, Thomas	FR-1	UNC-Greensboro	4:13.02	Charlotte 49er Classic	Mar 14, 2019
+47	Ferre, Cisco	SR-4	Wofford	4:13.86	8th Annual Terrier Relays	Mar 30, 2019
+48	Dobbins, Luke	FR-1	Samford	4:13.97	Falcon Track and Field Classic and Multi	Mar 22, 2019
+49	Sandin, William	SR-4	UNC-Greensboro	4:14.69	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+50	Boatwright, Ben	SR-4	Wofford	4:15.17	8th Annual Terrier Relays	Mar 30, 2019
+51	Topham, Joshua	SO-2	Chattanooga	4:15.95	War Eagle Invitational 2019	Apr 19, 2019
+52	Jones, Trelek	JR-3	UNC-Greensboro	4:16.07	Aggie Invitational	Apr 12, 2019
+53	Johnson, Zach	FR-1	East Tenn. St.	4:16.33	2019 Catamount Classic	Apr 12, 2019
+54	Stuart, Elijah	FR-1	Western Carolina	4:16.70	2019 Catamount Classic	Apr 12, 2019
+55	Sumerford, Luke	SR-4	UNC-Greensboro	4:16.81	Wendy's Seahawk Invitational	Mar 8, 2019
+56	Johnson, Lane	FR-1	Citadel	4:16.94	East Carolina University Bill Carson Invitational	Apr 5, 2019
+57	Haines, Dylan	FR-1	VMI	4:17.48	Bison Outdoor Classic	Apr 13, 2019
+58	Christopher, Dylan	FR-1	UNC-Greensboro	4:18.29	HPU VertKlasse Meeting	Mar 21, 2019
+59	Gibbs , Walker	JR-3	Wofford	4:18.52	8th Annual Terrier Relays	Mar 30, 2019
+60	White, Tyler	JR-3	Western Carolina	4:18.74	Charlotte 49er Classic	Mar 14, 2019
+61	Irizarry-Negron, Ian	FR-1	VMI	4:21.16	2019 Colonial Relays	Apr 4, 2019
+62	Neal, Jevon	FR-1	UNC-Greensboro	4:25.12	Aggie Invitational	Apr 12, 2019
+63	Avalos, Eric	JR-3	Citadel	4:36.54	Buccaneer Invitational	Mar 23, 2019
+64	Heinrich, Conrad	SR-4	Wofford	4:39.17	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+65	Stout, Robert	JR-3	Wofford	4:40.19	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+66	Szalwinski, Dane	SR-4	Wofford	4:42.30	8th Annual Terrier Relays	Mar 30, 2019
+67	McNay, Andrew	FR-1	Citadel	4:45.73	Buccaneer Invitational	Mar 23, 2019
+68	Classey, Beck	FR-1	Wofford	4:47.85	8th Annual Terrier Relays	Mar 30, 2019
+69	Snowman, John	SO-2	Citadel	4:47.87	Buccaneer Invitational	Mar 23, 2019
+70	Maxey, Thomas	SO-2	Wofford	4:50.83	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+71	Ozburn, Thomas	SO-2	Samford	4:50.92	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+72	Snead, Khadevis	SO-2	Western Carolina	5:27.14	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+73	Burke, Max	FR-1	VMI	5:30.73	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+

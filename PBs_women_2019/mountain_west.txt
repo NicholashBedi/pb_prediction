@@ -1,0 +1,98 @@
+1	Fuller, Alexis	SR-4	Boise State	4:11.18	NCAA Division I West Region Preliminary Rounds	May 23, 2019
+2	Ostrander, Allie	JR-3	Boise State	4:14.76	Bryan Clay Invitational	Apr 17, 2019
+3	Kurgat, Ednah	SR-4	New Mexico	4:18.61	Bryan Clay Invitational	Apr 17, 2019
+4	Schoffield, Kristie	SO-2	Boise State	4:22.10	Bryan Clay Invitational	Apr 17, 2019
+5	Cohen, Adva	SO-2	New Mexico	4:22.88	Mountain West Outdoor Track & Field Championship	May 8, 2019
+6	Wilson-Perteete, Avi' Tal	SO-2	UNLV	4:25.57	UC-Riverside Spring Track Classic	Mar 21, 2019
+7	Prouse, Charlotte	JR-3	New Mexico	4:25.70	Bryan Clay Invitational	Apr 17, 2019
+8	Kreutz, Macy	JR-3	Colorado St.	4:26.23	Stanford Invitational	Mar 29, 2019
+9	Trotter, Roxy	SR-4	Colorado St.	4:26.29	Bryan Clay Invitational	Apr 17, 2019
+10	Leather, Ellie	SO-2	Fresno State	4:27.62	adidas/Steve Scott Invitational	Apr 26, 2019
+11	Norris, Mahala	SO-2	Air Force	4:28.25	Mountain West Outdoor Track & Field Championship	May 8, 2019
+12	Ryan, Megan	SR-4	Utah State	4:29.42@	Aggie Iinvitational	Apr 12, 2019
+13	Martin, Emily	JR-3	New Mexico	4:29.69	Bryan Clay Invitational	Apr 17, 2019
+14	Mettler, Maria	SO-2	Air Force	4:30.47	Bryan Clay Invitational	Apr 17, 2019
+15	Zambrano, Jeanette	JR-3	San Jose St.	4:30.65	2019 Hornet Invitational	Mar 15, 2019
+16	Maloney, Shannon	SR-4	Utah State	4:31.00@	Aggie Iinvitational	Apr 12, 2019
+17	Harris, Alexandra	SO-2	New Mexico	4:31.80	Mike Fanelli Track Classic	Mar 28, 2019
+18	Nuttall, Hannah	JR-3	New Mexico	4:31.88	Stanford Invitational	Mar 29, 2019
+19	Macdermid, Zia	FR-1	Wyoming	4:32.50	Beach Invitational	Apr 19, 2019
+20	Sandoval, Jennifer	JR-3	San Jose St.	4:33.82	2019 Hornet Invitational	Mar 15, 2019
+21	Simmons, Cierra	SR-4	Utah State	4:33.86	Mt. SAC Relays	Apr 18, 2019
+22	Samuel, Swathi	JR-3	Air Force	4:33.89	Bryan Clay Invitational	Apr 17, 2019
+23	Jacob, Jordan	JR-3	Boise State	4:33.92	40th Sun Angel Track Classic	Apr 5, 2019
+24	Atwell, Emma	JR-3	Colorado St.	4:34.14	Bryan Clay Invitational	Apr 17, 2019
+25	Rovere, Elisa	SO-2	UNLV	4:34.40	adidas/Steve Scott Invitational	Apr 26, 2019
+26	Kill, Jenna	FR-1	Air Force	4:34.94	Bryan Clay Invitational	Apr 17, 2019
+27	Quistorff, Solana	SR-4	Wyoming	4:35.14	Beach Invitational	Apr 19, 2019
+28	Akers, Mikayla	SO-2	San Jose St.	4:35.83	Woody Wilson Classic	Apr 13, 2019
+29	Johnson, Olivia	SO-2	Boise State	4:36.11	Border Clash 2019	Apr 26, 2019
+30	Hutton, Sailor	FR-1	Boise State	4:36.79	40th Sun Angel Track Classic	Apr 5, 2019
+31	Mitchem, Katelyn	FR-1	Wyoming	4:37.99	Beach Invitational	Apr 19, 2019
+32	Perez, Savanna	JR-3	San Jose St.	4:38.24	Cardinal Classic	Apr 19, 2019
+33	Meza, Evelin	SO-2	San Jose St.	4:38.55	2019 Hornet Invitational	Mar 15, 2019
+34	Graves, Claire	SO-2	Boise State	4:38.69	Border Clash 2019	Apr 26, 2019
+35	Anderson, Jenna	JR-3	Colorado St.	4:38.87@	2019 Tom Benich Invite	Mar 30, 2019
+36	Hanson, Camilla	JR-3	San Jose St.	4:39.07	Cardinal Classic	Apr 19, 2019
+37	Wirthlin, Camille	FR-1	Utah State	4:39.28@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+38	Yamauchi, Kelsey	SR-4	Utah State	4:39.76@	Aggie Iinvitational	Apr 12, 2019
+39	Doner, Kacey	JR-3	Wyoming	4:40.17	Beach Invitational	Apr 19, 2019
+40	Lopez, Kyra	JR-3	Boise State	4:40.43	Bryan Clay Invitational	Apr 17, 2019
+41	Swanson, Karlie	SO-2	Boise State	4:40.50	Bryan Clay Invitational	Apr 17, 2019
+42	Parle, Yukino	FR-1	Boise State	4:40.91	Border Clash 2019	Apr 26, 2019
+43	Burns, Shanna	SR-4	Air Force	4:41.13	Bryan Clay Invitational	Apr 17, 2019
+44	Taylor, Madison	FR-1	Utah State	4:41.14@	Aggie Iinvitational	Apr 12, 2019
+45	Walford, Tabatha	FR-1	Nevada	4:41.68	41st Annual Aztec Invitational	Mar 22, 2019
+46	Dobbs, Hiley	SO-2	Nevada	4:41.98	2019 Hornet Invitational	Mar 15, 2019
+47	Geisler, Christina	FR-1	Boise State	4:42.28	Bryan Clay Invitational	Apr 17, 2019
+48	McNeil, Nyjari	FR-1	San Diego St.	4:43.35	2019 Triton Invitational	Apr 12, 2019
+49	Wahlenmaier, Emma	SO-2	UNLV	4:43.39	UC-Riverside Spring Track Classic	Mar 21, 2019
+50	Johnson, Juanita		New Mexico	4:43.80	Brutus Hamilton Invitational	Apr 27, 2019
+51	Jones, Steffi	SO-2	New Mexico	4:43.95	Titan Team Challenge	Mar 30, 2019
+52	Everett, MacKenzie		New Mexico	4:44.34	Brutus Hamilton Invitational	Apr 27, 2019
+53	Shults, Mikayla	FR-1	Nevada	4:44.53	41st Annual Aztec Invitational	Mar 22, 2019
+54	Bohannon, Kai Fu	SO-2	San Jose St.	4:45.11	2019 Rainbow Relays	Mar 22, 2019
+55	Davidson, Hannah	FR-1	Utah State	4:45.24	40th Sun Angel Track Classic	Apr 5, 2019
+56	D'Atri, Marissa	FR-1	San Diego St.	4:45.26	41st Annual Aztec Invitational	Mar 22, 2019
+57	Laurenzana, Renee	FR-1	San Diego St.	4:46.01	Bob Larsen Distance Carnival	Mar 29, 2019
+58	Givens, Josie	JR-3	Utah State	4:46.89@	Aggie Iinvitational	Apr 12, 2019
+59	Bentley, Kaylee	FR-1	Wyoming	4:47.36@	Jack Christiansen Invitational	Apr 26, 2019
+60	Hansen, Sydney	FR-1	Air Force	4:47.60@	Air Force Twilight Open	May 3, 2019
+61	Dutson, Tavia	SR-4	Utah State	4:48.44@	Aggie Iinvitational	Apr 12, 2019
+62	Gallop, Cora	JR-3	Nevada	4:49.01	Mountain West Challenge	Apr 5, 2019
+63	Robtoy, Erika	FR-1	Nevada	4:49.66	2019 Hornet Invitational	Mar 15, 2019
+64	Ortega, Stefanie	SO-2	Nevada	4:49.77	Mountain West Challenge	Apr 5, 2019
+65	Hubner, Emily	SR-4	Utah State	4:50.24@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+66	Demarco, Emily	JR-3	Boise State	4:50.47	40th Sun Angel Track Classic	Apr 5, 2019
+67	Person, Emily	SR-4	Wyoming	4:50.54@	Doug Max Invitational	Apr 12, 2019
+68	Smith, Kara	FR-1	UNLV	4:50.75	Bryan Clay Invitational	Apr 17, 2019
+69	Wilson, Angela	SR-4	San Diego St.	4:51.41	2019 San Diego Collegiate Challenge	Mar 9, 2019
+70	Bernal, Natasha	JR-3	New Mexico	4:51.47	Mike Fanelli Track Classic	Mar 28, 2019
+71	Renner, Michelle	FR-1	Wyoming	4:52.68@	Jack Christiansen Invitational	Apr 26, 2019
+72	Stayton, Shay	SO-2	Air Force	4:53.22@	Jerry Quiller Classic 2019	Mar 15, 2019
+73	Almodovar, Andi	FR-1	Air Force	4:55.64@	Air Force Twilight Open	May 3, 2019
+74	Davison, McKenzi	FR-1	Wyoming	4:55.76@	Doug Max Invitational	Apr 12, 2019
+75	Aldapa, Adilene	SR-4	San Jose St.	4:55.79	2019 Hornet Invitational	Mar 15, 2019
+76	Contreras, Carmen	SR-4	San Jose St.	4:56.50	2019 Rainbow Relays	Mar 22, 2019
+77	Brownell, Emma	FR-1	Utah State	4:57.93@	Aggie Iinvitational	Apr 12, 2019
+78	Hutchison, Presli	SR-4	Utah State	4:58.43@	Aggie Iinvitational	Apr 12, 2019
+79	Nellos, Isabela	FR-1	New Mexico	4:58.97@	2019 Don Kirby Tailwind Open	Apr 6, 2019
+80	Roberson, Sakura	SO-2	San Diego St.	5:00.28	2019 San Diego Collegiate Challenge	Mar 9, 2019
+81	Shields, Sami	JR-3	Fresno State	5:00.50	2019 Pomona-Pitzer Invitational (College/Univ)	Apr 6, 2019
+82	Regalado, Natalie	FR-1	San Diego St.	5:01.77	Mountain West Challenge	Apr 5, 2019
+83	Eckel, Sophie	JR-3	New Mexico	5:02.92	Bryan Clay Invitational	Apr 17, 2019
+84	Verville, Franny	FR-1	Air Force	5:03.28@	Jerry Quiller Classic 2019	Mar 15, 2019
+85	Alcantar, Marlene	SR-4	Fresno State	5:03.68	2019 Pomona-Pitzer Invitational (College/Univ)	Apr 6, 2019
+86	Fernandez, Hailey	JR-3	Fresno State	5:06.33	UNLV Invitational and Sheila Tarr Multis	Mar 14, 2019
+87	Moore, Grace	FR-1	UNLV	5:08.55	adidas/Steve Scott Invitational	Apr 26, 2019
+88	Scott, Danielle	SO-2	San Diego St.	5:08.95	2019 San Diego Collegiate Challenge	Mar 9, 2019
+89	Snow, Nicole	JR-3	UNLV	5:09.02	adidas/Steve Scott Invitational	Apr 26, 2019
+90	Couch, Caitlyn	FR-1	San Diego St.	5:14.36	Bob Larsen Distance Carnival	Mar 29, 2019
+91	Haberman, Isabella	SO-2	Fresno State	5:14.41	adidas/Steve Scott Invitational	Apr 26, 2019
+92	Reyes, Elizabeth	SO-2	New Mexico	5:20.25@	2019 Don Kirby Tailwind Open	Apr 6, 2019
+93	Jasso, Jewel	SO-2	Fresno State	5:20.63	adidas/Steve Scott Invitational	Apr 26, 2019
+94	Valencia, Briana	JR-3	San Jose St.	5:23.19	Woody Wilson Classic	Apr 13, 2019
+95	McGaughey, Hannaly	SR-4	Utah State	5:24.83@	Aggie Iinvitational	Apr 12, 2019
+96	Brinegar, Anne	SR-4	Boise State	5:29.53	40th Sun Angel Track Classic	Apr 5, 2019
+97	McGaughey, Hannaly		Utah State	5:31.19@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+98	Schmid, Emma	FR-1	UNLV	5:41.09	UNLV Invitational and Sheila Tarr Multis	Mar 14, 2019

@@ -1,0 +1,89 @@
+1	Huerta, Samantha	JR-3	Cal St. Fullerton	4:18.39	Bryan Clay Invitational	Apr 17, 2019
+2	Camarena, Katie	JR-3	UC Santa Barbara	4:24.68	2019 UCSB vs. Cal Poly	Apr 27, 2019
+3	Daschian, Miranda	SR-4	Cal Poly	4:24.89	2019 UCSB vs. Cal Poly	Apr 27, 2019
+4	Rosvall, Astrid	SO-2	UC Santa Barbara	4:25.55	UCSB vs. UC Riverside vs. Cal Poly	Mar 9, 2019
+5	Izzo, Katie	JR-3	Cal Poly	4:27.09	2019 Cal Poly Shareslo.com Invitational	Mar 22, 2019
+6	Goodisson, Eva	FR-1	UC Davis	4:28.51	Big West Outdoor Track & Field Championships	May 10, 2019
+7	Ward, Anaya	FR-1	UC Davis	4:29.14	Big West Outdoor Track & Field Championships	May 10, 2019
+8	Flores, Sandra	JR-3	Cal St. Fullerton	4:29.60	Titan Team Challenge	Mar 30, 2019
+9	Block, Alyssa	SO-2	Cal St. Fullerton	4:31.09	Big West Challenge	Apr 5, 2019
+10	Brill, Sierra	SO-2	Cal Poly	4:33.41	2019 UCSB vs. Cal Poly	Apr 27, 2019
+11	Ruelas, Trinity	SO-2	Cal St. Fullerton	4:33.74	Big West Challenge	Apr 5, 2019
+12	Hull, Hannah	SR-4	Cal Poly	4:34.18	2019 UCSB vs. Cal Poly	Apr 27, 2019
+13	Leroudier, Melodie	JR-3	Cal Poly	4:34.53	2019 Cal Poly Shareslo.com Invitational	Mar 22, 2019
+14	Branch, Cydney		UC Riverside	4:35.42	Chris Rinne Highlander Twilight	Apr 12, 2019
+15	Fisk, Abigail	SO-2	Cal Poly	4:36.57	2019 Cal Poly Shareslo.com Invitational	Mar 22, 2019
+16	Ewe, Natalie	FR-1	UC Irvine	4:36.99	Bob Larsen Distance Carnival	Mar 29, 2019
+17	Lemak, Julia	JR-3	UC Davis	4:37.21	Woody Wilson Classic	Apr 13, 2019
+18	Bishop, Kelly	SO-2	UC Santa Barbara	4:37.40	Bryan Clay Invitational	Apr 17, 2019
+19	Diaz, Misty	FR-1	Cal Poly	4:38.07	Bryan Clay Invitational	Apr 17, 2019
+20	Cox, Chloe	SO-2	UC Santa Barbara	4:38.24	Bryan Clay Invitational	Apr 17, 2019
+21	Cushing-murray, Jessica	SR-4	Hawaii	4:38.78	2019 Hornet Invitational	Mar 15, 2019
+22	Allen, Alyssa	JR-3	Long Beach St.	4:38.83	Beach Invitational	Apr 19, 2019
+23	Wainfan, Amanda	JR-3	UC Davis	4:39.00	Mike Fanelli Track Classic	Mar 28, 2019
+24	Serrao, Sienna	SO-2	UC Santa Barbara	4:39.36	Bryan Clay Invitational	Apr 17, 2019
+25	Alvarenga, Katie	SR-4	Cal St. Northridge	4:39.53	Big West Outdoor Track & Field Championships	May 10, 2019
+26	Romanini, Mikaela	SO-2	Cal Poly	4:40.68	UCSB vs. UC Riverside vs. Cal Poly	Mar 9, 2019
+27	Rodriguez, Marisa	SO-2	UC Santa Barbara	4:40.73	41st Annual Aztec Invitational	Mar 22, 2019
+28	DiPentino, Angela	SO-2	Cal Poly	4:41.68	2019 Cal Poly Shareslo.com Invitational	Mar 22, 2019
+29	Meade, Maddie	SO-2	UC Santa Barbara	4:42.46	Bob Larsen Distance Carnival	Mar 29, 2019
+30	Roldan, Presley	FR-1	Cal Poly	4:42.83	Bryan Clay Invitational	Apr 17, 2019
+31	Vincent, Lucina	FR-1	Cal St. Fullerton	4:43.14	UC Irvine Spring Break Collegiate Classic	Mar 15, 2019
+32	Peoples, Matti	SO-2	UC Santa Barbara	4:44.20	2019 UCSB vs. Cal Poly	Apr 27, 2019
+33	Dorantes, Brenda	JR-3	UC Irvine	4:44.61	UC-Riverside Spring Track Classic	Mar 21, 2019
+34	Cabrera, Haley	SO-2	UC Riverside	4:44.71	Bryan Clay Invitational	Apr 17, 2019
+35	Janes, Sabrina	SR-4	UC Santa Barbara	4:44.81	2019 UCSB vs. Cal Poly	Apr 27, 2019
+36	Adel, Haley	JR-3	UC Davis	4:45.61	Aggie Open 2019	Mar 9, 2019
+37	Vargas, Julie	JR-3	Long Beach St.	4:45.82	Bob Larsen Distance Carnival	Mar 29, 2019
+38	Marine, Demi	SO-2	Cal St. Fullerton	4:48.10	Titan Twilight	May 3, 2019
+39	Ruiz, Jessica	JR-3	Cal St. Fullerton	4:48.16	Titan Twilight	May 3, 2019
+40	Beaumont, Haley	JR-3	Hawaii	4:48.19(1)	Mike Fanelli Track Classic	Mar 28, 2019
+41	Fick, Ryley	FR-1	Long Beach St.	4:48.33	USC Trojan Invite	Mar 15, 2019
+42	Segovia, Alyssa	SO-2	Cal St. Northridge	4:48.70	Big West Outdoor Track & Field Championships	May 10, 2019
+43	Poliakon, Samantha	JR-3	UC Riverside	4:48.97	UCSB vs. UC Riverside vs. Cal Poly	Mar 9, 2019
+44	Gracian, Vanessa	FR-1	UC Riverside	4:49.47	UC-Riverside Spring Track Classic	Mar 21, 2019
+45	Navarro, Marie	FR-1	UC Davis	4:49.57	Woody Wilson Classic	Apr 13, 2019
+46	Grohmann, Natalie	SR-4	Cal Poly	4:49.71	UCSB vs. UC Riverside vs. Cal Poly	Mar 9, 2019
+47	MacGregor, Sarah	FR-1	UC Santa Barbara	4:50.09	41st Annual Aztec Invitational	Mar 22, 2019
+48	Rippey, Jasmine	SO-2	UC Santa Barbara	4:50.27	41st Annual Aztec Open	Mar 21, 2019
+49	Cortez, Stephanie	JR-3	Cal St. Fullerton	4:50.59	RCC Invitational	Mar 1, 2019
+50	Sturm, Anya	FR-1	UC Davis	4:50.82	Aggie Open 2019	Mar 9, 2019
+51	Florez, Mikayla	SR-4	Long Beach St.	4:50.86	adidas/Steve Scott Invitational	Apr 26, 2019
+52	Yanco, Tori	SR-4	UC Santa Barbara	4:50.87	41st Annual Aztec Invitational	Mar 22, 2019
+53	Bolanos, Alexa	FR-1	UC Davis	4:51.03	2019 Hornet Invitational	Mar 15, 2019
+54	Bordes, Rachel	SO-2	Cal Poly	4:51.21	2019 UCSB vs. Cal Poly	Apr 27, 2019
+55	Hill, Olivia	FR-1	Hawaii	4:51.46	Big West Outdoor Track & Field Championships	May 10, 2019
+56	Theologidy, Mariah	JR-3	UC Irvine	4:51.76	UC-Riverside Spring Track Classic	Mar 21, 2019
+57	Watkins, Lexi	FR-1	Cal Poly	4:52.10	2019 UCSB vs. Cal Poly	Apr 27, 2019
+58	Bush, Harriet	FR-1	UC Riverside	4:52.51	Bryan Clay Invitational	Apr 17, 2019
+59	Boyd, Keely	JR-3	UC Irvine	4:52.60	UC-Riverside Spring Track Classic	Mar 21, 2019
+59	Mirkhanian, Megan	SR-4	UC Irvine	4:52.60	UC-Riverside Spring Track Classic	Mar 21, 2019
+61	Setzer, Tristan	JR-3	Hawaii	4:54.04	Mike Fanelli Track Classic	Mar 28, 2019
+62	Prince, Tiana	FR-1	Long Beach St.	4:54.20	Bob Larsen Distance Carnival	Mar 29, 2019
+63	Anez, Andrea	SO-2	UC Santa Barbara	4:54.97	2019 Cal Poly Shareslo.com Invitational	Mar 22, 2019
+64	Overell, Emma	FR-1	UC Santa Barbara	4:54.98	Big West Challenge	Apr 5, 2019
+65	Maldonado, Suset	FR-1	UC Riverside	4:55.25	adidas/Steve Scott Invitational	Apr 26, 2019
+66	Soto, Alison	SO-2	UC Riverside	4:55.42	UC-Riverside Spring Track Classic	Mar 21, 2019
+67	Barron, Paloma	FR-1	Cal St. Fullerton	4:55.54	RCC Invitational	Mar 1, 2019
+68	Castro, Lizette	FR-1	UC Riverside	4:55.93	UC-Riverside Spring Track Classic	Mar 21, 2019
+69	Girard, Danielle	SR-4	Hawaii	4:56.40	Mike Fanelli Track Classic	Mar 28, 2019
+70	Eligio, Heidi	FR-1	Cal St. Northridge	4:56.77	USC Trojan Invite	Mar 15, 2019
+71	Atwood, Kiley	SO-2	UC Riverside	4:58.18	RCC Invitational	Mar 1, 2019
+72	Rivera, Leslie	JR-3	UC Riverside	4:59.85	UC-Riverside Spring Track Classic	Mar 21, 2019
+73	Stewart, Hope	FR-1	Hawaii	5:02.66	2019 Triton Invitational	Apr 12, 2019
+74	Beck, Erin		UC Riverside	5:03.17	Chris Rinne Highlander Twilight	Apr 12, 2019
+75	Garcia, Daisy	FR-1	UC Irvine	5:04.25	Beach Invitational	Apr 19, 2019
+76	Marshall, Isa	JR-3	UC Santa Barbara	5:04.37	41st Annual Aztec Open	Mar 21, 2019
+77	Barba, Sonsoles	SO-2	Cal St. Northridge	5:04.49	USC Trojan Invite	Mar 15, 2019
+78	Pavana, Leann	FR-1	Long Beach St.	5:05.14	Beach Invitational	Apr 19, 2019
+79	Casazza, Gio	JR-3	Hawaii	5:08.86	Beach Invitational	Apr 19, 2019
+80	Esparza, Jazmin	FR-1	Long Beach St.	5:12.22	Beach Invitational	Apr 19, 2019
+81	Sanchez, Patracia	FR-1	UC Irvine	5:12.33	Beach Opener	Mar 1, 2019
+82	Park, Mackenna	FR-1	UC Santa Barbara	5:12.80	Beach Opener	Mar 1, 2019
+83	Huerta, Kavelin	SR-4	Cal St. Fullerton	5:16.95	UC Irvine Spring Break Collegiate Classic	Mar 15, 2019
+84	Pendleton, Rebekah	FR-1	UC Riverside	5:20.72	UC-Riverside Spring Track Classic	Mar 21, 2019
+85	Silengo, Elizabeth	FR-1	Cal St. Northridge	5:20.76	USC Trojan Invite	Mar 15, 2019
+86	Whitman, Lexi	SR-4	Cal St. Fullerton	5:22.45	Titan Twilight	May 3, 2019
+87	Sorenson, Skylar	FR-1	Cal St. Fullerton	5:22.69	Titan Twilight	May 3, 2019
+88	De Rego, Fiona	SO-2	UC Irvine	5:22.90	Beach Opener	Mar 1, 2019
+89	Wadsack-Myers, Jeanalyn	JR-3	Hawaii	5:24.47	2019 Rainbow Relays	Mar 22, 2019

@@ -1,0 +1,71 @@
+1	King, Rachel	SR-4	South Dakota St.	4:25.12	Drake Relays presented by Hy-Vee	Apr 24, 2019
+2	Anderson, Kelby	FR-1	North Dakota State	4:26.12	Drake Relays presented by Hy-Vee	Apr 24, 2019
+3	Bostrom, Katie	SR-4	North Dakota State	4:29.76	Drake Relays presented by Hy-Vee	Apr 24, 2019
+4	Huglen, Madeline	SR-4	South Dakota	4:30.05	Drake Relays presented by Hy-Vee	Apr 24, 2019
+5	Rafuse, Emma	SR-4	Purdue Fort Wayne	4:30.35	Ball State Challenge	Apr 12, 2019
+6	Oscarson, Hannah	JR-3	North Dakota	4:31.24	Bryan Clay Invitational	Apr 17, 2019
+7	Overby, Madison	JR-3	North Dakota	4:31.26	Bryan Clay Invitational	Apr 17, 2019
+8	Billington, Megan	SR-4	South Dakota	4:33.60	South Dakota Challenge	Apr 6, 2019
+9	Friesen, Ellie	FR-1	South Dakota St.	4:34.41	Mike Fanelli Track Classic	Mar 28, 2019
+10	Freetly, Alaysia	JR-3	North Dakota State	4:39.87	Mike Fanelli Track Classic	Mar 28, 2019
+11	Fasen, Anna	JR-3	South Dakota St.	4:41.12	Summit League T&F Outdoor Championships	May 8, 2019
+12	Eades, Erica	JR-3	North Dakota	4:41.58	South Dakota Challenge	Apr 6, 2019
+13	Schell, Mackenzie	SR-4	South Dakota St.	4:42.23	Howard Wood Dakota Relays	May 3, 2019
+14	Peterson, Cailee	FR-1	South Dakota St.	4:43.84	Phil Esten Challenge @ UW-La Crosse	Apr 18, 2019
+15	Valgardson, Erin	FR-1	North Dakota State	4:44.02	Mike Fanelli Track Classic	Mar 28, 2019
+16	Covington, Brynnan	SO-2	North Dakota State	4:44.88	Cobber Twilight	Apr 23, 2019
+17	Propst, Rachel	SR-4	South Dakota St.	4:44.97	2019 Kip Janvrin Open	Apr 25, 2019
+18	Stewart, Kianna	JR-3	South Dakota	4:44.99	USD Twilight	Apr 23, 2019
+19	Dufner, Jen		North Dakota State	4:45.98	IMG Academy Invitational	Mar 16, 2019
+20	Beebe, Nicole	JR-3	Western Illinois	4:47.01	Mizzou Spring Open	Apr 6, 2019
+21	Lawler, Morgan	SO-2	South Dakota	4:47.15	Texas State Bobcat Invitational	Mar 28, 2019
+22	Catania, Annie	SR-4	Nebraska-Omaha	4:47.70	2019 Nebraska Invitational	May 4, 2019
+23	Steele, Krista	SR-4	South Dakota St.	4:47.86	Bryan Clay Invitational	Apr 17, 2019
+24	Houfek, Alliana	SO-2	North Dakota State	4:47.92	2019 Kip Janvrin Open	Apr 25, 2019
+25	Lavin, Maddie	FR-1	South Dakota	4:48.44	South Dakota Challenge	Apr 6, 2019
+26	Kearney, Kelsi	SO-2	South Dakota	4:48.47	USD Twilight	Apr 23, 2019
+27	Hall, Heidi	FR-1	Nebraska-Omaha	4:50.72	2019 Nebraska Invitational	May 4, 2019
+28	Bart, Jonna	SO-2	South Dakota	4:50.99	Texas State Bobcat Invitational	Mar 28, 2019
+29	Nelson, Emma	JR-3	South Dakota St.	4:51.04	Howard Wood Dakota Relays	May 3, 2019
+30	Schweiss, Jamie	FR-1	South Dakota St.	4:51.22	Phil Esten Challenge @ UW-La Crosse	Apr 18, 2019
+31	Anderson, Hannah	JR-3	North Dakota	4:52.38	Summit League T&F Outdoor Championships	May 8, 2019
+32	Berzonsky, Emily	SR-4	South Dakota St.	4:52.61	2019 Oral Roberts Invitational	Mar 29, 2019
+33	Jenkins, Anita	JR-3	Nebraska-Omaha	4:52.80	Summit League T&F Outdoor Championships	May 8, 2019
+34	Roper, Jacey	JR-3	Western Illinois	4:54.52	Mizzou Spring Open	Apr 6, 2019
+35	Johnson, Emily	SO-2	Nebraska-Omaha	4:54.75	Bryan Clay Invitational	Apr 17, 2019
+36	Tranchitella, Hailey	SO-2	Western Illinois	4:57.41	Musco Twilight	Apr 13, 2019
+37	Peterson, Ellyssa	SO-2	North Dakota	4:57.86	Cobber Twilight	Apr 23, 2019
+38	Valquier Chavez, Renata	JR-3	Nebraska-Omaha	4:58.62	Wichita State KT Woodman Classic	Apr 10, 2019
+39	Meuleners, Janessa	SR-4	North Dakota	4:59.25	33rd ANNUAL RON MASANZ TRACK & FIELD CLASSIC	Apr 26, 2019
+40	Coyle, Ellie	JR-3	South Dakota	4:59.71	Howard Wood Dakota Relays	May 3, 2019
+41	Frolek, Peyton	SO-2	North Dakota State	5:00.26	IMG Academy Invitational	Mar 16, 2019
+42	Dykstra, Kendra	JR-3	South Dakota St.	5:00.46	Howard Wood Dakota Relays	May 3, 2019
+43	Kuerschner, Melina	JR-3	North Dakota State	5:01.04	Cobber Twilight	Apr 23, 2019
+44	Nelson, Laura	SO-2	South Dakota	5:01.39	Texas State Bobcat Invitational	Mar 28, 2019
+45	Kayser, Elana	FR-1	Purdue Fort Wayne	5:02.11	Summit League T&F Outdoor Championships	May 8, 2019
+46	Drengenberg, Leah		South Dakota	5:02.60	USD Twilight	Apr 23, 2019
+47	Emmick, Elise	FR-1	South Dakota St.	5:03.86	Howard Wood Dakota Relays	May 3, 2019
+48	Robles, Emily	FR-1	Nebraska-Omaha	5:04.04	2019 Nebraska Invitational	May 4, 2019
+49	Robbins, Amanda	SO-2	North Dakota	5:05.00	South Dakota Challenge	Apr 6, 2019
+50	Jepkemoi, Sharon	FR-1	Oral Roberts	5:05.61	PSU/Wendy's Tune-Up	Apr 26, 2019
+51	Uribe, Ivanna	JR-3	Nebraska-Omaha	5:06.52	Wichita State KT Woodman Classic	Apr 10, 2019
+52	Fritza, Haley	JR-3	South Dakota	5:07.91	USD Twilight	Apr 23, 2019
+53	Goldring, Mackenzie	FR-1	Western Illinois	5:09.34	Summit League T&F Outdoor Championships	May 8, 2019
+54	Noah, Julia	SO-2	South Dakota	5:09.71	South Dakota Challenge	Apr 6, 2019
+55	Stennis, Jamieria	SR-4	Western Illinois	5:11.06	SIU Bill Cornell Spring Classic	Mar 22, 2019
+56	Krause, Mary	SO-2	South Dakota St.	5:11.68	Howard Wood Dakota Relays	May 3, 2019
+57	Brown, Taylor	JR-3	South Dakota	5:12.49	USD Twilight	Apr 23, 2019
+58	Romero, Jessica	JR-3	Oral Roberts	5:12.66	Louisiana Tech Jim Mize Invitational	Apr 5, 2019
+59	Ngo, Hope	JR-3	Oral Roberts	5:13.11	Louisiana Tech Jim Mize Invitational	Apr 5, 2019
+60	Franck, Kendra	SO-2	North Dakota	5:14.28	Cobber Twilight	Apr 23, 2019
+61	Dergan, Bailey	FR-1	South Dakota St.	5:14.41	South Dakota Challenge	Apr 6, 2019
+62	Hirzel, Sophia	SO-2	Purdue Fort Wayne	5:15.14	GVSU Al Owens Classic	Apr 19, 2019
+63	Mathews, Elyse	FR-1	Western Illinois	5:16.55	SIU Bill Cornell Spring Classic	Mar 22, 2019
+64	Morgan, Ellie	FR-1	North Dakota	5:17.31	Emporia State Spring Invite	Mar 23, 2019
+65	Jepkemei, Benedict	FR-1	Oral Roberts	5:19.82	PSU/Wendy's Tune-Up	Apr 26, 2019
+66	Welch, Emma	SO-2	South Dakota	5:21.18	USD Twilight	Apr 23, 2019
+67	Kiekhaefer, Caitlyn	SR-4	Purdue Fort Wayne	5:27.77	53rd Annual Hillsdale "GINA" Relays	Apr 25, 2019
+68	Brust, Katie	FR-1	South Dakota	5:34.01	South Dakota Challenge	Apr 6, 2019
+69	Howard, Allison	JR-3	South Dakota	5:35.67	Red Raider Open	Apr 19, 2019
+70	Mathews, Kaitlyn	FR-1	Western Illinois	5:46.75	SIU Bill Cornell Spring Classic	Mar 22, 2019
+71	Zbeeb, Nessrine	FR-1	Western Illinois	5:52.37	SIU Bill Cornell Spring Classic	Mar 22, 2019

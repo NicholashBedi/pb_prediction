@@ -1,0 +1,97 @@
+1	Dee, Liam	SR-4	Iona	3:47.31	Bryan Clay Invitational	Apr 17, 2019
+2	Motschmann, Johannes	SR-4	Iona	3:47.33	Sam Howell Invitational	Apr 6, 2019
+3	Dee, Jamie	FR-1	Iona	3:49.94	Sam Howell Invitational	Apr 6, 2019
+4	Kibet, Evans	JR-3	Siena	3:50.16	Bison Outdoor Classic	Apr 13, 2019
+5	DiLaurenzio, Louis	FR-1	Monmouth	3:51.27	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+6	El-Sandali, Ehab	SO-2	Iona	3:51.70	Mets Outdoor Track and Field Championship	Apr 12, 2019
+7	Tell, Riley	FR-1	Iona	3:52.73	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+8	Galvin, Danny	JR-3	Iona	3:53.15	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+9	Rafferty, Ryan	JR-3	Monmouth	3:54.15	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+10	Belay, Danniel	SR-4	Rider	3:54.95	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+11	Burns, Drew	SR-4	Marist	3:55.39	Bison Outdoor Classic	Apr 13, 2019
+12	Long, Tom	JR-3	Rider	3:55.43	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+13	Fiore, Luciano	JR-3	Siena	3:56.45	Bison Outdoor Classic	Apr 13, 2019
+14	Moehringer, James	SO-2	Marist	3:56.77	Bison Outdoor Classic	Apr 13, 2019
+15	O'Leary, Jack	SO-2	Iona	3:56.80	Mets Outdoor Track and Field Championship	Apr 12, 2019
+16	Maida, Dan	JR-3	Monmouth	3:58.03	2019 Larry Ellis Invitational	Apr 20, 2019
+17	Maida, Dan	JR-3	Monmouth	3:58.09	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+18	Tierney, Ryan	FR-1	Manhattan	3:58.16	2019 Colonial Relays	Apr 4, 2019
+19	Doran, Connor	SO-2	Canisius	3:58.57	Bison Outdoor Classic	Apr 13, 2019
+20	Euler, Tim	SO-2	Monmouth	3:58.82	Bison Outdoor Classic	Apr 13, 2019
+21	Pron, Evan	JR-3	Monmouth	3:58.92	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+22	Bodon, Matt	FR-1	Monmouth	3:59.56	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+23	Baird, Graham	SO-2	Iona	3:59.94	Mets Outdoor Track and Field Championship	Apr 12, 2019
+24	Woodward, Ben	FR-1	Rider	4:00.10	Widener Invitational	Apr 19, 2019
+25	Henry, Paul	SR-4	Canisius	4:00.20	Bison Outdoor Classic	Apr 13, 2019
+26	Farrell, Matt	SR-4	Monmouth	4:01.11	Bison Outdoor Classic	Apr 13, 2019
+27	Sappey, Henry	JR-3	Monmouth	4:01.43	Widener Invitational	Apr 19, 2019
+28	Drews, Michael	FR-1	Monmouth	4:01.62	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+29	Mueller, Kyle	SR-4	Monmouth	4:02.43	Carol & John Covert Classic	Apr 26, 2019
+30	Lozipone, David	FR-1	Manhattan	4:02.67	Mets Outdoor Track and Field Championship	Apr 12, 2019
+31	Jean-Baptiste, Isaiah	JR-3	Rider	4:03.34	2019 Colonial Relays	Apr 4, 2019
+32	Stoker, Michael	SO-2	Siena	4:03.36	Bison Outdoor Classic	Apr 13, 2019
+33	Jacques, Matthew	JR-3	Siena	4:04.62	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+34	Draney, James	SO-2	Marist	4:05.50	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+35	Retzios, Carrington	FR-1	Monmouth	4:05.68	2019 Larry Ellis Invitational	Apr 20, 2019
+36	Greski, Jacob	SO-2	Siena	4:06.04	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+37	Neamtu, Nicholas	JR-3	Canisius	4:06.09	Dave Labor Invitational	Apr 6, 2019
+38	Ruskan, Scott	SO-2	Rider	4:06.29	Penn Challenge	Mar 23, 2019
+39	Lazorcak, Andrew	FR-1	Rider	4:06.31	Widener Invitational	Apr 19, 2019
+40	Spinosa, Nicholas	JR-3	Canisius	4:06.61	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+41	Warsh, Brian	JR-3	Iona	4:06.67	Mets Outdoor Track and Field Championship	Apr 12, 2019
+42	Kennedy, Michael	SR-4	Marist	4:06.69	24th Annual Monmouth Season Opener	Mar 29, 2019
+43	Ainscoe, Shane	FR-1	Monmouth	4:07.09	Widener Invitational	Apr 19, 2019
+44	Sweeney, Aidan	FR-1	Marist	4:07.30(1)	Bison Outdoor Classic	Apr 13, 2019
+45	Moore, Richard	FR-1	Canisius	4:07.40	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+46	Zeng, Brendan	FR-1	Marist	4:08.33	Bison Outdoor Classic	Apr 13, 2019
+47	Rynkowski, Bradford	FR-1	Marist	4:08.78	2019 Yale Springtime Invitational	Apr 28, 2019
+48	Daurio, Danny	SO-2	Rider	4:09.14	Penn Challenge	Mar 23, 2019
+49	Tibbetts, Christopher	SO-2	Marist	4:09.32	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+50	Dirrigl, Turner	SO-2	Canisius	4:09.92	Dave Labor Invitational	Apr 6, 2019
+51	Randall, William	SR-4	Siena	4:10.62	Wagner College Invitional	Mar 23, 2019
+52	Heredia, Kevin	FR-1	Rider	4:10.93	Rider 5-Way	Mar 30, 2019
+53	Weimann, Palmer	SR-4	Marist	4:11.22	24th Annual Monmouth Season Opener	Mar 29, 2019
+54	Mitchell, Ryan	SR-4	Monmouth	4:11.45	Carol & John Covert Classic	Apr 26, 2019
+55	Jerolaman, Evan	JR-3	Monmouth	4:11.88	24th Annual Monmouth Season Opener	Mar 29, 2019
+56	Hillman, Dan	SR-4	Marist	4:12.05	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+57	Canavan, Aidan	SO-2	Siena	4:12.13	2019 Bobbi Palma UAlbany Spring Classic	Apr 18, 2019
+58	Carroll, Michael	SR-4	Siena	4:12.33	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+59	Zappala, Jake	FR-1	Rider	4:12.38	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+60	Riley, Connor	SR-4	Rider	4:12.73	Widener Invitational	Apr 19, 2019
+61	O'Hara, John	SR-4	Siena	4:13.16	Wagner College Invitional	Mar 23, 2019
+62	Brown, Matthew	SR-4	Rider	4:13.40	Widener Invitational	Apr 19, 2019
+63	Gonzalez, Mathew	SR-4	Rider	4:13.86	Widener Invitational	Apr 19, 2019
+64	McLaughlin, Christian	SR-4	Manhattan	4:13.90	2019 Lions Invitational	Apr 26, 2019
+65	Canavan, Andrew	SR-4	Siena	4:14.12	2019 Bobbi Palma UAlbany Spring Classic	Apr 18, 2019
+66	Hawker, Matthew	SO-2	Marist	4:14.13	24th Annual Monmouth Season Opener	Mar 29, 2019
+67	Collado, Eric	FR-1	Rider	4:14.49	Widener Invitational	Apr 19, 2019
+68	Goldzweig, Samuel	FR-1	Marist	4:14.55(1)	Bison Outdoor Classic	Apr 13, 2019
+69	Spector, Will	FR-1	Rider	4:15.01	Penn Challenge	Mar 23, 2019
+70	Ortega, Jemar	SO-2	Manhattan	4:15.32	2019 Lions Invitational	Apr 26, 2019
+71	McFarland, Nick	SR-4	Monmouth	4:16.21	2019 Colonial Relays	Apr 4, 2019
+72	Stack, Conor	JR-3	Marist	4:16.22	24th Annual Monmouth Season Opener	Mar 29, 2019
+73	Medici, Daniel	SR-4	Siena	4:16.24	2019 RPI Capital District Classic	Apr 27, 2019
+74	Rodriguez, Luis	FR-1	Rider	4:16.36	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+75	Brown, Marcus	JR-3	Canisius	4:16.37	Dave Labor Invitational	Apr 6, 2019
+76	Obrochta, Jordan	SO-2	Canisius	4:17.55	Dave Labor Invitational	Apr 6, 2019
+77	Alshoubeki, Adam	JR-3	Manhattan	4:17.70	Ram Invite	Mar 22, 2019
+78	Holland, Ryan	FR-1	Siena	4:19.54	Black & Gold Invitational	Mar 29, 2019
+79	Peppy, Michael	FR-1	Canisius	4:21.12	Geneseo Early Season Invitational	Mar 29, 2019
+80	Sopchak, Josh	SR-4	Canisius	4:21.25	Geneseo Early Season Invitational	Mar 29, 2019
+81	Hale, Joe	FR-1	Manhattan	4:21.44	Mets Outdoor Track and Field Championship	Apr 12, 2019
+82	Crowley, Patrick	SR-4	Canisius	4:22.45	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+83	Walker, Owen	FR-1	Siena	4:23.79	2019 Bobbi Palma UAlbany Spring Classic	Apr 18, 2019
+84	Belfatto, Anthony	JR-3	Canisius	4:24.30	Geneseo Early Season Invitational	Mar 29, 2019
+85	Duffy, Conor	SR-4	Rider	4:25.38	Widener Invitational	Apr 19, 2019
+86	Ziskind, Cole	SO-2	Marist	4:26.00	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+87	Dombrowiecki, Daniel	FR-1	Monmouth	4:27.40	Carol & John Covert Classic	Apr 26, 2019
+88	Cambria, Alex	SR-4	Canisius	4:27.67	University at Buffalo Track & Field Invite	Apr 27, 2019
+89	Carrera, Marc	FR-1	Manhattan	4:27.84	2019 Lions Invitational	Apr 26, 2019
+90	Khaghani, Amir	SR-4	Manhattan	4:28.66	2019 Lions Invitational	Apr 26, 2019
+91	Estremera, Christopher	SO-2	Siena	4:34.26	Wagner College Invitional	Mar 23, 2019
+92	Gianadda, Michael	FR-1	Canisius	4:35.20	2019 Marty Goldberg Gator Invitational	May 10, 2019
+93	Rosales, Ittai	JR-3	Siena	4:41.73	Wagner College Invitional	Mar 23, 2019
+94	Davies, Connor	JR-3	Canisius	4:43.06	University at Buffalo Track & Field Invite	Apr 27, 2019
+95	DiGiacomo, Cole	SO-2	Siena	4:43.55	Wagner College Invitional	Mar 23, 2019
+96	Nover, Douglas	SR-4	St. Peter's	4:44.33	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+97	Youtkus, Tim	SO-2	Manhattan	5:28.14	Mets Outdoor Track and Field Championship	Apr 12, 2019

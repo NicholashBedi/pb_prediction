@@ -1,0 +1,70 @@
+1	Worley, Sam	SO-2	Texas	3:38.64	Bryan Clay Invitational	Apr 17, 2019
+2	Koech, Jonah	SR-4	Texas Tech	3:44.11	Bryan Clay Invitational	Apr 17, 2019
+3	Lagat, Festus	JR-3	Iowa State	3:44.40	Cardinal Classic	Apr 19, 2019
+4	Mills, Charles	SR-4	Texas	3:45.81	Bryan Clay Invitational	Apr 17, 2019
+5	Calhoun, Garrett	JR-3	Oklahoma State	3:45.88	John McDonnell Invitational	Apr 12, 2019
+6	George, Luke	FR-1	Oklahoma	3:46.96	Rafer Johnson & Jackie Joyner-Kersee Invitational	Apr 13, 2019
+7	Colley, Ackeen	SO-2	Oklahoma	3:47.38(1)	Bob Larsen Distance Carnival	Mar 29, 2019
+8	Hoppel, Bryce	JR-3	Kansas	3:47.98	LSU Battle on the Bayou	Apr 6, 2019
+9	Priddey, Isaiah	FR-1	Oklahoma State	3:48.22	Cardinal Classic	Apr 19, 2019
+10	Greder, Milo	FR-1	Iowa State	3:48.69	Stanford Invitational	Mar 29, 2019
+11	Hebert, Brendan	FR-1	Texas	3:49.59	Big 12 Outdoor Track and Field Championships	May 10, 2019
+12	Haines, Alec	SO-2	Oklahoma State	3:50.88	John McDonnell Invitational	Apr 12, 2019
+13	Khosla, Sukhi	JR-3	Oklahoma State	3:51.26	Arkansas Twilight	May 3, 2019
+14	Castro, Juan Diego	FR-1	Oklahoma State	3:51.28	Stanford Invitational	Mar 29, 2019
+15	Warren, Heath	JR-3	Oklahoma	3:51.38	National Relay Championships	Apr 26, 2019
+15	Abdi, Hassan	SR-4	Oklahoma State	3:51.38	Arkansas Spring Invitational	Mar 22, 2019
+17	Smeeton, Ryan	SO-2	Oklahoma State	3:52.50	Arkansas Spring Invitational	Mar 22, 2019
+18	Johnson, Jake	SO-2	Texas	3:53.51	The Reveille Meet	Apr 6, 2019
+19	Bielaczyc, Garek	JR-3	Texas	3:54.03	The Reveille Meet	Apr 6, 2019
+20	Brenneman, Dylan	FR-1	Kansas State	3:54.20	Ward Haylett Invitational	May 3, 2019
+21	Quigley, Bryce	SO-2	Oklahoma State	3:54.58	John McDonnell Invitational	Apr 12, 2019
+22	Letner, George	JR-3	Kansas	3:55.43	National Relay Championships	Apr 26, 2019
+23	Donahue, Keegan	JR-3	Kansas State	3:55.47	Wichita State KT Woodman Classic	Apr 10, 2019
+24	Merrell, Jake	FR-1	Baylor	3:56.48	USC Trojan Invite	Mar 15, 2019
+25	Young, Jack	FR-1	Kansas	3:57.06	National Relay Championships	Apr 26, 2019
+26	Loevenstein, Kurt	SR-4	Kansas State	3:57.21	2019 TCU Invitational	Mar 16, 2019
+27	Powell, Ethan	SO-2	Kansas State	3:57.45	2019 TCU Invitational	Mar 16, 2019
+28	Henderson, Matt	SO-2	Baylor	3:57.51	The Reveille Meet	Apr 6, 2019
+29	Ronzone, Michael	FR-1	Kansas	3:58.16	National Relay Championships	Apr 26, 2019
+30	Quere, Marcus	JR-3	Kansas	3:58.67	Ward Haylett Invitational	May 3, 2019
+31	Donley, Ethan	SO-2	Kansas	3:59.23	2019 92nd Clyde Littlefield Texas Relays	Mar 27, 2019
+32	Kiprotich, Cornelius	FR-1	Texas Tech	3:59.30	2019 92nd Clyde Littlefield Texas Relays	Mar 27, 2019
+33	Ralston, Jake	FR-1	Kansas	4:00.71	LSU Battle on the Bayou	Apr 6, 2019
+34	Prendeville, Sean	FR-1	Texas	4:01.30	The Reveille Meet	Apr 6, 2019
+35	Laktasic, Connor	FR-1	Baylor	4:01.34	USC Trojan Invite	Mar 15, 2019
+36	Shitsama, Victor	FR-1	Oklahoma State	4:01.63	Arkansas Spring Invitational	Mar 22, 2019
+37	Miller, Dylan	FR-1	Kansas	4:01.97	National Relay Championships	Apr 26, 2019
+38	King, Derek	SO-2	Oklahoma	4:02.04	John Jacobs Invitational	Apr 19, 2019
+39	Leland, Danny	SR-4	Baylor	4:02.23	Baylor Invitational	Mar 23, 2019
+40	Conrad, Lakelin	FR-1	TCU	4:02.77	Michael Johnson Invitational	Apr 19, 2019
+41	Sandlund, Jonathan	SO-2	Baylor	4:02.94	Baylor Invitational	Mar 23, 2019
+42	Buchanan, Jett	SO-2	Texas Tech	4:03.96@	Corky/Crofoot Shootout	Apr 26, 2019
+43	Stevenson, Noah	SO-2	Kansas State	4:04.00	2019 TCU Invitational	Mar 16, 2019
+44	Gorthy, Joe	SR-4	Kansas State	4:04.04	2019 TCU Invitational	Mar 16, 2019
+45	Gentry, Zach	SR-4	Oklahoma	4:04.12	Roadrunner Invitational	Mar 21, 2019
+46	Sugg, TJ	JR-3	Baylor	4:04.24	Baylor Invitational	Mar 23, 2019
+47	LaSelle, Grant	JR-3	Texas Tech	4:04.51@	TTU Masked Rider Open	May 4, 2019
+48	Pedersen, Jeffrey	FR-1	Iowa State	4:05.14	Arkansas Spring Invitational	Mar 22, 2019
+49	LaCour, Patrick	SR-4	TCU	4:05.44	Michael Johnson Invitational	Apr 19, 2019
+50	Ledesma, Ayrton		Oklahoma State	4:05.80	Arkansas Spring Invitational	Mar 22, 2019
+51	Stuart, Blaine	FR-1	TCU	4:05.97	Michael Johnson Invitational	Apr 19, 2019
+52	Kenville, Nick	SO-2	Oklahoma State	4:06.99	John McDonnell Invitational	Apr 12, 2019
+53	Gift, Nathan	SO-2	Texas Tech	4:07.93@	Fearless Champion Open	Mar 22, 2019
+54	Hicks, Brendon	SR-4	TCU	4:11.41	Michael Johnson Invitational	Apr 19, 2019
+55	Gonzales, Riley	JR-3	Texas Tech	4:11.81	Michael Johnson Invitational	Apr 19, 2019
+56	Flanders, Pierce	SO-2	Kansas State	4:15.70	Wichita State KT Woodman Classic	Apr 10, 2019
+57	Staub, Chris	SO-2	Oklahoma	4:19.23	John Jacobs Invitational	Apr 19, 2019
+58	Phillips, Luke	FR-1	Texas Tech	4:21.19@	Fearless Champion Open	Mar 22, 2019
+59	Melgares, Michael	JR-3	Kansas	4:25.94	LSU Battle on the Bayou	Apr 6, 2019
+60	Edmonds, William	SO-2	Oklahoma State	4:33.41	Big 12 Outdoor Track and Field Championships	May 10, 2019
+61	Booth, Aaron	JR-3	Kansas State	4:35.13	NCAA Division I Outdoor Track & Field Championships	Jun 5, 2019
+62	Hubert, Axel	FR-1	Texas Tech	4:42.56	Big 12 Outdoor Track and Field Championships	May 10, 2019
+63	Parr, Kyle	JR-3	Kansas State	4:42.77	Big 12 Outdoor Track and Field Championships	May 10, 2019
+64	Fassina, Simone	JR-3	Kansas State	4:53.51	Jim Click Shootout	Apr 6, 2019
+65	Estill, Max	SR-4	Kansas State	5:06.00	41st Annual Aztec Open	Mar 21, 2019
+66	Verble, Cole	SR-4	Oklahoma State	5:08.98	John McDonnell Invitational	Apr 12, 2019
+67	Patrick, George	SO-2	Texas	5:12.99	Big 12 Outdoor Track and Field Championships	May 10, 2019
+68	Kubicek, Will	FR-1	Oklahoma	5:14.40	Big 12 Outdoor Track and Field Championships	May 10, 2019
+69	Dyer, Jake	FR-1	Oklahoma State	5:16.56	Big 12 Outdoor Track and Field Championships	May 10, 2019
+70	Hurley, Hootie	FR-1	Oklahoma State	5:22.69	John McDonnell Invitational	Apr 12, 2019

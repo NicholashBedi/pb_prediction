@@ -1,0 +1,42 @@
+# Men USATF 2019 1500m final
+craig engels;3:35.32
+matthew centrowitz;3:30.40
+josh thompson;3:39.61
+ben blankenship;3:34.26
+eric avila;3:36.37
+sam prakel;3:36.84
+Izaic Yorks;3:36.52
+Henry Wynne;3:35.14
+Patrick Casey;3:35.32
+Johnny Gregorek;3:35.00
+James Randon;3:37.93
+Tim Gorman;3:40.52
+# Women USATF 2019 1500m final
+Shelby Houlihan;3:57.34
+Jenny Simpson;3:57.22
+Nikki Hiltz;4:05.56
+Sinclaire Johnson;4:05.98
+Kate Grace;4:02.99
+Shannon Osika;4:06.17
+Heather MacLean;4:06.21
+Karisa Nelson;4:07.66
+Elise Cranny;4:06.03
+Katie Mackey;4:03.81
+Eleanor Fulton;4:08.42
+Lauren Johnson;4:04.17
+# prefontaine Classic women
+Faith KIPYEGON;3:54.22
+Laura MUIR;3:55.22
+Shelby HOULIHAN;3:54.99
+Gudaf TSEGAY;3:54.38
+Winnie NANYONDO;3:59.56
+Gabriela DEBUES-STAFFORD;3:56.12
+Jessica HULL;4:01.80
+Kate GRACE;4:02.49
+Lemlem HAILU;4:02.97
+Alexa EFRAIMSON;4:03.39
+Rababe ARAFI;3:58.84
+Danielle JONES;4:07.28
+Axumawit EMBAYE;3:59.02
+Winny CHEBET;3:58.20
+Linden HALL;4:00.86

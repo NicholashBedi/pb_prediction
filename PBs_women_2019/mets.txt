@@ -1,0 +1,149 @@
+1	Morenaite, Egle	SO-2	Iona	4:19.41	Bryan Clay Invitational	Apr 17, 2019
+2	Ohrtman, Kaitlyn	JR-3	Iona	4:20.81	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+3	Wasserman, Katie	JR-3	Columbia	4:21.06(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+4	Fanta, Annie	SR-4	Columbia	4:21.71	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+5	Nuttall, Gemma	JR-3	Iona	4:23.97	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+6	Hays, Alexandra	SO-2	Columbia	4:28.52(1)	Villanova Invitational	Feb 2, 2019
+7	Kearley, Julia	JR-3	Iona	4:30.11(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+8	Sienski, Julia	SR-4	Columbia	4:31.14(1)	Villanova Invitational	Feb 2, 2019
+9	Mastromatteo, Gianna	SO-2	Marist	4:31.48	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+10	Bohan, Shea	SR-4	Marist	4:32.80(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+11	Gregoire, Erin	SR-4	Columbia	4:32.81(1)	Dartmouth-Yale-Columbia	Jan 18, 2019
+12	Krzyzanowski, Katarzyna	JR-3	Fordham	4:33.26	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+13	Martin, Olympia	SO-2	Rutgers	4:34.67(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+14	Grohn, Denise	JR-3	Marist	4:34.98(1)	Metro Atlantic Indoor Track & Field Championships	Feb 16, 2019
+15	Manning, Holly	JR-3	Stony Brook	4:35.47	UCONN Northeast Challenge	Apr 13, 2019
+16	O'Reilly, Clodagh	JR-3	Stony Brook	4:35.81(1)	Fastrack National Invite	Feb 8, 2019
+17	Smith, Maria	SO-2	Marist	4:35.89(1)	Metro Atlantic Indoor Track & Field Championships	Feb 16, 2019
+18	Klemens, Klaire	FR-1	Stony Brook	4:35.94(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+19	Spadaccini, Erin	SR-4	Manhattan	4:36.23	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+20	Fisher, Laurel	SR-4	Fordham	4:36.59(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+21	Murphy, Sophie	SO-2	Iona	4:36.66	Mets Outdoor Track and Field Championship	Apr 12, 2019
+22	Digman, Emily	JR-3	Columbia	4:36.76	2019 Larry Ellis Invitational	Apr 20, 2019
+23	Scheriff, Jessica	SR-4	Iona	4:37.07	Sam Howell Invitational	Apr 6, 2019
+24	Tripodi, Serena	SO-2	Columbia	4:37.99(1)	Ocean State Invitational	Apr 12, 2019
+25	Kenny, Rachel	FR-1	Columbia	4:39.61(1)	Ocean State Invitational	Apr 12, 2019
+26	Hauff, Tara	FR-1	Stony Brook	4:39.94	2019 America East Outdoor Championships	May 4, 2019
+27	Carney, Sara	JR-3	Wagner	4:40.02	2019 Colonial Relays	Apr 4, 2019
+28	Snow, Sydney	JR-3	Fordham	4:40.15	2019 Colonial Relays	Apr 4, 2019
+29	Gaye, Kerry	SR-4	Marist	4:40.37	2019 Colonial Relays	Apr 4, 2019
+30	Hue, Eugenie	SR-4	LIU Brooklyn	4:40.67(1)	2019 NEC Indoor Track & Field Championships	Feb 15, 2019
+31	Casey, Jordan	SR-4	Marist	4:40.76	Bison Outdoor Classic	Apr 13, 2019
+32	Sobieski, Jenna	SR-4	Rutgers	4:41.32	USF Bulls Invitational	Mar 22, 2019
+33	Grebe, Angelina	SR-4	Fordham	4:41.79(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+34	Nealon, Kiera	SO-2	Rutgers	4:41.93	Florida Relays	Mar 28, 2019
+35	Martino, Dani	SR-4	Iona	4:43.30	Sam Howell Invitational	Apr 6, 2019
+36	Ielfield, Hali	FR-1	Manhattan	4:43.51(1)	2018 Yale Season Opener	Dec 8, 2018
+37	Keenan, Helena	SR-4	Iona	4:44.07(1)	Metro Atlantic Indoor Track & Field Championships	Feb 16, 2019
+38	Bragen, Kaitlyn	SO-2	Rutgers	4:44.13(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+39	Sun, Hana	JR-3	Columbia	4:44.19(1)	Ocean State Invitational	Apr 12, 2019
+40	Turner, Terri	SO-2	Columbia	4:44.32	Penn Challenge	Mar 23, 2019
+41	Searles, Jade	JR-3	Fairleigh Dickinson	4:44.41(1)	NYC Gotham Cup	Jan 18, 2019
+42	Alonzo, Bianca	JR-3	Columbia	4:44.84(1)	Fastrack Metro Season Opener	Dec 1, 2018
+43	Camacho, Sofia	FR-1	Columbia	4:44.95(1)	Villanova Invitational	Feb 2, 2019
+44	Walters, Rebecca	FR-1	Marist	4:45.30	Bryan Clay Invitational	Apr 17, 2019
+45	Virtue, Emily	FR-1	Columbia	4:45.48(1)	Dartmouth-Yale-Columbia	Jan 18, 2019
+46	Lazarou, Olivia	FR-1	Iona	4:46.24(1)	Dr. Sander Columbia Challenge	Jan 24, 2019
+47	Howard, Antonia	SR-4	St. John's	4:47.03(1)	2018 Bill Ward Invitational	Dec 9, 2018
+48	Bergman, Emma	SO-2	Rutgers	4:47.27	2019 Larry Ellis Invitational	Apr 20, 2019
+49	Bertscha, Erin	FR-1	Rutgers	4:47.80	USF Bulls Invitational	Mar 22, 2019
+50	McCormack, Kate	SR-4	Fordham	4:48.00	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+51	Flower, Julia	JR-3	Iona	4:48.28	Stony Brook University Snow Flake Spring Opener	Mar 23, 2019
+52	Gerland, Stephanie	JR-3	St. John's	4:49.04	2019 Tom Farrell Classic	May 4, 2019
+53	Moroz, Aidan	SR-4	Fordham	4:49.05	Ram Invite	Mar 22, 2019
+54	Molloy, Hannah	JR-3	Iona	4:49.70	Stony Brook University Snow Flake Spring Opener	Mar 23, 2019
+55	Belkhir, Boushra	JR-3	Marist	4:50.00	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+56	Moynihan, Orlaith	JR-3	Iona	4:50.30	Stony Brook University Snow Flake Spring Opener	Mar 23, 2019
+57	Alex, Bridget	FR-1	Fordham	4:50.58	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+58	Gallagher, Jacqueline	JR-3	St. John's	4:50.72	2019 Tom Farrell Classic	May 4, 2019
+59	Bartolotta, Alexandra	SO-2	Marist	4:50.90	24th Annual Monmouth Season Opener	Mar 29, 2019
+60	Manfredi, Jillian	JR-3	Stony Brook	4:51.49	Stony Brook University Snow Flake Spring Opener	Mar 23, 2019
+61	Daniels, Sarah	FR-1	Fordham	4:51.51(1)	Fastrack Last Chance	Feb 15, 2019
+62	Elder, Alexandra	JR-3	Wagner	4:51.82	Mets Outdoor Track and Field Championship	Apr 12, 2019
+63	Mialhe, Lou	SO-2	Rutgers	4:51.83	Sam Howell Invitational	Apr 6, 2019
+64	Kyros, Alex	JR-3	Ramapo	4:51.88(1)	NJAC Indoor Track & Field Championships	Feb 18, 2019
+65	Taylor, Abigail	SR-4	Fordham	4:51.95(1)	Fastrack Last Chance	Feb 15, 2019
+66	Michaels, Camila	SO-2	Columbia	4:52.02(1)	Dartmouth-Yale-Columbia	Jan 18, 2019
+67	Tinto, Gianna	SR-4	Manhattan	4:52.35	2019 Colonial Relays	Apr 4, 2019
+68	Groom, Sydney	SO-2	Columbia	4:53.32	Penn Challenge	Mar 23, 2019
+69	Elwood, Blake	SR-4	Fordham	4:53.57	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+70	Ortega, Alexandria	JR-3	Stony Brook	4:54.95(1)	Brian Horowitz Invitational	Jan 11, 2019
+71	Page, Shannon	SR-4	St. John's	4:55.03	Coastal Carolina Invitational	Mar 8, 2019
+72	Rooney, Emily	FR-1	Columbia	4:55.83(1)	Fastrack National Invite	Feb 8, 2019
+73	Ruggiero, Rachel	FR-1	Stony Brook	4:55.95(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+74	Tooker, Maddie	SO-2	Marist	4:57.00	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+75	Santorelli, Allison	JR-3	Wagner	4:57.55(1)	Wagner College Invitational	Jan 4, 2019
+76	Sexton, Kayla	FR-1	Marist	4:58.00	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+77	Jelley, Chloe	JR-3	New Jersey Institute	4:58.76	13th Annual All American Meet	Apr 20, 2019
+78	Riedy, Brooke	FR-1	Rutgers	4:59.58(1)	Penn 8-Team Select	Jan 19, 2019
+79	Polo, Jennifer	JR-3	Ramapo	5:00.02	Coach Pollard Invite	Apr 12, 2019
+80	Laliberte, Jill	SO-2	Marist	5:00.09	2019 Yale Springtime Invitational	Apr 28, 2019
+81	Hartman, Charlotte	FR-1	Columbia	5:00.20	2019 Yale Springtime Invitational	Apr 28, 2019
+82	MacDonald, Sarah	SR-4	Columbia	5:00.54	Sam Howell Invitational	Apr 6, 2019
+83	Rosario, Kayla	FR-1	Rutgers	5:00.74(1)	Penn 8-Team Select	Jan 19, 2019
+84	Cutrone, Talia	SO-2	Marist	5:00.93	2019 Yale Springtime Invitational	Apr 28, 2019
+85	Carmody, Megan	JR-3	Manhattan	5:01.84(1)	2018 TCNJ Indoor Open	Dec 1, 2018
+86	Delaney, Meghan	JR-3	So. Conn. St.	5:02.26(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+87	Raia, Cassandra	SO-2	New Jersey Institute	5:02.45	North Florida Spring Break Invitational	Mar 21, 2019
+88	Hay, Kayla	FR-1	Wagner	5:03.00	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+89	Stankosh, Gabrielle	FR-1	NYU	5:04.87	Greyhound Invite	Apr 19, 2019
+90	Howe, Jessica	SR-4	Marist	5:05.00	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+91	Liell, Vivian	SO-2	Wagner	5:05.16(1)	Mets Indoor Track & Field Championships	Jan 31, 2019
+92	Campbell, Grace	FR-1	Manhattan	5:05.57	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+93	Noreika, Emilie	FR-1	So. Conn. St.	5:05.60	2019 Yale Springtime Invitational	Apr 28, 2019
+94	Hoagland, Samantha	SR-4	Manhattan	5:05.63(1)	2018 TCNJ Indoor Open	Dec 1, 2018
+95	Gallagher, Katlyn	FR-1	NYU	5:05.72(1)	UAA Indoor Track & Field Championships	Feb 23, 2019
+96	Cickavage, Genevieve	SR-4	Rutgers	5:06.22(1)	Penn 8-Team Select	Jan 19, 2019
+97	White, Bridget	SO-2	Fordham	5:06.24	Mets Outdoor Track and Field Championship	Apr 12, 2019
+98	McKeever, Margaret	FR-1	LIU Post	5:06.88(1)	Fastrack Metro Season Opener	Dec 1, 2018
+99	DeStefani, Samantha	FR-1	Marist	5:07.00	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+100	Jepkogei, Stella	JR-3	Fairleigh Dickinson	5:07.37	Mets Outdoor Track and Field Championship	Apr 12, 2019
+101	Herrman, Rachel	FR-1	Rutgers	5:07.41	Sam Howell Invitational	Apr 6, 2019
+102	Vibulbhan, Alisa	SO-2	Ramapo	5:07.49	Coach Pollard Invite	Apr 12, 2019
+103	Dicristina, Kelly	SO-2	New Jersey Institute	5:07.57	ASUN Outdoor Track & Field Championships	May 10, 2019
+104	O'Hehir, Shannon	SR-4	Iona	5:08.81(1)	Mets Indoor Track & Field Championships	Jan 31, 2019
+105	Hartnett, Caitlin	JR-3	Manhattan	5:09.21(1)	2018 Yale Season Opener	Dec 8, 2018
+106	House, Valentina		NYU	5:09.47	USF Bulls Invitational	Mar 22, 2019
+107	O'Connor, Maeve	SO-2	Fordham	5:09.91(1)	Brian Horowitz Invitational	Jan 11, 2019
+108	Gallagher, Therese	JR-3	St. John's	5:10.90	Mets Outdoor Track and Field Championship	Apr 12, 2019
+109	Pitarresi, Lauren	SO-2	Wagner	5:11.10(1)	Wagner College Invitational	Jan 4, 2019
+110	Jebor, Monicah	SO-2	NYIT	5:11.91(1)	ECC Indoor Track and Field Championship	Feb 16, 2019
+111	Zodl, Athina	FR-1	NYU	5:11.95(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+112	Bryant, Diondra	SR-4	St. Francis (N.Y.)	5:12.32	Mets Outdoor Track and Field Championship	Apr 12, 2019
+113	Storino, Ashley	FR-1	NYU	5:13.33	Swarthmore Final Qualifier Meet	May 13, 2019
+114	Farbanish, Kelsey	SO-2	Rutgers	5:13.57	Sam Howell Invitational	Apr 6, 2019
+115	Weaver , Kabrina	FR-1	Wagner	5:14.18	Northeast Conference Championship	May 4, 2019
+116	Proctor, Grace	SO-2	St. Peter's	5:14.62	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+117	Schillaci, Kaitie	SR-4	LIU Post	5:14.75(1)	Spartan Invitational	Jan 11, 2019
+118	Castro, Anay	SO-2	Ramapo	5:16.31(1)	NYC Gotham Cup	Jan 18, 2019
+119	Coppinger, Kelsey	SR-4	Fordham	5:17.86(1)	NYC Gotham Cup	Jan 18, 2019
+120	Rivers , Leah	SO-2	St. Francis (N.Y.)	5:20.82	Wagner College Invitional	Mar 23, 2019
+121	McKeever, Margaret		LIU Post	5:21.17	Wagner College Invitional	Mar 23, 2019
+122	Elnick, Kathryn	SR-4	LIU Post	5:22.28(1)	ECC Indoor Track and Field Championship	Feb 16, 2019
+123	Herms, Julia	JR-3	Fordham	5:23.48	Rider 5-Way	Mar 30, 2019
+124	Vetter, Carley	FR-1	Stony Brook	5:24.51(1)	Brian Horowitz Invitational	Jan 11, 2019
+125	Chepleting, Irene	JR-3	NYIT	5:24.69(1)	ECC Indoor Track and Field Championship	Feb 16, 2019
+126	Hanrahan, Kieran	SR-4	Fordham	5:24.99(1)	Fordham Season Opener	Dec 7, 2018
+127	Ling, Michelle	SR-4	New Jersey Institute	5:25.70	13th Annual All American Meet	Apr 20, 2019
+128	Kipkorir, Sylvia	JR-3	Fairleigh Dickinson	5:26.03	Rider 5-Way	Mar 30, 2019
+129	McCarthy, Nicole	SR-4	St. John's	5:26.05	Penn Challenge	Mar 23, 2019
+130	Sorilla, Jordan	SO-2	Wagner	5:26.32(1)	Penn 8-Team Select	Jan 19, 2019
+131	Jozefczyk, Meghan	SO-2	Ramapo	5:27.15(1)	NYC DIII Invitational	Feb 1, 2019
+132	Kaufman, Anna		NYU	5:27.65	Coach Pollard Invite	Apr 12, 2019
+133	Boese, Megan	FR-1	Hofstra	5:28.79	Rider Invitational 2019	Apr 13, 2019
+134	Neville, Mary		NYU	5:29.73	Greyhound Invite	Apr 19, 2019
+135	Wilson, Taylor	SO-2	St. Francis (N.Y.)	5:30.80(1)	Armory Last Chance	Feb 22, 2019
+136	Kibet, Mercy	SO-2	NYIT	5:32.14(1)	Mets Indoor Track & Field Championships	Jan 31, 2019
+137	Hoagland, Kelsey	FR-1	Ramapo	5:36.37	24th Annual Monmouth Season Opener	Mar 29, 2019
+138	Oh, Allison	FR-1	NYU	5:42.00(1)	NYC DIII Invitational	Feb 1, 2019
+139	Meneses, Alexis	FR-1	Ramapo	5:44.41	Greyhound Invite	Apr 19, 2019
+140	Shibata, Emily	SR-4	New Jersey Institute	5:44.56(1)	Fordham Season Opener	Dec 7, 2018
+141	Tirpak, Erin	SO-2	NYU	5:45.29	Greyhound Invite	Apr 19, 2019
+142	Sullivan, Christina	FR-1	Ramapo	5:47.66(1)	Ramapo College Season Opener	Jan 11, 2019
+143	Carrion i Barea , Anna	FR-1	Wagner	5:52.11	Mets Outdoor Track and Field Championship	Apr 12, 2019
+144	Ducharme, Ashley	JR-3	Wagner	5:56.56	Wagner College Invitional	Mar 23, 2019
+145	Johnson, Ashley	SR-4	NYIT	6:08.10(1)	NYC Gotham Cup	Jan 18, 2019
+146	Kanellopoulos, Stavrula	FR-1	NYIT	6:08.73(1)	Mets Indoor Track & Field Championships	Jan 31, 2019
+147	Bacher, Alli	JR-3	Hofstra	6:10.97	Rider Invitational 2019	Apr 13, 2019
+148	Weyer, Noelle	SO-2	St. Francis (N.Y.)	6:38.25	24th Annual Monmouth Season Opener	Mar 29, 2019
+149	Abrahamsen, Heidi	JR-3	NYIT	6:50.44(1)	2018 Bill Ward Invitational	Dec 9, 2018

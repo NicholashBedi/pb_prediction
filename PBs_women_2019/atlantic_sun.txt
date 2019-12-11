@@ -1,0 +1,50 @@
+1	McDowell, Delaney	SR-4	Liberty	4:29.99	FSU Relays (College)	Mar 22, 2019
+2	Ayuk , Brenda	FR-1	Kennesaw State	4:33.85	Don McGarey Invitational Track and Field Invitational	Apr 26, 2019
+3	Van Dijk, Lydia	FR-1	North Florida	4:33.93	North Florida Spring Break Invitational	Mar 21, 2019
+4	Palmer, Noel	SO-2	Liberty	4:34.96	FSU Relays (College)	Mar 22, 2019
+5	Parlier, Calli	FR-1	Liberty	4:35.08	ASUN Outdoor Track & Field Championships	May 10, 2019
+6	Palotti, Hayleigh	FR-1	Jacksonville	4:35.56	UNF Invitational	Apr 5, 2019
+7	Carpenter, Audrey	SR-4	North Florida	4:37.44	North Florida Spring Break Invitational	Mar 21, 2019
+8	Hendrick, Sarah	FR-1	Kennesaw State	4:38.64	Florida Relays	Mar 28, 2019
+9	Bowser, Naomi	FR-1	Liberty	4:38.88	Raleigh Relays	Mar 29, 2019
+10	Gumpel, Grace	FR-1	North Florida	4:39.27	UF Tom Jones Memorial	Apr 26, 2019
+11	Flynt, Lauren	SO-2	Lipscomb	4:40.04	Berry Field Day Invitational	Apr 12, 2019
+12	Kling, Haley	SO-2	Lipscomb	4:42.23	Berry Field Day Invitational	Apr 12, 2019
+13	Meyer , Katie	SO-2	Kennesaw State	4:42.51	Don McGarey Invitational Track and Field Invitational	Apr 26, 2019
+14	Smith, Heidi	SO-2	Liberty	4:43.99	Raleigh Relays	Mar 29, 2019
+15	Bower, Emma	FR-1	Liberty	4:44.34	Raleigh Relays	Mar 29, 2019
+16	Lahey, Grace	SO-2	Lipscomb	4:44.81	Berry Field Day Invitational	Apr 12, 2019
+17	Cooney, Camryn	FR-1	North Florida	4:45.52	UF Tom Jones Memorial	Apr 26, 2019
+18	Owens, Hannah	SR-4	Lipscomb	4:46.13	Berry Field Day Invitational	Apr 12, 2019
+19	Rogers, Jessica	FR-1	Liberty	4:46.61	2019 Twilight Qualifier	May 1, 2019
+20	Rudie, Kayla	SO-2	Lipscomb	4:46.78	Berry Field Day Invitational	Apr 12, 2019
+21	McUmber, Nora	SR-4	Jacksonville	4:46.90	UNF Invitational	Apr 5, 2019
+22	Oetting, Grace	JR-3	Lipscomb	4:48.20	Berry Field Day Invitational	Apr 12, 2019
+23	Cesnik, Tina	FR-1	North Florida	4:49.85	UF Tom Jones Memorial	Apr 26, 2019
+24	Stocki, Chelsea	FR-1	Liberty	4:49.95	'19 WildCat Invitational	Apr 13, 2019
+25	Hirneisen, Lauren	SO-2	Liberty	4:50.65	'19 WildCat Invitational	Apr 13, 2019
+26	Kurtz, Kammi	JR-3	Liberty	4:51.55	'19 WildCat Invitational	Apr 13, 2019
+27	McLaughlin, Sadie	FR-1	North Florida	4:51.77	UF Tom Jones Memorial	Apr 26, 2019
+28	Lyons, Margret	FR-1	North Florida	4:53.49	UF Tom Jones Memorial	Apr 26, 2019
+29	Sorg, Kyley	FR-1	Liberty	4:54.39	Virginia Grand Prix	Apr 26, 2019
+30	Lespasio, Raquel	FR-1	North Florida	4:54.85	UF Tom Jones Memorial	Apr 26, 2019
+31	Leone, Rebekah	FR-1	Liberty	4:54.90	Virginia Grand Prix	Apr 26, 2019
+32	Losito, Clare	SR-4	Lipscomb	4:58.09	ASUN Outdoor Track & Field Championships	May 10, 2019
+33	Jelley, Chloe	JR-3	New Jersey Institute	4:58.76	13th Annual All American Meet	Apr 20, 2019
+34	Manoogian, Pari	SO-2	Lipscomb	4:59.59	Tiger Track Classic 2019	Apr 5, 2019
+35	Worrell, Nicolette	SO-2	Jacksonville	4:59.68	North Florida Spring Break Invitational	Mar 21, 2019
+36	Allison, Ayse	FR-1	Lipscomb	4:59.95	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+37	MacDougall, Katie	FR-1	Liberty	5:00.33	'19 WildCat Invitational	Apr 13, 2019
+38	Shaffer, Kelly	JR-3	Liberty	5:00.92	2019 Twilight Qualifier	May 1, 2019
+39	Anderson, Jamie	FR-1	Liberty	5:01.43	'19 WildCat Invitational	Apr 13, 2019
+40	Raia, Cassandra	SO-2	New Jersey Institute	5:02.45	North Florida Spring Break Invitational	Mar 21, 2019
+41	Farrell, Caitlyn	SR-4	Kennesaw State	5:05.74	UNF Invitational	Apr 5, 2019
+42	Aumer , Brooke	SO-2	Kennesaw State	5:06.00	Al Schmidt Bulldog Relays Invite	Mar 22, 2019
+43	Dicristina, Kelly	SO-2	New Jersey Institute	5:07.57	ASUN Outdoor Track & Field Championships	May 10, 2019
+44	Evans, Hannah	SO-2	North Florida	5:08.44	UF Tom Jones Memorial	Apr 26, 2019
+45	Jantomaso, Sophia	FR-1	Liberty	5:09.71	CSU Spring Break Invitational	Mar 16, 2019
+46	Marti, Rain	FR-1	Jacksonville	5:18.50	UNF Invitational	Apr 5, 2019
+47	Setlock, Gwen	FR-1	Kennesaw State	5:23.13	Yellow Jacket Invitational	Mar 15, 2019
+48	Hutton, Elizabeth	JR-3	Liberty	5:24.12	2019 Twilight Qualifier	May 1, 2019
+49	Ling, Michelle	SR-4	New Jersey Institute	5:25.70	13th Annual All American Meet	Apr 20, 2019
+50	Shibata, Emily	SR-4	New Jersey Institute	5:46.42	13th Annual All American Meet	Apr 20, 2019

@@ -1,0 +1,70 @@
+1	Wilson, Michael	SR-4	New Mexico	3:43.96	Bryan Clay Invitational	Apr 17, 2019
+2	Mong, Henry	SO-2	Boise State	3:45.75	Bryan Clay Invitational	Apr 17, 2019
+3	Crowe-Wright, Ian	SR-4	New Mexico	3:45.80	NCAA Division I West Region Preliminary Rounds	May 23, 2019
+4	Hughes, Iolo	SO-2	New Mexico	3:45.92	Bryan Clay Invitational	Apr 17, 2019
+5	Rockhold, Cole	SR-4	Colorado St.	3:47.33	Mountain West Outdoor Track & Field Championship	May 8, 2019
+6	Lautenslager, Jeff	SR-4	Boise State	3:47.43	Bryan Clay Invitational	Apr 17, 2019
+7	Johnson, Scott	SO-2	Air Force	3:47.80	Bryan Clay Invitational	Apr 17, 2019
+8	Bilvado, Jacob	SR-4	Air Force	3:48.17	Bryan Clay Invitational	Apr 17, 2019
+9	DeHaven, Addison	SR-4	Boise State	3:48.31	Mountain West Outdoor Track & Field Championship	May 8, 2019
+10	Sullivan, Patrick	JR-3	Air Force	3:48.38@	Air Force Twilight Open	May 3, 2019
+11	Riley, Noah	SR-4	Air Force	3:48.59@	Air Force Twilight Open	May 3, 2019
+12	Muhumed, Ahmed	SO-2	Boise State	3:48.71	Bryan Clay Invitational	Apr 17, 2019
+13	Rafla, Andrew	SR-4	Boise State	3:49.17	Mountain West Outdoor Track & Field Championship	May 8, 2019
+14	Downey, Michael	JR-3	Wyoming	3:49.33@	Doug Max Invitational	Apr 12, 2019
+15	Bailey, Luke	FR-1	Utah State	3:49.72	Mike Fanelli Track Classic	Mar 28, 2019
+16	Brueckman, Jacob	SO-2	Colorado St.	3:49.82@	Jack Christiansen Invitational	Apr 26, 2019
+17	Grinwis, Jacob	SO-2	Boise State	3:50.25	Portland Twilight	May 3, 2019
+18	Powell, Trent	SR-4	Colorado St.	3:50.46@	Jack Christiansen Invitational	Apr 26, 2019
+19	Forsyth, Andrew	SO-2	Colorado St.	3:51.39@	Doug Max Invitational	Apr 12, 2019
+20	Armstrong, Elijah	SO-2	Boise State	3:51.48	Bryan Clay Invitational	Apr 17, 2019
+21	Henry, Christopher	SO-2	Wyoming	3:51.70@	Doug Max Invitational	Apr 12, 2019
+22	Bonilla, Edgar	JR-3	San Jose St.	3:52.06	Mountain West Outdoor Track & Field Championship	May 8, 2019
+23	Taylor, Jerald	FR-1	Wyoming	3:52.16@	Doug Max Invitational	Apr 12, 2019
+24	Wojciechowski, Josh	SR-4	Air Force	3:52.62@	Jack Christiansen Invitational	Apr 26, 2019
+25	Hume, Carson	SR-4	Colorado St.	3:52.85	Bryan Clay Invitational	Apr 17, 2019
+26	Steck, Konrad	SO-2	Air Force	3:52.94@	Colorado Invitational 2019	Apr 5, 2019
+27	Dwyer, Colin	SO-2	Air Force	3:53.17@	Colorado Invitational 2019	Apr 5, 2019
+28	Pina, Jose	SO-2	San Jose St.	3:53.58	2019 Hornet Invitational	Mar 15, 2019
+29	Pancake, Devin	FR-1	Utah State	3:53.90	Mike Fanelli Track Classic	Mar 28, 2019
+30	Anaya Carmona, Israel	SO-2	Boise State	3:54.16	Bryan Clay Invitational	Apr 17, 2019
+31	Ewing, Harry	SO-2	Wyoming	3:55.13@	Doug Max Invitational	Apr 12, 2019
+32	Richardson, Tom	JR-3	Boise State	3:56.09	Bryan Clay Invitational	Apr 17, 2019
+33	Haroldsen, Coen	SO-2	Utah State	3:56.48@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+34	Pope, Charlie	SO-2	San Jose St.	3:56.81	Woody Wilson Classic	Apr 13, 2019
+35	Chavez, Luis	FR-1	San Jose St.	3:56.91	Brutus Hamilton Open	Apr 26, 2019
+36	Jordan, Ty	JR-3	Boise State	3:56.93	Mike Fanelli Track Classic	Mar 28, 2019
+37	Hendrickson, Adam	SR-4	Utah State	3:57.28	Mike Fanelli Track Classic	Mar 28, 2019
+38	Oftedal, Eli	JR-3	Colorado St.	3:57.75@	2019 Tom Benich Invite	Mar 30, 2019
+39	Huff, Craig	SO-2	San Jose St.	3:57.93	2019 Hornet Invitational	Mar 15, 2019
+40	Delgado, Ronaldo	FR-1	Fresno State	3:58.74	Mountain West Outdoor Track & Field Championship	May 8, 2019
+41	Gould, Kody	SR-4	Utah State	3:58.80@	Aggie Iinvitational	Apr 12, 2019
+42	Henry, Philip	FR-1	Wyoming	3:58.88@	Doug Max Invitational	Apr 12, 2019
+43	Tew, Jakob	SO-2	Utah State	3:58.98@	2019 UVU Collegiate Invitational	Mar 29, 2019
+44	Everson, Leif	SO-2	Boise State	3:59.06	Bryan Clay Invitational	Apr 17, 2019
+45	Zacharias, Matt	FR-1	Air Force	3:59.95@	Colorado Invitational 2019	Apr 5, 2019
+46	Kedge, AJ	FR-1	Air Force	4:00.13@	Air Force Twilight Open	May 3, 2019
+47	Zeratsion, Huruy	SO-2	San Jose St.	4:00.32	Cardinal Classic	Apr 19, 2019
+48	Hansen, Kristian		New Mexico	4:01.75(1)	Brutus Hamilton Invitational	Apr 27, 2019
+49	Boyer, Hunter	SO-2	Air Force	4:02.92@	Air Force Twilight Open	May 3, 2019
+50	Wittig, Joseph	FR-1	Air Force	4:02.95@	Doug Max Invitational	Apr 12, 2019
+51	Borne, Nick	SO-2	Colorado St.	4:04.00@	2019 Tom Benich Invite	Mar 30, 2019
+52	Nolley, Luke	FR-1	Air Force	4:04.26@	Air Force Twilight Open	May 3, 2019
+53	Greseth, Cade	SO-2	Boise State	4:04.46	Mike Fanelli Track Classic	Mar 28, 2019
+54	Kitzhaber, Will	FR-1	Air Force	4:05.19@	Air Force Twilight Open	May 3, 2019
+55	Lester, Drew	SO-2	Air Force	4:06.39@	Jerry Quiller Classic 2019	Mar 15, 2019
+56	Mateo, Evaristo	JR-3	San Jose St.	4:08.33	Woody Wilson Classic	Apr 13, 2019
+57	Rojas, Maltazomatli	SR-4	Boise State	4:08.74	Bryan Clay Invitational	Apr 17, 2019
+58	Beckham, Albert	SR-4	Boise State	4:09.52	Border Clash 2019	Apr 26, 2019
+59	Walker, Ryan	SR-4	Fresno State	4:11.85	2019 Cal Poly Shareslo.com Invitational	Mar 22, 2019
+60	Mitchel, Alekos	SO-2	Fresno State	4:13.32	2019 Pomona-Pitzer Invitational (College/Univ)	Apr 6, 2019
+61	Viano, Michael	SR-4	Fresno State	4:32.60	adidas/Steve Scott Invitational	Apr 26, 2019
+62	Ruiz, Roman	FR-1	Utah State	4:33.60	Mountain West Outdoor Track & Field Championship	May 8, 2019
+63	Walters, Matthew	FR-1	Air Force	4:34.92	Jim Click Shootout	Apr 6, 2019
+64	Kravec, Nick	SR-4	Colorado St.	4:36.67	Mountain West Outdoor Track & Field Championship	May 8, 2019
+65	Dunninger, Camillo	SO-2	New Mexico	4:38.91	Mountain West Outdoor Track & Field Championship	May 8, 2019
+66	Murphy, Wyatt	FR-1	Air Force	4:40.88	Mountain West Outdoor Track & Field Championship	May 8, 2019
+67	Lundgren, Eric	SO-2	Colorado St.	4:42.07	Bryan Clay Invitational	Apr 17, 2019
+68	Gurchiek, Tyler	SO-2	Air Force	4:42.90	Jim Click Shootout	Apr 6, 2019
+69	Powell, Hunter	SR-4	Colorado St.	4:43.70	Mountain West Outdoor Track & Field Championship	May 8, 2019
+70	Wright, Bradly	FR-1	Colorado St.	4:44.93	Mountain West Outdoor Track & Field Championship	May 8, 2019

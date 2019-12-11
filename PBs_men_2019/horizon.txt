@@ -1,0 +1,69 @@
+1	Peterson, Sean	SO-2	Youngstown St.	3:49.16	Bison Outdoor Classic	Apr 13, 2019
+2	Cotter, Alex	JR-3	Milwaukee	3:51.03	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+3	Dunn, Ryan	SR-4	Wright State	3:51.16	Bison Outdoor Classic	Apr 13, 2019
+4	Sandusky, Alec	JR-3	Northern Kentucky	3:51.18	Oliver Nikoloff Invitational	Apr 6, 2019
+5	Bashqawi, Alex	SR-4	Illinois-Chicago	3:52.38	Illinois Twilight	Apr 13, 2019
+6	Kendell, Ben	SR-4	Detroit Mercy	3:53.40(1)	2019 Oakland vs Detroit	Apr 6, 2019
+7	Hoffman, Eric	SO-2	IUPUI	3:54.63	Oliver Nikoloff Invitational	Apr 6, 2019
+8	McMillan, Terry	SR-4	Milwaukee	3:55.04	Marquette Mid-Week Challenge	Apr 24, 2019
+9	Dunn, Nathan	JR-3	Wright State	3:56.05	Oliver Nikoloff Invitational	Apr 6, 2019
+10	Sullivan, Ryan	SR-4	Youngstown St.	3:57.41	Duke Invitational	Apr 19, 2019
+11	Long, Brooks	SO-2	IUPUI	3:58.78	Horizon League Outdoor Track & Field Championships	May 3, 2019
+12	Nava, Alan	SO-2	Detroit Mercy	3:58.96	Horizon League Outdoor Track & Field Championships	May 3, 2019
+13	Butler, Chris	FR-1	Youngstown St.	3:59.57	Bison Outdoor Classic	Apr 13, 2019
+14	Currie, Spencer	FR-1	Milwaukee	4:00.59	Illinois Twilight	Apr 13, 2019
+15	Lovett, Cole	SO-2	Youngstown St.	4:00.77	Horizon League Outdoor Track & Field Championships	May 3, 2019
+16	Rill, Brixton	SR-4	Illinois-Chicago	4:00.96	Lewis Twilight	Apr 23, 2019
+17	Everetts, Josh	SO-2	IUPUI	4:01.14	Bellarmine Invitational	Mar 29, 2019
+18	Mueller, Thomas	SO-2	Detroit Mercy	4:01.25	Bison Outdoor Classic	Apr 13, 2019
+19	Wenzel, Trevor	FR-1	Milwaukee	4:01.26	Horizon League Outdoor Track & Field Championships	May 3, 2019
+20	Jennings, Roman	SO-2	IUPUI	4:01.66	Oliver Nikoloff Invitational	Apr 6, 2019
+21	Savage, Ben	JR-3	IUPUI	4:02.50	Oliver Nikoloff Invitational	Apr 6, 2019
+22	Rhed, Lucas	JR-3	IUPUI	4:02.80	Charlotte 49er Classic	Mar 14, 2019
+23	Tapia, Tristan	SR-4	Northern Kentucky	4:03.00	Horizon League Outdoor Track & Field Championships	May 3, 2019
+23	Kramer, Noah	SO-2	IUPUI	4:03.00	Illinois Twilight	Apr 13, 2019
+25	Browne, Daniel	FR-1	Milwaukee	4:03.03	Illinois Twilight	Apr 13, 2019
+26	Burrows, Ryan	SR-4	Northern Kentucky	4:03.18	Oliver Nikoloff Invitational	Apr 6, 2019
+27	Sparks, Ethan	FR-1	Youngstown St.	4:03.39	Bison Outdoor Classic	Apr 13, 2019
+28	Skucas, Martin	SO-2	Illinois-Chicago	4:03.70	Illinois Twilight	Apr 13, 2019
+29	Dobar, Dash	SO-2	Detroit Mercy	4:04.07	Bison Outdoor Classic	Apr 13, 2019
+30	Rigdon, Blake	SO-2	Northern Kentucky	4:04.47	Horizon League Outdoor Track & Field Championships	May 3, 2019
+31	Nedrich, James	SR-4	Youngstown St.	4:04.85	2019 Marty Goldberg Gator Invitational	May 10, 2019
+32	Thornton, Corey	SO-2	Milwaukee	4:06.23	Marquette Mid-Week Challenge	Apr 24, 2019
+33	Goetz, Connor	FR-1	Oakland	4:06.91(1)	2019 Oakland vs Detroit	Apr 6, 2019
+34	Ehlers, David	JR-3	IUPUI	4:07.43	Illinois Twilight	Apr 13, 2019
+35	Mallory, Brad	SR-4	Oakland	4:08.57	2019 Golden Grizzlies Invite	Apr 12, 2019
+36	Whitaker, Josh	FR-1	IUPUI	4:08.82	Charlotte 49er Classic	Mar 14, 2019
+37	Burns, Alan	SR-4	Youngstown St.	4:09.03	Duke Invitational	Apr 19, 2019
+38	Polman, Tyler	SO-2	Youngstown St.	4:10.26	Westminster Invitational 2019	Apr 12, 2019
+39	Merkel, Dakota	SO-2	IUPUI	4:10.30	Illinois Twilight	Apr 13, 2019
+40	Cabrera, Carlos	SO-2	Illinois-Chicago	4:11.58	Lewis Twilight	Apr 23, 2019
+41	Lagaras, Alex	FR-1	Youngstown St.	4:12.00	2019 Marty Goldberg Gator Invitational	May 10, 2019
+42	Greeley, Michael	FR-1	Detroit Mercy	4:12.59	Horizon League Outdoor Track & Field Championships	May 3, 2019
+43	Stahl, Wyatt	JR-3	Wright State	4:12.64	Stan Lyons 2019	Mar 16, 2019
+44	Freitag, Joshua	FR-1	Milwaukee	4:13.42	Marquette Mid-Week Challenge	Apr 24, 2019
+45	Petlichkoff, Alexander	FR-1	Detroit Mercy	4:13.54	2019 Golden Grizzlies Invite	Apr 12, 2019
+46	Bowers, Benjamin	FR-1	Wright State	4:14.84	Stan Lyons 2019	Mar 16, 2019
+47	Starnes, Dustin	SO-2	IUPUI	4:15.06	Illinois Twilight	Apr 13, 2019
+48	Wuori, Connor	JR-3	Oakland	4:15.84(1)	2019 Oakland vs Detroit	Apr 6, 2019
+49	English, Joshua	FR-1	Illinois-Chicago	4:18.68	Big Blue Classic at EIU	Mar 29, 2019
+50	Mathes, Tyler	SR-4	Wright State	4:19.21	Stan Lyons 2019	Mar 16, 2019
+51	Kaiser, Gus	FR-1	Milwaukee	4:19.35	Marquette Mid-Week Challenge	Apr 24, 2019
+52	Joseph, Chris	SO-2	Illinois-Chicago	4:19.91	Lewis Twilight	Apr 23, 2019
+53	Fullenkamp, Aaron	JR-3	Wright State	4:21.04	Stan Lyons 2019	Mar 16, 2019
+54	Schwieman, Kyle	SO-2	Oakland	4:21.36(1)	2019 Oakland vs Detroit	Apr 6, 2019
+55	McClanahan, Brendan	JR-3	Detroit Mercy	4:24.27(1)	2019 Oakland vs Detroit	Apr 6, 2019
+56	Williams, Jacob	FR-1	IUPUI	4:24.29	Charlotte 49er Classic	Mar 14, 2019
+57	Mathes, Tanner	SR-4	Wright State	4:25.22	Stan Lyons 2019	Mar 16, 2019
+58	King, Sirlaurence	JR-3	Illinois-Chicago	4:25.95	Illinois Twilight	Apr 13, 2019
+59	Steimle, Tim	SO-2	Wright State	4:34.81	Otterbein Twilight Invitational	Apr 19, 2019
+60	Board, Michael	FR-1	Wright State	4:34.97	Oliver Nikoloff Invitational	Apr 6, 2019
+61	Emmert, Ethan	SO-2	Wright State	4:46.54	Oliver Nikoloff Invitational	Apr 6, 2019
+62	Brown, Jordan	JR-3	Wright State	4:54.39	Oliver Nikoloff Invitational	Apr 6, 2019
+63	Lietzow, Joseph	SO-2	Detroit Mercy	5:01.70	Horizon League Outdoor Track & Field Championships	May 3, 2019
+64	McCormick, Drew	SO-2	Milwaukee	5:06.32	Horizon League Outdoor Track & Field Championships	May 3, 2019
+65	Pontius, Stefan	JR-3	Youngstown St.	5:12.66	Horizon League Outdoor Track & Field Championships	May 3, 2019
+66	Coenen, Trevor	JR-3	Milwaukee	5:15.43	Horizon League Outdoor Track & Field Championships	May 3, 2019
+67	Koch, Justin	SO-2	Detroit Mercy	5:26.86	2019 Adidas Winthrop University Invitational	Mar 21, 2019
+68	McMurtry, Bryce	JR-3	Milwaukee	5:35.06	Horizon League Outdoor Track & Field Championships	May 3, 2019
+69	DePelsmaeker, Adam	FR-1	Detroit Mercy	5:57.95	2019 Adidas Winthrop University Invitational	Mar 21, 2019

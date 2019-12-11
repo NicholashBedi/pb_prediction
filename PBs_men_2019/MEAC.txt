@@ -1,0 +1,46 @@
+1	Berryhill, Carlin	SO-2	Bethune-Cookman	3:54.95	UNF Invitational	Apr 5, 2019
+2	Kimtai, Regan	FR-1	N. Carolina A&T	3:55.00	MEAC Outdoor Track & Field Championships	May 2, 2019
+3	Too, Lelei	SO-2	Norfolk State	3:56.91	Charlotte Invitational 2019	Apr 12, 2019
+4	Kemboi, Festus	JR-3	Florida A&M	3:58.99	FAMU Relays	Mar 15, 2019
+5	Abbkar, Abbas	JR-3	Savannah State	3:59.26	Charlotte 49er Classic	Mar 14, 2019
+6	Sessoms, Terrance	SO-2	Savannah State	3:59.28	Gamecock Invitational Outdoor	Apr 13, 2019
+7	Kiptoo, Daniel	SR-4	Bethune-Cookman	3:59.94	Miami Hurricane Alumni Invitational	Apr 12, 2019
+8	Kiprop, Brian	SO-2	Florida A&M	4:02.19	FAMU Relays	Mar 15, 2019
+9	Gordon-Bester, Anthony	SO-2	Howard	4:02.74	Wendy's Seahawk Invitational	Mar 8, 2019
+10	Fullerton, Tariq	SR-4	Howard	4:03.79	Aggie Invitational	Apr 12, 2019
+11	Akakeya, John	SR-4	Maryland-Eastern Shore	4:05.47	2019 Morgan State Legacy Track & Field Meet	Apr 19, 2019
+12	Addison, Anija	SR-4	Coppin State	4:07.16	2019 Morgan State Legacy Track & Field Meet	Apr 19, 2019
+13	Jacob, Nkamasiai	SO-2	Florida A&M	4:08.04	FAMU Relays	Mar 15, 2019
+14	Williams, Gavin	FR-1	Howard	4:08.18	Aggie Invitational	Apr 12, 2019
+15	Petty, DeAndre	JR-3	Bethune-Cookman	4:08.29	Embry-Riddle Spike's Classic (collegiate teams)	Mar 29, 2019
+16	Duncan, Tyler	FR-1	South Carolina St.	4:09.40	MEAC Outdoor Track & Field Championships	May 2, 2019
+17	Kipyego, Fedrick	SO-2	Florida A&M	4:10.45	FAMU Relays	Mar 15, 2019
+18	Kipruto, Edwin	FR-1	Maryland-Eastern Shore	4:11.93	2019 Morgan State Legacy Track & Field Meet	Apr 19, 2019
+19	McGee, Mar'Quise	JR-3	N. Carolina A&T	4:12.79	HPU VertKlasse Meeting	Mar 21, 2019
+20	Robinson, Nahshon	FR-1	Morgan State	4:13.23	North Florida Spring Break Invitational	Mar 21, 2019
+21	Mohamed, Suhieb	SO-2	Savannah State	4:13.25	Savannah State Twilight	Mar 27, 2019
+22	Brown, Coy	JR-3	N. Carolina A&T	4:13.40	HPU VertKlasse Meeting	Mar 21, 2019
+23	Atakilti, Sahlu	JR-3	Savannah State	4:13.70	Savannah State Twilight	Mar 27, 2019
+24	McGhie, Corey	SO-2	Delaware State	4:15.32	2019 Morgan State Legacy Track & Field Meet	Apr 19, 2019
+25	Wauchope, Duvaire	FR-1	Maryland-Eastern Shore	4:16.04	MEAC Outdoor Track & Field Championships	May 2, 2019
+26	Adebiyi, Ayoade	FR-1	Howard	4:16.62	Charlotte 49er Classic	Mar 14, 2019
+27	Williams, Anthony	FR-1	N.C. Central	4:17.02	Charlotte 49er Classic	Mar 14, 2019
+28	Shropshire, Jalen	FR-1	South Carolina St.	4:18.17	UNF Invitational	Apr 5, 2019
+29	Pack, Cameron	JR-3	Savannah State	4:20.49	Gamecock Invitational Outdoor	Apr 13, 2019
+30	Gill, Hasan	JR-3	Delaware State	4:22.17	2019 Morgan State Legacy Track & Field Meet	Apr 19, 2019
+31	Gonzalez, Humberto	FR-1	Howard	4:24.30	Wendy's Seahawk Invitational	Mar 8, 2019
+32	Lynch, Marquis	FR-1	South Carolina St.	4:24.94	USC Open Outdoor	Apr 20, 2019
+33	Robinson, Jalon	FR-1	Morgan State	4:25.92	2019 Morgan State Legacy Track & Field Meet	Apr 19, 2019
+34	Johnson, Kazelee	FR-1	N.C. Central	4:26.82	Charlotte 49er Classic	Mar 14, 2019
+35	Attiogbe, Komlan	SO-2	Delaware State	4:28.78	2019 Eastern Shore Challenge	Apr 13, 2019
+36	Moore, Gregory	SO-2	Delaware State	4:31.61	2019 Eastern Shore Challenge	Apr 13, 2019
+37	Infante-Rosales, Jose	SO-2	Delaware State	4:38.65	Delaware State University Hornet Invite	Apr 23, 2019
+38	Heholt, Brent	JR-3	Bethune-Cookman	4:49.34	Embry-Riddle Spike's Classic (collegiate teams)	Mar 29, 2019
+39	Johnson, James	SR-4	N.C. Central	4:50.56	New Captains Classic & Combined Events	Apr 19, 2019
+40	Campbell, Marcus	SR-4	N.C. Central	5:09.02	New Captains Classic & Combined Events	Apr 19, 2019
+41	Goy, Tyrek	SO-2	Coppin State	5:11.35	MEAC Outdoor Track & Field Championships	May 2, 2019
+42	McCoy, Marc	JR-3	Bethune-Cookman	5:11.88	Miami Hurricane Alumni Invitational	Apr 12, 2019
+43	Locklear, Tristan	SO-2	N.C. Central	5:15.39	Charlotte 49er Classic	Mar 14, 2019
+44	Goslee, Joshua	FR-1	Maryland-Eastern Shore	5:17.90	2019 Morgan State Legacy Track & Field Meet	Apr 19, 2019
+45	Parker, Shemar	FR-1	Maryland-Eastern Shore	5:20.79	MEAC Outdoor Track & Field Championships	May 2, 2019
+46	Carson, Byron	FR-1	Norfolk State	8:03.61	MEAC Outdoor Track & Field Championships	May 2, 2019

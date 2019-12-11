@@ -1,0 +1,102 @@
+1	Howard, Millie	JR-3	Temple	4:16.81	Bison Outdoor Classic	Apr 13, 2019
+2	Holm Gottlieb, Helene	SO-2	Temple	4:20.29	Raleigh Relays	Mar 29, 2019
+3	Topham, Rebekah	JR-3	Wichita State	4:24.76	Drake Relays presented by Hy-Vee	Apr 24, 2019
+4	Miller, Hannah	JR-3	SMU	4:27.47	Houston Spring Break Invitational	Mar 14, 2019
+5	Mazzei, Adrena	SO-2	Tulsa	4:27.52	Bryan Clay Invitational	Apr 17, 2019
+6	Ojstersek, Svenja	SR-4	SMU	4:28.02	Houston Spring Break Invitational	Mar 14, 2019
+7	Tillo-Prats, Nuria	JR-3	East Carolina	4:28.96	Raleigh Relays	Mar 29, 2019
+8	Koskei, Winny	SO-2	Wichita State	4:29.30	Drake Relays presented by Hy-Vee	Apr 24, 2019
+9	Wright, Yazmine	FR-1	Wichita State	4:29.39	Drake Relays presented by Hy-Vee	Apr 24, 2019
+10	Gonzales, Britani	SR-4	Houston	4:30.33	37th Annual Victor Lopez Classic	Mar 21, 2019
+11	Crook, Charlotte	FR-1	UCF	4:31.55	Florida Relays	Mar 28, 2019
+12	Johnson, Halle	FR-1	Wichita State	4:33.11	Drake Relays presented by Hy-Vee	Apr 24, 2019
+13	Dunlap, Jennifer	SR-4	Houston	4:33.24	The American Outdoor Track & Field Championships	May 10, 2019
+14	Miller, Caroline	FR-1	Tulsa	4:33.75	The American Outdoor Track & Field Championships	May 10, 2019
+15	Sullivan, Grace	SR-4	East Carolina	4:34.00	Duke Invitational	Apr 19, 2019
+16	Vick, Rachel	SO-2	Connecticut	4:34.10	The American Outdoor Track & Field Championships	May 10, 2019
+17	Von Ehren, Kira	SR-4	Temple	4:35.23	Charlotte 49er Classic	Mar 14, 2019
+18	Sorensen, Meredith	JR-3	Houston	4:35.51	Mt. SAC Relays	Apr 18, 2019
+19	Staiger, Talia	SR-4	Connecticut	4:35.77	2019 Larry Ellis Invitational	Apr 20, 2019
+20	Jung, Victoria	JR-3	UCF	4:36.16	UF Tom Jones Memorial	Apr 26, 2019
+21	Ryan, Megan	SR-4	Memphis	4:37.32	Memphis Tiger invitational	Apr 26, 2019
+22	Sandwell, Paige	SO-2	Memphis	4:37.45	Crimson Tide Invitational	Apr 11, 2019
+23	Markel, Hannah	SO-2	Cincinnati	4:37.59	Oliver Nikoloff Invitational	Apr 6, 2019
+24	Patterson, Katrina	SO-2	Cincinnati	4:38.01	The American Outdoor Track & Field Championships	May 10, 2019
+25	Leisher, Katie	SR-4	Temple	4:38.09	Bison Outdoor Classic	Apr 13, 2019
+26	Jones, Lucy	SO-2	Temple	4:38.29	Bison Outdoor Classic	Apr 13, 2019
+27	LaMori, Jennifer	SR-4	Tulane	4:38.45	The American Outdoor Track & Field Championships	May 10, 2019
+28	Grogan, Anneke	SR-4	SMU	4:38.57	Texas State Bobcat Invitational	Mar 28, 2019
+29	Parker, Hannah	SR-4	Connecticut	4:39.50	Brown Springtime Invitational	Apr 28, 2019
+30	Alsup, Allie	SO-2	Connecticut	4:39.51	2019 Larry Ellis Invitational	Apr 20, 2019
+31	Melius, Mckenzie	SR-4	Tulane	4:39.97	Southern Miss Open	Apr 27, 2019
+32	Newton, Emma	SR-4	Tulane	4:40.35	Louisiana Classics	Mar 15, 2019
+33	Soltis, Kaitlyn	SO-2	UCF	4:40.39	Georgia Tech Invitational	Apr 19, 2019
+34	Gelvin, McKenzie	SO-2	Temple	4:40.61	Ole Miss Classic	Mar 30, 2019
+35	Pinnell, Caitlin	FR-1	UCF	4:41.22	Georgia Tech Invitational	Apr 19, 2019
+36	Mikula, Sam	SO-2	Cincinnati	4:41.46	Oliver Nikoloff Invitational	Apr 6, 2019
+37	Maschino, Leah	FR-1	Cincinnati	4:42.42	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+38	Romanchick, Katelynn	SO-2	Connecticut	4:42.60	Brown Springtime Invitational	Apr 28, 2019
+39	Masquelier, Lianne	SR-4	Cincinnati	4:42.94	Oliver Nikoloff Invitational	Apr 6, 2019
+40	Chacko, Celia	FR-1	Connecticut	4:43.30	Brown Springtime Invitational	Apr 28, 2019
+41	Hamon, Sarah	SR-4	East Carolina	4:43.35	East Carolina University Bill Carson Invitational	Apr 5, 2019
+42	Hess, Sydney	SO-2	Cincinnati	4:44.21	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+43	Pesendorfer, Katharina	FR-1	Tulsa	4:44.26	Arkansas Spring Invitational	Mar 22, 2019
+44	Gilbert, Erin	FR-1	Memphis	4:44.27	Memphis Tiger invitational	Apr 26, 2019
+45	Carey, Cassidy	SR-4	Cincinnati	4:44.28	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+46	Joyce, Michelle	SO-2	Temple	4:44.87	Charlotte 49er Classic	Mar 14, 2019
+47	Swanson, Kelsey	SR-4	Connecticut	4:44.97	Florida Relays	Mar 28, 2019
+48	Allmark, Annie	SO-2	South Florida	4:45.17	UIW Invitational	Apr 12, 2019
+49	Burr, Randi	FR-1	Connecticut	4:46.20	Brown Springtime Invitational	Apr 28, 2019
+50	Yourkavitch, Abby	FR-1	East Carolina	4:46.67	East Carolina University Bill Carson Invitational	Apr 5, 2019
+51	Schiappa, Regan	SR-4	Connecticut	4:47.10	Brown Springtime Invitational	Apr 28, 2019
+52	Sanders, Shayla	FR-1	UCF	4:47.40	UCF Knights Invite	Mar 22, 2019
+53	Dolan, Jessica	SO-2	UCF	4:47.51	UF Tom Jones Memorial	Apr 26, 2019
+54	Lobodzinski, Regan	FR-1	Houston	4:48.45	Houston Alumni Invitational	Apr 6, 2019
+55	Krebs, Emma	FR-1	Connecticut	4:48.50	Brown Springtime Invitational	Apr 28, 2019
+56	Yentz, Lindsay	FR-1	East Carolina	4:49.38	Duke Invitational	Apr 19, 2019
+57	Hasty, Haley	SR-4	Connecticut	4:49.90	UCF Knights Invite	Mar 22, 2019
+58	Schnacker, Rita	FR-1	Wichita State	4:50.57	Wichita State Herm Wilson Invitational	Mar 21, 2019
+59	Culpepper, Avery	SR-4	Tulsa	4:51.07	The American Outdoor Track & Field Championships	May 10, 2019
+60	Hausmann, Reagan	JR-3	Tulsa	4:52.17	2019 Oral Roberts Invitational	Mar 29, 2019
+61	Dunkley, Ashton	SR-4	Temple	4:52.25	The American Outdoor Track & Field Championships	May 10, 2019
+62	Abreu, Yaranel	SR-4	South Florida	4:52.50	UF Tom Jones Memorial	Apr 26, 2019
+63	Adams, Kristen	SR-4	Memphis	4:54.41	Memphis Tiger invitational	Apr 26, 2019
+64	Bienz, Alivia	FR-1	South Florida	4:54.48	Florida Relays	Mar 28, 2019
+65	Farnsworth, Claire	SR-4	South Florida	4:55.03	Florida Relays	Mar 28, 2019
+66	Stoudt, Mikayla	JR-3	East Carolina	4:55.04	The Pickle Festival Relays	Apr 12, 2019
+67	Derouen, Megan	SO-2	Houston	4:55.25	37th Annual Victor Lopez Classic	Mar 21, 2019
+68	Kane, Lindsey	SR-4	Connecticut	4:55.97	UCONN Northeast Challenge	Apr 13, 2019
+69	Weaver, Bethany	JR-3	East Carolina	4:56.06	The Pickle Festival Relays	Apr 12, 2019
+70	O'Dea, Madalyn	FR-1	Cincinnati	4:56.84	Kentucky Track & Field Invitational	Apr 20, 2019
+71	Abdel-Rahman, Ammah	FR-1	East Carolina	4:56.97	The American Outdoor Track & Field Championships	May 10, 2019
+72	Simonsen, Keegan	FR-1	Temple	4:57.27	Charlotte 49er Classic	Mar 14, 2019
+73	Montemayor, Robin	SR-4	SMU	4:57.78	Houston Spring Break Invitational	Mar 14, 2019
+74	Simms, Samantha	JR-3	Cincinnati	4:57.81	Kentucky Track & Field Invitational	Apr 20, 2019
+75	Kibet, Winnie	JR-3	Wichita State	4:59.24	Wichita State Herm Wilson Invitational	Mar 21, 2019
+76	Rinn, Danielle	FR-1	Wichita State	4:59.36	Kansas Relays	Apr 17, 2019
+77	Belanger, Reid	JR-3	Tulane	4:59.69	Texas State Bobcat Invitational	Mar 28, 2019
+78	Cooke, Victoria	SR-4	East Carolina	5:00.95	The Pickle Festival Relays	Apr 12, 2019
+79	Castleberry, Madeline	FR-1	Houston	5:02.52	Houston Alumni Invitational	Apr 6, 2019
+80	Pettigrew, Hannah	SO-2	Memphis	5:05.30	Al Schmidt Bulldog Relays Invite	Mar 22, 2019
+81	Hernandez, Keschel	SR-4	South Florida	5:07.24	USF Bulls Invitational	Mar 22, 2019
+82	Strawser, Shay	FR-1	Temple	5:08.53	Penn Challenge	Mar 23, 2019
+83	Ray, Madi	FR-1	Memphis	5:08.56	Al Schmidt Bulldog Relays Invite	Mar 22, 2019
+84	Andrews, Katie	FR-1	Tulsa	5:09.98	Arkansas Spring Invitational	Mar 22, 2019
+85	Pias, Mackenzie	JR-3	Connecticut	5:10.10	UCONN Northeast Challenge	Apr 13, 2019
+86	Bello, Nicole	FR-1	South Florida	5:14.89	South Florida Collegeiate Invitational	Apr 19, 2019
+87	Hensley, Emma	JR-3	Cincinnati	5:16.10	Cedarville University Yellow Jacket Collegiate Outdoor Open	Mar 30, 2019
+88	Saliba, Solstice	FR-1	Memphis	5:16.69	Crimson Tide Invitational	Apr 11, 2019
+89	Walsh, Alexis	FR-1	Temple	5:17.65	Rider Invitational 2019	Apr 13, 2019
+90	Ramsey, Olivia	FR-1	South Florida	5:19.75	USF Bulls Invitational	Mar 22, 2019
+91	Saunders, Hope	SO-2	Wichita State	5:21.34	Wichita State KT Woodman Classic	Apr 10, 2019
+92	Morgado, Emely	SR-4	Houston	5:21.81	Houston Alumni Invitational	Apr 6, 2019
+93	Jones, Mallory	FR-1	South Florida	5:22.30	USF Bulls Invitational	Mar 22, 2019
+94	Skelton, Kayla	SO-2	South Florida	5:25.15	USF Bulls Invitational	Mar 22, 2019
+95	Barker, Hannah	SO-2	Houston	5:27.09	J Fred Duckett Twilight Meet	Apr 20, 2019
+96	Areford, Zoe	SO-2	South Florida	5:29.98	USF Bulls Invitational	Mar 22, 2019
+97	Jackson, Joy	SO-2	South Florida	5:30.16	USF Bulls Invitational	Mar 22, 2019
+98	Lackner, Olivia	FR-1	SMU	5:35.04	Arkansas Spring Invitational	Mar 22, 2019
+99	Ross, Julianna	FR-1	South Florida	5:38.41	USF Bulls Invitational	Mar 22, 2019
+100	Frink, Alicia	FR-1	South Florida	5:43.25	South Florida Collegeiate Invitational	Apr 19, 2019
+101	Dunn, Kiara	FR-1	South Florida	6:06.74	USF Bulls Invitational	Mar 22, 2019
+102	Heatley, Olivia	SR-4	SMU	6:45.78	Houston Spring Break Invitational	Mar 14, 2019

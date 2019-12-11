@@ -1,0 +1,85 @@
+1	Penrod, Zack	JR-3	Wichita State	3:42.96	Drake Relays presented by Hy-Vee	Apr 24, 2019
+2	Helker, Jed	FR-1	Wichita State	3:47.46	Drake Relays presented by Hy-Vee	Apr 24, 2019
+3	Schille, Andrew	SR-4	Cincinnati	3:47.98	Oliver Nikoloff Invitational	Apr 6, 2019
+4	Bienenfeld, Aaron	JR-3	Cincinnati	3:48.80	Oliver Nikoloff Invitational	Apr 6, 2019
+5	Van Der Els, Eric	SO-2	Connecticut	3:49.41	2019 Larry Ellis Invitational	Apr 20, 2019
+6	Tully, Robert	SR-4	Tulsa	3:49.81	Mike Fanelli Track Classic	Mar 28, 2019
+7	Rotich, Emmanuel	SR-4	Tulane	3:51.31	Southern Miss Open	Apr 27, 2019
+8	Middleton, Mark	SR-4	Tulsa	3:51.34	Bryan Clay Invitational	Apr 17, 2019
+9	McGonnigle, Michael	SR-4	Connecticut	3:51.58	2019 Larry Ellis Invitational	Apr 20, 2019
+9	Wickoren, Nathan	SR-4	Wichita State	3:51.58	Drake Relays presented by Hy-Vee	Apr 24, 2019
+11	Viveiros, Matthew	SR-4	Memphis	3:52.19	Crimson Tide Invitational	Apr 11, 2019
+12	Contreras, Blake	SR-4	Houston	3:52.48	Tom Tellez Invitational	May 3, 2019
+13	Sanchez-Pinto, Julien	SR-4	Memphis	3:52.55	Memphis Tiger invitational	Apr 26, 2019
+14	Coe, Tom	JR-3	Tulane	3:54.15	Southern Miss Open	Apr 27, 2019
+15	Wyatt, Tate	FR-1	Memphis	3:54.54	Crimson Tide Invitational	Apr 11, 2019
+16	Embleton, Jerik	FR-1	Tulsa	3:54.72	John McDonnell Invitational	Apr 12, 2019
+17	Brackman, Kyle	JR-3	Connecticut	3:54.78	UCONN Northeast Challenge	Apr 13, 2019
+18	Garmon, Peter	SR-4	Connecticut	3:54.94	Spec Towns Invitational	Apr 5, 2019
+19	Field, Cameron	JR-3	Tulsa	3:54.99	The American Outdoor Track & Field Championships	May 10, 2019
+20	Flowers, Ben	SO-2	Wichita State	3:55.32	Drake Relays presented by Hy-Vee	Apr 24, 2019
+21	Rennie, Braydon	SR-4	Tulsa	3:55.67	The American Outdoor Track & Field Championships	May 10, 2019
+22	Bedard, Joshua	SO-2	Connecticut	3:55.81	Spec Towns Invitational	Apr 5, 2019
+23	Schwartz, Jackson	SO-2	Tulsa	3:55.89	Arkansas Twilight	May 3, 2019
+24	Cordonnier, Jack	FR-1	Cincinnati	3:56.22	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+25	Ferro, Danny	FR-1	South Florida	3:56.25	Florida Relays	Mar 28, 2019
+26	Wyatt, Zachary	FR-1	Memphis	3:56.30	The American Outdoor Track & Field Championships	May 10, 2019
+27	Breaux, Adam	JR-3	Tulsa	3:56.49	Arkansas Spring Invitational	Mar 22, 2019
+28	Landon, Cory	SO-2	Wichita State	3:56.83	Wichita State KT Woodman Classic	Apr 10, 2019
+29	Mosmeier, Keifer	FR-1	Cincinnati	3:57.47	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+30	Law, Reno	JR-3	Wichita State	3:57.77	Drake Relays presented by Hy-Vee	Apr 24, 2019
+31	Barber, Kyle	SR-4	Connecticut	3:58.01	UCONN Northeast Challenge	Apr 13, 2019
+32	Camillieri, Brian	FR-1	Connecticut	3:58.20	North Florida Spring Break Invitational	Mar 21, 2019
+33	Stump, Matt	SO-2	Cincinnati	3:58.56	2019 Billy Hayes Invitational	May 3, 2019
+34	Curran, Sean	SO-2	Wichita State	3:59.19	Wichita State KT Woodman Classic	Apr 10, 2019
+35	Kamph, Matthew	SR-4	Memphis	3:59.34(1)	2019 Rhodes Invitational Track & Field Meet	Mar 15, 2019
+36	Hurd, Aaron	SR-4	Houston	3:59.81	37th Annual Victor Lopez Classic	Mar 21, 2019
+37	Ciaccia, Nicholas	SR-4	East Carolina	4:00.05	East Carolina University Bill Carson Invitational	Apr 5, 2019
+38	Wote, Jemal	FR-1	Houston	4:00.45	Houston Alumni Invitational	Apr 6, 2019
+39	Gleen, Tyler	SO-2	Connecticut	4:00.84	Spec Towns Invitational	Apr 5, 2019
+40	Gilmore, Christian	FR-1	Houston	4:00.89	Tom Tellez Invitational	May 3, 2019
+41	Vallejo, Devin	FR-1	Houston	4:01.10	Texas A&M Alumni Muster	Apr 27, 2019
+41	Kossover, Ethan	SO-2	Wichita State	4:01.10	Kansas Relays	Apr 17, 2019
+43	Maniscalco, James	FR-1	Connecticut	4:01.16	Spec Towns Invitational	Apr 5, 2019
+44	Bennett, Archer	SO-2	Tulsa	4:02.66	The American Outdoor Track & Field Championships	May 10, 2019
+45	Corsello, Christian	FR-1	Memphis	4:02.87	Al Schmidt Bulldog Relays Invite	Mar 22, 2019
+46	Abushouk, Dean	JR-3	East Carolina	4:02.92	East Carolina University Bill Carson Invitational	Apr 5, 2019
+47	Fahey, Devin	SO-2	Houston	4:03.37	Houston Alumni Invitational	Apr 6, 2019
+48	Fernandes, Nicholas	SO-2	Houston	4:04.19	Houston Spring Break Invitational	Mar 14, 2019
+49	Kipchumba, Evans	FR-1	Tulane	4:04.33	Tom Tellez Invitational	May 3, 2019
+50	Hill, Pierce	SR-4	Tulane	4:04.74	LSU Alumni Gold	Apr 20, 2019
+51	Reyna, Gerardo	SR-4	Houston	4:05.04	Tom Tellez Invitational	May 3, 2019
+52	Landon, Jason	FR-1	Wichita State	4:05.41	Wichita State KT Woodman Classic	Apr 10, 2019
+53	Stine, Connor	SR-4	Wichita State	4:05.58	Wichita State KT Woodman Classic	Apr 10, 2019
+54	Cullins, Emmanuel	FR-1	Memphis	4:06.14	Memphis Tiger invitational	Apr 26, 2019
+55	Corbaz, Bryan	SR-4	Tulsa	4:07.29	John McDonnell Invitational	Apr 12, 2019
+56	Zervigon, Carlos	JR-3	Tulane	4:08.11	Tom Tellez Invitational	May 3, 2019
+57	Hageman, Ethan	FR-1	East Carolina	4:08.42	The Pickle Festival Relays	Apr 12, 2019
+58	Homeyer, Benjamin	FR-1	Memphis	4:09.20	Crimson Tide Invitational	Apr 11, 2019
+59	Gleason, Payton	FR-1	Memphis	4:10.36	Memphis Tiger invitational	Apr 26, 2019
+60	Hill, Brendan	FR-1	Memphis	4:11.69	Memphis Tiger invitational	Apr 26, 2019
+61	Babatz, Evan	JR-3	South Florida	4:11.77	Florida Relays	Mar 28, 2019
+62	Sahadevan, Reed	JR-3	Tulsa	4:12.73	Arkansas Spring Invitational	Mar 22, 2019
+63	Pearl, Joseph	FR-1	Connecticut	4:12.76	North Florida Spring Break Invitational	Mar 21, 2019
+64	Martinez, Deric	JR-3	East Carolina	4:13.19	East Carolina University Bill Carson Invitational	Apr 5, 2019
+65	Armijo, Gabe	FR-1	Houston	4:13.26	Houston Alumni Invitational	Apr 6, 2019
+66	Martin, Mitchell	FR-1	East Carolina	4:16.04	The Pickle Festival Relays	Apr 12, 2019
+67	Klein, Josh	SO-2	Wichita State	4:16.88	Wichita State Herm Wilson Invitational	Mar 21, 2019
+68	Bont, August	SR-4	Tulsa	4:17.14	2019 Oral Roberts Invitational	Mar 29, 2019
+69	Smith, Zion	FR-1	Houston	4:17.66	37th Annual Victor Lopez Classic	Mar 21, 2019
+70	Valdez, Ian	FR-1	Tulane	4:17.77	2019 Southeastern Louisiana Strawberry Relays	Mar 2, 2019
+71	Kipkemboi, Andrew	SO-2	Tulane	4:19.89	Tom Tellez Invitational	May 3, 2019
+72	Polakoff, Jamie	FR-1	Tulane	4:20.19	2019 Southeastern Louisiana Strawberry Relays	Mar 2, 2019
+73	Wood, Avery	FR-1	Memphis	4:21.60	Memphis Tiger invitational	Apr 26, 2019
+74	Cheruyot, Joshua	SR-4	Tulane	4:22.75	Tom Tellez Invitational	May 3, 2019
+75	Davis, Brett	FR-1	Tulsa	4:23.75	Arkansas Spring Invitational	Mar 22, 2019
+76	Miller, Garrett	FR-1	East Carolina	4:25.68	East Carolina University Bill Carson Invitational	Apr 5, 2019
+77	Dubbert, Davis	FR-1	Wichita State	4:38.89	The American Outdoor Track & Field Championships	May 10, 2019
+78	Johnson, Ben	SR-4	Wichita State	4:39.76	NCAA Division I Outdoor Track & Field Championships	Jun 5, 2019
+79	Grosse, Benjamin	FR-1	Connecticut	4:40.32	The American Outdoor Track & Field Championships	May 10, 2019
+80	Torney, Jordan	SO-2	Connecticut	4:48.71	Spec Towns Invitational	Apr 5, 2019
+81	Stiawalt, Chandler	FR-1	Wichita State	4:49.83	The American Outdoor Track & Field Championships	May 10, 2019
+82	Shaffer, Lucas	SO-2	Wichita State	4:51.60	Wichita State Herm Wilson Invitational	Mar 21, 2019
+83	Berthenet, Damien	JR-3	Cincinnati	4:58.02	The American Outdoor Track & Field Championships	May 10, 2019
+84	Downes, Grant	SO-2	Wichita State	5:05.06	The American Outdoor Track & Field Championships	May 10, 2019
+85	Hayton, Jeremy	FR-1	Cincinnati	5:24.15	Tennessee Relays	Apr 11, 2019

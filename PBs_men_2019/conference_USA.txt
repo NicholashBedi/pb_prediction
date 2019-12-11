@@ -1,0 +1,75 @@
+1	Olguin, Reagan	SR-4	Rice	3:48.03	2019 TSU Relays (College/University)	Mar 15, 2019
+2	Topini, Alex	SO-2	Rice	3:49.93	37th Annual Victor Lopez Classic	Mar 21, 2019
+3	Bomkamp, Matt	JR-3	Charlotte	3:50.26	Raleigh Relays	Mar 29, 2019
+4	Chemadi, Kigen	JR-3	Mid. Tenn. State	3:50.97	Tennessee Relays	Apr 11, 2019
+5	Arredondo, Paul	SO-2	Charlotte	3:51.38	Charlotte Invitational 2019	Apr 12, 2019
+6	Lussy, Florian	JR-3	North Texas	3:52.17	North Texas Classic	Apr 6, 2019
+7	Mosito, Lebo	JR-3	Mid. Tenn. State	3:52.76	Tennessee Relays	Apr 11, 2019
+8	Rono, Brian	FR-1	Mid. Tenn. State	3:52.81	Tennessee Relays	Apr 11, 2019
+9	Cobos, Andrew	SR-4	North Texas	3:53.55	North Texas Classic	Apr 6, 2019
+10	Shore, Noah	SO-2	Charlotte	3:54.57	Charlotte 49er Classic	Mar 14, 2019
+11	Cleveland, Alex	SR-4	North Texas	3:54.65	North Texas Classic	Apr 6, 2019
+12	Bugg, Jason	SO-2	Rice	3:54.85	2019 TSU Relays (College/University)	Mar 15, 2019
+13	Carroll, Austin	FR-1	Charlotte	3:55.05	Charlotte Invitational 2019	Apr 12, 2019
+14	Cornwell, Alex	JR-3	Charlotte	3:55.50	Charlotte 49er Classic	Mar 14, 2019
+15	Troxell, Dedrick	FR-1	Western Kentucky	3:57.05	Hilltopper Relays 2019	Apr 5, 2019
+16	Nobles, Tom	SR-4	Charlotte	3:57.07	Charlotte 49er Classic	Mar 14, 2019
+17	Bertschy, Montgomery	SR-4	UTSA	3:57.49	Conference USA Outdoor Championships	May 9, 2019
+18	Landa, Hociel	SO-2	Rice	3:58.34	2019 TSU Relays (College/University)	Mar 15, 2019
+19	Choge, Jacob	JR-3	Mid. Tenn. State	3:58.40	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+20	Musial, Clay	SR-4	Rice	3:59.18	2019 TSU Relays (College/University)	Mar 15, 2019
+21	Wise, Christopher	FR-1	UTSA	3:59.35	Roadrunner Invitational	Mar 21, 2019
+22	Chatham, Luca	SR-4	UTSA	4:00.54	UTSA Invitational	Mar 15, 2019
+23	Carvalho, Adolfo	JR-3	Rice	4:00.58	Houston Alumni Invitational	Apr 6, 2019
+24	Ballow, Austin	JR-3	Louisiana Tech	4:01.48	LSU Alumni Gold	Apr 20, 2019
+25	Anderson, Keaton	FR-1	Charlotte	4:02.12	Charlotte Invitational 2019	Apr 12, 2019
+26	Jones, Tim	JR-3	North Texas	4:02.39	North Texas Classic	Apr 6, 2019
+27	Abikhaled, Andrew	FR-1	Rice	4:02.60	2019 TSU Relays (College/University)	Mar 15, 2019
+28	Meaux, Connor	JR-3	Rice	4:02.76	2019 TSU Relays (College/University)	Mar 15, 2019
+29	Perez, Josiah	FR-1	Louisiana Tech	4:03.36	Louisiana Tech Jim Mize Invitational	Apr 5, 2019
+30	Harrell, William	FR-1	Louisiana Tech	4:03.84	Leon Johnson NSU Invitational	Apr 12, 2019
+31	Shores, Joel	FR-1	Charlotte	4:03.93	Charlotte Invitational 2019	Apr 12, 2019
+32	Patrick, Nolan	JR-3	Charlotte	4:04.14	Charlotte 49er Classic	Mar 14, 2019
+33	Wilson, Joseph	FR-1	Charlotte	4:05.23	Charlotte Invitational 2019	Apr 12, 2019
+34	Korir, Rodgers	FR-1	UTEP	4:05.41@(1)	UTEP Springtime	Mar 15, 2019
+35	Vo, Daniel	FR-1	Charlotte	4:05.61	Charlotte Invitational 2019	Apr 12, 2019
+36	Kosgei, Antony	SR-4	UTEP	4:05.83@(1)	UTEP Springtime	Mar 15, 2019
+37	Youberg, Mason	SO-2	Louisiana Tech	4:06.25	Al Schmidt Bulldog Relays Invite	Mar 22, 2019
+38	BEAUMONT, Jack	SO-2	North Texas	4:06.38	Texas A&M Alumni Muster	Apr 27, 2019
+39	Luevano, Martin	JR-3	UTSA	4:07.32	Roadrunner Invitational	Mar 21, 2019
+40	Ronoh, Boaz	SO-2	UTEP	4:07.47@(1)	UTEP Springtime	Mar 15, 2019
+41	Sherman, Michael	FR-1	Western Kentucky	4:07.55	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+42	Harris, Evan	FR-1	Charlotte	4:08.18	Charlotte 49er Classic	Mar 14, 2019
+42	Blazer, Keaton	FR-1	Rice	4:08.18	2019 TSU Relays (College/University)	Mar 15, 2019
+44	Dunbar, Alex	SO-2	Rice	4:08.70	2019 TSU Relays (College/University)	Mar 15, 2019
+45	Kipkorir, Dennis	FR-1	Mid. Tenn. State	4:09.06	War Eagle Invitational 2019	Apr 19, 2019
+46	Elsesser, George	FR-1	Rice	4:09.34	2019 TSU Relays (College/University)	Mar 15, 2019
+47	Wininger, Matthew	FR-1	Western Kentucky	4:09.58	Conference USA Outdoor Championships	May 9, 2019
+48	Williams, Jayquan	SO-2	Charlotte	4:10.18	Charlotte 49er Classic	Mar 14, 2019
+49	Elder, Noah	SO-2	Louisiana Tech	4:12.27	Louisiana Classics	Mar 15, 2019
+50	Hercules, Cadon	FR-1	Mid. Tenn. State	4:12.97	Yellow Jacket Invitational	Mar 15, 2019
+51	Sims, Michael	FR-1	UTEP	4:13.22	Conference USA Outdoor Championships	May 9, 2019
+52	Torres, Eliseo	FR-1	FIU	4:14.01	Virginia Grand Prix	Apr 26, 2019
+53	DiNardi, Dominic	FR-1	Charlotte	4:15.66	HPU VertKlasse Meeting	Mar 21, 2019
+54	Snyder, Ethan	FR-1	Western Kentucky	4:16.14	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+55	Areces, Daniel	JR-3	FIU	4:16.28	Miami Hurricane Alumni Invitational	Apr 12, 2019
+56	Krenkels, Cooper	SO-2	Louisiana Tech	4:16.77	Louisiana Tech Jim Mize Invitational	Apr 5, 2019
+57	Bhatia, Mason	FR-1	Charlotte	4:17.03	HPU VertKlasse Meeting	Mar 21, 2019
+58	Guajardo, Marcus	JR-3	UTSA	4:17.17	UTSA Invitational	Mar 15, 2019
+59	Moreno, Cristian	SO-2	Florida Atlantic	4:20.09	Miami Hurricane Invitational	Mar 15, 2019
+60	Page, Isaiah	FR-1	UTEP	4:20.52	2019 Desert Heat Classic	Apr 27, 2019
+61	Dominguez, Alec	SR-4	FIU	4:22.32	Conference USA Outdoor Championships	May 9, 2019
+62	Werble, Jonathan	SR-4	Florida Atlantic	4:23.09	Miami Hurricane Invitational	Mar 15, 2019
+63	Barone, Sean	SO-2	Florida Atlantic	4:27.53	Miami Hurricane Alumni Invitational	Apr 12, 2019
+64	Hoover, Luke	FR-1	Western Kentucky	4:29.24	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+65	Bowers, Alan	JR-3	Mid. Tenn. State	4:32.05	War Eagle Invitational 2019	Apr 19, 2019
+66	Alexander, Christian	FR-1	FIU	4:33.15	UCF Knights Invite	Mar 22, 2019
+67	Yardley, Robert	JR-3	Charlotte	4:36.45	Conference USA Outdoor Championships	May 9, 2019
+68	Haasbroek, Gary	FR-1	UTSA	4:47.32	Conference USA Outdoor Championships	May 9, 2019
+69	McDaniel, Jacob	JR-3	UTSA	4:48.63	Conference USA Outdoor Championships	May 9, 2019
+70	Card-Childers, Charlie	SR-4	Rice	4:48.94	Conference USA Outdoor Championships	May 9, 2019
+71	Fong, Corbett	FR-1	Rice	4:49.43	Conference USA Outdoor Championships	May 9, 2019
+72	Wright, Justin	FR-1	UTSA	5:01.81	Roadrunner Invitational	Mar 21, 2019
+73	O'Connor, Keegan	FR-1	Rice	5:03.65	Conference USA Outdoor Championships	May 9, 2019
+74	Morreal, Thomas	FR-1	FIU	5:13.50	Conference USA Outdoor Championships	May 9, 2019
+75	Millon, Jordan	SO-2	FIU	5:13.95	Miami Hurricane Alumni Invitational	Apr 12, 2019

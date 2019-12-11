@@ -1,0 +1,64 @@
+1	Burdick, Kyle	SR-4	South Dakota St.	3:43.14	NCAA Division I West Region Preliminary Rounds	May 23, 2019
+2	Warner, Eldon	SR-4	South Dakota	3:43.15	NCAA Division I West Region Preliminary Rounds	May 23, 2019
+3	Heikkila, Tim	SO-2	North Dakota State	3:49.46	Bryan Clay Invitational	Apr 17, 2019
+4	Bartholomay, Alex	SO-2	North Dakota State	3:51.36	Bryan Clay Invitational	Apr 17, 2019
+5	Kottsick, Evan	JR-3	North Dakota State	3:51.49	Bryan Clay Invitational	Apr 17, 2019
+6	Roehl, Camron	SR-4	North Dakota State	3:52.82	Bryan Clay Invitational	Apr 17, 2019
+7	Samyn, Josh	FR-1	North Dakota State	3:52.97	Bryan Clay Invitational	Apr 17, 2019
+8	TeBeest, Kurt	SO-2	North Dakota State	3:53.52	Bryan Clay Invitational	Apr 17, 2019
+9	Peters, Gabe	SO-2	South Dakota St.	3:54.73	Drake Relays presented by Hy-Vee	Apr 24, 2019
+10	Simmons, Jacob	SR-4	South Dakota	3:55.24	Summit League T&F Outdoor Championships	May 8, 2019
+11	Nelson, Lukas	JR-3	South Dakota St.	3:55.25	Bryan Clay Invitational	Apr 17, 2019
+12	Breuckman, Tom	FR-1	South Dakota St.	3:55.87	Bryan Clay Invitational	Apr 17, 2019
+13	Stone, Elliott	JR-3	North Dakota State	3:56.16	IMG Academy Invitational	Mar 16, 2019
+14	Kitchen, Logan	SR-4	Purdue Fort Wayne	3:57.06	Ball State Challenge	Apr 12, 2019
+15	Lawton, Cal	SR-4	South Dakota St.	3:57.32	South Dakota Challenge	Apr 6, 2019
+16	Schwinghamer, Michael	SO-2	South Dakota St.	3:57.40	Howard Wood Dakota Relays	May 3, 2019
+17	Iverson, Blake	FR-1	South Dakota St.	3:59.93	Howard Wood Dakota Relays	May 3, 2019
+18	Freetly, Keiser	FR-1	North Dakota State	4:00.02	Mike Fanelli Track Classic	Mar 28, 2019
+19	Streich, Cole	SO-2	South Dakota	4:00.21	Summit League T&F Outdoor Championships	May 8, 2019
+20	Olson, Ben	FR-1	South Dakota St.	4:02.07	South Dakota Challenge	Apr 6, 2019
+21	Bauer, Riley		South Dakota St.	4:03.20	Sioux City Relays 2018 UCO Division	Apr 12, 2019
+22	Kvidera, Scott	SR-4	North Dakota	4:03.45	33rd ANNUAL RON MASANZ TRACK & FIELD CLASSIC	Apr 26, 2019
+23	Paulsen, Hunter	JR-3	South Dakota	4:03.77	USD Twilight	Apr 23, 2019
+24	Moran, Samuel	SO-2	Purdue Fort Wayne	4:04.90	Jack Shaw Classic	Apr 5, 2019
+25	Gemeda, Merga	FR-1	South Dakota	4:05.86	USD Twilight	Apr 23, 2019
+26	Hanna, Jakob	SO-2	North Dakota State	4:05.87	Mike Fanelli Track Classic	Mar 28, 2019
+27	Sayler, Evan	FR-1	North Dakota State	4:06.42	Cobber Twilight	Apr 23, 2019
+28	Peck, Robert	JR-3	Purdue Fort Wayne	4:06.44	Jack Shaw Classic	Apr 5, 2019
+29	Pierson, Lucas	FR-1	South Dakota St.	4:06.96	USD Twilight	Apr 23, 2019
+30	Frerichs, Cayson	SO-2	Western Illinois	4:07.47	Summit League T&F Outdoor Championships	May 8, 2019
+31	Lingle, Lucas	SR-4	Western Illinois	4:07.55	Mizzou Spring Open	Apr 6, 2019
+32	Henne, Jacob	JR-3	North Dakota	4:07.86	33rd ANNUAL RON MASANZ TRACK & FIELD CLASSIC	Apr 26, 2019
+33	King, Zachary	FR-1	North Dakota	4:08.28	Summit League T&F Outdoor Championships	May 8, 2019
+34	Burkhalter, Daniel	SR-4	South Dakota St.	4:08.68	Sioux City Relays 2018 UCO Division	Apr 12, 2019
+35	Schank, Connor	JR-3	North Dakota State	4:09.01	Cobber Twilight	Apr 23, 2019
+36	Danielson, Connor	SR-4	North Dakota	4:09.54	33rd ANNUAL RON MASANZ TRACK & FIELD CLASSIC	Apr 26, 2019
+37	McMannes, Connor	SO-2	North Dakota	4:10.26	Summit League T&F Outdoor Championships	May 8, 2019
+38	Abdi, Abdinasir	JR-3	South Dakota	4:12.14	USD Twilight	Apr 23, 2019
+39	Williamson, Sam	JR-3	Purdue Fort Wayne	4:13.49	53rd Annual Hillsdale "GINA" Relays	Apr 25, 2019
+40	Wendt, Nathan	SR-4	South Dakota	4:14.40	USD Twilight	Apr 23, 2019
+41	Thurman, Quintin	JR-3	Western Illinois	4:14.47	2019 Kip Janvrin Open	Apr 25, 2019
+42	Waymire, Jacob		South Dakota	4:16.90	Sioux City Relays 2018 UCO Division	Apr 12, 2019
+43	Klawitter, Chandler		South Dakota St.	4:18.01	Sioux City Relays 2018 UCO Division	Apr 12, 2019
+44	Trost, Michael	FR-1	North Dakota	4:24.27	Emporia State Spring Invite	Mar 23, 2019
+45	Dickson, Johnny	SO-2	Western Illinois	4:25.87	SIU Bill Cornell Spring Classic	Mar 22, 2019
+46	Fenstermacher, Joseph	SR-4	North Dakota	4:26.16	Emporia State Spring Invite	Mar 23, 2019
+47	Schiller, Noah	JR-3	North Dakota	4:27.35	Emporia State Spring Invite	Mar 23, 2019
+48	Pridemore, Braden	FR-1	Western Illinois	4:27.40	Mizzou Spring Open	Apr 6, 2019
+49	Arrington, Tyler	FR-1	Oral Roberts	4:27.42	Summit League T&F Outdoor Championships	May 8, 2019
+50	Clapp, Braden	FR-1	Oral Roberts	4:29.79	Louisiana Tech Jim Mize Invitational	Apr 5, 2019
+51	Howett, Lucas	FR-1	Western Illinois	4:30.11	SIU Bill Cornell Spring Classic	Mar 22, 2019
+52	Caples, Kenneth	JR-3	Western Illinois	4:30.25	2019 Kip Janvrin Open	Apr 25, 2019
+53	Schroeder, Cameron	SO-2	Western Illinois	4:31.68	SIU Bill Cornell Spring Classic	Mar 22, 2019
+54	Smetzer, Ross	JR-3	Western Illinois	4:34.02	SIU Bill Cornell Spring Classic	Mar 22, 2019
+55	Enerson, Ryan	SR-4	North Dakota State	4:45.05	Summit League T&F Outdoor Championships	May 8, 2019
+56	Vetsch, Jack	FR-1	North Dakota	4:50.09	Summit League T&F Outdoor Championships	May 8, 2019
+57	Bates, Peter	JR-3	South Dakota St.	4:52.93	Bryan Clay Invitational	Apr 17, 2019
+58	Hieber, Evan	JR-3	South Dakota St.	4:54.52	Bryan Clay Invitational	Apr 17, 2019
+59	Ukkelberg, Tony	SO-2	North Dakota State	4:56.86	2019 92nd Clyde Littlefield Texas Relays	Mar 27, 2019
+60	Enerson, Tyler	FR-1	North Dakota State	4:58.80	Bryan Clay Invitational	Apr 17, 2019
+61	Asa, Daniel	SR-4	North Dakota State	5:03.39	Texas State Bobcat Invitational	Mar 28, 2019
+62	Klimpke, Ben	JR-3	North Dakota State	5:06.88	Summit League T&F Outdoor Championships	May 8, 2019
+63	McGlynn, Christopher	FR-1	North Dakota State	5:23.84	Drake Relays presented by Hy-Vee	Apr 24, 2019
+64	Moberg, Matt	SR-4	North Dakota State	5:26.99	Drake Relays presented by Hy-Vee	Apr 24, 2019

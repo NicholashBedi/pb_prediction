@@ -1,0 +1,69 @@
+1	Alonso, Angela	JR-3	Georgia State	4:29.55	Florida Relays	Mar 28, 2019
+2	Greeley, Phylissa	SR-4	Appalachian State	4:30.94	Virginia Grand Prix	Apr 26, 2019
+3	Schneider, Devina	JR-3	Texas State	4:31.15	Texas State Bobcat Classic	Apr 26, 2019
+4	Charles, Anaelle	SR-4	Arkansas State	4:31.68	Memphis Tiger invitational	Apr 26, 2019
+5	Watson, Shanieke	SR-4	Arkansas-Little Rock	4:33.12	Memphis Tiger invitational	Apr 26, 2019
+6	Millenaar, Carolien	SO-2	South Alabama	4:33.84	War Eagle Invitational 2019	Apr 19, 2019
+7	Nagwandala , Merabu	FR-1	Georgia Southern	4:33.90	Gamecock Invitational Outdoor	Apr 13, 2019
+8	Snell, Sholonda	SR-4	Georgia Southern	4:33.99	Gamecock Invitational Outdoor	Apr 13, 2019
+9	Rowe, Madeleine	SO-2	UT-Arlington	4:34.01	Bryan Clay Invitational	Apr 17, 2019
+10	Meyberg, Lotte	JR-3	Georgia State	4:35.02	North Florida Spring Break Invitational	Mar 21, 2019
+11	Evely, Izzy	FR-1	Appalachian State	4:36.24	Sun Belt Outdoor Track and Field Championships	May 10, 2019
+12	Guest, Tanner	FR-1	Troy	4:36.84	War Eagle Invitational 2019	Apr 19, 2019
+13	Sargent, Elisa	SR-4	Appalachian State	4:37.76	Florida Relays	Mar 28, 2019
+14	Meyer, Pauline	SO-2	Arkansas State	4:39.11	Sun Belt Outdoor Track and Field Championships	May 10, 2019
+15	Jerono, Sharon	JR-3	UL-Monroe	4:39.37	LSU Alumni Gold	Apr 20, 2019
+16	Butler, Kate	SR-4	Appalachian State	4:39.54	Virginia Grand Prix	Apr 26, 2019
+17	Venable, Sarah	JR-3	Appalachian State	4:40.08	Virginia Grand Prix	Apr 26, 2019
+18	Lindstad, Silje	FR-1	South Alabama	4:41.16	War Eagle Invitational 2019	Apr 19, 2019
+19	Sierra, Tina	SO-2	Texas State	4:41.30	Roadrunner Invitational	Mar 21, 2019
+20	Cheruiyot, Andonet	SO-2	South Alabama	4:42.89	2019 South Alabama Invitational	Mar 22, 2019
+21	Garnier, Marine	FR-1	Georgia State	4:43.12	Torrin Lawrence Memorial	Apr 26, 2019
+22	Prop, Anouk	FR-1	Georgia State	4:43.28	Torrin Lawrence Memorial	Apr 26, 2019
+23	Frady, Kylee	FR-1	Appalachian State	4:44.42	Duke Invitational	Apr 19, 2019
+24	LeClaire, Alyssa	JR-3	Coastal Carolina	4:45.05	Raleigh Relays	Mar 29, 2019
+25	Caruana, Christie	SO-2	Troy	4:46.38	Al Schmidt Bulldog Relays Invite	Mar 22, 2019
+26	Cole, Sydney	FR-1	Texas State	4:46.84	Sun Belt Outdoor Track and Field Championships	May 10, 2019
+27	Walsh, Macki	SO-2	Troy	4:46.91	Joe Walker Classic	Apr 12, 2019
+28	Finch, Gemma	SR-4	Troy	4:47.94	Doc Anderson Invitational	Mar 15, 2019
+29	Ramirez, Nuria	SR-4	Georgia State	4:47.99	Gamecock Invitational Outdoor	Apr 13, 2019
+30	Fedders, Emily	SR-4	Appalachian State	4:50.26	Charlotte Invitational 2019	Apr 12, 2019
+31	Bruning, Teresa	SO-2	UL-Lafayette	4:52.72	Sun Belt Outdoor Track and Field Championships	May 10, 2019
+32	Guirey, Krystin	SR-4	Troy	4:53.06	War Eagle Invitational 2019	Apr 19, 2019
+33	Oury, Sophia	FR-1	Arkansas State	4:53.54	ASU Red Wolf Open	Apr 19, 2019
+34	Diaz-Gonzales, Valeria	FR-1	UT-Arlington	4:54.17	2019 TCU Invitational	Mar 16, 2019
+35	Delaplaine, Heather	FR-1	Coastal Carolina	4:55.23	East Carolina University Bill Carson Invitational	Apr 5, 2019
+36	Brainard, Sammy	JR-3	Arkansas State	4:55.65	Ole Miss Classic	Mar 30, 2019
+37	Sanchez, Vianney	SO-2	Arkansas-Little Rock	4:55.99	Ole Miss Classic	Mar 30, 2019
+38	Leathers, Sophie	FR-1	Arkansas State	4:56.52	ASU Red Wolf Open	Apr 19, 2019
+39	Godfrey, Allyson	JR-3	Texas State	4:56.75	Texas State Bobcat Classic	Apr 26, 2019
+40	Pudner, Susanna	FR-1	South Alabama	4:57.30	War Eagle Invitational 2019	Apr 19, 2019
+41	Sall, Caroline	FR-1	Troy	4:58.37	Doc Anderson Invitational	Mar 15, 2019
+42	Van Der Westhuizen, Chantal	JR-3	UT-Arlington	4:58.43	2019 TCU Invitational	Mar 16, 2019
+43	Hesterman, Hailey	SR-4	UL-Lafayette	4:58.90	Florida Relays	Mar 28, 2019
+44	Grimm, Madison	FR-1	Arkansas State	4:59.02	ASU Red Wolf Open	Apr 19, 2019
+45	Braman, Carley	FR-1	Georgia Southern	4:59.27	Gamecock Invitational Outdoor	Apr 13, 2019
+46	Jepchirchir, Angela	SR-4	UL-Monroe	4:59.40	SFA Carl Kight Invitational	Apr 3, 2019
+47	Tatum, JeLynn	JR-3	Arkansas State	5:00.97	Memphis Tiger invitational	Apr 26, 2019
+48	Ashley, Michaela	JR-3	Troy	5:01.62	Doc Anderson Invitational	Mar 15, 2019
+49	Steinhauser, Abby	JR-3	Texas State	5:02.20	Texas State Bobcat Classic	Apr 26, 2019
+50	Frye, Ashley	FR-1	Texas State	5:02.24	LSU Alumni Gold	Apr 20, 2019
+51	Kiminski, Kailee	SR-4	South Alabama	5:03.29	South Alabama Jaguar Opener	Mar 15, 2019
+52	Leone, Giovanna	JR-3	Coastal Carolina	5:03.45	East Carolina University Bill Carson Invitational	Apr 5, 2019
+53	Jebet, Edith	SR-4	UL-Monroe	5:03.51	Louisiana Classics	Mar 15, 2019
+54	Lemon, Sarah	SR-4	Coastal Carolina	5:05.35	Coastal Carolina Invitational	Mar 8, 2019
+55	Merkh, Annika	SO-2	Appalachian State	5:05.70	2019 Adidas Winthrop University Invitational	Mar 21, 2019
+56	Singletary, Sydney	FR-1	Troy	5:06.40	Doc Anderson Invitational	Mar 15, 2019
+57	Cornell, McKenzie	FR-1	Arkansas State	5:07.13	Ole Miss Classic	Mar 30, 2019
+58	Coulter, Kara	SO-2	Troy	5:08.22	Doc Anderson Invitational	Mar 15, 2019
+59	Brenner, Julia	FR-1	Arkansas State	5:13.40	Memphis Tiger invitational	Apr 26, 2019
+60	Wade, Kayla	FR-1	Arkansas State	5:16.15	Ole Miss Classic	Mar 30, 2019
+61	Godfrey, Sarah	JR-3	Texas State	5:17.43	Texas State Bobcat Classic	Apr 26, 2019
+62	Shealy, Lindsay	SR-4	Georgia State	5:22.40	Torrin Lawrence Memorial	Apr 26, 2019
+63	Lee, Shay	FR-1	South Alabama	5:25.44	Southern Miss Open	Apr 27, 2019
+64	Adams, Megan	SO-2	Arkansas State	5:25.69	ASU Red Wolf Open	Apr 19, 2019
+65	Franklin, Caroline	FR-1	Troy	5:27.27	Tiger Track Classic 2019	Apr 5, 2019
+66	Oden, Jenna	SR-4	Troy	5:31.75	Doc Anderson Invitational	Mar 15, 2019
+67	Morris, Molly	SO-2	Georgia State	5:32.93	Torrin Lawrence Memorial	Apr 26, 2019
+68	Lindley, N'Finity	SR-4	UL-Monroe	5:36.59	McNeese State Cowboy Relays	Mar 9, 2019
+69	Rice, Cameron	FR-1	Coastal Carolina	5:41.86	Winthrop Twilight	May 1, 2019

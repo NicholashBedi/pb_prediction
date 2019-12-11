@@ -1,0 +1,136 @@
+1	Severe, Clare	SR-4	Lehigh	4:22.78	Bison Outdoor Classic	Apr 13, 2019
+2	Halbrook, Abby	SR-4	Army West Point	4:23.22	Bison Outdoor Classic	Apr 13, 2019
+3	Claeson, Andrea	FR-1	Boston University	4:26.89	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+4	Harmon, Caroline	SR-4	Lafayette	4:32.28	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+5	Chewning-Kulick, Morgan	SO-2	Army West Point	4:33.34	Bison Outdoor Classic	Apr 13, 2019
+6	Tardy, Tiara	SO-2	Bucknell	4:33.83	Bison Outdoor Classic	Apr 13, 2019
+7	Capes-Davis, Payton	SO-2	Bucknell	4:33.86	2019 Colonial Relays	Apr 4, 2019
+8	Hayes, Stephanie	SR-4	Lehigh	4:34.70	Bison Outdoor Classic	Apr 13, 2019
+9	Hammerstone, Diana	JR-3	Lehigh	4:34.85	Raleigh Relays	Mar 29, 2019
+10	Coletti, Samantha	JR-3	Army West Point	4:35.00	Bison Outdoor Classic	Apr 13, 2019
+11	Crawford, Ashleigh	JR-3	Lehigh	4:35.69	Bison Outdoor Classic	Apr 13, 2019
+12	Caggiano, Kayleigh	JR-3	Loyola (Md.)	4:35.91	2019 Larry Ellis Invitational	Apr 20, 2019
+13	Hunt, Madeleine	SO-2	Bucknell	4:36.63	Bison Outdoor Classic	Apr 13, 2019
+14	Murphy, Kathleen	FR-1	Navy	4:37.27	2019 Larry Ellis Invitational	Apr 20, 2019
+15	Ocker, Coco	JR-3	Boston University	4:37.52(1)	Ocean State Invitational	Apr 12, 2019
+16	Kovacs, Anna	FR-1	Navy	4:38.05	2019 Larry Ellis Invitational	Apr 20, 2019
+17	Hooks, Adriana	SR-4	American	4:38.28	George Mason Spring Invitational	Apr 13, 2019
+18	Koufos, Emily	FR-1	Holy Cross	4:38.36	Patriot League Outdoor Track & Field Championships	May 3, 2019
+19	McArdle, Allison	JR-3	Holy Cross	4:38.90	Patriot League Outdoor Track & Field Championships	May 3, 2019
+20	Blair, Ashley	SO-2	Bucknell	4:39.24	Jim Taylor Invite	Mar 30, 2019
+21	Antonioli, Sophie	JR-3	Lehigh	4:39.30	Patriot League Outdoor Track & Field Championships	May 3, 2019
+22	Bonaguidi, Hannah	JR-3	Lehigh	4:40.18	Raleigh Relays	Mar 29, 2019
+23	Kirk, Phoebe	JR-3	Navy	4:40.48	Army vs. Navy Outdoor Star Meet	Apr 6, 2019
+24	Hazzard, Lauren	SR-4	Bucknell	4:40.71(1)	Bison Outdoor Classic	Apr 13, 2019
+25	Piccinic, Shelby	FR-1	Army West Point	4:40.75	Army West Point Twilight	May 9, 2019
+26	Sculli, Meghan	FR-1	Navy	4:40.91	George Mason Spring Invitational	Apr 13, 2019
+27	Sands, Autumn	FR-1	Lafayette	4:41.35	Bison Outdoor Classic	Apr 13, 2019
+28	Sessions, Jade	FR-1	Lehigh	4:41.92	Bison Outdoor Classic	Apr 13, 2019
+29	Bennett, Nora	FR-1	Bucknell	4:42.92	Raleigh Relays	Mar 29, 2019
+30	Mundekis, Cassie	SR-4	Army West Point	4:43.13	UC Irvine Spring Break Collegiate Classic	Mar 15, 2019
+31	Bollinger, Morgan	SO-2	Navy	4:43.65	2019 Navy Spring Meet	Mar 30, 2019
+32	Andrews, Mika	SO-2	Army West Point	4:44.16	Bison Outdoor Classic	Apr 13, 2019
+33	Batsu, Corinne	SO-2	Boston University	4:44.54(1)	Ocean State Invitational	Apr 12, 2019
+34	Farmer, Jenna	SR-4	Bucknell	4:44.96	Team Challenge	Apr 20, 2019
+35	Berardi, Skyler	SR-4	Colgate	4:45.03	Patriot League Outdoor Track & Field Championships	May 3, 2019
+36	Shimko, Monika	SO-2	Army West Point	4:46.61	Bison Outdoor Classic	Apr 13, 2019
+37	Nadel, Stacie	SR-4	Lehigh	4:46.89	Carol & John Covert Classic	Apr 26, 2019
+38	Werren, Hannah	SO-2	Navy	4:47.07	2019 Dan Stimson Memorial Meet	Mar 23, 2019
+39	Thomson, Margaret	SR-4	Bucknell	4:47.27	Team Challenge	Apr 20, 2019
+40	Abbondandelo, Nicole	FR-1	Lehigh	4:47.45	Bison Outdoor Classic	Apr 13, 2019
+41	Galletta, Gabi	SO-2	Lafayette	4:48.24	Bison Outdoor Classic	Apr 13, 2019
+42	Falla, Jamie	FR-1	Bucknell	4:49.06	Bison Outdoor Classic	Apr 13, 2019
+43	Bonner, Kara	SO-2	Lehigh	4:49.14	Bison Outdoor Classic	Apr 13, 2019
+44	Henderson, Maura	SR-4	Lehigh	4:49.49	Penn Challenge	Mar 23, 2019
+45	Schiazza, Margaret	JR-3	Lafayette	4:49.51	Carol & John Covert Classic	Apr 26, 2019
+46	Ryan, Kaitlin	SO-2	Bucknell	4:50.07	Bison Outdoor Classic	Apr 13, 2019
+47	Sujak, Samira	SR-4	Lafayette	4:50.38	Patriot League Outdoor Track & Field Championships	May 3, 2019
+48	Mincone, Gianna	JR-3	Bucknell	4:50.47	Penn Challenge	Mar 23, 2019
+49	Royds, Miranda	SO-2	Lehigh	4:50.57	Carol & John Covert Classic	Apr 26, 2019
+50	Ayres, Kassidy	SR-4	American	4:50.63	George Mason Spring Invitational	Apr 13, 2019
+51	Wagner, Ramsey	JR-3	Army West Point	4:51.17(1)	Ben Brown Invitational	Mar 8, 2019
+52	Lopez, Arianna	JR-3	American	4:51.18	George Mason Spring Invitational	Apr 13, 2019
+53	Sheehan, Annika	SR-4	Lafayette	4:51.32	Patriot League Outdoor Track & Field Championships	May 3, 2019
+54	Wuss, Shelbi	SO-2	American	4:51.84	2019 Morgan State Legacy Track & Field Meet	Apr 19, 2019
+55	Beyer, Hope	JR-3	Bucknell	4:52.13	Bison Outdoor Classic	Apr 13, 2019
+56	Forbes, Stephanie	SO-2	Boston University	4:53.05	2019 Larry Ellis Invitational	Apr 20, 2019
+57	Bacchetta, Bronte	FR-1	Navy	4:53.42	2019 San Diego Collegiate Challenge	Mar 9, 2019
+58	Wilk, Cassandra	FR-1	Lafayette	4:53.61	2019 Lafayette Invitational	Mar 30, 2019
+59	Ragone, Kate	FR-1	Loyola (Md.)	4:53.80	Patriot League Outdoor Track & Field Championships	May 3, 2019
+60	Jean, Thorin	FR-1	Army West Point	4:54.08	Army vs. Navy Outdoor Star Meet	Apr 6, 2019
+61	Hoelscher, Grace	FR-1	Holy Cross	4:55.03	Black & Gold Invitational	Mar 29, 2019
+62	O'Neill, Audrey	JR-3	Loyola (Md.)	4:55.30	2019 Colonial Relays	Apr 4, 2019
+63	Hanlon, Claire	SO-2	Holy Cross	4:55.51	2019 UNH Season Opener	Apr 6, 2019
+64	Palma, Liv	SO-2	Lafayette	4:55.52	Greyhound Invite	Apr 19, 2019
+65	Parkinson, Laura	SO-2	Boston University	4:56.25(1)	Ocean State Invitational	Apr 12, 2019
+66	Silvestri, Gabrielle	SR-4	Loyola (Md.)	4:56.28	Hopkins Loyola Invitational	Apr 12, 2019
+67	Heinemann, Grayce	FR-1	Loyola (Md.)	4:56.82	2019 Navy Spring Meet	Mar 30, 2019
+68	Jansson, Grace	JR-3	Loyola (Md.)	4:57.03	Towson Invitational 2019	Apr 6, 2019
+69	Ryan, Tara	SO-2	Loyola (Md.)	4:57.17	2019 Colonial Relays	Apr 4, 2019
+70	Karlen, Andrea	JR-3	Army West Point	4:57.19	Bison Outdoor Classic	Apr 13, 2019
+71	Martinez, Vicky	JR-3	Colgate	4:57.27(1)	Bison Outdoor Classic	Apr 13, 2019
+72	Buco, Madalyne	SO-2	Holy Cross	4:57.35(1)	Ocean State Invitational	Apr 12, 2019
+73	Dorley, Julia	FR-1	Lehigh	4:57.41	Coach Pollard Invite	Apr 12, 2019
+74	Kubinski, Lucie	FR-1	Bucknell	4:57.72	Bison Outdoor Classic	Apr 13, 2019
+75	Ocamb, Madeline	JR-3	Loyola (Md.)	4:58.30	2019 Colonial Relays	Apr 4, 2019
+76	Mackinnon, Marina	JR-3	Holy Cross	4:58.34	Black & Gold Invitational	Mar 29, 2019
+77	Eustace, Julia	FR-1	Lafayette	4:58.60	Coach Pollard Invite	Apr 12, 2019
+78	Imhof, Annie	SO-2	Navy	4:59.20	George Mason Spring Invitational	Apr 13, 2019
+78	Zamrin, Jamie	FR-1	Lehigh	4:59.20	Carol & John Covert Classic	Apr 26, 2019
+80	Bordash, Kelsey	SO-2	Bucknell	4:59.22	Team Challenge	Apr 20, 2019
+81	Wallace, Courtney	SR-4	Loyola (Md.)	4:59.50	Hopkins Loyola Invitational	Apr 12, 2019
+82	Jacobs, Ainsley	SO-2	Lafayette	4:59.79	2019 Lafayette Invitational	Mar 30, 2019
+83	Bain, Sarah	SO-2	Bucknell	4:59.80	Maroon and Gold Invitational	Apr 27, 2019
+84	Daniels, Christina	SR-4	Loyola (Md.)	5:00.15	Hopkins Loyola Invitational	Apr 12, 2019
+85	Hooker, Elise	FR-1	American	5:00.22	George Mason Spring Invitational	Apr 13, 2019
+86	Keohane, Kerri	SR-4	Holy Cross	5:00.38	Holy Cross Invitational 2019	Apr 20, 2019
+87	O'Kane, Christine	SR-4	Bucknell	5:01.08	Team Challenge	Apr 20, 2019
+88	Harmon, Elizabeth	SO-2	Lafayette	5:01.16	2019 Lafayette Invitational	Mar 30, 2019
+89	Larson, Denise	SR-4	Colgate	5:01.50	Hamilton College Continental Invitational	Apr 6, 2019
+90	Boushelle, Rebecca	FR-1	Army West Point	5:01.73(1)	Ben Brown Invitational	Mar 8, 2019
+91	Mathis, Kalie	FR-1	Boston University	5:01.75	UMass Lowell Invitational	Mar 30, 2019
+92	Foley, Emily	FR-1	Holy Cross	5:03.34	2019 UNH Season Opener	Apr 6, 2019
+93	Deschler, Emily	FR-1	Bucknell	5:03.49	Penn Challenge	Mar 23, 2019
+94	Manners, Sophia	FR-1	Colgate	5:03.67	Patriot League Outdoor Track & Field Championships	May 3, 2019
+95	Walsh, Alyson	SO-2	Holy Cross	5:03.91	Black & Gold Invitational	Mar 29, 2019
+96	McMillan, Hetty	FR-1	Lehigh	5:04.91	Penn Challenge	Mar 23, 2019
+97	Hernandez, Clare	FR-1	American	5:05.10	2019 Navy Spring Meet	Mar 30, 2019
+98	Deibler, Katelyn	JR-3	American	5:05.31	2019 Morgan State Legacy Track & Field Meet	Apr 19, 2019
+99	Poore, Susie	SO-2	Lehigh	5:05.45	Carol & John Covert Classic	Apr 26, 2019
+100	Dolen, Emma	JR-3	Bucknell	5:05.63	Bison Outdoor Classic	Apr 13, 2019
+101	Blackshaw, Brook	SR-4	Lafayette	5:06.00	Greyhound Invite	Apr 19, 2019
+102	Walsh, Lexi	SO-2	Colgate	5:06.31	Hamilton College Continental Invitational	Apr 6, 2019
+103	Williamson, Kelly	JR-3	Loyola (Md.)	5:06.51	Hopkins Loyola Invitational	Apr 12, 2019
+104	Condon, Natalie	FR-1	Lehigh	5:06.63	Coach Pollard Invite	Apr 12, 2019
+105	Richter, Camden	SO-2	Holy Cross	5:07.00	Holy Cross Invitational 2019	Apr 20, 2019
+106	Sutton, Mary	SR-4	Loyola (Md.)	5:07.46	Carol & John Covert Classic	Apr 26, 2019
+107	Leggett, Taylor	FR-1	Boston University	5:07.82(1)	Ocean State Invitational	Apr 12, 2019
+108	Sabatino, Alexa	FR-1	Boston University	5:08.23(1)	Ocean State Invitational	Apr 12, 2019
+109	Christian, Alexandra	JR-3	Holy Cross	5:08.53	Holy Cross Invitational 2019	Apr 20, 2019
+110	Pugh, Jordyn	SO-2	Loyola (Md.)	5:08.93	2019 Morgan State Legacy Track & Field Meet	Apr 19, 2019
+111	Maynard, Sophia	FR-1	Holy Cross	5:09.36	Black & Gold Invitational	Mar 29, 2019
+112	Guilbo, Katherine	SR-4	Holy Cross	5:09.76	Black & Gold Invitational	Mar 29, 2019
+113	Wismer, Tabitha	SR-4	Bucknell	5:10.13	Bison Outdoor Classic	Apr 13, 2019
+114	Kurland, Fiona	FR-1	Navy	5:10.56	2019 Navy Spring Meet	Mar 30, 2019
+115	Killiany, Samantha	FR-1	Bucknell	5:10.83	Bison Outdoor Classic	Apr 13, 2019
+116	Coddington, Sydney	SO-2	Holy Cross	5:11.08	Black & Gold Invitational	Mar 29, 2019
+117	Davis, Paige	FR-1	Holy Cross	5:11.39	Black & Gold Invitational	Mar 29, 2019
+118	Gioia, Gabrielle	SO-2	Holy Cross	5:11.53	Black & Gold Invitational	Mar 29, 2019
+119	Kakascik, Kara	JR-3	Navy	5:11.94	2019 San Diego Collegiate Challenge	Mar 9, 2019
+120	Zeltner, Zoe	SO-2	Colgate	5:14.08	Greyhound Invite	Apr 19, 2019
+121	Votruba, Sydney	FR-1	Loyola (Md.)	5:14.19	Towson Invitational 2019	Apr 6, 2019
+122	West, Mary Margaret	SO-2	Navy	5:16.83	2019 Navy Spring Meet	Mar 30, 2019
+123	Rome, Erin	SR-4	Lafayette	5:21.68	Greyhound Invite	Apr 19, 2019
+124	Kurzweil, Charlotte	JR-3	Holy Cross	5:22.30	Black & Gold Invitational	Mar 29, 2019
+125	Harrington, Jacqueline	FR-1	Holy Cross	5:22.35	Black & Gold Invitational	Mar 29, 2019
+126	Agana, Amanda	SR-4	Navy	5:22.66	2019 San Diego Collegiate Challenge	Mar 9, 2019
+127	Tabbachino, Giavanna	SO-2	Lehigh	5:23.87	Greyhound Invite	Apr 19, 2019
+128	Lyon, Hannah	SO-2	Navy	5:24.77	2019 Navy Spring Meet	Mar 30, 2019
+129	Kloster, Hannah	SO-2	Colgate	5:27.66	Coach Pollard Invite	Apr 12, 2019
+130	Zarnick, Danielle	SO-2	Colgate	5:28.16	Coach Pollard Invite	Apr 12, 2019
+131	O'Hehir, Caitlin	FR-1	Loyola (Md.)	5:32.62	Towson Invitational 2019	Apr 6, 2019
+132	Blech, Maxine	FR-1	Lafayette	5:44.06	Greyhound Invite	Apr 19, 2019
+132	Pinsonault, Hope	FR-1	Loyola (Md.)	5:44.06	Hopkins Loyola Invitational	Apr 12, 2019
+134	Bosanko, Rebecca	JR-3	Lafayette	5:46.63	Greyhound Invite	Apr 19, 2019
+135	Nunn, Avery	SR-4	Lafayette	5:49.17	Greyhound Invite	Apr 19, 2019
+136	Salyers, Camille	FR-1	Lafayette	5:49.86	2019 Lafayette Invitational	Mar 30, 2019

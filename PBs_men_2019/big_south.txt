@@ -1,0 +1,67 @@
+1	Wilson, Jeryck	SO-2	Charleston Southern	3:50.63	Charlotte Invitational 2019	Apr 12, 2019
+2	Domoney, Jaymee	SO-2	Charleston Southern	3:51.28	Charlotte Invitational 2019	Apr 12, 2019
+3	Kipkoech, Lawrence	SR-4	Campbell	3:52.73	Big South Outdoor Track and Field Championships	May 8, 2019
+4	Akright, Andrew	SO-2	Charleston Southern	3:53.23	Florida Relays	Mar 28, 2019
+5	Pina Cardona, Siro	SO-2	High Point	3:55.48	Aggie Invitational	Apr 12, 2019
+6	Kahler, Theo	JR-3	Winthrop	3:55.60	Charlotte Invitational 2019	Apr 12, 2019
+7	Kipruto, Meshack	JR-3	Campbell	3:56.12	Gamecock Invitational Outdoor	Apr 13, 2019
+8	Jones, Dorian	SR-4	USC Upstate	3:56.24	Don McGarey Invitational Track and Field Invitational	Apr 26, 2019
+9	Parker, Graham	JR-3	UNC-Asheville	3:57.64	Big South Outdoor Track and Field Championships	May 8, 2019
+10	Inman, Matt	SO-2	Charleston Southern	4:00.61	CSU Spring Break Invitational	Mar 16, 2019
+11	Gallimore, Travis	JR-3	Campbell	4:01.06	Big South Outdoor Track and Field Championships	May 8, 2019
+12	Turner, Sage	SO-2	UNC-Asheville	4:02.12	Don McGarey Invitational Track and Field Invitational	Apr 26, 2019
+13	Van Der Cruyssen, Patrick	SR-4	High Point	4:02.76	Aggie Invitational	Apr 12, 2019
+14	Young, Marlin	FR-1	USC Upstate	4:04.02	Don McGarey Invitational Track and Field Invitational	Apr 26, 2019
+15	Boone, Zach	JR-3	UNC-Asheville	4:04.13	Gamecock Invitational Outdoor	Apr 13, 2019
+16	Dominy, Trevor	SO-2	Charleston Southern	4:04.60	CSU Spring Break Invitational	Mar 16, 2019
+17	Sasso, Anthony	SO-2	High Point	4:05.71	Yellow Jacket Invitational	Mar 15, 2019
+18	Metcalf-Shull, William	FR-1	Winthrop	4:06.43	8th Annual Terrier Relays	Mar 30, 2019
+19	Gilbert, Hunter	SO-2	Campbell	4:06.90	UNCW Invitational	Mar 15, 2019
+20	Smucker, Spencer	FR-1	High Point	4:07.01	Aggie Invitational	Apr 12, 2019
+21	Little, Thomas	JR-3	UNC-Asheville	4:07.16	Gamecock Invitational Outdoor	Apr 13, 2019
+22	Bergamasco, David	FR-1	Charleston Southern	4:08.14	CSU Spring Break Invitational	Mar 16, 2019
+23	McCullough, Geoffrey	JR-3	Hampton	4:10.28	2019 Colonial Relays	Apr 4, 2019
+24	Burris, Tayvon	SR-4	Hampton	4:10.80	Ram Invite	Mar 22, 2019
+25	Petty, Jalin	SO-2	USC Upstate	4:11.17	Don McGarey Invitational Track and Field Invitational	Apr 26, 2019
+26	Castano, Andrew	FR-1	USC Upstate	4:11.39	Don McGarey Invitational Track and Field Invitational	Apr 26, 2019
+27	Cisneros, Juan		Radford	4:12.19	Gamecock Invitational Outdoor	Apr 13, 2019
+28	Fisher, Graeme	JR-3	Campbell	4:13.05	UNCW Invitational	Mar 15, 2019
+29	Terry, Keith	SR-4	Charleston Southern	4:14.04	Buccaneer Invitational	Mar 23, 2019
+30	Huff, Adam	SO-2	Charleston Southern	4:14.82	Charlotte Invitational 2019	Apr 12, 2019
+31	Casey, Makinnley		Radford	4:16.38	Duke Invitational	Apr 19, 2019
+32	Gray, Stephen	SO-2	High Point	4:16.40	Aggie Invitational	Apr 12, 2019
+33	Tardella, Michael	FR-1	USC Upstate	4:16.78	Don McGarey Invitational Track and Field Invitational	Apr 26, 2019
+34	Morales, TJ	JR-3	High Point	4:18.22	Aggie Invitational	Apr 12, 2019
+35	Johnson, Jonathan	FR-1	USC Upstate	4:18.33	Charlotte Invitational 2019	Apr 12, 2019
+36	Lewis, Ereck	SR-4	USC Upstate	4:20.42	8th Annual Terrier Relays	Mar 30, 2019
+37	Dollhausen, Tyler	FR-1	Campbell	4:20.63	UNCW Invitational	Mar 15, 2019
+38	Bijeau, Blair	JR-3	Winthrop	4:21.29	8th Annual Terrier Relays	Mar 30, 2019
+39	Church, Sage	FR-1	Longwood	4:21.86	New Captains Classic & Combined Events	Apr 19, 2019
+40	Brown, Mitchell	SO-2	Gardner-Webb	4:22.27	Charlotte 49er Classic	Mar 14, 2019
+41	Jarvis, Hunter	JR-3	Winthrop	4:22.56	Charlotte Invitational 2019	Apr 12, 2019
+42	Howell, Nick	FR-1	Longwood	4:23.35	Phoenix Invitational 2019	Apr 6, 2019
+43	Barrera, Matthew	SR-4	UNC-Asheville	4:25.32(1)	Alan Connie Shamrock Invite	Mar 14, 2019
+44	Preece, Noel	FR-1	Longwood	4:27.18	Phoenix Invitational 2019	Apr 6, 2019
+45	Lane, Jake	FR-1	Winthrop	4:27.36	8th Annual Terrier Relays	Mar 30, 2019
+46	Thatcher, Tyler	SO-2	Winthrop	4:28.13	Phoenix Invitational 2019	Apr 6, 2019
+47	Miller, Logan	JR-3	USC Upstate	4:28.34	Don McGarey Invitational Track and Field Invitational	Apr 26, 2019
+48	Sherwin, Philip	SO-2	High Point	4:29.85	Aggie Invitational	Apr 12, 2019
+49	Gilbert, Grant	FR-1	High Point	4:32.37	HPU VertKlasse Meeting	Mar 21, 2019
+50	Romero , Pablo	JR-3	High Point	4:34.27	Tennessee Relays	Apr 11, 2019
+51	Close, Brandon	FR-1	Longwood	4:36.50	Phoenix Invitational 2019	Apr 6, 2019
+52	Dollard, Chrishon	SO-2	Longwood	4:38.94	Phoenix Invitational 2019	Apr 6, 2019
+53	Gillespie, Blanton	SR-4	UNC-Asheville	4:42.07	Duke Invitational	Apr 19, 2019
+54	Oliver, John	SR-4	Winthrop	4:42.65	Phoenix Invitational 2019	Apr 6, 2019
+55	Hoyt, Zac	JR-3	Winthrop	4:50.04	2019 Adidas Winthrop University Invitational	Mar 21, 2019
+56	Hermanns, Samuel	SR-4	Gardner-Webb	4:50.20	HPU VertKlasse Meeting	Mar 21, 2019
+57	Podgaisky, Bogdan	SO-2	Gardner-Webb	4:53.95	Don McGarey Invitational Track and Field Invitational	Apr 26, 2019
+58	Burba, Mason	FR-1	Longwood	4:54.26	Phoenix Invitational 2019	Apr 6, 2019
+59	Clemens, Jack	FR-1	UNC-Asheville	4:55.28(1)	Alan Connie Shamrock Invite	Mar 14, 2019
+60	Kanney, Brad	SR-4	High Point	4:58.05	Big South Outdoor Track and Field Championships	May 8, 2019
+61	Binkley, Stephen	FR-1	High Point	5:06.44	Big South Outdoor Track and Field Championships	May 8, 2019
+62	Walker, Jordan	FR-1	Hampton	5:19.32	Big South Outdoor Track and Field Championships	May 8, 2019
+63	Powell, Eric	FR-1	Hampton	5:19.45	Big South Outdoor Track and Field Championships	May 8, 2019
+64	Stainback, Gabriel	SO-2	High Point	5:21.12	Big South Outdoor Track and Field Championships	May 8, 2019
+65	Singleton, John	JR-3	High Point	5:27.78	Big South Outdoor Track and Field Championships	May 8, 2019
+66	Norris, Isaiah	JR-3	Hampton	5:40.81	Big South Outdoor Track and Field Championships	May 8, 2019
+67	Clark, Trey	SR-4	Hampton	5:51.62	Big South Outdoor Track and Field Championships	May 8, 2019

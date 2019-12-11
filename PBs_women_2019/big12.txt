@@ -1,0 +1,76 @@
+1	Johnson, Sinclaire	JR-3	Oklahoma State	4:05.98	NCAA Division I Outdoor Track & Field Championships	Jun 5, 2019
+2	Celis, Jenny	SR-4	Oklahoma State	4:12.62	NCAA Division I Outdoor Track & Field Championships	Jun 5, 2019
+3	Sughroue, Molly	SR-4	Oklahoma State	4:14.06	NCAA Division I Outdoor Track & Field Championships	Jun 5, 2019
+4	Collins, Destiny	SO-2	Texas	4:19.16	National Relay Championships	Apr 26, 2019
+5	Ballner, Ariane	SR-4	Oklahoma State	4:19.40	John McDonnell Invitational	Apr 12, 2019
+6	Jackson , Hayley	FR-1	West Virginia	4:19.69	Big 12 Outdoor Track and Field Championships	May 10, 2019
+7	Herberg, Haley	FR-1	Oklahoma	4:20.03	Big 12 Outdoor Track and Field Championships	May 10, 2019
+8	Johnson, Kassidy	FR-1	Kansas State	4:20.28	Big 12 Outdoor Track and Field Championships	May 10, 2019
+9	Cruz, Alex	SR-4	Texas	4:21.39	NCAA Division I West Region Preliminary Rounds	May 23, 2019
+10	Jones, Candace	JR-3	West Virginia	4:23.00	Bison Outdoor Classic	Apr 13, 2019
+11	Szekely, Morgan	SR-4	Oklahoma State	4:23.50	John McDonnell Invitational	Apr 12, 2019
+12	Liggett, Catherine	SO-2	Kansas	4:24.13	Big 12 Outdoor Track and Field Championships	May 10, 2019
+13	Stenman-Fahey, Erinn	SR-4	Iowa State	4:24.98	Stanford Invitational	Mar 29, 2019
+14	Crank, Gabby	SR-4	Texas	4:25.98	The Reveille Meet	Apr 6, 2019
+15	Wright, Gwynne	JR-3	Iowa State	4:26.27	Big 12 Outdoor Track and Field Championships	May 10, 2019
+16	Scott, Sarah	SR-4	Oklahoma	4:31.08	Roadrunner Invitational	Mar 21, 2019
+17	Windemuller, Kayla	FR-1	Baylor	4:31.37	Baylor Invitational	Mar 23, 2019
+18	Blancaflor, Claudine	SO-2	Texas	4:31.42	The Reveille Meet	Apr 6, 2019
+19	Miller, Aaliyah	SO-2	Baylor	4:32.71	The Reveille Meet	Apr 6, 2019
+20	Harrell, Lauren	SR-4	Kansas	4:33.06	Ward Haylett Invitational	May 3, 2019
+21	Vanderheyden, Mikenna	FR-1	West Virginia	4:33.50	Bison Outdoor Classic	Apr 13, 2019
+22	Vu, Jaylene	FR-1	Texas	4:33.59	National Relay Championships	Apr 26, 2019
+23	Welborn, Jordan	JR-3	Texas	4:34.31	The Reveille Meet	Apr 6, 2019
+24	Gallardo, Jessica	JR-3	Texas Tech	4:34.65@	Corky/Crofoot Shootout	Apr 26, 2019
+25	Wills , Sarah	SO-2	West Virginia	4:35.88	Raleigh Relays	Mar 29, 2019
+26	Somers, Taylor	JR-3	Oklahoma State	4:36.11	Arkansas Spring Invitational	Mar 22, 2019
+27	Geissler, Haley	SR-4	Oklahoma State	4:36.22	Arkansas Twilight	May 3, 2019
+28	Offerman, Lauren	SO-2	Texas Tech	4:36.54	Bryan Clay Invitational	Apr 17, 2019
+29	Guidry, Abby	JR-3	Texas	4:36.69	The Reveille Meet	Apr 6, 2019
+30	Gueldner, Cameron	SO-2	Kansas	4:37.11	National Relay Championships	Apr 26, 2019
+31	Born, Molly	FR-1	Oklahoma State	4:38.06	Arkansas Spring Invitational	Mar 22, 2019
+32	Johnson, Avryl	FR-1	Kansas	4:38.08	Kansas Relays	Apr 17, 2019
+33	Holmes, Celia	FR-1	Baylor	4:38.25	Michael Johnson Invitational	Apr 19, 2019
+34	Tobias, Valery	FR-1	Texas	4:39.87	Bryan Clay Invitational	Apr 17, 2019
+35	Mandel, Evelyn	SO-2	TCU	4:40.88	2019 TCU Invitational	Mar 16, 2019
+36	Larson, Kaytlyn	SR-4	Oklahoma State	4:40.99	Stanford Invitational	Mar 29, 2019
+37	Andrews-Paul, Alison	JR-3	Baylor	4:41.22	The Reveille Meet	Apr 6, 2019
+38	Ramos, Beth	FR-1	Texas	4:43.38	The Reveille Meet	Apr 6, 2019
+39	Satterlee, Gabrielle	JR-3	Baylor	4:43.96	Baylor Invitational	Mar 23, 2019
+40	Lloyd, Meghan	SR-4	Texas	4:44.57	Roadrunner Invitational	Mar 21, 2019
+41	Corah, Payton	FR-1	TCU	4:44.84	Big 12 Outdoor Track and Field Championships	May 10, 2019
+42	Lauschke, Lisa	SO-2	Kansas	4:46.16	LSU Battle on the Bayou	Apr 6, 2019
+43	Shulhan, Samantha	FR-1	Texas	4:46.82	Michael Johnson Invitational	Apr 19, 2019
+44	Long, Morgan	SO-2	Oklahoma	4:46.84	John Jacobs Invitational	Apr 19, 2019
+45	Walton, Lindsay	JR-3	Baylor	4:47.32	The Reveille Meet	Apr 6, 2019
+46	Ka, Binta	FR-1	Texas Tech	4:47.36@	WT Classic & Multi	Apr 5, 2019
+47	Griffiths, Courtney	SR-4	Kansas	4:47.76	Emporia State Spring Invite	Mar 23, 2019
+48	Driscoll, Hannah	SR-4	Kansas	4:48.05	Emporia State Spring Invite	Mar 23, 2019
+49	Ruck, Katherine	JR-3	Oklahoma State	4:49.02	Arkansas Twilight	May 3, 2019
+50	Bollinger, Skyler	SO-2	Texas	4:49.48	Michael Johnson Invitational	Apr 19, 2019
+51	Nance, Bret Leigh	JR-3	Texas Tech	4:49.82	Bryan Clay Invitational	Apr 17, 2019
+52	Johnston, Kirsten	SR-4	TCU	4:49.88	2019 TCU Invitational	Mar 16, 2019
+53	Aguiar, Isabella	FR-1	TCU	4:52.29	2019 TCU Invitational	Mar 16, 2019
+54	Gunter, Anna	SR-4	Oklahoma State	4:52.44	Arkansas Twilight	May 3, 2019
+55	Barth, Erin	SR-4	TCU	4:52.76	2019 TCU Invitational	Mar 16, 2019
+56	Jebet, Linda	FR-1	West Virginia	4:54.46	Virginia v. Maryland, Pitt, West Virginia	Apr 6, 2019
+57	Herriott, Anna	FR-1	Iowa State	4:55.77	War Eagle Invitational 2019	Apr 19, 2019
+58	Hamrin, Sadie	FR-1	Baylor	4:55.92	Baylor Invitational	Mar 23, 2019
+59	Young, Kyra	FR-1	Texas Tech	4:57.49	Michael Johnson Invitational	Apr 19, 2019
+60	Larsen, Mazie	FR-1	Baylor	4:58.12	Baylor Invitational	Mar 23, 2019
+61	Irving, Kaitlyn	SO-2	Texas Tech	4:58.37@	Fearless Champion Open	Mar 22, 2019
+62	Lopez, Arianna	SO-2	Texas Tech	4:58.88	Michael Johnson Invitational	Apr 19, 2019
+63	White, Sydney	FR-1	Texas Tech	4:59.15@	Fearless Champion Open	Mar 22, 2019
+64	Brudnick, Abigail	FR-1	Texas	4:59.74	Michael Johnson Invitational	Apr 19, 2019
+65	Fairchild, Kelly	JR-3	TCU	5:00.13	2019 TCU Invitational	Mar 16, 2019
+66	Broman, Camilla	FR-1	Oklahoma	5:00.23	John Jacobs Invitational	Apr 19, 2019
+67	Bonadies, Brook	FR-1	Baylor	5:02.31	Michael Johnson Invitational	Apr 19, 2019
+68	Rule, Megan	SR-4	Baylor	5:03.89	Michael Johnson Invitational	Apr 19, 2019
+69	Hamel, Molly	SR-4	TCU	5:05.61	Michael Johnson Invitational	Apr 19, 2019
+70	Halloran, Allison	SO-2	Texas Tech	5:06.71@	Fearless Champion Open	Mar 22, 2019
+71	Schiller, Lauren	SO-2	Texas Tech	5:07.14@	Fearless Champion Open	Mar 22, 2019
+72	Pettit, Andrea	JR-3	West Virginia	5:11.99	State Farm Friends of Track and Field Mountaineer Showcase	Apr 26, 2019
+73	Kraft, Brina	SO-2	Iowa State	5:12.14	Arkansas Spring Invitational	Mar 22, 2019
+74	Broman, Laura	FR-1	Oklahoma	5:14.57	John Jacobs Invitational	Apr 19, 2019
+75	Suarez, Emily	SR-4	TCU	5:21.27	Michael Johnson Invitational	Apr 19, 2019
+76	Curran, Emily	JR-3	Baylor	5:45.25	Baylor Invitational	Mar 23, 2019

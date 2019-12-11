@@ -1,0 +1,500 @@
+1	Nuguse, Yared	SO-2	Notre Dame	3:38.32	Bryan Clay Invitational	Apr 17, 2019
+2	Suliman, Waleed	SO-2	Ole Miss	3:38.72	Bryan Clay Invitational	Apr 17, 2019
+3	Brown, Spencer	JR-3	Georgetown	3:39.94	Bryan Clay Invitational	Apr 17, 2019
+4	Mau, Kyle	JR-3	Indiana	3:40.42	2019 Billy Hayes Invitational	May 3, 2019
+5	Bethmann, Cade	SO-2	Ole Miss	3:41.65	Joe Walker Classic	Apr 12, 2019
+6	Kiprotich, Justine	SR-4	Michigan State	3:41.89	Virginia Challenge	Apr 19, 2019
+7	Comber, Casey	JR-3	Villanova	3:42.54	Joe Walker Classic	Apr 12, 2019
+8	Young, Benjamin	JR-3	Kentucky	3:42.62	Florida Relays	Mar 28, 2019
+9	Browning, Teddy	SO-2	Indiana	3:43.05	2019 Billy Hayes Invitational	May 3, 2019
+9	Sloan, Nate	SR-4	Pittsburgh	3:43.05	ACC Championships	May 9, 2019
+11	Long, Zach	SR-4	Tennessee	3:43.09	Tennessee Relays	Apr 11, 2019
+12	Hagen, Kenneth	SR-4	Indiana	3:43.29	Tennessee Relays	Apr 11, 2019
+13	Hengst, Dalton	FR-1	Ole Miss	3:43.92	Joe Walker Classic	Apr 12, 2019
+13	Makepeace, Euan	JR-3	Butler	3:43.92	2019 Billy Hayes Invitational	May 3, 2019
+15	Veatch, Ben	SO-2	Indiana	3:44.17	Tennessee Relays	Apr 11, 2019
+16	Torpy, Sean	JR-3	Miami (Ohio)	3:44.24	Virginia Challenge	Apr 19, 2019
+17	Abert, Colin	SR-4	Penn State	3:44.26	Florida Relays	Mar 28, 2019
+18	Ritchie, Ian	SR-4	Boston College	3:44.34	ACC Championships	May 9, 2019
+19	Mosavel-Lo, Bashir	SO-2	Virginia Tech	3:44.35	Tennessee Relays	Apr 11, 2019
+20	Tubby, Brandon	JR-3	North Carolina	3:44.42	ACC Championships	May 9, 2019
+21	Murphy, Joseph	SR-4	Indiana	3:44.47	Florida Relays	Mar 28, 2019
+22	Torpy, Christopher	JR-3	Miami (Ohio)	3:44.52	Virginia Challenge	Apr 19, 2019
+23	Wareham, Nicholas	JR-3	Georgetown	3:44.54	Bryan Clay Invitational	Apr 17, 2019
+24	Dahl, Nick	SO-2	Yale	3:44.58	Army West Point Twilight	May 9, 2019
+25	Garcia Romo, Mario	FR-1	Ole Miss	3:44.69	Joe Walker Classic	Apr 12, 2019
+26	Wetzel, Logan	JR-3	Villanova	3:44.73	Stanford Invitational	Mar 29, 2019
+26	Hall, Philip	JR-3	North Carolina St.	3:44.73	Raleigh Relays	Mar 29, 2019
+28	Smulders, Everett	SO-2	Ole Miss	3:44.77	Bryan Clay Invitational	Apr 17, 2019
+29	Bartlett, Avery	SR-4	Georgia Tech	3:44.88	FSU Relays (College)	Mar 22, 2019
+29	Michalski, Daniel	SR-4	Indiana	3:44.88	Tennessee Relays	Apr 11, 2019
+29	Maher, Drew	FR-1	Penn State	3:44.88	Bison Outdoor Classic	Apr 13, 2019
+32	Wier, Aaron	JR-3	Morehead State	3:44.91	2019 Billy Hayes Invitational	May 3, 2019
+33	McGorty, Ryan	SR-4	William and Mary	3:44.94	George Mason Spring Invitational	Apr 13, 2019
+33	Seufer, Peter	JR-3	Virginia Tech	3:44.94	Tennessee Relays	Apr 11, 2019
+35	Hill, Ben	JR-3	Michigan	3:44.97	Stanford Invitational	Mar 29, 2019
+36	Milligan, Alex	JR-3	North Carolina	3:44.98	ACC Championships	May 9, 2019
+37	Leverenz, Johnny	SR-4	Butler	3:45.05	Raleigh Relays	Mar 29, 2019
+38	Joyce, Jack	JR-3	Virginia Tech	3:45.11	ACC Championships	May 9, 2019
+39	Williams, Cooper	JR-3	Indiana	3:45.16	Cardinal Classic	Apr 19, 2019
+40	Wyman, Michael	SR-4	Providence	3:45.17	Raleigh Relays	Mar 29, 2019
+41	Pacifico, Justin	SO-2	Florida	3:45.21	UF Tom Jones Memorial	Apr 26, 2019
+42	Adams, Ryan	JR-3	Furman	3:45.23	Cardinal Classic	Apr 19, 2019
+43	Luevano, Paul	JR-3	Boston University	3:45.26	Virginia Grand Prix	Apr 26, 2019
+44	Beadlescomb, Morgan	SO-2	Michigan State	3:45.27	Virginia Challenge	Apr 19, 2019
+45	Siegler, Allen	JR-3	Yale	3:45.28	Army West Point Twilight	May 9, 2019
+46	Gutierrez, Derek	SR-4	Ole Miss	3:45.29	SEC Outdoor Track & Field Championships	May 9, 2019
+47	Muhammad, Kendall	SR-4	Kentucky	3:45.35	SEC Outdoor Track & Field Championships	May 9, 2019
+48	Salisbury, Jack	SO-2	Georgetown	3:45.43	Sam Howell Invitational	Apr 6, 2019
+49	Aouani, Iliass	JR-3	Syracuse	3:45.61	Virginia Challenge	Apr 19, 2019
+50	Ritz, Sam	SR-4	Columbia	3:45.62	Stanford Invitational	Mar 29, 2019
+51	Tooker, Aidan	JR-3	Syracuse	3:45.65	Bison Outdoor Classic	Apr 13, 2019
+52	Abrahams, James	SO-2	Penn State	3:45.71	Bison Outdoor Classic	Apr 13, 2019
+53	Brown, Sean	SO-2	Lehigh	3:45.72	Patriot League Outdoor Track & Field Championships	May 3, 2019
+54	Templeton, Aaron	SR-4	Furman	3:45.73	Tennessee Relays	Apr 11, 2019
+55	Stupak, Jacob	JR-3	Bucknell	3:45.80	Bison Outdoor Classic	Apr 13, 2019
+56	Sellaro, Ray	FR-1	Penn	3:45.82	Sam Howell Invitational	Apr 6, 2019
+57	Ellis, Sam	SO-2	Princeton	3:45.92	2019 Larry Ellis Invitational	Apr 20, 2019
+58	Daly, Colin	JR-3	Penn	3:45.93	Sam Howell Invitational	Apr 6, 2019
+59	Lundy, Conor	JR-3	Princeton	3:45.96	2019 Larry Ellis Invitational	Apr 20, 2019
+60	Cannon, Matthias	FR-1	Virginia Tech	3:45.99	ACC Championships	May 9, 2019
+61	Ogden, Jake	JR-3	Furman	3:46.07	Raleigh Relays	Mar 29, 2019
+62	Schwind, Jonathan	SO-2	Lipscomb	3:46.10	Tiger Track Classic 2019	Apr 5, 2019
+63	Novak, Matthew	JR-3	Virginia	3:46.14	Virginia Grand Prix	Apr 26, 2019
+64	Szogi, Istvan	SR-4	Florida State	3:46.16	UF Tom Jones Memorial	Apr 26, 2019
+65	Wing, Owen	SO-2	Penn State	3:46.18	Bison Outdoor Classic	Apr 13, 2019
+66	Michon, Zachary	JR-3	St. Joseph's (Pa.)	3:46.28	2019 Larry Ellis Invitational	Apr 20, 2019
+67	Moakler, Justin	SR-4	Morehead State	3:46.43	2019 Billy Hayes Invitational	May 3, 2019
+68	Day, Owen	SO-2	Eastern Michigan	3:46.48	Raleigh Relays	Mar 29, 2019
+69	Hontz, Brandon	SO-2	Penn State	3:46.54	Bison Outdoor Classic	Apr 13, 2019
+69	Cooper, Charles	SR-4	Duke	3:46.54	ACC Championships	May 9, 2019
+69	Jacobs, Dylan	FR-1	Notre Dame	3:46.54	Bryan Clay Invitational	Apr 17, 2019
+72	White, Angus	SO-2	Providence	3:46.64	Raleigh Relays	Mar 29, 2019
+73	Spiezio, Jeremy	SR-4	Princeton	3:46.69	2019 Larry Ellis Invitational	Apr 20, 2019
+74	Smith, Keagan	JR-3	Army West Point	3:46.78	Army West Point Twilight	May 9, 2019
+75	Ponder, Cameron	FR-1	Furman	3:46.94	Tennessee Relays	Apr 11, 2019
+76	Dodds, Spencer	SO-2	Virginia	3:47.05	ACC Championships	May 9, 2019
+77	Brophy, Jake	JR-3	Navy	3:47.19	Virginia Challenge	Apr 19, 2019
+78	O'Leary, Michael	SR-4	Providence	3:47.25	Raleigh Relays	Mar 29, 2019
+79	Dee, Liam	SR-4	Iona	3:47.31	Bryan Clay Invitational	Apr 17, 2019
+80	Zabilski, Brian	SR-4	Columbia	3:47.32(1)	Ocean State Invitational	Apr 12, 2019
+81	Motschmann, Johannes	SR-4	Iona	3:47.33	Sam Howell Invitational	Apr 6, 2019
+82	McDevitt, Billy	SR-4	Penn State	3:47.35	2019 ASU Invitational	Mar 22, 2019
+83	Perkins, Noah	JR-3	North Florida	3:47.40	Georgia Tech Invitational (College)	Apr 19, 2019
+84	Bete, Paul	SO-2	Ohio State	3:47.42	Big Ten Championships	May 10, 2019
+85	Phillips, Michael	FR-1	Syracuse	3:47.52	Bison Outdoor Classic	Apr 13, 2019
+86	Delvecchio, Andrew	FR-1	Notre Dame	3:47.60	ACC Championships	May 9, 2019
+87	Vazquez, Jared	FR-1	North Florida	3:47.80	UF Tom Jones Memorial	Apr 26, 2019
+88	Pierce, Quentin	SR-4	Indiana State	3:47.86	Drake Relays presented by Hy-Vee	Apr 24, 2019
+89	Claiborne, Isaiah	FR-1	Penn State	3:47.88	Bison Outdoor Classic	Apr 13, 2019
+90	Thorstein, Trausti	SO-2	Wagner	3:47.96	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+91	Schille, Andrew	SR-4	Cincinnati	3:47.98	Oliver Nikoloff Invitational	Apr 6, 2019
+92	Holm Jensen, Kristian	SO-2	Temple	3:48.02	Bison Outdoor Classic	Apr 13, 2019
+93	Doyle, Timothy	FR-1	North Florida	3:48.04	Georgia Tech Invitational (College)	Apr 19, 2019
+93	Kipngetich, Silas	JR-3	Auburn	3:48.04	Torrin Lawrence Memorial	Apr 26, 2019
+93	Rutto, Edwin	SO-2	North Carolina St.	3:48.04	ACC Championships	May 9, 2019
+96	Johnson, Cole	FR-1	Michigan	3:48.15	Big Ten Championships	May 10, 2019
+97	Ferrentino, Connor	SR-4	Alabama	3:48.17	Florida Relays	Mar 28, 2019
+98	Venne, Jeremie	SR-4	Saint Francis University	3:48.22	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+99	Weisel, Ben	JR-3	Belmont	3:48.23	Georgia Tech Invitational (College)	Apr 19, 2019
+99	Baugh, Eric	JR-3	Butler	3:48.23	Bryan Clay Invitational	Apr 17, 2019
+101	Anderson, Henrik	FR-1	Georgia Tech	3:48.24	Georgia Tech Invitational (College)	Apr 19, 2019
+102	Corbett, Alex	JR-3	Virginia	3:48.37	Virginia Grand Prix	Apr 26, 2019
+103	Henderson, Nathan	SO-2	Syracuse	3:48.50	Bison Outdoor Classic	Apr 13, 2019
+104	Aho, Jack	SO-2	Michigan	3:48.55	Len Paddock Open	May 3, 2019
+105	Kemps, Johnny	SR-4	Boston University	3:48.56(1)	Ocean State Invitational	Apr 12, 2019
+106	Reilly, Michael	SO-2	Georgia Tech	3:48.58	Georgia Tech Invitational (College)	Apr 19, 2019
+107	Trippas, Ed	SO-2	Princeton	3:48.61	Army West Point Twilight	May 9, 2019
+108	Fleming, Ben	FR-1	Virginia Tech	3:48.64	Tennessee Relays	Apr 11, 2019
+108	Landis, Luke	JR-3	Ohio State	3:48.64	LSU Battle on the Bayou	Apr 6, 2019
+110	Singer, Mikey	SR-4	Army West Point	3:48.66	2019 Larry Ellis Invitational	Apr 20, 2019
+111	Walker, John	JR-3	St. Joseph's (Pa.)	3:48.71	2019 Colonial Relays	Apr 4, 2019
+112	Seal, Alexander	SR-4	Boston University	3:48.74(1)	Ocean State Invitational	Apr 12, 2019
+113	Beveridge, Noah	FR-1	Syracuse	3:48.76	Bison Outdoor Classic	Apr 13, 2019
+114	Bienenfeld, Aaron	JR-3	Cincinnati	3:48.80	Oliver Nikoloff Invitational	Apr 6, 2019
+115	Gatewood , Mason	FR-1	Penn	3:48.94	2019 Larry Ellis Invitational	Apr 20, 2019
+115	Raymond, Henry	JR-3	Dartmouth	3:48.94	Ivy League Outdoor Track & Field Championships	May 4, 2019
+117	Rainey, Matthew	SR-4	American	3:49.04	Raleigh Relays	Mar 29, 2019
+118	Schreiner, Lucky	SR-4	Columbia	3:49.06(1)	Ocean State Invitational	Apr 12, 2019
+119	Lopez Segura, Antonio	FR-1	Virginia Tech	3:49.14	2019 Twilight Qualifier	May 1, 2019
+120	Peterson, Sean	SO-2	Youngstown St.	3:49.16	Bison Outdoor Classic	Apr 13, 2019
+121	Facioni, Zach	FR-1	Wake Forest	3:49.33	Virginia Challenge	Apr 19, 2019
+122	Hall, Michael	SR-4	Florida State	3:49.36	Crimson Tide Invitational	Apr 11, 2019
+123	Van Der Els, Eric	SO-2	Connecticut	3:49.41	2019 Larry Ellis Invitational	Apr 20, 2019
+124	Fountain, Solomon	SO-2	Columbia	3:49.42	Ivy League Outdoor Track & Field Championships	May 4, 2019
+124	Lee, James	FR-1	Penn	3:49.42	Ivy League Outdoor Track & Field Championships	May 4, 2019
+126	Cornetta, Justin	FR-1	Penn	3:49.56	Ivy League Outdoor Track & Field Championships	May 4, 2019
+127	Linden, Erik	FR-1	Boston College	3:49.57	ACC Championships	May 9, 2019
+128	Ulrich, William	SR-4	New Hampshire	3:49.61	Raleigh Relays	Mar 29, 2019
+129	Perretta, Domenic	SO-2	Penn State	3:49.63	LSU Battle on the Bayou	Apr 6, 2019
+130	Goodell , Evan	FR-1	William and Mary	3:49.66	2019 Colonial Relays	Apr 4, 2019
+130	Sheehan, Patrick	SR-4	North Carolina St.	3:49.66	Charlotte Invitational 2019	Apr 12, 2019
+132	Scherrer, David	SO-2	Brown	3:49.73	Ivy League Outdoor Track & Field Championships	May 4, 2019
+133	Gaynor, Gavin	JR-3	North Carolina St.	3:49.75	Charlotte Invitational 2019	Apr 12, 2019
+134	Becker, Robert	FR-1	Stony Brook	3:49.78	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+135	Holmes, Derek	SO-2	UMass Lowell	3:49.79	Bryan Clay Invitational	Apr 17, 2019
+136	Cook, Brian	SR-4	Fordham	3:49.85	2019 Larry Ellis Invitational	Apr 20, 2019
+137	Glick, Drew	JR-3	Pittsburgh	3:49.89	ACC Championships	May 9, 2019
+138	Dillon, Marshall	SO-2	Florida	3:49.92	UF Tom Jones Memorial	Apr 26, 2019
+139	Dee, Jamie	FR-1	Iona	3:49.94	Sam Howell Invitational	Apr 6, 2019
+140	Las Heras, Aaron	FR-1	Wake Forest	3:49.97	Raleigh Relays	Mar 29, 2019
+141	Petruno, John	FR-1	Michigan State	3:50.00	Big Ten Championships	May 10, 2019
+142	Mazzei, Daniel	SO-2	Army West Point	3:50.04	Army West Point Twilight	May 9, 2019
+143	Griffith, Kyle	SO-2	Purdue	3:50.05	Drake Relays presented by Hy-Vee	Apr 24, 2019
+144	Shahbaz, Jahanzib	JR-3	VMI	3:50.07	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+145	Kibet, Evans	JR-3	Siena	3:50.16	Bison Outdoor Classic	Apr 13, 2019
+146	Varghese, Ben	SO-2	East Tenn. St.	3:50.19	Tennessee Relays	Apr 11, 2019
+147	O'Gailin, Oisin	JR-3	Tennessee-Martin	3:50.20	OVC Championship	May 9, 2019
+148	Ahrenholz, Sam	SR-4	Florida	3:50.24	Florida Relays	Mar 28, 2019
+149	Bomkamp, Matt	JR-3	Charlotte	3:50.26	Raleigh Relays	Mar 29, 2019
+150	Foos, Caden	SR-4	Miss State	3:50.27	Raleigh Relays	Mar 29, 2019
+151	Burger, Hannes	FR-1	UL-Lafayette	3:50.30	Florida Relays	Mar 28, 2019
+151	Dau, Tyler	SO-2	Florida State	3:50.30	UF Tom Jones Memorial	Apr 26, 2019
+153	Benner, John	JR-3	Vermont	3:50.31	Bryan Clay Invitational	Apr 17, 2019
+154	Scarr, Matthew	SO-2	East Tenn. St.	3:50.33	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+155	Epps, Ares	FR-1	North Carolina St.	3:50.35	Raleigh Relays	Mar 29, 2019
+156	Shanklin, Ian	FR-1	North Carolina St.	3:50.40	Charlotte Invitational 2019	Apr 12, 2019
+157	Ghali, Melika	SR-4	Eastern Michigan	3:50.43	Raleigh Relays	Mar 29, 2019
+158	Bailey, Brent	FR-1	Wake Forest	3:50.45	Charlotte Invitational 2019	Apr 12, 2019
+159	Migliozzi, Marc	SO-2	Akron	3:50.54	Bryan Clay Invitational	Apr 17, 2019
+160	Harding, Isaac	JR-3	Michigan	3:50.56	Len Paddock Open	May 3, 2019
+161	Barrett, Ben	JR-3	North Carolina St.	3:50.57	Charlotte Invitational 2019	Apr 12, 2019
+162	Buscaglia, Ryan	FR-1	Virginia	3:50.58	Virginia Grand Prix	Apr 26, 2019
+163	Cash, Ryan	SR-4	Indiana State	3:50.61	Crimson Tide Invitational	Apr 11, 2019
+164	Abascal, Samuel	JR-3	Eastern Kentucky	3:50.62	OVC Championship	May 9, 2019
+165	Wilson, Jeryck	SO-2	Charleston Southern	3:50.63	Charlotte Invitational 2019	Apr 12, 2019
+166	Medrano, Akis	SR-4	Indiana State	3:50.65	2019 Billy Hayes Invitational	May 3, 2019
+167	Laird, Will	SO-2	Yale	3:50.71	Army West Point Twilight	May 9, 2019
+168	Pectol, Wes	SR-4	East Tenn. St.	3:50.86	Tennessee Relays	Apr 11, 2019
+169	Resor, Mitch	JR-3	North Carolina	3:50.94	ACC Championships	May 9, 2019
+170	Baranoski, Taylor	SO-2	UMBC	3:50.97	2019 Larry Ellis Invitational	Apr 20, 2019
+170	Chemadi, Kigen	JR-3	Mid. Tenn. State	3:50.97	Tennessee Relays	Apr 11, 2019
+172	Nick, Golbiowski	SR-4	North Carolina	3:50.98	Virginia Grand Prix	Apr 26, 2019
+173	Israel, Zach	JR-3	Lipscomb	3:51.00	Tiger Track Classic 2019	Apr 5, 2019
+174	Holmes, Jacob	FR-1	Florida State	3:51.02	FSU Relays (College)	Mar 22, 2019
+175	Carrington, Jordan	SR-4	Morehead State	3:51.09	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+176	Coppi, Mason	JR-3	Furman	3:51.10	Tennessee Relays	Apr 11, 2019
+176	Miller, Nick	FR-1	Ohio State	3:51.10	Jesse Owens Classic - The Ohio State University	Apr 26, 2019
+176	Poynter, Mitchell	JR-3	Penn	3:51.10	Ivy League Outdoor Track & Field Championships	May 4, 2019
+176	Queyrou, Leo	SO-2	North Florida	3:51.10	UF Tom Jones Memorial	Apr 26, 2019
+180	Bennett, Aaron	FR-1	Indiana	3:51.12	Florida Relays	Mar 28, 2019
+180	Collins, Braeden	SO-2	Georgia Tech	3:51.12	FSU Relays (College)	Mar 22, 2019
+182	Scrape, Matthew	FR-1	Syracuse	3:51.16	Bison Outdoor Classic	Apr 13, 2019
+183	Waters, Kellen	FR-1	Rhode Island	3:51.17	New England Outdoor Championship - NEICAAA	May 10, 2019
+184	Sandusky, Alec	JR-3	Northern Kentucky	3:51.18	Oliver Nikoloff Invitational	Apr 6, 2019
+185	Neumaier, Steve	JR-3	Cornell	3:51.21	2019 Larry Ellis Invitational	Apr 20, 2019
+185	Pittman, Frank	SO-2	Georgia Tech	3:51.21	Florida Relays	Mar 28, 2019
+187	Pschunder, Nick	JR-3	Rutgers	3:51.23	Big Ten Championships	May 10, 2019
+188	Costa, Sam	JR-3	Georgia Tech	3:51.24	Georgia Tech Invitational (College)	Apr 19, 2019
+189	Kosgei, Albert	JR-3	Louisville	3:51.25	Louisville Invitational	Apr 12, 2019
+190	DiLaurenzio, Louis	FR-1	Monmouth	3:51.27	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+190	Daly, Cameron	JR-3	Brown	3:51.27(1)	Ocean State Invitational	Apr 12, 2019
+192	Domoney, Jaymee	SO-2	Charleston Southern	3:51.28	Charlotte Invitational 2019	Apr 12, 2019
+193	Hill, Billy	SO-2	Rutgers	3:51.30	Mets Outdoor Track and Field Championship	Apr 12, 2019
+194	Rotich, Emmanuel	SR-4	Tulane	3:51.31	Southern Miss Open	Apr 27, 2019
+195	Peterson, Luke	JR-3	North Carolina	3:51.32	Raleigh Relays	Mar 29, 2019
+196	Baldwin, Tanis	JR-3	North Carolina St.	3:51.34	Charlotte Invitational 2019	Apr 12, 2019
+197	Arredondo, Paul	SO-2	Charlotte	3:51.38	Charlotte Invitational 2019	Apr 12, 2019
+198	Johnson, Roc	SR-4	Cornell	3:51.39	Ivy League Outdoor Track & Field Championships	May 4, 2019
+199	Thomas, Matthew	JR-3	Kentucky	3:51.41	Tennessee Relays	Apr 11, 2019
+200	Dillon, Carter	FR-1	Duke	3:51.46	ACC Championships	May 9, 2019
+201	Potgieter, Warno	JR-3	South Alabama	3:51.54	South Alabama Jaguar Opener	Mar 15, 2019
+202	Conroy, Seth	JR-3	Miami (Ohio)	3:51.58	2019 Billy Hayes Invitational	May 3, 2019
+202	McGonnigle, Michael	SR-4	Connecticut	3:51.58	2019 Larry Ellis Invitational	Apr 20, 2019
+204	Bouthillette, Matthew	SO-2	Georgetown	3:51.63	Sam Howell Invitational	Apr 6, 2019
+205	Daly, William	JR-3	Penn	3:51.69	Sam Howell Invitational	Apr 6, 2019
+206	Bowers, Sam	FR-1	Georgia	3:51.70	Torrin Lawrence Memorial	Apr 26, 2019
+206	El-Sandali, Ehab	SO-2	Iona	3:51.70	Mets Outdoor Track and Field Championship	Apr 12, 2019
+208	Fusco, Greg	FR-1	Cornell	3:51.71	2019 Pomona-Pitzer Invitational (College/Univ)	Apr 6, 2019
+209	Crilly, Collin	SR-4	St. Joseph's (Pa.)	3:51.73	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+210	Gardiner, Tom	FR-1	Xavier (Ohio)	3:51.74	Oliver Nikoloff Invitational	Apr 6, 2019
+211	Szalay, Gabriel	FR-1	Kentucky	3:51.79	Tennessee Relays	Apr 11, 2019
+212	Chelanga, Alfred	SR-4	Alabama	3:51.93	Crimson Tide Invitational	Apr 11, 2019
+212	Schaffer, Dan	JR-3	Binghamton	3:51.93	Virginia Challenge	Apr 19, 2019
+214	Kemboi, Onesmus	SO-2	South Alabama	3:52.00	South Alabama Jaguar Opener	Mar 15, 2019
+215	Ahmed, Maazin	FR-1	Georgetown	3:52.04	George Mason Spring Invitational	Apr 13, 2019
+215	Whitfield, David	SO-2	Virginia Tech	3:52.04	Raleigh Relays	Mar 29, 2019
+217	Carey, Noah	SO-2	Penn	3:52.05	Sam Howell Invitational	Apr 6, 2019
+218	Viveiros, Matthew	SR-4	Memphis	3:52.19	Crimson Tide Invitational	Apr 11, 2019
+219	Schyns, Remi	FR-1	Eastern Kentucky	3:52.23	OVC Championship	May 9, 2019
+220	Karls, Michael	SR-4	Navy	3:52.24	George Mason Spring Invitational	Apr 13, 2019
+221	Van Scoter, Jack	SO-2	Georgetown	3:52.31	Sam Howell Invitational	Apr 6, 2019
+222	Tam, Alex	FR-1	Miami (Ohio)	3:52.34	2019 Billy Hayes Invitational	May 3, 2019
+223	Horton, Reed	SR-4	Dartmouth	3:52.35	North Florida Spring Break Invitational	Mar 21, 2019
+224	Hoerner, Brett	SR-4	New Hampshire	3:52.36	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+225	Romeyn, Winter	JR-3	Michigan State	3:52.39	Raleigh Relays	Mar 29, 2019
+226	Addison, Evan	FR-1	Pittsburgh	3:52.44	Bison Outdoor Classic	Apr 13, 2019
+227	Warren, Trevor	FR-1	Kentucky	3:52.46	Drake Relays presented by Hy-Vee	Apr 24, 2019
+228	Santoyo, Robert	JR-3	Army West Point	3:52.48	UC Irvine Spring Break Collegiate Classic	Mar 15, 2019
+229	Foley, Trevor	FR-1	Florida	3:52.53	LSU Alumni Gold	Apr 20, 2019
+230	Sanchez-Pinto, Julien	SR-4	Memphis	3:52.55	Memphis Tiger invitational	Apr 26, 2019
+231	Korczynski, Alexander	FR-1	Northeastern	3:52.57(1)	Ocean State Invitational	Apr 12, 2019
+232	Besselink, Jonathan	JR-3	Wagner	3:52.59	2019 Colonial Relays	Apr 4, 2019
+233	Leslie, Cooper	JR-3	William and Mary	3:52.71	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+233	Schneck, Calvin	JR-3	Lafayette	3:52.71	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+235	Kipkoech, Lawrence	SR-4	Campbell	3:52.73	Big South Outdoor Track and Field Championships	May 8, 2019
+235	Tell, Riley	FR-1	Iona	3:52.73	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+237	Miley, Alex	SO-2	Duke	3:52.75	Raleigh Relays	Mar 29, 2019
+237	Swenson, Zach	SR-4	Villanova	3:52.75	Sam Howell Invitational	Apr 6, 2019
+239	Finnigan, Benjamin	SR-4	Mount St. Mary's	3:52.76	Bison Outdoor Classic	Apr 13, 2019
+239	Mosito, Lebo	JR-3	Mid. Tenn. State	3:52.76	Tennessee Relays	Apr 11, 2019
+241	Moffett, Vann	JR-3	Stony Brook	3:52.80	2019 America East Outdoor Championships	May 4, 2019
+242	Rono, Brian	FR-1	Mid. Tenn. State	3:52.81	Tennessee Relays	Apr 11, 2019
+243	Landowne, Will	FR-1	Michigan	3:52.89	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+244	Cragin, James	FR-1	Georgia Tech	3:52.90	Tiger Track Classic 2019	Apr 5, 2019
+245	Sullivan, Sean	JR-3	Fordham	3:52.99	Mets Outdoor Track and Field Championship	Apr 12, 2019
+246	Murray, Kevin	JR-3	Navy	3:53.05	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+247	Liddell, Christian	JR-3	Georgetown	3:53.13	2019 Larry Ellis Invitational	Apr 20, 2019
+248	Galvin, Danny	JR-3	Iona	3:53.15	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+249	Kedir, Ibrahim	FR-1	La Salle	3:53.16	George Mason Spring Invitational	Apr 13, 2019
+250	Wilkie, Ryan	SR-4	Michigan	3:53.22	Cardinal Classic	Apr 19, 2019
+251	Akright, Andrew	SO-2	Charleston Southern	3:53.23	Florida Relays	Mar 28, 2019
+251	Deal, Nick	SO-2	Florida	3:53.23	LSU Alumni Gold	Apr 20, 2019
+253	Kennedy , Chase	SO-2	Kennesaw State	3:53.24	Al Schmidt Bulldog Relays Invite	Mar 22, 2019
+254	Atkins, Leon	JR-3	Buffalo	3:53.28	Bison Outdoor Classic	Apr 13, 2019
+255	Baker, Brian	FR-1	Virginia Tech	3:53.36	Duke Invitational	Apr 19, 2019
+256	Cannon, Colin	SO-2	George Mason	3:53.39	George Mason Spring Invitational	Apr 13, 2019
+256	Maloy, Harrison	JR-3	UMass Lowell	3:53.39	Bryan Clay Invitational	Apr 17, 2019
+258	Kendell, Ben	SR-4	Detroit Mercy	3:53.40(1)	2019 Oakland vs Detroit	Apr 6, 2019
+259	Hibinger, Kyle		Bowling Green	3:53.43	Raleigh Relays	Mar 29, 2019
+259	Nelsen, David	FR-1	Navy	3:53.43	George Mason Spring Invitational	Apr 13, 2019
+261	Kilian, Cale	SO-2	Indiana State	3:53.46	Drake Relays presented by Hy-Vee	Apr 24, 2019
+262	Wise, Adam	FR-1	LSU	3:53.47	LSU Alumni Gold	Apr 20, 2019
+263	Kujdych, Rusty	FR-1	Georgetown	3:53.49	George Mason Spring Invitational	Apr 13, 2019
+264	Ollar, Roman	JR-3	Army West Point	3:53.52	UC Irvine Spring Break Collegiate Classic	Mar 15, 2019
+265	Lonsdale, Jake	SO-2	George Mason	3:53.54	George Mason Spring Invitational	Apr 13, 2019
+266	Siewe Yanga, Thierry	SO-2	Virginia Tech	3:53.56	Raleigh Relays	Mar 29, 2019
+267	Briggs, Ashwin	FR-1	Navy	3:53.57	Patriot League Outdoor Track & Field Championships	May 3, 2019
+268	Coston, Eric	SO-2	LSU	3:53.63	LSU Battle on the Bayou	Apr 6, 2019
+268	Flavin, JP	JR-3	North Carolina St.	3:53.63	Charlotte Invitational 2019	Apr 12, 2019
+270	Griffen, Will	SO-2	Virginia Tech	3:53.65	Tennessee Relays	Apr 11, 2019
+270	Seyoum, Fitsum	SO-2	Virginia Tech	3:53.65	Tennessee Relays	Apr 11, 2019
+272	Jones, Stephen	JR-3	Miss State	3:53.68	Crimson Tide Invitational	Apr 11, 2019
+273	Phillips, Brandon	SR-4	Cornell	3:53.69	2019 Pomona-Pitzer Invitational (College/Univ)	Apr 6, 2019
+274	Plowman, Matt	SR-4	Michigan	3:53.78	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+275	McDonough, Tommy	SO-2	Auburn	3:53.80	Tiger Track Classic 2019	Apr 5, 2019
+275	Padhal, Ruach	SO-2	Georgetown	3:53.80	Sam Howell Invitational	Apr 6, 2019
+277	Bason, Tim	SO-2	North Carolina St.	3:53.88	Raleigh Relays	Mar 29, 2019
+278	Pulimood, Nikhil	SR-4	Duke	3:53.89	Tennessee Relays	Apr 11, 2019
+278	Watts, Michael	SR-4	Stony Brook	3:53.89	2019 America East Outdoor Championships	May 4, 2019
+280	Williams, Joshua	FR-1	Georgia Tech	3:53.90	Torrin Lawrence Memorial	Apr 26, 2019
+281	Meade, Luke	JR-3	Furman	3:54.02	8th Annual Terrier Relays	Mar 30, 2019
+282	Higgins, Josh	SO-2	Pittsburgh	3:54.06	Mountaineer Open	May 4, 2019
+282	Nibbelink, Benjamin	FR-1	Virginia Tech	3:54.06	Tennessee Relays	Apr 11, 2019
+284	Bailey, Owen	SR-4	Samford	3:54.07	Raleigh Relays	Mar 29, 2019
+284	DeLuca, Giacomo	FR-1	Miss State	3:54.07	Southern Miss Open	Apr 27, 2019
+284	Griffith, Brian	SO-2	Notre Dame	3:54.07	Virginia Challenge	Apr 19, 2019
+287	VanEpps, Justin	SR-4	Buffalo	3:54.10	Bison Outdoor Classic	Apr 13, 2019
+288	Coe, Tom	JR-3	Tulane	3:54.15	Southern Miss Open	Apr 27, 2019
+288	Rafferty, Ryan	JR-3	Monmouth	3:54.15	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+288	Sullivan, Sean	JR-3	Boston College	3:54.15	North Florida Spring Break Invitational	Mar 21, 2019
+291	McLeod, Jacob	FR-1	Belmont	3:54.16	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+292	Feffer, Nick	SO-2	Dartmouth	3:54.17	Ivy League Outdoor Track & Field Championships	May 4, 2019
+293	McCauley, Griffin	FR-1	Brown	3:54.22	Ivy League Outdoor Track & Field Championships	May 4, 2019
+294	Albert, Aaron	SR-4	New Orleans	3:54.23	Al Schmidt Bulldog Relays Invite	Mar 22, 2019
+295	Wilkes, James	SO-2	New Hampshire	3:54.24	2019 America East Outdoor Championships	May 4, 2019
+296	Alfond, Christopher	JR-3	UMass Lowell	3:54.26	Beach Invitational	Apr 19, 2019
+297	Barnett, Chase	SR-4	Michigan	3:54.30	Big Ten Championships	May 10, 2019
+298	Kent, Andrew	SO-2	Georgia Tech	3:54.32	Georgia Tech Invitational (College)	Apr 19, 2019
+299	Perez, Julian	SO-2	Navy	3:54.34	George Mason Spring Invitational	Apr 13, 2019
+300	Knee-Robinson, Samuel	SR-4	Duquesne	3:54.35	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+301	Camerieri, Anthony	FR-1	Miami (Ohio)	3:54.38	Raleigh Relays	Mar 29, 2019
+302	Zemp, Jack	JR-3	Wofford	3:54.39	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+303	Anzano, Drake	SO-2	Princeton	3:54.42	2019 Larry Ellis Invitational	Apr 20, 2019
+303	Fish, John	SO-2	Harvard	3:54.42	Ivy League Outdoor Track & Field Championships	May 4, 2019
+303	McGill, Brendan	JR-3	Bucknell	3:54.42	Bison Outdoor Classic	Apr 13, 2019
+306	Doan, Nick	JR-3	Liberty	3:54.43	Gamecock Invitational Outdoor	Apr 13, 2019
+307	Burke, Kyle	FR-1	Lehigh	3:54.47	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+308	Bernal, Daniel	FR-1	Furman	3:54.50	Tennessee Relays	Apr 11, 2019
+309	Benson, Khayvonn	JR-3	East Tenn. St.	3:54.53	Raleigh Relays	Mar 29, 2019
+310	Wyatt, Tate	FR-1	Memphis	3:54.54	Crimson Tide Invitational	Apr 11, 2019
+311	Marshall, Tyler	SO-2	Vermont	3:54.55	Bryan Clay Invitational	Apr 17, 2019
+312	Shore, Noah	SO-2	Charlotte	3:54.57	Charlotte 49er Classic	Mar 14, 2019
+313	Delvecchio, Andrew	FR-1	Notre Dame	3:54.60	Jesse Owens Classic - The Ohio State University	Apr 26, 2019
+314	Zepf, Tim	SO-2	Dartmouth	3:54.62	North Florida Spring Break Invitational	Mar 21, 2019
+315	Boogades, Nick	SO-2	Tennessee	3:54.63	Stanford Invitational	Mar 29, 2019
+315	Hoffman, Eric	SO-2	IUPUI	3:54.63	Oliver Nikoloff Invitational	Apr 6, 2019
+317	Towne, Mitchell	JR-3	Miami (Ohio)	3:54.67	Raleigh Relays	Mar 29, 2019
+318	Sultanov, Sem	JR-3	North Florida	3:54.69	North Florida Spring Break Invitational	Mar 21, 2019
+319	Sponaugle, Will	SR-4	St. Joseph's (Pa.)	3:54.72	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+320	Hare, William	FR-1	Penn	3:54.73	Rider Invitational 2019	Apr 13, 2019
+321	Wallace, Luke	SO-2	Michigan	3:54.74	Len Paddock Open	May 3, 2019
+322	Clay, Eric	SO-2	Northeastern	3:54.76	University of MA Minuteman Invitational	Apr 6, 2019
+322	Mussie, Simeon	FR-1	Virginia Tech	3:54.76	Tennessee Relays	Apr 11, 2019
+324	Brackman, Kyle	JR-3	Connecticut	3:54.78	UCONN Northeast Challenge	Apr 13, 2019
+325	Pender, Clay	FR-1	Georgia	3:54.86	Spec Towns Invitational	Apr 5, 2019
+326	Kandie, Felix	SO-2	Liberty	3:54.87	Gamecock Invitational Outdoor	Apr 13, 2019
+327	Bollam-Godbott, Andre	SO-2	Akron	3:54.89	Beach Invitational	Apr 19, 2019
+328	Mocarski, Alex	FR-1	Cornell	3:54.90	2019 Larry Ellis Invitational	Apr 20, 2019
+329	Day, Carter	SR-4	George Washington	3:54.92	George Mason Spring Invitational	Apr 13, 2019
+330	Garmon, Peter	SR-4	Connecticut	3:54.94	Spec Towns Invitational	Apr 5, 2019
+331	Belay, Danniel	SR-4	Rider	3:54.95	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+331	Berryhill, Carlin	SO-2	Bethune-Cookman	3:54.95	UNF Invitational	Apr 5, 2019
+331	Jubran, Nathan	FR-1	North Florida	3:54.95	North Florida Spring Break Invitational	Mar 21, 2019
+334	Lanternier, Samuel	JR-3	New Hampshire	3:54.97	2019 America East Outdoor Championships	May 4, 2019
+335	Mazzanti, Luca	SO-2	Army West Point	3:54.99	UC Irvine Spring Break Collegiate Classic	Mar 15, 2019
+336	Kimtai, Regan	FR-1	N. Carolina A&T	3:55.00	MEAC Outdoor Track & Field Championships	May 2, 2019
+337	Millar, Bryce	JR-3	Indiana	3:55.02	Tennessee Relays	Apr 11, 2019
+338	Caulfield, Neville	JR-3	Vermont	3:55.03	Bryan Clay Invitational	Apr 17, 2019
+339	Carroll, Austin	FR-1	Charlotte	3:55.05	Charlotte Invitational 2019	Apr 12, 2019
+340	Austell, Clay	JR-3	Alabama	3:55.06	Bryan Clay Invitational	Apr 17, 2019
+341	Claiborne, Elijah	FR-1	Penn State	3:55.11	Team Challenge	Apr 20, 2019
+342	Flanagan, Brian	SO-2	McNeese State	3:55.12	37th Annual Victor Lopez Classic	Mar 21, 2019
+343	Conder, Christian	SO-2	North Florida	3:55.14	UNF Invitational	Apr 5, 2019
+344	Lamberth, Chance	JR-3	Northeastern	3:55.17	Raleigh Relays	Mar 29, 2019
+345	Hubaker, Christian	SO-2	Michigan	3:55.18	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+346	Bittrich, William	FR-1	Bryant	3:55.19	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+347	Bogucki, Colton	FR-1	Virginia	3:55.23	William & Mary Triangular	Mar 16, 2019
+348	Steinhoff, George	FR-1	St. Joseph's (Pa.)	3:55.25	2019 Larry Ellis Invitational	Apr 20, 2019
+349	Kirwa, Azaria	SR-4	Liberty	3:55.26	CSU Spring Break Invitational	Mar 16, 2019
+349	Reiser, Quintin	SR-4	Miss State	3:55.26	Southern Miss Open	Apr 27, 2019
+349	Southard, Andrew	SO-2	Coastal Carolina	3:55.26	Raleigh Relays	Mar 29, 2019
+352	Tate, Lewis	FR-1	Michigan	3:55.32	Len Paddock Open	May 3, 2019
+353	Burns, Drew	SR-4	Marist	3:55.39	Bison Outdoor Classic	Apr 13, 2019
+353	Convey, Kurt	SR-4	Penn	3:55.39	2019 Larry Ellis Invitational	Apr 20, 2019
+355	Simmons, Derrick	FR-1	Michigan	3:55.40	Len Paddock Open	May 3, 2019
+356	Long, Tom	JR-3	Rider	3:55.43	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+357	Dolan, Jason	FR-1	Bryant	3:55.46	Duke Invitational	Apr 19, 2019
+357	Hauver, Grant	JR-3	UMass Lowell	3:55.46	2019 Colonial Relays	Apr 4, 2019
+359	Pina Cardona, Siro	SO-2	High Point	3:55.48	Aggie Invitational	Apr 12, 2019
+360	Speer, Ryan	SR-4	Lipscomb	3:55.49	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+361	Cornwell, Alex	JR-3	Charlotte	3:55.50	Charlotte 49er Classic	Mar 14, 2019
+362	Holt, Niall	SR-4	McNeese State	3:55.51	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+363	Karamanolis, Marcus	SR-4	Providence	3:55.53(1)	Ocean State Invitational	Apr 12, 2019
+364	Wolk, Nick	JR-3	Pittsburgh	3:55.56	Yellow Jacket Invitational (College)	Mar 15, 2019
+365	Scarpill, Matt	SO-2	St. Joseph's (Pa.)	3:55.58	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+366	Kahler, Theo	JR-3	Winthrop	3:55.60	Charlotte Invitational 2019	Apr 12, 2019
+366	Rogers, Jack	SO-2	Auburn	3:55.60	Torrin Lawrence Memorial	Apr 26, 2019
+368	Gonzales, Christian	JR-3	Belmont	3:55.62	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+368	Williamson, Marshall	FR-1	North Carolina	3:55.62	Raleigh Relays	Mar 29, 2019
+370	Spradling, Lake	SO-2	Miss State	3:55.63	Raleigh Relays	Mar 29, 2019
+371	Asfaw, Rohann	FR-1	Virginia	3:55.65	Virginia Challenge	Apr 19, 2019
+371	Ragone, Charlie	JR-3	Albany	3:55.65	2019 America East Outdoor Championships	May 4, 2019
+373	Law, Brayden	JR-3	Michigan State	3:55.75	Big Ten Championships	May 10, 2019
+374	Tiernan, Jack	SO-2	Wake Forest	3:55.76	Charlotte 49er Classic	Mar 14, 2019
+375	Bedard, Joshua	SO-2	Connecticut	3:55.81	Spec Towns Invitational	Apr 5, 2019
+376	Spitzer, Joe	FR-1	Liberty	3:55.87	Raleigh Relays	Mar 29, 2019
+377	Schaub, Noah	SR-4	Bowling Green	3:55.89	RedHawk Invitational	Apr 20, 2019
+378	Chase, Owen	FR-1	Bucknell	3:55.95	Bison Outdoor Classic	Apr 13, 2019
+379	Pratt, Micah	FR-1	William and Mary	3:55.96	2019 Dan Stimson Memorial Meet	Mar 23, 2019
+380	Strzelinski, Christopher	SO-2	Fordham	3:55.97	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+381	Gault, Clint	FR-1	Virginia Tech	3:56.07	Raleigh Relays	Mar 29, 2019
+381	Jaciw-Zurakowsky, Luke	SO-2	La Salle	3:56.07	2019 Fred Hardy Invitational	Mar 29, 2019
+383	Kipruto, Meshack	JR-3	Campbell	3:56.12	Gamecock Invitational Outdoor	Apr 13, 2019
+384	Cosgrove, Daniel	FR-1	UMass Lowell	3:56.13	2019 Colonial Relays	Apr 4, 2019
+384	Flannery, John	SR-4	Syracuse	3:56.13	ACC Championships	May 9, 2019
+386	Dorflinger, Drew	JR-3	Bucknell	3:56.15	2019 Colonial Relays	Apr 4, 2019
+387	Sullivan, Tom	JR-3	Duke	3:56.18	Tennessee Relays	Apr 11, 2019
+388	Cordonnier, Jack	FR-1	Cincinnati	3:56.22	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+389	Jones, Dorian	SR-4	USC Upstate	3:56.24	Don McGarey Invitational Track and Field Invitational	Apr 26, 2019
+389	McBrien, Matt	JR-3	Georgia Tech	3:56.24	Georgia Tech Invitational (College)	Apr 19, 2019
+389	Russ, Ian	FR-1	Providence	3:56.24	Raleigh Relays	Mar 29, 2019
+392	Ferro, Danny	FR-1	South Florida	3:56.25	Florida Relays	Mar 28, 2019
+393	Malanaphy, Conor	FR-1	Stony Brook	3:56.26	2019 America East Outdoor Championships	May 4, 2019
+394	Keller, Brian	SO-2	Northeastern	3:56.27	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+395	Arbeiter, Thomas	SO-2	Providence	3:56.30	BIG EAST Outdoor Track & Field Championships	May 10, 2019
+395	Wyatt, Zachary	FR-1	Memphis	3:56.30	The American Outdoor Track & Field Championships	May 10, 2019
+397	Jones, Evan	SO-2	UNCW	3:56.31	CAA Outdoor Track and Field Championships	May 3, 2019
+398	Buck, Owen	JR-3	Virginia Tech	3:56.32	Raleigh Relays	Mar 29, 2019
+399	Hill, Jared	FR-1	Michigan	3:56.35	Len Paddock Open	May 3, 2019
+399	Smyth, Aiden	FR-1	Stony Brook	3:56.35	2019 America East Outdoor Championships	May 4, 2019
+401	Moerk, Michael	FR-1	Wake Forest	3:56.37	Charlotte Invitational 2019	Apr 12, 2019
+402	Osika, Tommy	SR-4	Michigan State	3:56.39	53rd Annual Hillsdale "GINA" Relays	Apr 25, 2019
+402	Pieper, John	FR-1	Purdue	3:56.39	Jim Click Shootout	Apr 6, 2019
+402	Wallace, Noah	SO-2	Army West Point	3:56.39	Army West Point Twilight	May 9, 2019
+405	Gulizio, Scott	SR-4	Bucknell	3:56.40	2019 Colonial Relays	Apr 4, 2019
+406	Fiore, Luciano	JR-3	Siena	3:56.45	Bison Outdoor Classic	Apr 13, 2019
+407	Goldman, Clayton	JR-3	Notre Dame	3:56.46	Louisville Invitational	Apr 12, 2019
+408	Meehan, Connor	SO-2	Xavier (Ohio)	3:56.47	Ball State Challenge	Apr 12, 2019
+409	Leeser, Tyler	FR-1	Virginia Tech	3:56.50	Raleigh Relays	Mar 29, 2019
+410	Aubry, Marcel	FR-1	Boston University	3:56.53	Raleigh Relays	Mar 29, 2019
+411	Bowles, Christian	SR-4	Georgia Tech	3:56.56	Georgia Tech Invitational (College)	Apr 19, 2019
+412	Pettersen, Magnus	JR-3	Florida	3:56.58	Florida Relays	Mar 28, 2019
+413	Fee, Jonathan	SR-4	Miami (Ohio)	3:56.65	Oliver Nikoloff Invitational	Apr 6, 2019
+414	Pearson, Max	FR-1	Davidson	3:56.67	Charlotte Invitational 2019	Apr 12, 2019
+415	Weber, Isaac	FR-1	Dartmouth	3:56.68	New England Outdoor Championship - NEICAAA	May 10, 2019
+416	Moehringer, James	SO-2	Marist	3:56.77	Bison Outdoor Classic	Apr 13, 2019
+417	Dolan, Tim	FR-1	Penn	3:56.80	Sam Howell Invitational	Apr 6, 2019
+417	O'Leary, Jack	SO-2	Iona	3:56.80	Mets Outdoor Track and Field Championship	Apr 12, 2019
+419	Renken, Ryan	FR-1	Penn	3:56.81	Rider Invitational 2019	Apr 13, 2019
+420	McIntire, Bailey	SO-2	Purdue	3:56.83	Louisville Invitational	Apr 12, 2019
+421	Garriques, Brennan	SR-4	Troy	3:56.87	War Eagle Invitational 2019	Apr 19, 2019
+422	Grossman, Matt	JR-3	Princeton	3:56.89	2019 Larry Ellis Invitational	Apr 20, 2019
+423	Too, Lelei	SO-2	Norfolk State	3:56.91	Charlotte Invitational 2019	Apr 12, 2019
+424	Otte, Clark	SO-2	Butler	3:56.92	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+424	Wisner, Matt	JR-3	Duke	3:56.92	Battle of the Blues	Apr 6, 2019
+426	Monroe, Harry	FR-1	Virginia	3:56.93	Virginia v. Maryland, Pitt, West Virginia	Apr 6, 2019
+427	Garbier, James	SR-4	Northeastern	3:56.95	CAA Outdoor Track and Field Championships	May 3, 2019
+428	Famiglietti, Michael	SR-4	UMass Amherst	3:56.98	University of MA Minuteman Invitational	Apr 6, 2019
+429	Mader, Jack	SR-4	Valparaiso	3:57.03	Gibson Invitational	Apr 6, 2019
+430	Troxell, Dedrick	FR-1	Western Kentucky	3:57.05	Hilltopper Relays 2019	Apr 5, 2019
+431	Brownlow, Ty	FR-1	Georgetown	3:57.06	George Mason Spring Invitational	Apr 13, 2019
+431	Halpern, Mitch	JR-3	Binghamton	3:57.06	2019 Colonial Relays	Apr 4, 2019
+431	Jutras, Hunter	SO-2	George Mason	3:57.06	George Mason Spring Invitational	Apr 13, 2019
+434	Barton, Ryan	FR-1	Penn State	3:57.07	Bison Outdoor Classic	Apr 13, 2019
+434	Nobles, Tom	SR-4	Charlotte	3:57.07	Charlotte 49er Classic	Mar 14, 2019
+436	Wallis, Archie	FR-1	Wake Forest	3:57.09	Charlotte 49er Classic	Mar 14, 2019
+437	Vietzen, Matthew	FR-1	Notre Dame	3:57.10	Louisville Invitational	Apr 12, 2019
+438	Mendenhall , Dakota	FR-1	Appalachian State	3:57.17	Sun Belt Outdoor Track and Field Championships	May 10, 2019
+438	Wells, Russell	SR-4	Boston College	3:57.17	Raleigh Relays	Mar 29, 2019
+440	Saveliev, Alexander	JR-3	New Hampshire	3:57.22	2019 America East Outdoor Championships	May 4, 2019
+441	Jones, William	SO-2	Maryland	3:57.30	2019 Larry Ellis Invitational	Apr 20, 2019
+442	Gangemi, Jag	SR-4	Georgia Tech	3:57.37	Tiger Track Classic 2019	Apr 5, 2019
+443	Bridger, Matt	FR-1	La Salle	3:57.38	2019 Fred Hardy Invitational	Mar 29, 2019
+444	Oettl, Raphael	FR-1	Davidson	3:57.40	Charlotte Invitational 2019	Apr 12, 2019
+445	Sullivan, Ryan	SR-4	Youngstown St.	3:57.41	Duke Invitational	Apr 19, 2019
+446	Mosmeier, Keifer	FR-1	Cincinnati	3:57.47	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+447	Morton, Sam	SO-2	Dartmouth	3:57.52	New England Outdoor Championship - NEICAAA	May 10, 2019
+448	Smith, Miles	JR-3	UMBC	3:57.56	George Mason Spring Invitational	Apr 13, 2019
+449	Deokar, Viraj	JR-3	Princeton	3:57.57	2019 Larry Ellis Invitational	Apr 20, 2019
+450	Elrod, John	SO-2	Tennessee	3:57.58	Tennessee Relays	Apr 11, 2019
+451	Richardson, Slater	FR-1	Miss State	3:57.59	Southern Miss Open	Apr 27, 2019
+452	Jutras, Dustin	SR-4	George Mason	3:57.61	George Mason Spring Invitational	Apr 13, 2019
+453	Bobbitt, Brady	JR-3	Penn State	3:57.63	Jim Thorpe	May 3, 2019
+454	Parker, Graham	JR-3	UNC-Asheville	3:57.64	Big South Outdoor Track and Field Championships	May 8, 2019
+455	Petela, Luke	JR-3	Vermont	3:57.65	Bryan Clay Invitational	Apr 17, 2019
+456	Laudon, Aksel	FR-1	Boston University	3:57.68	Raleigh Relays	Mar 29, 2019
+457	Hickey, Conner	SR-4	Valparaiso	3:57.75	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+457	Johnston, Tommy	SO-2	Wake Forest	3:57.75	Raleigh Relays	Mar 29, 2019
+459	Amabile, Thomas	JR-3	George Mason	3:57.76	George Mason Spring Invitational	Apr 13, 2019
+460	Fortna, Carrick	JR-3	Rhode Island	3:57.78	2019 Colonial Relays	Apr 4, 2019
+460	Mattingly, Jarrett	JR-3	Morehead State	3:57.78	8th Annual Terrier Relays	Mar 30, 2019
+462	Breene, Aaron	SO-2	Columbia	3:57.79	2019 Colonial Relays	Apr 4, 2019
+463	Siddall, Jackson	FR-1	Eastern Kentucky	3:57.81	Raleigh Relays	Mar 29, 2019
+464	Cohen, Daniel	SO-2	Penn	3:57.85	2019 Larry Ellis Invitational	Apr 20, 2019
+465	Johnson, Jake	JR-3	Albany	3:57.86	2019 America East Outdoor Championships	May 4, 2019
+466	Sheppard, Logan	FR-1	Virginia Tech	3:57.88	Duke Invitational	Apr 19, 2019
+467	Perez, Leonel	JR-3	Tennessee-Martin	3:57.90	Bryan Clay Invitational	Apr 17, 2019
+468	Veloz Bonilla, Ignacio	FR-1	Valparaiso	3:57.93	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+469	Kemp, Marcus	FR-1	Providence	3:58.00	Raleigh Relays	Mar 29, 2019
+470	Arellano, Cesar	FR-1	Bowling Green	3:58.01	RedHawk Invitational	Apr 20, 2019
+470	Barber, Kyle	SR-4	Connecticut	3:58.01	UCONN Northeast Challenge	Apr 13, 2019
+472	Maida, Dan	JR-3	Monmouth	3:58.03	2019 Larry Ellis Invitational	Apr 20, 2019
+473	Coffey, David	JR-3	Miami (Ohio)	3:58.04	Blizzard Buster	Mar 23, 2019
+474	Griffith, Colt	FR-1	Clemson	3:58.08	ACC Championships	May 9, 2019
+475	Fitsum, Hayelom	FR-1	Eastern Michigan	3:58.09	Raleigh Relays	Mar 29, 2019
+475	Maida, Dan	JR-3	Monmouth	3:58.09	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+477	Bentz, Isaac	JR-3	Indiana State	3:58.15	Gibson Invitational	Apr 6, 2019
+478	Kole, Isaac	SO-2	Mount St. Mary's	3:58.16	Northeast Conference Championship	May 4, 2019
+478	Tierney, Ryan	FR-1	Manhattan	3:58.16	2019 Colonial Relays	Apr 4, 2019
+480	Camillieri, Brian	FR-1	Connecticut	3:58.20	North Florida Spring Break Invitational	Mar 21, 2019
+480	O'Driscoll, Steve	FR-1	Vermont	3:58.20	2019 America East Outdoor Championships	May 4, 2019
+482	Davis, Bradley	JR-3	Miami (Ohio)	3:58.21	Blizzard Buster	Mar 23, 2019
+482	Dearie, Ryan	SO-2	Stony Brook	3:58.21	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+484	Reteneller, David	FR-1	Georgia Tech	3:58.23	Torrin Lawrence Memorial	Apr 26, 2019
+484	Stafford, Christian	SR-4	Northeastern	3:58.23	University of MA Minuteman Invitational	Apr 6, 2019
+486	Johnston, Adam	JR-3	Tennessee	3:58.24	Virginia Challenge	Apr 19, 2019
+487	Barthel, Zachary	FR-1	SE Louisiana	3:58.26	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+487	Shaughnessy, Daniel	SO-2	Clemson	3:58.26	Florida Relays	Mar 28, 2019
+489	Stricklen, Nick	SO-2	Akron	3:58.27	Roadrunner Invitational	Mar 21, 2019
+490	Lacey, Blaine	SR-4	George Mason	3:58.29	William & Mary Triangular	Mar 16, 2019
+491	James, Ryan	FR-1	La Salle	3:58.35	Bison Outdoor Classic	Apr 13, 2019
+492	Daly, Jack	SR-4	St. Joseph's (Pa.)	3:58.39	Bison Outdoor Classic	Apr 13, 2019
+493	Choge, Jacob	JR-3	Mid. Tenn. State	3:58.40	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+494	Hawthorne, Anthony	JR-3	La Salle	3:58.41	George Mason Spring Invitational	Apr 13, 2019
+495	Hamilton, Scotti	SO-2	Boston University	3:58.43	Raleigh Relays	Mar 29, 2019
+496	Foster, Caden	FR-1	Army West Point	3:58.44	Army West Point Twilight	May 9, 2019
+497	Routh, Josh	SO-2	East Tenn. St.	3:58.45	Charlotte 49er Classic	Mar 14, 2019
+498	Sullivan, Aidan	SO-2	New Hampshire	3:58.46	2019 UNH Wildcat Invitational	Apr 13, 2019
+499	Coogan, Nathan	SO-2	Rhode Island	3:58.47	2019 Colonial Relays	Apr 4, 2019
+500	Abbott, Jonathan	SR-4	Colgate	3:58.51	Bison Outdoor Classic	Apr 13, 2019

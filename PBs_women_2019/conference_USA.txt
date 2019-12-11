@@ -1,0 +1,76 @@
+1	Koech, Lilian	SR-4	UTEP	4:16.44	Bryan Clay Invitational	Apr 17, 2019
+2	Chepkemei, Eusila	SO-2	Mid. Tenn. State	4:22.80	Raleigh Relays	Mar 29, 2019
+3	Chepkosgei, Carolyne	SO-2	UTEP	4:23.52	Bryan Clay Invitational	Apr 17, 2019
+4	Szpott, Sandra	JR-3	Southern Miss.	4:26.32	Bryan Clay Invitational	Apr 17, 2019
+5	ISELI, Rea	SR-4	North Texas	4:28.43	Bryan Clay Invitational	Apr 17, 2019
+6	Drouin, Emily	SR-4	UAB	4:28.83	Tiger Track Classic 2019	Apr 5, 2019
+7	McGee, Regen	JR-3	Southern Miss.	4:34.63	Tiger Track Classic 2019	Apr 5, 2019
+8	Jebor, Joice	SO-2	Mid. Tenn. State	4:35.79	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+9	McMillon, Savannah	JR-3	Southern Miss.	4:36.52	Southern Miss Open	Apr 27, 2019
+10	Horton, Chandler	FR-1	Charlotte	4:37.49	Charlotte Invitational 2019	Apr 12, 2019
+11	Brown, Taylor	JR-3	Charlotte	4:37.82	East Carolina University Bill Carson Invitational	Apr 5, 2019
+12	Gebarzewska, Monika	JR-3	Southern Miss.	4:37.95	Southern Miss Open	Apr 27, 2019
+13	Helmers, Ryann	FR-1	Rice	4:38.65	37th Annual Victor Lopez Classic	Mar 21, 2019
+14	Akanwogba, Patience	JR-3	Mid. Tenn. State	4:39.07	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+15	Balandran, Alyssa	FR-1	Rice	4:39.71	Conference USA Outdoor Championships	May 9, 2019
+16	Martinez, Serena	JR-3	UAB	4:39.74	Conference USA Outdoor Championships	May 9, 2019
+17	Neal, Mary Claire	SO-2	Rice	4:40.35	37th Annual Victor Lopez Classic	Mar 21, 2019
+18	Gelderblom, Sherilene	JR-3	FIU	4:40.42	Miami Hurricane Alumni Invitational	Apr 12, 2019
+19	Wellman, Elizabeth	SR-4	Florida Atlantic	4:40.70	Florida Relays	Mar 28, 2019
+20	Abbatiello, Bridget	JR-3	Charlotte	4:41.39	Charlotte 49er Classic	Mar 14, 2019
+21	Jonsson, Mikaela	SO-2	Florida Atlantic	4:42.31	Conference USA Outdoor Championships	May 9, 2019
+22	Harto, Theresa	JR-3	Southern Miss.	4:42.80	Southern Miss Invitational	Mar 30, 2019
+23	Schmidt, Aubrey	FR-1	North Texas	4:42.91	Conference USA Outdoor Championships	May 9, 2019
+24	May, Lina	FR-1	Southern Miss.	4:43.27	Southern Miss Invitational	Mar 30, 2019
+25	Boyd, Amber	SO-2	UTSA	4:43.33	Conference USA Outdoor Championships	May 9, 2019
+26	McMillon , Sarah	SO-2	Southern Miss.	4:43.42	Southern Miss Open	Apr 27, 2019
+27	Bablak, Hannah	JR-3	Rice	4:43.50	37th Annual Victor Lopez Classic	Mar 21, 2019
+28	Moon, Cele	JR-3	UAB	4:43.84	Raleigh Relays	Mar 29, 2019
+29	Wosika, Caitlin	FR-1	Rice	4:44.33	J Fred Duckett Twilight Meet	Apr 20, 2019
+30	Koech, Winny	JR-3	UTEP	4:45.31@(1)	UTEP Springtime	Mar 15, 2019
+31	Ungrady, Alyssa	SO-2	Charlotte	4:45.45	Duke Invitational	Apr 19, 2019
+32	Messineo, Ashley	FR-1	Rice	4:45.72	Conference USA Outdoor Championships	May 9, 2019
+33	Gebretsadik, Rahel	JR-3	FIU	4:45.92	Georgia Tech Invitational	Apr 19, 2019
+34	Glover, Sarah	SO-2	Rice	4:46.07	J Fred Duckett Twilight Meet	Apr 20, 2019
+35	Fraleigh, Savannah	SO-2	Charlotte	4:46.19	East Carolina University Bill Carson Invitational	Apr 5, 2019
+36	Gray, Jessica	SR-4	FIU	4:46.49	Miami Hurricane Alumni Invitational	Apr 12, 2019
+37	Nelson, Katie	SR-4	UAB	4:46.59(1)	Samford Alabama Track Challenge 2019	Apr 11, 2019
+38	Jelagat, Julia	JR-3	Mid. Tenn. State	4:47.03	War Eagle Invitational 2019	Apr 19, 2019
+39	ADAMS, Cassidy	SR-4	North Texas	4:47.62	Texas A&M Alumni Muster	Apr 27, 2019
+40	Watson, Ruby	FR-1	Rice	4:47.83	J Fred Duckett Twilight Meet	Apr 20, 2019
+41	Bartoleomeo, Rachel	SR-4	Charlotte	4:49.44	Charlotte Invitational 2019	Apr 12, 2019
+42	Holdbrooks, Emma Kate	JR-3	Southern Miss.	4:49.78	Southern Miss Invitational	Mar 30, 2019
+43	Quijano, Sabrina	SO-2	FIU	4:50.97	UCF Knights Invite	Mar 22, 2019
+44	Garrison, Madelyn	FR-1	Marshall	4:54.01	State Farm Friends of Track and Field Mountaineer Showcase	Apr 26, 2019
+45	Da Silva, Anais	JR-3	FIU	4:54.67	Miami Hurricane Alumni Invitational	Apr 12, 2019
+46	Rodriguez, Rian	JR-3	UTSA	4:55.25	J Fred Duckett Twilight Meet	Apr 20, 2019
+47	Johnson, Britney	FR-1	UAB	4:55.61(1)	Samford Alabama Track Challenge 2019	Apr 11, 2019
+48	Kigen, Rachel	SR-4	Mid. Tenn. State	4:56.47	Yellow Jacket Invitational	Mar 15, 2019
+49	Rovnak, Alina	FR-1	Charlotte	4:58.08	HPU VertKlasse Meeting	Mar 21, 2019
+49	Halow, Stephanie	FR-1	Rice	4:58.08	J Fred Duckett Twilight Meet	Apr 20, 2019
+51	Janicek, Charlette		UTSA	4:58.51	Roadrunner Invitational	Mar 21, 2019
+52	Humphries, Christina	SR-4	Florida Atlantic	4:58.93	Miami Hurricane Alumni Invitational	Apr 12, 2019
+53	Killian, Riley	FR-1	Louisiana Tech	4:58.95	LSU Alumni Gold	Apr 20, 2019
+54	Graff, Morgan	SO-2	Florida Atlantic	5:00.24	UCF Knights Invite	Mar 22, 2019
+55	Mitchell, Nicole	SR-4	Rice	5:00.39	SFA Carl Kight Invitational	Apr 3, 2019
+56	Giovanniello, Megan	SO-2	Florida Atlantic	5:00.40	Embry-Riddle Spike's Classic (collegiate teams)	Mar 29, 2019
+56	Gonzales, Gabby	JR-3	UTSA	5:00.40	Roadrunner Invitational	Mar 21, 2019
+58	Goddard, Natalie	SO-2	Rice	5:00.79	Tom Tellez Invitational	May 3, 2019
+59	Heckman, Savannah	FR-1	Western Kentucky	5:00.88	Hilltopper Relays 2019	Apr 5, 2019
+60	Mihalis, Morgan	SO-2	UAB	5:01.53	South Alabama Jaguar Opener	Mar 15, 2019
+61	Hoppe, Victoria	SR-4	Southern Miss.	5:01.91	Southern Miss Invitational	Mar 30, 2019
+62	Butterfield, Brooke	SO-2	Florida Atlantic	5:02.24	Embry-Riddle Spike's Classic (collegiate teams)	Mar 29, 2019
+63	Macon, Lauren	FR-1	Florida Atlantic	5:02.43	UCF Knights Invite	Mar 22, 2019
+64	Turner, Lauren	FR-1	UAB	5:02.94	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+65	Goddard, Loren	SO-2	Rice	5:05.46	Tom Tellez Invitational	May 3, 2019
+66	Kannapel, Morgan	SO-2	Western Kentucky	5:07.24	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+67	Clark, Sophia	SR-4	Florida Atlantic	5:07.47	UCF Knights Invite	Mar 22, 2019
+68	Evans, Alexandra	FR-1	Marshall	5:10.14	Yellow Jacket Invitational	Mar 15, 2019
+69	McAdams, Sage	SO-2	Rice	5:10.81	Tom Tellez Invitational	May 3, 2019
+70	Long, Alyssa	SO-2	Marshall	5:17.79	Savannah State Twilight	Mar 27, 2019
+71	Martinez, Marissa	FR-1	UTSA	5:18.84	Texas A&M Alumni Muster	Apr 27, 2019
+72	McAlister, Myah	FR-1	Marshall	5:19.52	Charlotte Invitational 2019	Apr 12, 2019
+73	Cook, Adrianna	JR-3	Marshall	5:21.08	Yellow Jacket Invitational	Mar 15, 2019
+74	Roby, Lauren	FR-1	Western Kentucky	5:30.00	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+75	Wingerter, Ashley	SR-4	Louisiana Tech	5:39.81	Louisiana Tech Jim Mize Invitational	Apr 5, 2019
+76	Slavik, Sarah	FR-1	UAB	5:45.27	South Alabama Jaguar Opener	Mar 15, 2019

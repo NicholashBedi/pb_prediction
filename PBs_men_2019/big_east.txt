@@ -1,0 +1,78 @@
+1	Brown, Spencer	JR-3	Georgetown	3:39.94	Bryan Clay Invitational	Apr 17, 2019
+2	Comber, Casey	JR-3	Villanova	3:42.54	Joe Walker Classic	Apr 12, 2019
+3	Makepeace, Euan	JR-3	Butler	3:43.92	2019 Billy Hayes Invitational	May 3, 2019
+4	Wareham, Nicholas	JR-3	Georgetown	3:44.54	Bryan Clay Invitational	Apr 17, 2019
+5	Wetzel, Logan	JR-3	Villanova	3:44.73	Stanford Invitational	Mar 29, 2019
+6	Leverenz, Johnny	SR-4	Butler	3:45.05	Raleigh Relays	Mar 29, 2019
+7	Wyman, Michael	SR-4	Providence	3:45.17	Raleigh Relays	Mar 29, 2019
+8	Salisbury, Jack	SO-2	Georgetown	3:45.43	Sam Howell Invitational	Apr 6, 2019
+9	White, Angus	SO-2	Providence	3:46.64	Raleigh Relays	Mar 29, 2019
+10	O'Leary, Michael	SR-4	Providence	3:47.25	Raleigh Relays	Mar 29, 2019
+11	Baugh, Eric	JR-3	Butler	3:48.23	Bryan Clay Invitational	Apr 17, 2019
+12	Eagan, Brad	SR-4	Marquette	3:49.63	Bryan Clay Invitational	Apr 17, 2019
+13	Bouthillette, Matthew	SO-2	Georgetown	3:51.63	Sam Howell Invitational	Apr 6, 2019
+14	Gardiner, Tom	FR-1	Xavier (Ohio)	3:51.74	Oliver Nikoloff Invitational	Apr 6, 2019
+15	Ahmed, Maazin	FR-1	Georgetown	3:52.04	George Mason Spring Invitational	Apr 13, 2019
+16	Van Scoter, Jack	SO-2	Georgetown	3:52.31	Sam Howell Invitational	Apr 6, 2019
+17	Swenson, Zach	SR-4	Villanova	3:52.75	Sam Howell Invitational	Apr 6, 2019
+18	Liddell, Christian	JR-3	Georgetown	3:53.13	2019 Larry Ellis Invitational	Apr 20, 2019
+19	Miller, Alec	SR-4	Marquette	3:53.18	Marquette Invitational	Apr 5, 2019
+20	Kujdych, Rusty	FR-1	Georgetown	3:53.49	George Mason Spring Invitational	Apr 13, 2019
+21	Peterson, Danny	SO-2	Marquette	3:53.59	BIG EAST Outdoor Track & Field Championships	May 10, 2019
+22	Padhal, Ruach	SO-2	Georgetown	3:53.80	Sam Howell Invitational	Apr 6, 2019
+23	Gross, Derek	JR-3	Marquette	3:54.55	Bryan Clay Invitational	Apr 17, 2019
+24	Pederson, Daniel	SO-2	Marquette	3:55.08	Bryan Clay Invitational	Apr 17, 2019
+25	Karamanolis, Marcus	SR-4	Providence	3:55.53(1)	Ocean State Invitational	Apr 12, 2019
+26	Russ, Ian	FR-1	Providence	3:56.24	Raleigh Relays	Mar 29, 2019
+27	Arbeiter, Thomas	SO-2	Providence	3:56.30	BIG EAST Outdoor Track & Field Championships	May 10, 2019
+28	Meehan, Connor	SO-2	Xavier (Ohio)	3:56.47	Ball State Challenge	Apr 12, 2019
+29	McIntyre, Charlie	SO-2	DePaul	3:56.58	Illinois Twilight	Apr 13, 2019
+30	Otte, Clark	SO-2	Butler	3:56.92	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+31	Brownlow, Ty	FR-1	Georgetown	3:57.06	George Mason Spring Invitational	Apr 13, 2019
+32	Gueguen, Jules	FR-1	DePaul	3:57.82	Gibson Invitational	Apr 6, 2019
+33	Kemp, Marcus	FR-1	Providence	3:58.00	Raleigh Relays	Mar 29, 2019
+34	Mierzwa, Henry	SR-4	Marquette	3:58.85	Marquette Invitational	Apr 5, 2019
+35	Lucking, Alex	SR-4	DePaul	3:59.02	Gibson Invitational	Apr 6, 2019
+36	Scarsone, Dylan	SO-2	Georgetown	3:59.16	George Mason Spring Invitational	Apr 13, 2019
+37	Flight, Salvatore	SR-4	Providence	3:59.58(1)	Ocean State Invitational	Apr 12, 2019
+38	Rocha, Marcelo	FR-1	Providence	3:59.62(1)	Ocean State Invitational	Apr 12, 2019
+39	Deck, Noah	SR-4	DePaul	4:00.07	SIU Bill Cornell Spring Classic	Mar 22, 2019
+40	Menyes, Kevin	JR-3	Xavier (Ohio)	4:00.16	Oliver Nikoloff Invitational	Apr 6, 2019
+41	Knanishu, Shane	SO-2	DePaul	4:00.60	SIU Bill Cornell Spring Classic	Mar 22, 2019
+42	Rosas, David	SO-2	Providence	4:01.25(1)	Ocean State Invitational	Apr 12, 2019
+43	Johnson, Evan	SO-2	Butler	4:01.47	Ball State Challenge	Apr 12, 2019
+44	Urban, Josh	FR-1	Marquette	4:01.79	Marquette Mid-Week Challenge	Apr 24, 2019
+45	Hyland, Johnny	FR-1	Marquette	4:02.21	Marquette Mid-Week Challenge	Apr 24, 2019
+46	Bruch, Patrick	SO-2	Marquette	4:02.41	Wisconsin Alumni Classic	May 3, 2019
+47	Quinn, Kevin	SO-2	Providence	4:02.70(1)	Ocean State Invitational	Apr 12, 2019
+48	Hussey, Lascelles	JR-3	Butler	4:03.17	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+49	Owens, Price	FR-1	Georgetown	4:03.19	George Mason Spring Invitational	Apr 13, 2019
+50	Fine, Dylan	JR-3	Georgetown	4:03.27	BIG EAST Outdoor Track & Field Championships	May 10, 2019
+51	Beyer, August	FR-1	Marquette	4:04.21	Marquette Invitational	Apr 5, 2019
+52	Meehan, Sean	FR-1	Providence	4:04.39(1)	Ocean State Invitational	Apr 12, 2019
+53	Walker, Samuel	FR-1	Providence	4:04.88(1)	Ocean State Invitational	Apr 12, 2019
+54	McClelland, Max	JR-3	Marquette	4:05.26	Marquette Mid-Week Challenge	Apr 24, 2019
+55	Delgado, Ian	FR-1	Georgetown	4:05.89	Penn Challenge	Mar 23, 2019
+56	Tiongson, Paolo	FR-1	Marquette	4:05.92	Marquette Invitational	Apr 5, 2019
+57	Klaiber, Jon	SR-4	Marquette	4:05.98	Marquette Invitational	Apr 5, 2019
+58	Rowe, Kenneth	SO-2	Georgetown	4:06.38	Penn Challenge	Mar 23, 2019
+59	Harless, Brady	SO-2	Xavier (Ohio)	4:06.52	Ball State Challenge	Apr 12, 2019
+60	Tremonti, Michael	FR-1	Marquette	4:06.83	Marquette Mid-Week Challenge	Apr 24, 2019
+61	Hautz, Jack	JR-3	Xavier (Ohio)	4:07.43	Ball State Challenge	Apr 12, 2019
+62	Cavanaugh, Matthew	JR-3	Marquette	4:07.57	Marquette Mid-Week Challenge	Apr 24, 2019
+63	Poorten, Stephen	FR-1	Marquette	4:07.63	Marquette Mid-Week Challenge	Apr 24, 2019
+64	Burns, Patrick	FR-1	Marquette	4:07.84	Marquette Mid-Week Challenge	Apr 24, 2019
+65	McGaha, Chandler	SO-2	Butler	4:08.10	Stan Lyons 2019	Mar 16, 2019
+66	Ahlers, Chris	SO-2	DePaul	4:08.25	Illinois Twilight	Apr 13, 2019
+67	Bruce, Dominic	SO-2	DePaul	4:09.20	Illinois Twilight	Apr 13, 2019
+68	Perez, Jordan	FR-1	Xavier (Ohio)	4:09.34	Ball State Challenge	Apr 12, 2019
+69	Suarez, Greg	SR-4	Marquette	4:09.83	Marquette Invitational	Apr 5, 2019
+70	Fagan, Conor	SO-2	DePaul	4:12.32	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+71	Janusiak, Jordan	FR-1	Marquette	4:12.62	Marquette Invitational	Apr 5, 2019
+72	Dietrich, Andrew	SO-2	Xavier (Ohio)	4:15.04	Blizzard Buster	Mar 23, 2019
+73	Mekaelian, Matt	JR-3	Xavier (Ohio)	4:18.68	Ball State Challenge	Apr 12, 2019
+74	Keys, Joseph	SO-2	Marquette	4:32.98	Bryan Clay Invitational	Apr 17, 2019
+75	Walder, Wade	JR-3	Butler	4:36.54	Bryan Clay Invitational	Apr 17, 2019
+76	Eggers, William	SR-4	Marquette	4:45.22	Bryan Clay Invitational	Apr 17, 2019
+77	Clark, Richard	SR-4	Butler	4:48.45	Bryan Clay Invitational	Apr 17, 2019
+78	Hofrichter, Luke	FR-1	Butler	5:11.98	BIG EAST Outdoor Track & Field Championships	May 10, 2019

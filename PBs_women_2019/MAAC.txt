@@ -1,0 +1,108 @@
+1	Wilson, Allie	SR-4	Monmouth	4:15.16	Virginia Challenge	Apr 19, 2019
+2	Morenaite, Egle	SO-2	Iona	4:19.41	Bryan Clay Invitational	Apr 17, 2019
+3	Ohrtman, Kaitlyn	JR-3	Iona	4:20.81	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+4	Forman, Sarah	SR-4	Siena	4:22.95	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+5	Nuttall, Gemma	JR-3	Iona	4:23.97	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+6	Stratz, Amber	SR-4	Monmouth	4:29.82	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+7	Stratz, Brianna	SR-4	Monmouth	4:30.49	Bison Outdoor Classic	Apr 13, 2019
+8	Velock, Kyra	SO-2	Monmouth	4:30.74	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+9	Mastromatteo, Gianna	SO-2	Marist	4:31.48	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+10	Kearley, Julia	JR-3	Iona	4:31.76	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+11	Schein-Becker, Teagan	FR-1	Rider	4:35.53	Swarthmore Final Qualifier Meet	May 13, 2019
+12	Bohan, Shea	SR-4	Marist	4:35.54	2019 Colonial Relays	Apr 4, 2019
+13	Spadaccini, Erin	SR-4	Manhattan	4:36.23	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+14	Young, Emily	FR-1	Quinnipiac	4:36.64	New England Outdoor Championship - NEICAAA	May 10, 2019
+15	Murphy, Sophie	SO-2	Iona	4:36.66	Mets Outdoor Track and Field Championship	Apr 12, 2019
+16	Scheriff, Jessica	SR-4	Iona	4:37.07	Sam Howell Invitational	Apr 6, 2019
+17	Curtin, Meghan	JR-3	Quinnipiac	4:38.57	War Eagle Invitational 2019	Apr 19, 2019
+18	Strain, Monica	SO-2	Siena	4:39.40	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+19	Siegle, Kristin	JR-3	Rider	4:39.94	2019 Colonial Relays	Apr 4, 2019
+20	Serkes, Morgan	SO-2	Siena	4:40.06	Bison Outdoor Classic	Apr 13, 2019
+21	Pavicic, Peri	JR-3	Rider	4:40.15	Swarthmore Final Qualifier Meet	May 13, 2019
+22	Grohn, Denise	JR-3	Marist	4:40.27	2019 Colonial Relays	Apr 4, 2019
+23	Gaye, Kerry	SR-4	Marist	4:40.37	2019 Colonial Relays	Apr 4, 2019
+24	Casey, Jordan	SR-4	Marist	4:40.76	Bison Outdoor Classic	Apr 13, 2019
+25	Smith, Maria	SO-2	Marist	4:41.46	2019 Colonial Relays	Apr 4, 2019
+26	Wolff, Emily	SR-4	Quinnipiac	4:41.70(1)	Ocean State Invitational	Apr 12, 2019
+27	Pellegrini, Carolyn	JR-3	Siena	4:42.40	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+28	Martino, Dani	SR-4	Iona	4:43.30	Sam Howell Invitational	Apr 6, 2019
+29	Quinn, Siobhan	SR-4	Canisius	4:43.36	Dave Labor Invitational	Apr 6, 2019
+30	Roberts, Kaleigh	SR-4	Quinnipiac	4:44.00	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+31	Walters, Rebecca	FR-1	Marist	4:45.30	Bryan Clay Invitational	Apr 17, 2019
+32	Voight, Morgan	JR-3	Quinnipiac	4:45.45(1)	Ocean State Invitational	Apr 12, 2019
+33	Sullivan, Carlin	SR-4	Canisius	4:45.80	Dave Labor Invitational	Apr 6, 2019
+34	Lazarou, Olivia	FR-1	Iona	4:47.16	Sam Howell Invitational	Apr 6, 2019
+35	Dwyer, Amanda	SO-2	Monmouth	4:47.76	2019 Colonial Relays	Apr 4, 2019
+36	Carlson, Amanda	SO-2	Quinnipiac	4:47.95	2019 Yale Springtime Invitational	Apr 28, 2019
+37	Flower, Julia	JR-3	Iona	4:48.28	Stony Brook University Snow Flake Spring Opener	Mar 23, 2019
+38	Ricalton, Maria	SR-4	Quinnipiac	4:48.83(1)	Ocean State Invitational	Apr 12, 2019
+39	Wright, Abbi	SR-4	Siena	4:49.22	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+40	Rutkowski, Christiana	SR-4	Monmouth	4:49.43	Bison Outdoor Classic	Apr 13, 2019
+41	Molloy, Hannah	JR-3	Iona	4:49.70	Stony Brook University Snow Flake Spring Opener	Mar 23, 2019
+42	Belkhir, Boushra	JR-3	Marist	4:50.00	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+43	Moynihan, Orlaith	JR-3	Iona	4:50.30	Stony Brook University Snow Flake Spring Opener	Mar 23, 2019
+44	Bartolotta, Alexandra	SO-2	Marist	4:50.90	24th Annual Monmouth Season Opener	Mar 29, 2019
+45	Lomascolo, Olivia	FR-1	Siena	4:51.95	Black & Gold Invitational	Mar 29, 2019
+46	Tinto, Gianna	SR-4	Manhattan	4:52.35	2019 Colonial Relays	Apr 4, 2019
+47	Klinowski, Nora	SO-2	Niagara	4:52.87	Dave Labor Invitational	Apr 6, 2019
+48	Hagen, Brooke	SO-2	Quinnipiac	4:53.02	Rider Invitational 2019	Apr 13, 2019
+49	Repsher, Alyssa	SO-2	Monmouth	4:53.42	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+50	Arguien, Haley	FR-1	Rider	4:53.98	Widener Invitational	Apr 19, 2019
+51	Cummings, Keellyn	FR-1	Monmouth	4:54.44	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+52	Johnson, Camryn	JR-3	Siena	4:54.83	Black & Gold Invitational	Mar 29, 2019
+53	Pfennig, Melanie	SO-2	Monmouth	4:55.08	Widener Invitational	Apr 19, 2019
+54	Johnson, Sydney	JR-3	Siena	4:55.31	Black & Gold Invitational	Mar 29, 2019
+55	Marcone, Danielle	SO-2	Quinnipiac	4:56.19	24th Annual Monmouth Season Opener	Mar 29, 2019
+56	Laverty , Amy	JR-3	Quinnipiac	4:56.60	Rider Invitational 2019	Apr 13, 2019
+57	Luma, Dayna	JR-3	Monmouth	4:56.89	Carol & John Covert Classic	Apr 26, 2019
+58	Tooker, Maddie	SO-2	Marist	4:57.00	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+59	Sexton, Kayla	FR-1	Marist	4:58.00	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+60	Wilcox, Sara	JR-3	Quinnipiac	4:58.69	2019 Yale Springtime Invitational	Apr 28, 2019
+61	Laliberte, Jill	SO-2	Marist	5:00.09	2019 Yale Springtime Invitational	Apr 28, 2019
+62	Cutrone, Talia	SO-2	Marist	5:00.93	2019 Yale Springtime Invitational	Apr 28, 2019
+63	McDonough, Meghan	SR-4	Siena	5:01.63	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+64	Doyle, Aileen	SR-4	Canisius	5:03.25	Dave Labor Invitational	Apr 6, 2019
+65	Chinery, Katie	SR-4	Rider	5:03.64	Rider 5-Way	Mar 30, 2019
+66	Schmitt, Anya	SO-2	Siena	5:04.12(1)	Bison Outdoor Classic	Apr 13, 2019
+67	Howe, Jessica	SR-4	Marist	5:05.00	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+68	Campbell, Grace	FR-1	Manhattan	5:05.57	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+69	Latragna, Hannah	SR-4	Canisius	5:06.49	Dave Labor Invitational	Apr 6, 2019
+70	DeStefani, Samantha	FR-1	Marist	5:07.00	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+71	Hoagland, Samantha	SR-4	Manhattan	5:07.56	Ram Invite	Mar 22, 2019
+72	McNally, Mary	SO-2	Siena	5:08.37	2019 RPI Capital District Classic	Apr 27, 2019
+73	McGrath, Nancy	FR-1	Monmouth	5:08.79	24th Annual Monmouth Season Opener	Mar 29, 2019
+74	Daniels, Michele	SO-2	Monmouth	5:09.70	Carol & John Covert Classic	Apr 26, 2019
+75	Hartnett, Caitlin	JR-3	Manhattan	5:10.36	Mets Outdoor Track and Field Championship	Apr 12, 2019
+76	Pierce, Bailey	FR-1	Canisius	5:10.39	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+77	Lindstrom, Megan	SR-4	Monmouth	5:10.96	24th Annual Monmouth Season Opener	Mar 29, 2019
+78	Marullo, Annina	FR-1	Niagara	5:11.77	Alfred State Invitational	Apr 16, 2019
+79	Greenfield, Mackenzie	JR-3	Rider	5:11.87	Penn Challenge	Mar 23, 2019
+80	Bradley, Kathaleen	FR-1	Quinnipiac	5:12.40	2019 Yale Springtime Invitational	Apr 28, 2019
+81	Stewart, Kayla	SR-4	Canisius	5:12.85	University at Buffalo Track & Field Invite	Apr 27, 2019
+82	Prizio, Gabriella	SO-2	Quinnipiac	5:13.00	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+83	Benzer, Libby	FR-1	Canisius	5:13.89	Dave Labor Invitational	Apr 6, 2019
+84	Tavares, Natalie	SO-2	Monmouth	5:14.12	Carol & John Covert Classic	Apr 26, 2019
+85	Proctor, Grace	SO-2	St. Peter's	5:14.62	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+86	Murray, Erin	SO-2	Niagara	5:15.20	Dave Labor Invitational	Apr 6, 2019
+87	Kibler, Grace	FR-1	Niagara	5:15.22	Dave Labor Invitational	Apr 6, 2019
+88	Shellard, Madeleine	FR-1	Quinnipiac	5:15.59	2019 Yale Springtime Invitational	Apr 28, 2019
+89	Leo, Kayla	SO-2	Canisius	5:16.05	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+90	Conner, Christian	SR-4	Canisius	5:16.50	Dave Labor Invitational	Apr 6, 2019
+91	Leal, Samantha	SO-2	Quinnipiac	5:17.52	Rider Invitational 2019	Apr 13, 2019
+92	Vassalotti, Gabriella	JR-3	Rider	5:17.78	Widener Invitational	Apr 19, 2019
+93	Melao, Mia	FR-1	Fairfield	5:18.51	Rider Invitational 2019	Apr 13, 2019
+94	Gallo, Hannah	SR-4	Rider	5:19.89	Widener Invitational	Apr 19, 2019
+95	DelVecchio, Sydney	SO-2	Rider	5:20.27	Penn Challenge	Mar 23, 2019
+96	Iadicicco, Isabella	SO-2	Canisius	5:21.61	Metro Atlantic Outdoor Track & Field Championships	May 4, 2019
+97	Pampin, Michaela	SO-2	Rider	5:23.22	Penn Challenge	Mar 23, 2019
+98	O'Brien, Devyn	SO-2	Fairfield	5:27.09	Rider Invitational 2019	Apr 13, 2019
+99	Wallace, Jaclyn	JR-3	Canisius	5:29.77	Geneseo Early Season Invitational	Mar 29, 2019
+100	Martin, Rachel	FR-1	Fairfield	5:32.27	Rider Invitational 2019	Apr 13, 2019
+101	Bryant, Julia	FR-1	Siena	5:34.12	Wagner College Invitional	Mar 23, 2019
+102	Cummings, Kelsey	SO-2	Rider	5:34.46	Widener Invitational	Apr 19, 2019
+103	Spangler, Carolyn	JR-3	Canisius	5:37.05	Dave Labor Invitational	Apr 6, 2019
+104	Hebert, Kaitlyn	SR-4	Quinnipiac	5:37.74	Trinity College Invitational 2019	Apr 20, 2019
+105	Simon, Katie	SR-4	Canisius	5:41.76	Geneseo Early Season Invitational	Mar 29, 2019
+106	Watters, Mary	SR-4	Quinnipiac	5:50.22	Rider Invitational 2019	Apr 13, 2019
+107	Roman, Casey	FR-1	Niagara	5:50.34	Dave Labor Invitational	Apr 6, 2019
+108	Engebrecht, Lilian	JR-3	Canisius	6:21.68	Dave Labor Invitational	Apr 6, 2019

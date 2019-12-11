@@ -1,0 +1,74 @@
+1MAC Auto	Torpy, Sean	JR-3	Miami (Ohio)	3:44.24	Virginia Challenge	Apr 19, 2019
+2MAC Auto	Torpy, Christopher	JR-3	Miami (Ohio)	3:44.52	Virginia Challenge	Apr 19, 2019
+3MAC Auto	Day, Owen	SO-2	Eastern Michigan	3:46.48	Raleigh Relays	Mar 29, 2019
+4	Ghali, Melika	SR-4	Eastern Michigan	3:50.43	Raleigh Relays	Mar 29, 2019
+5	Migliozzi, Marc	SO-2	Akron	3:50.54	Bryan Clay Invitational	Apr 17, 2019
+6	Conroy, Seth	JR-3	Miami (Ohio)	3:51.58	2019 Billy Hayes Invitational	May 3, 2019
+7	Tam, Alex	FR-1	Miami (Ohio)	3:52.34	2019 Billy Hayes Invitational	May 3, 2019
+8	Atkins, Leon	JR-3	Buffalo	3:53.28	Bison Outdoor Classic	Apr 13, 2019
+9	Hibinger, Kyle		Bowling Green	3:53.43	Raleigh Relays	Mar 29, 2019
+10	VanEpps, Justin	SR-4	Buffalo	3:54.10	Bison Outdoor Classic	Apr 13, 2019
+11	Camerieri, Anthony	FR-1	Miami (Ohio)	3:54.38	Raleigh Relays	Mar 29, 2019
+12	Towne, Mitchell	JR-3	Miami (Ohio)	3:54.67	Raleigh Relays	Mar 29, 2019
+13	Bollam-Godbott, Andre	SO-2	Akron	3:54.89	Beach Invitational	Apr 19, 2019
+14	Schaub, Noah	SR-4	Bowling Green	3:55.89	RedHawk Invitational	Apr 20, 2019
+15	Fee, Jonathan	SR-4	Miami (Ohio)	3:56.65	Oliver Nikoloff Invitational	Apr 6, 2019
+16	Arellano, Cesar	FR-1	Bowling Green	3:58.01	RedHawk Invitational	Apr 20, 2019
+17	Coffey, David	JR-3	Miami (Ohio)	3:58.04	Blizzard Buster	Mar 23, 2019
+18	Fitsum, Hayelom	FR-1	Eastern Michigan	3:58.09	Raleigh Relays	Mar 29, 2019
+19	Davis, Bradley	JR-3	Miami (Ohio)	3:58.21	Blizzard Buster	Mar 23, 2019
+20	Stricklen, Nick	SO-2	Akron	3:58.27	Roadrunner Invitational	Mar 21, 2019
+21	Mercer, Matthew	JR-3	Buffalo	3:58.57	2019 Larry Ellis Invitational	Apr 20, 2019
+22	Koech, Dismas	JR-3	Toledo	3:58.78	Ball State Challenge	Apr 12, 2019
+23	Bromley, Matthew	SR-4	Miami (Ohio)	3:58.83	Blizzard Buster	Mar 23, 2019
+24	Cooke, Peter	SO-2	Miami (Ohio)	3:59.40	Oliver Nikoloff Invitational	Apr 6, 2019
+25	Prack, Justin	SO-2	Kent State	3:59.79	Tennessee Relays	Apr 11, 2019
+26	Stamper, Alex	FR-1	Kent State	4:00.00	Tennessee Relays	Apr 11, 2019
+27	Ondash, Jacob	SO-2	Akron	4:00.30	Roadrunner Invitational	Mar 21, 2019
+28	Sleeman, Zachary	JR-3	Central Michigan	4:00.63	Jack Shaw Classic	Apr 5, 2019
+29	Fitzgerald, Jeremiah	JR-3	Akron	4:00.92	Akron - Campbell Wright Open	May 3, 2019
+30	Harders, Charles	FR-1	Miami (Ohio)	4:01.63	Jesse Owens Classic - The Ohio State University	Apr 26, 2019
+31	Bertelsen, Jake	FR-1	Miami (Ohio)	4:02.01	Blizzard Buster	Mar 23, 2019
+32	Sharkey, Ryan	SR-4	Miami (Ohio)	4:02.03	Ball State Challenge	Apr 12, 2019
+33	Flannery, Thomas	SO-2	Buffalo	4:02.05	2019 Larry Ellis Invitational	Apr 20, 2019
+34	Dixon, Kane	SR-4	Miami (Ohio)	4:02.12	RedHawk Invitational	Apr 20, 2019
+35	Garbarino, Gabriel	SO-2	Bowling Green	4:02.41	RedHawk Invitational	Apr 20, 2019
+36	Robertson, Zach	FR-1	Miami (Ohio)	4:02.60	Oliver Nikoloff Invitational	Apr 6, 2019
+37	Jones, Kevin	SR-4	Kent State	4:02.65	Raleigh Relays	Mar 29, 2019
+38	Hilbert, Liam	JR-3	Buffalo	4:03.13	University at Buffalo Track & Field Invite	Apr 27, 2019
+39	Lorf, Chandler	FR-1	Central Michigan	4:03.30	Mid-American Conference Outdoor Track & Field Championships	May 9, 2019
+40	Smrcka, Emmett	SO-2	Central Michigan	4:04.07	53rd Annual Hillsdale "GINA" Relays	Apr 25, 2019
+41	Finch, Will	FR-1	Central Michigan	4:04.50	Jack Shaw Classic	Apr 5, 2019
+42	Santino, Daniel	JR-3	Miami (Ohio)	4:04.87	Ball State Challenge	Apr 12, 2019
+43	Magnusson, Baldvin	FR-1	Eastern Michigan	4:05.19	Len Paddock Open	May 3, 2019
+44	Wicker, Austin	SO-2	Eastern Michigan	4:05.87	Yellow Jacket Invitational	Mar 15, 2019
+45	Francesconi, Sebastian	SO-2	Miami (Ohio)	4:06.19	2019 Billy Hayes Invitational	May 3, 2019
+46	Wilson, Roderic	JR-3	Eastern Michigan	4:07.40	Raleigh Relays	Mar 29, 2019
+47	Kipkemoi Too, Micah	SO-2	Miami (Ohio)	4:07.44	Ball State Challenge	Apr 12, 2019
+48	Hazlitt, Patrick	FR-1	Buffalo	4:07.86	University at Buffalo Track & Field Invite	Apr 27, 2019
+49	Allen , Joshua	SO-2	Kent State	4:08.08	Walsh University Invitational	Apr 12, 2019
+50	Papish, Jake	FR-1	Toledo	4:09.17	Blizzard Buster	Mar 23, 2019
+51	Jaynes, John	SO-2	Ohio	4:10.78	Kentucky Track & Field Invitational	Apr 20, 2019
+52	Tarr, Czar	FR-1	Ohio	4:11.36	Kentucky Track & Field Invitational	Apr 20, 2019
+53	Shail, Colton	FR-1	Kent State	4:11.70	Akron - Campbell Wright Open	May 3, 2019
+54	Bostelman, Nathan	FR-1	Bowling Green	4:14.60	RedHawk Invitational	Apr 20, 2019
+55	Goodman, Sam	SR-4	Kent State	4:15.26	Akron - Campbell Wright Open	May 3, 2019
+56	Ingram, Joe	FR-1	Eastern Michigan	4:16.07	Raleigh Relays	Mar 29, 2019
+57	Yagiela, Ben	SR-4	Central Michigan	4:17.54	Jack Shaw Classic	Apr 5, 2019
+58	Nijakowski , Abel	FR-1	Bowling Green	4:18.38	RedHawk Invitational	Apr 20, 2019
+59	Mayse, Andrew	SO-2	Ohio	4:18.55	Kentucky Track & Field Invitational	Apr 20, 2019
+60	Greco, Louis	FR-1	Buffalo	4:18.60	University at Buffalo Track & Field Invite	Apr 27, 2019
+61	Puskar, Cal	FR-1	Buffalo	4:18.72	University at Buffalo Track & Field Invite	Apr 27, 2019
+62	Palm, Ryan	SO-2	Kent State	4:19.64	Akron - Campbell Wright Open	May 3, 2019
+63	Gibbons, Matthew	JR-3	Toledo	4:25.47	Ball State Challenge	Apr 12, 2019
+64	Goolsby, Kenneth	SO-2	Central Michigan	4:32.79	Len Paddock Open	May 3, 2019
+65	Lawson, TJ	JR-3	Kent State	4:39.09	Tennessee Relays	Apr 11, 2019
+66	Mally, Jacob	SO-2	Kent State	4:48.71	Mid-American Conference Outdoor Track & Field Championships	May 9, 2019
+67	Lester, Skyler	SO-2	Eastern Michigan	4:59.90	Mid-American Conference Outdoor Track & Field Championships	May 9, 2019
+68	Hochbein, Brandon	JR-3	Akron	5:01.46	Mid-American Conference Outdoor Track & Field Championships	May 9, 2019
+69	Snowden, Devin	JR-3	Kent State	5:09.40	Mid-American Conference Outdoor Track & Field Championships	May 9, 2019
+70	Majid, Kamar	SR-4	Akron	5:10.50	Bryan Clay Invitational	Apr 17, 2019
+71	Artrip, Ben	SO-2	Miami (Ohio)	5:13.95	Virginia Challenge	Apr 19, 2019
+72	Hudson, Malik	JR-3	Akron	5:17.49	Mid-American Conference Outdoor Track & Field Championships	May 9, 2019
+73	Casey, Bobby	FR-1	Akron	5:45.36	Bryan Clay Invitational	Apr 17, 2019
+

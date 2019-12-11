@@ -1,0 +1,63 @@
+1	Heinst, Famke	SO-2	High Point	4:31.03	Big South Outdoor Track and Field Championships	May 8, 2019
+2	Case, Keaton	FR-1	High Point	4:32.67	Big South Outdoor Track and Field Championships	May 8, 2019
+3	Koekemoer, Shanley	FR-1	Campbell	4:33.48	Gamecock Invitational Outdoor	Apr 13, 2019
+4	Jackson, Roshae	SR-4	Campbell	4:37.73	Big South Outdoor Track and Field Championships	May 8, 2019
+5	Bond, Kayland	FR-1	Radford	4:39.00	Big South Outdoor Track and Field Championships	May 8, 2019
+6	Jakobs, Franziska	SO-2	High Point	4:40.33	Duke Invitational	Apr 19, 2019
+7	Louw, Michaela	JR-3	Campbell	4:42.07	Gamecock Invitational Outdoor	Apr 13, 2019
+8	Henson, Harper	JR-3	Winthrop	4:42.25	8th Annual Terrier Relays	Mar 30, 2019
+9	Fitch, Madeline	JR-3	Campbell	4:42.39	Big South Outdoor Track and Field Championships	May 8, 2019
+10	Rodriguez, Madelyn	FR-1	Campbell	4:42.96	Duke Invitational	Apr 19, 2019
+11	Velasco, Pollyanna	SR-4	Hampton	4:44.68	2019 Twilight Qualifier	May 1, 2019
+12	Geis, Zoe	JR-3	High Point	4:46.17	HPU VertKlasse Meeting	Mar 21, 2019
+13	Coleman, Kelley	SR-4	UNC-Asheville	4:46.22	Gamecock Invitational Outdoor	Apr 13, 2019
+14	Hellman, Julia	SO-2	High Point	4:47.55	2019 Twilight Qualifier	May 1, 2019
+15	Eckert, Annsley	SO-2	Radford	4:48.26	Virginia Grand Prix	Apr 26, 2019
+16	Inman, Caroline	FR-1	Charleston Southern	4:49.48	Winthrop Twilight	May 1, 2019
+17	Clayton, Lucy	FR-1	High Point	4:49.53	Big South Outdoor Track and Field Championships	May 8, 2019
+18	Nichols, Madeline	FR-1	UNC-Asheville	4:50.87	Duke Invitational	Apr 19, 2019
+19	McDowell, Javenique	SO-2	Charleston Southern	4:50.92	Charlotte Invitational 2019	Apr 12, 2019
+20	Bagus, Sydney	SO-2	High Point	4:52.33	Phoenix Invitational 2019	Apr 6, 2019
+21	Cadet, Rebecca	JR-3	Charleston Southern	4:52.39	Charlotte Invitational 2019	Apr 12, 2019
+22	Harper, Camryn	FR-1	High Point	4:53.52	Duke Invitational	Apr 19, 2019
+23	Wensler, Bailey	SR-4	USC Upstate	4:53.75	Big South Outdoor Track and Field Championships	May 8, 2019
+24	Esselman, Olivia	FR-1	Winthrop	4:53.88	Duke Invitational	Apr 19, 2019
+25	Ickes, Lindsey	FR-1	High Point	4:54.16	HPU VertKlasse Meeting	Mar 21, 2019
+26	Kerr, Courtney	JR-3	High Point	4:54.74	2019 Twilight Qualifier	May 1, 2019
+27	Mills, Makennah	FR-1	Charleston Southern	4:57.19	Winthrop Twilight	May 1, 2019
+28	Davis, Mia	SO-2	USC Upstate	4:59.58	Duke Invitational	Apr 19, 2019
+29	Phillips, Chloe	FR-1	Radford	5:00.48	Gamecock Invitational Outdoor	Apr 13, 2019
+30	Brewer, Megan	SR-4	UNC-Asheville	5:01.47	Don McGarey Invitational Track and Field Invitational	Apr 26, 2019
+31	Thornhill, Bethany	SR-4	Charleston Southern	5:01.52	Winthrop Twilight	May 1, 2019
+32	Pierstorff, Krysta	JR-3	USC Upstate	5:01.57	Don McGarey Invitational Track and Field Invitational	Apr 26, 2019
+33	Jones, Hannah	JR-3	Gardner-Webb	5:03.84	Don McGarey Invitational Track and Field Invitational	Apr 26, 2019
+34	Botha, Lize	JR-3	Campbell	5:04.14	UNCW Invitational	Mar 15, 2019
+35	Bolstad, Sandra	JR-3	Gardner-Webb	5:04.80	Big South Outdoor Track and Field Championships	May 8, 2019
+36	Appleton, India	FR-1	UNC-Asheville	5:05.51	8th Annual Terrier Relays	Mar 30, 2019
+37	Schvaneveldt, Grace	FR-1	Charleston Southern	5:05.58	Winthrop Twilight	May 1, 2019
+38	Palmquist, Joey	FR-1	USC Upstate	5:05.72	Big South Outdoor Track and Field Championships	May 8, 2019
+39	Baldwin, Jade	JR-3	Campbell	5:06.03	Duke Invitational	Apr 19, 2019
+40	Thompson, Shamia	SR-4	USC Upstate	5:06.16	Big South Outdoor Track and Field Championships	May 8, 2019
+41	Brown, DeVonya	SO-2	Hampton	5:06.82	2019 Colonial Relays	Apr 4, 2019
+42	Costelloe, Morgan	SO-2	UNC-Asheville	5:06.90	Don McGarey Invitational Track and Field Invitational	Apr 26, 2019
+43	Bowen, Ali	SR-4	Campbell	5:08.64	Phoenix Invitational 2019	Apr 6, 2019
+44	Evans, Alyx	FR-1	UNC-Asheville	5:14.02	8th Annual Terrier Relays	Mar 30, 2019
+45	Decker, Samantha	FR-1	UNC-Asheville	5:19.03(1)	Alan Connie Shamrock Invite	Mar 14, 2019
+46	Cherono, Stecy	FR-1	USC Upstate	5:19.29	8th Annual Terrier Relays	Mar 30, 2019
+47	Williams, Casey	SO-2	Longwood	5:20.55	Phoenix Invitational 2019	Apr 6, 2019
+48	Graham, Ashley	SR-4	Winthrop	5:21.30	Phoenix Invitational 2019	Apr 6, 2019
+49	Dinger, Charis	JR-3	High Point	5:21.87	Duke Invitational	Apr 19, 2019
+50	Hirsch, Samantha	FR-1	UNC-Asheville	5:22.62(1)	Alan Connie Shamrock Invite	Mar 14, 2019
+51	Defalco, Jesse	SO-2	Winthrop	5:24.34	2019 Adidas Winthrop University Invitational	Mar 21, 2019
+52	Johnson, Asia	JR-3	Hampton	5:25.57	Ram Invite	Mar 22, 2019
+53	Gordon, Lindsey	FR-1	Longwood	5:26.48	Phoenix Invitational 2019	Apr 6, 2019
+54	Leavitt, Allie	FR-1	USC Upstate	5:27.03	Charlotte 49er Classic	Mar 14, 2019
+55	Smith, Jasmine	FR-1	Winthrop	5:30.42	8th Annual Terrier Relays	Mar 30, 2019
+56	Parandhamaia, Faith	FR-1	Gardner-Webb	5:30.76	Duke Invitational	Apr 19, 2019
+57	Mcguirt, Christina	JR-3	Gardner-Webb	5:35.17	Don McGarey Invitational Track and Field Invitational	Apr 26, 2019
+58	Koellner, Brawnwyn	FR-1	USC Upstate	5:36.10	8th Annual Terrier Relays	Mar 30, 2019
+59	Dunaway, Cicely	FR-1	Longwood	5:36.69	Phoenix Invitational 2019	Apr 6, 2019
+60	O'Regan, Sarah	JR-3	USC Upstate	5:41.05	Charlotte Invitational 2019	Apr 12, 2019
+61	Kanetzke, Courtney	JR-3	Gardner-Webb	5:41.78	Don McGarey Invitational Track and Field Invitational	Apr 26, 2019
+62	Dippold, Brooke	FR-1	Longwood	5:43.08	Phoenix Invitational 2019	Apr 6, 2019
+63	Vickers, Savannah	FR-1	UNC-Asheville	5:51.45(1)	Alan Connie Shamrock Invite	Mar 14, 2019

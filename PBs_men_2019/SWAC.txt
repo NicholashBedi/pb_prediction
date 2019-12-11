@@ -1,0 +1,50 @@
+1	Coffelt, Joshua	JR-3	Alabama State	4:00.40	Tiger Track Classic 2019	Apr 5, 2019
+2	Heath, Laural	SR-4	Arkansas-Pine Bluff	4:01.49	Little Rock Open	Apr 5, 2019
+3	Garner , Wade	JR-3	Arkansas-Pine Bluff	4:02.48	Little Rock Open	Apr 5, 2019
+4	Smith, Kevin	FR-1	Alabama State	4:04.74	Gamecock Invitational Outdoor	Apr 13, 2019
+5	langat, Vincent	JR-3	Jackson State	4:04.81	Mississippi College Twilight Invitational	Apr 5, 2019
+6	Marshall, Romario	JR-3	Arkansas-Pine Bluff	4:05.23	2019 SWAC Outdoor T&F Championships	May 3, 2019
+7	Javois, Keshaun	JR-3	Southern	4:06.02	2019 SWAC Outdoor T&F Championships	May 3, 2019
+8	Malrey, Tracy	SO-2	Prairie View	4:06.11	J Fred Duckett Twilight Meet	Apr 20, 2019
+9	Maiyo, Hillary	FR-1	Texas Southern	4:06.66	2019 SWAC Outdoor T&F Championships	May 3, 2019
+10	Moore, Worthington	FR-1	Prairie View	4:07.49	Texas State Bobcat Invitational	Mar 28, 2019
+11	Johnson, Alan	SO-2	Jackson State	4:08.45	Mississippi College Season Opener	Mar 2, 2019
+12	Marinez, Jorge	JR-3	Texas Southern	4:08.76	2019 TSU Relays (College/University)	Mar 15, 2019
+13	Koech, Aaron	JR-3	Grambling	4:08.94	2019 SWAC Outdoor T&F Championships	May 3, 2019
+14	Chepkwony, Hassan	SR-4	Grambling	4:09.86	2019 TSU Relays (College/University)	Mar 15, 2019
+15	Delreal, Luis	FR-1	Texas Southern	4:10.58	2019 TSU Relays (College/University)	Mar 15, 2019
+16	Williams, Levante	JR-3	Prairie View	4:10.78	2019 PVAMU Relays (University)	Mar 22, 2019
+17	Marshall, Akeem	JR-3	Arkansas-Pine Bluff	4:11.75	UCA Spring Opener	Mar 9, 2019
+18	Agbede, Toshin	FR-1	Arkansas-Pine Bluff	4:11.98	Memphis Tiger invitational	Apr 26, 2019
+19	Kiplagat, Henry	JR-3	Jackson State	4:12.63	2019 TSU Relays (College/University)	Mar 15, 2019
+20	Scott, Nicholas	FR-1	Southern	4:13.02	Louisiana Classics	Mar 15, 2019
+21	Price, Gabriel	SR-4	Prairie View	4:13.65	2019 SWAC Outdoor T&F Championships	May 3, 2019
+22	Chirchir, Boniface	FR-1	Jackson State	4:13.88	Mississippi College Season Opener	Mar 2, 2019
+23	Turner, Jaleel	SO-2	Mississippi Valley	4:14.74	Southern Miss Invitational	Mar 30, 2019
+24	Price, Jacob	SR-4	Texas Southern	4:17.63	Houston Alumni Invitational	Apr 6, 2019
+25	Mayes, Terrance	JR-3	Texas Southern	4:17.65	2019 TSU Relays (College/University)	Mar 15, 2019
+26	Rop, Stanley	FR-1	Mississippi Valley	4:20.56	South Alabama Jaguar Opener	Mar 15, 2019
+27	Kiprop, Hillary	SR-4	Grambling	4:21.81	Louisiana Tech Jim Mize Invitational	Apr 5, 2019
+28	Kibet, Mathew	SO-2	Alabama State	4:23.53	'Southern Invitational	Mar 8, 2019
+29	Rugut, Noah	JR-3	Grambling	4:25.04	Mississippi College Season Opener	Mar 2, 2019
+30	Jackson, Andrew	SR-4	Alabama State	4:27.82	North Florida Spring Break Invitational	Mar 21, 2019
+31	Bradford, Bryson	FR-1	Grambling	4:29.75	2019 TSU Relays (College/University)	Mar 15, 2019
+32	Kipleting Muhindi, Nickson	SO-2	Southern	4:30.97	Cole-Lancon Conference Challenge	Apr 13, 2019
+33	Saint-Cyrin, Peterson	SO-2	Alcorn State	4:33.88	UCA OPEN	Apr 12, 2019
+34	Mighty , D'Andre	JR-3	Arkansas-Pine Bluff	4:35.28	Little Rock Open	Apr 5, 2019
+35	Kibii, Titus	SO-2	Alcorn State	4:36.05	UCA OPEN	Apr 12, 2019
+36	Kimeli, Jeremiah	SR-4	Grambling	4:37.52	Louisiana Tech Jim Mize Invitational	Apr 5, 2019
+37	Misoy, Timothy	SR-4	Mississippi Valley	4:38.05	South Alabama Jaguar Opener	Mar 15, 2019
+38	Heard, Austin	FR-1	Alcorn State	4:40.06	Al Schmidt Bulldog Relays Invite	Mar 22, 2019
+39	Miles, Tyreq	JR-3	Alcorn State	4:40.17	Al Schmidt Bulldog Relays Invite	Mar 22, 2019
+40	Collier , Alexander	SO-2	Arkansas-Pine Bluff	4:47.73	ASU Red Wolf Open	Apr 19, 2019
+41	Pak, Elliott		Alcorn State	4:55.24	Al Schmidt Bulldog Relays Invite	Mar 22, 2019
+42	Rodriguez-Weems, Sunne	JR-3	Prairie View	5:11.70	Texas State Bobcat Invitational	Mar 28, 2019
+42	Ham, Tristan	JR-3	Prairie View	5:11.70	Texas State Bobcat Invitational	Mar 28, 2019
+44	Clarke, Bryan	JR-3	Texas Southern	5:15.89	2019 SWAC Outdoor T&F Championships	May 3, 2019
+45	Abdullah, Hamza	FR-1	Alabama State	5:17.14	2019 SWAC Outdoor T&F Championships	May 3, 2019
+46	Alex, Tenoa	JR-3	Jackson State	5:20.38	2019 SWAC Outdoor T&F Championships	May 3, 2019
+47	Trahan , Chaaka	JR-3	Alabama State	5:20.74	2019 SWAC Outdoor T&F Championships	May 3, 2019
+48	Goins , Javaris	JR-3	Alabama State	5:23.37	2019 SWAC Outdoor T&F Championships	May 3, 2019
+49	Green, Floyd	SR-4	Alabama State	5:23.62	War Eagle Invitational 2019	Apr 19, 2019
+50	Bain, Karon	SO-2	Texas Southern	5:40.05	2019 SWAC Outdoor T&F Championships	May 3, 2019

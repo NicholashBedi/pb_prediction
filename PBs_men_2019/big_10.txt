@@ -1,0 +1,123 @@
+1	Hoare, Oliver	JR-3	Wisconsin	3:37.20	Bryan Clay Invitational	Apr 17, 2019
+2	Kusche, George	SO-2	Nebraska	3:39.33	Payton Jordan Invitational	May 2, 2019
+3	Mau, Kyle	JR-3	Indiana	3:40.42	2019 Billy Hayes Invitational	May 3, 2019
+4	Kiprotich, Justine	SR-4	Michigan State	3:41.39	NCAA Division I Outdoor Track & Field Championships	Jun 5, 2019
+5	Browning, Teddy	SO-2	Indiana	3:43.05	2019 Billy Hayes Invitational	May 3, 2019
+6	Hagen, Kenneth	SR-4	Indiana	3:43.29	Tennessee Relays	Apr 11, 2019
+7	Veatch, Ben	SO-2	Indiana	3:44.17	Tennessee Relays	Apr 11, 2019
+8	Abert, Colin	SR-4	Penn State	3:44.26	Florida Relays	Mar 28, 2019
+9	Murphy, Joseph	SR-4	Indiana	3:44.33	NCAA Division I East Region Preliminary Rounds	May 23, 2019
+9	Reiser, Jesse	JR-3	Illinois	3:44.33	Illinois Twilight	Apr 13, 2019
+11	Mylenek, Nathan	JR-3	Iowa	3:44.49	Drake Relays presented by Hy-Vee	Apr 24, 2019
+12	Michalski, Daniel	SR-4	Indiana	3:44.88	Tennessee Relays	Apr 11, 2019
+12	Maher, Drew	FR-1	Penn State	3:44.88	Bison Outdoor Classic	Apr 13, 2019
+14	Hill, Ben	JR-3	Michigan	3:44.97	Stanford Invitational	Mar 29, 2019
+15	Williams, Cooper	JR-3	Indiana	3:45.16	Cardinal Classic	Apr 19, 2019
+16	Beadlescomb, Morgan	SO-2	Michigan State	3:45.27	Virginia Challenge	Apr 19, 2019
+17	O'Callaghan, Denis	SR-4	Illinois	3:45.31	NCAA Division I West Region Preliminary Rounds	May 23, 2019
+18	Abrahams, James	SO-2	Penn State	3:45.71	Bison Outdoor Classic	Apr 13, 2019
+19	Wing, Owen	SO-2	Penn State	3:46.18	Bison Outdoor Classic	Apr 13, 2019
+20	Hontz, Brandon	SO-2	Penn State	3:46.54	Bison Outdoor Classic	Apr 13, 2019
+21	McDevitt, Billy	SR-4	Penn State	3:47.35	2019 ASU Invitational	Mar 22, 2019
+22	Bete, Paul	SO-2	Ohio State	3:47.42	Big Ten Championships	May 10, 2019
+23	Claiborne, Isaiah	FR-1	Penn State	3:47.88	Bison Outdoor Classic	Apr 13, 2019
+24	Johnson, Cole	FR-1	Michigan	3:48.15	Big Ten Championships	May 10, 2019
+25	Aho, Jack	SO-2	Michigan	3:48.55	Len Paddock Open	May 3, 2019
+26	Landis, Luke	JR-3	Ohio State	3:48.64	LSU Battle on the Bayou	Apr 6, 2019
+27	MacIntosh, Jordan	FR-1	Minnesota	3:49.07	Drake Relays presented by Hy-Vee	Apr 24, 2019
+28	Lucas, Hunter	FR-1	Minnesota	3:49.15	Big Ten Championships	May 10, 2019
+29	Sommer, Karson	SO-2	Iowa	3:49.52	Bryan Clay Invitational	Apr 17, 2019
+30	Perretta, Domenic	SO-2	Penn State	3:49.63	LSU Battle on the Bayou	Apr 6, 2019
+31	Roberts, Jeff	FR-1	Iowa	3:49.71	Drake Relays presented by Hy-Vee	Apr 24, 2019
+32	Benning, Zack	SR-4	Wisconsin	3:49.86	Wisconsin Alumni Classic	May 3, 2019
+33	Petruno, John	FR-1	Michigan State	3:50.00	Big Ten Championships	May 10, 2019
+34	Griffith, Kyle	SO-2	Purdue	3:50.05	Drake Relays presented by Hy-Vee	Apr 24, 2019
+35	Magnesen, Billy	SR-4	Illinois	3:50.39	Illinois Twilight	Apr 13, 2019
+36	Harding, Isaac	JR-3	Michigan	3:50.56	Len Paddock Open	May 3, 2019
+37	Basten, Alec	SO-2	Minnesota	3:50.66	Duke Invitational	Apr 19, 2019
+38	Hoeft, Owen	SO-2	Minnesota	3:50.87	Jim Click Shootout	Apr 6, 2019
+39	Healy, Noah	FR-1	Iowa	3:51.07	Bryan Clay Invitational	Apr 17, 2019
+40	Miller, Nick	FR-1	Ohio State	3:51.10	Jesse Owens Classic - The Ohio State University	Apr 26, 2019
+41	Bennett, Aaron	FR-1	Indiana	3:51.12	Florida Relays	Mar 28, 2019
+42	Pschunder, Nick	JR-3	Rutgers	3:51.23	Big Ten Championships	May 10, 2019
+43	Hill, Billy	SO-2	Rutgers	3:51.30	Mets Outdoor Track and Field Championship	Apr 12, 2019
+44	Loud, Irwin	FR-1	Illinois	3:52.31	The Reveille Meet	Apr 6, 2019
+45	Romeyn, Winter	JR-3	Michigan State	3:52.39	Raleigh Relays	Mar 29, 2019
+46	Landowne, Will	FR-1	Michigan	3:52.89	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+47	Wilkie, Ryan	SR-4	Michigan	3:53.22	Cardinal Classic	Apr 19, 2019
+48	Olson, Connor	JR-3	Minnesota	3:53.38	Minnesota Men's Twilight	May 1, 2019
+49	Rink, Nick	SO-2	Minnesota	3:53.44	Tomcat Twilight	Apr 18, 2019
+50	LaRance, Dawson	SO-2	Minnesota	3:53.55	Stanford Invitational	Mar 29, 2019
+51	Plowman, Matt	SR-4	Michigan	3:53.78	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+52	Aljabaly, Shuaib	FR-1	Wisconsin	3:53.89	Wisconsin Alumni Classic	May 3, 2019
+53	Wagner, Tannor	SO-2	Wisconsin	3:54.18	Stanford Invitational	Mar 29, 2019
+54	Barnett, Chase	SR-4	Michigan	3:54.30	Big Ten Championships	May 10, 2019
+55	Eliason, Seth	FR-1	Minnesota	3:54.48	Stanford Invitational	Mar 29, 2019
+56	Manderscheid, Jack	SO-2	Minnesota	3:54.59	Tomcat Twilight	Apr 18, 2019
+57	Wallace, Luke	SO-2	Michigan	3:54.74	Len Paddock Open	May 3, 2019
+58	Murphy, Daniel	JR-3	Iowa	3:54.79	2019 Baldy Castillo Invitational	Mar 15, 2019
+59	Millar, Bryce	JR-3	Indiana	3:55.02	Tennessee Relays	Apr 11, 2019
+60	Claiborne, Elijah	FR-1	Penn State	3:55.11	Team Challenge	Apr 20, 2019
+61	Hubaker, Christian	SO-2	Michigan	3:55.18	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+62	Tate, Lewis	FR-1	Michigan	3:55.32	Len Paddock Open	May 3, 2019
+63	Simmons, Derrick	FR-1	Michigan	3:55.40	Len Paddock Open	May 3, 2019
+64	Law, Brayden	JR-3	Michigan State	3:55.75	Big Ten Championships	May 10, 2019
+65	Hill, Jared	FR-1	Michigan	3:56.35	Len Paddock Open	May 3, 2019
+66	Osika, Tommy	SR-4	Michigan State	3:56.39	53rd Annual Hillsdale "GINA" Relays	Apr 25, 2019
+66	Pieper, John	FR-1	Purdue	3:56.39	Jim Click Shootout	Apr 6, 2019
+68	McIntire, Bailey	SO-2	Purdue	3:56.83	Louisville Invitational	Apr 12, 2019
+69	Barton, Ryan	FR-1	Penn State	3:57.07	Bison Outdoor Classic	Apr 13, 2019
+70	Jones, William	SO-2	Maryland	3:57.30	2019 Larry Ellis Invitational	Apr 20, 2019
+71	Schilling, Andrew	JR-3	Wisconsin	3:57.40	Wisconsin Alumni Classic	May 3, 2019
+72	Eklin, Ian	SR-4	Iowa	3:57.48	2019 Baldy Castillo Invitational	Mar 15, 2019
+73	Bobbitt, Brady	JR-3	Penn State	3:57.63	Jim Thorpe	May 3, 2019
+74	Timmons, Bailey	SO-2	Nebraska	3:57.67	Crimson Tide Invitational	Apr 11, 2019
+75	Staack, Hunter	SO-2	Minnesota	3:58.15	Minnesota Men's Twilight	May 1, 2019
+76	Barlev, Aaron	SR-4	Maryland	3:58.56	North Florida Spring Break Invitational	Mar 21, 2019
+77	Lee, Jacob	SO-2	Michigan	3:58.83	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+78	Morrison, Joe	FR-1	Minnesota	3:58.91	Tomcat Twilight	Apr 18, 2019
+79	Mudel, Gabe	FR-1	Michigan	3:58.97	Len Paddock Open	May 3, 2019
+80	Dale, Zach	JR-3	Illinois	3:59.20	SIU Bill Cornell Spring Classic	Mar 22, 2019
+81	Hanley, Patrick	SR-4	Maryland	3:59.75	Virginia v. Maryland, Pitt, West Virginia	Apr 6, 2019
+82	Eastman, Ryan	FR-1	Nebraska	4:00.56	Crimson Tide Invitational	Apr 11, 2019
+83	Lathrop, Dan	SR-4	Illinois	4:00.76	Illinois Twilight	Apr 13, 2019
+84	Dimambro, Dominic	FR-1	Michigan	4:00.88	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+85	McGuire, Wyatt	SR-4	Nebraska	4:00.97	Crimson Tide Invitational	Apr 11, 2019
+86	LeComte, Karson	JR-3	Nebraska	4:01.58	2019 Nebraska Invitational	May 4, 2019
+87	Plaetinck, Joost	SO-2	Michigan	4:02.20	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+88	Soto, Daniel	JR-3	Iowa	4:02.41	2019 Baldy Castillo Invitational	Mar 15, 2019
+89	Moss, Ty	JR-3	Nebraska	4:02.50	Wichita State Herm Wilson Invitational	Mar 21, 2019
+90	Schram, Matt	FR-1	Michigan State	4:02.65	Spartan Invitational	Apr 5, 2019
+91	Lalonde, Jack	SO-2	Illinois	4:03.04	SIU Bill Cornell Spring Classic	Mar 22, 2019
+92	Martins, Ryan	SO-2	Nebraska	4:03.05	Wichita State Herm Wilson Invitational	Mar 21, 2019
+93	McIntrye, Wyatt	FR-1	Illinois	4:03.56	2019 Kip Janvrin Open	Apr 25, 2019
+94	Bowling, Tyler	FR-1	Purdue	4:03.78	SIU Bill Cornell Spring Classic	Mar 22, 2019
+95	Bauers, Steve	JR-3	Ohio State	4:04.14	Big Ten Championships	May 10, 2019
+96	Hughes, Christopher	FR-1	Penn State	4:04.15	Jim Thorpe	May 3, 2019
+97	Eiring, Konrad	SR-4	Illinois	4:04.89	SIU Bill Cornell Spring Classic	Mar 22, 2019
+98	Buckley, Ty	FR-1	Michigan State	4:05.11	GVSU Al Owens Classic	Apr 19, 2019
+99	Comito, Andrew	JR-3	Rutgers	4:07.02	Mets Outdoor Track and Field Championship	Apr 12, 2019
+100	Goebel, Luke	FR-1	Illinois	4:07.08	Ole Miss Classic	Mar 30, 2019
+101	Hanawalt, Jake	SR-4	Purdue	4:07.47	UTSA Invitational	Mar 15, 2019
+102	Melchert, Michael	SR-4	Iowa	4:07.79	Stanford Invitational	Mar 29, 2019
+103	Walsh, Patrick	SO-2	Rutgers	4:08.19	Rider 5-Way	Mar 30, 2019
+104	Burgwald, Theo	JR-3	Purdue	4:08.93	UTSA Invitational	Mar 15, 2019
+105	Ferlic, Evan	JR-3	Minnesota	4:10.04	Duke Invitational	Apr 19, 2019
+106	Felty, Avery	JR-3	Michigan State	4:11.15	GVSU Al Owens Classic	Apr 19, 2019
+107	Tollinger, Alex	SO-2	Nebraska	4:11.32	2019 Nebraska Invitational	May 4, 2019
+108	Bambals, Daniels	FR-1	Nebraska	4:11.48	Wichita State Herm Wilson Invitational	Mar 21, 2019
+109	Barkouch, Younass	SO-2	Rutgers	4:13.95	Rider 5-Way	Mar 30, 2019
+110	Loadholt, Jared	SR-4	Maryland	4:14.04	Hopkins Loyola Invitational	Apr 12, 2019
+111	Steinberg-McElroy, Steven	SO-2	Rutgers	4:14.88	Mets Outdoor Track and Field Championship	Apr 12, 2019
+112	Scott, Ryan	SR-4	Maryland	4:17.43	Maryland Invitational	Mar 16, 2019
+113	Lint, Jack	SR-4	Michigan	4:35.22	NCAA Division I Outdoor Track & Field Championships	Jun 5, 2019
+114	Swaby, Noah	FR-1	Penn State	4:35.47	Big Ten Championships	May 10, 2019
+115	Martin, Isaiah	FR-1	Purdue	4:36.27	NCAA Division I Outdoor Track & Field Championships	Jun 5, 2019
+116	Nytes, Trent	SR-4	Wisconsin	4:40.64	Bryan Clay Invitational	Apr 17, 2019
+117	Guerrant, Nick	JR-3	Michigan State	4:41.74	Big Ten Championships	May 10, 2019
+118	Lorbeck, Zachary	JR-3	Wisconsin	4:49.39	Bryan Clay Invitational	Apr 17, 2019
+119	Podraza, Zach	SO-2	Nebraska	4:53.83	Big Ten Championships	May 10, 2019
+120	Haack, Peyton	FR-1	Iowa	4:54.47	Bryan Clay Invitational	Apr 17, 2019
+121	Lee, Garrett	FR-1	Purdue	4:59.73	Jim Click Shootout	Apr 6, 2019
+122	Afflitto, Paul	JR-3	Wisconsin	5:03.55	Big Ten Championships	May 10, 2019
+123	Seay, Jared	SR-4	Nebraska	6:00.51	Big Ten Championships	May 10, 2019

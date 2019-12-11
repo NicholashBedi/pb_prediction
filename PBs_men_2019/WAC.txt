@@ -1,0 +1,76 @@
+1	Graham, Aisha	SR-4	Utah Valley	4:21.18	NCAA Division I West Region Preliminary Rounds	May 23, 2019
+2	Neuberger, Savannah	SR-4	Utah Valley	4:22.11	NCAA Division I West Region Preliminary Rounds	May 23, 2019
+3	Amberg, Crissey	SR-4	New Mexico St.	4:23.89@	WAC Outdoor Track and Field Championships	May 9, 2019
+4	Hildebrandt, Paige	JR-3	Grand Canyon	4:33.07	2019 Triton Invitational	Apr 12, 2019
+5	Renaud, Emilie	FR-1	Cal Baptist	4:33.75	Oxy Distance Carnival Spring Break Classic	Mar 9, 2019
+6	Viertel, Taylor	FR-1	Utah Valley	4:33.96@	WAC Outdoor Track and Field Championships	May 9, 2019
+7	Somogyi, Anett	JR-3	Cal Baptist	4:34.68	adidas/Steve Scott Invitational	Apr 26, 2019
+8	Novak, Natalia	SO-2	Cal Baptist	4:34.96	Bryan Clay Invitational	Apr 17, 2019
+9	Balsan, Elizabeth	SO-2	Grand Canyon	4:35.11@	WAC Outdoor Track and Field Championships	May 9, 2019
+10	Riggs-Cowley, Maddie	SR-4	Utah Valley	4:35.19	Bryan Clay Invitational	Apr 17, 2019
+11	Ladanyi, Fruzsina	JR-3	Cal Baptist	4:35.97	UC-Riverside Spring Track Classic	Mar 21, 2019
+12	Nolke, Elizabeth	SR-4	UMKC	4:36.74	Arkansas Twilight	May 3, 2019
+13	Herner, Sommer	FR-1	UMKC	4:37.57	Arkansas Twilight	May 3, 2019
+14	Hanners, Katherine	SO-2	UMKC	4:40.57	2019 Husker Spring Invitational	Apr 5, 2019
+15	Palumbo, Linda	FR-1	Cal Baptist	4:40.62@	WAC Outdoor Track and Field Championships	May 9, 2019
+16	Spinler, Sierra	JR-3	UT-Rio Grande Valley	4:40.69	J Fred Duckett Twilight Meet	Apr 20, 2019
+17	Dean, Halley	JR-3	UMKC	4:41.49	Arkansas Twilight	May 3, 2019
+18	Iznerowicz, Karolina	FR-1	Cal Baptist	4:41.56	UC-Riverside Spring Track Classic	Mar 21, 2019
+19	Keurentjes, Kyra	FR-1	UT-Rio Grande Valley	4:41.76	UIW Invitational	Apr 12, 2019
+20	Mate, Anna	FR-1	Cal Baptist	4:41.91	adidas/Steve Scott Invitational	Apr 26, 2019
+21	Yescas, Julia	JR-3	New Mexico St.	4:42.06	Bryan Clay Invitational	Apr 17, 2019
+22	Koech, Dorcas	FR-1	UT-Rio Grande Valley	4:42.87	South Texas Showdown	Apr 6, 2019
+23	Wallace, Erika	JR-3	Grand Canyon	4:43.43@	WAC Outdoor Track and Field Championships	May 9, 2019
+24	Jacobson, Lindy	SR-4	Grand Canyon	4:43.78	2019 Willie Williams Classic College	Mar 15, 2019
+25	Cordova, McKayla	SO-2	Grand Canyon	4:44.48@	WAC Outdoor Track and Field Championships	May 9, 2019
+26	Kresl, Elana	SO-2	New Mexico St.	4:44.50	Texas State Bobcat Invitational	Mar 28, 2019
+27	Chandler, Kyandra	SO-2	Utah Valley	4:44.96	Beach Invitational	Apr 19, 2019
+28	Melaney, Mazzie	FR-1	Utah Valley	4:45.12@	2019 UVU Collegiate Invitational	Mar 29, 2019
+29	Pacheco, Nicolette	JR-3	New Mexico St.	4:45.55@	WAC Outdoor Track and Field Championships	May 9, 2019
+30	Walden, Cheyenne	SO-2	Grand Canyon	4:45.56	2019 Triton Invitational	Apr 12, 2019
+31	Chahrouri, Marie-Therese	FR-1	Seattle U.	4:46.57@	WAC Outdoor Track and Field Championships	May 9, 2019
+32	Zapata, Jennifer	SR-4	UT-Rio Grande Valley	4:46.75	Beach Invitational	Apr 19, 2019
+33	Rios, Bryana	JR-3	UT-Rio Grande Valley	4:47.88	South Texas Showdown	Apr 6, 2019
+34	Salazar, Leah	JR-3	New Mexico St.	4:49.05	Texas State Bobcat Invitational	Mar 28, 2019
+35	Paula Guerrero, Maria		Cal Baptist	4:49.35	Chris Rinne Highlander Twilight	Apr 12, 2019
+36	Jeppson, Skye	FR-1	Utah Valley	4:49.61@	Weber State Spring Classic	Apr 12, 2019
+37	MacArthur, Lexi	JR-3	Utah Valley	4:50.08	UC-Riverside Spring Track Classic	Mar 21, 2019
+38	Rivera, Monica	FR-1	UT-Rio Grande Valley	4:51.30	South Texas Showdown	Apr 6, 2019
+39	Soto, Yarithza	JR-3	Grand Canyon	4:51.41	Titan Team Challenge	Mar 30, 2019
+40	Honea, Anastasia	SO-2	Seattle U.	4:51.64	4th Annual Doris Heritage Track Festival	Mar 16, 2019
+41	Orrock, Lara	FR-1	Cal Baptist	4:51.82	UC-Riverside Spring Track Classic	Mar 21, 2019
+42	O'Hara, Emily	JR-3	Seattle U.	4:51.95@	WAC Outdoor Track and Field Championships	May 9, 2019
+43	Sandin, Richelle	FR-1	New Mexico St.	4:52.41	2019 Desert Heat Classic	Apr 27, 2019
+44	Dominguez, Jessica	SO-2	New Mexico St.	4:53.16@(1)	UTEP Springtime	Mar 15, 2019
+45	Meyers, Caroline	FR-1	UMKC	4:53.36	2019 Husker Spring Invitational	Apr 5, 2019
+46	O'Leary, Fiona	FR-1	Seattle U.	4:53.43	Mike Fanelli Track Classic	Mar 28, 2019
+47	Kastama, Rachel	SO-2	Seattle U.	4:53.52	Mike Fanelli Track Classic	Mar 28, 2019
+48	Jepkoech, Brenda	FR-1	Chicago State	4:53.87@	WAC Outdoor Track and Field Championships	May 9, 2019
+49	Higgins, Shannan	JR-3	Seattle U.	4:55.19	Mike Fanelli Track Classic	Mar 28, 2019
+50	Foulk, Thea	JR-3	Seattle U.	4:55.37	Mike Fanelli Track Classic	Mar 28, 2019
+51	Nielson, Megan	FR-1	Utah Valley	4:56.40@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+52	Jaloma, Sarah	JR-3	UMKC	4:57.47	2019 Husker Spring Invitational	Apr 5, 2019
+53	Andrews, Mary	FR-1	Cal Baptist	4:58.16	Oxy Distance Carnival Spring Break Classic	Mar 9, 2019
+54	Alvarez-Tostado, Ana	FR-1	Grand Canyon	4:58.89	41st Annual Aztec Open	Mar 21, 2019
+55	West, Abby	SO-2	Utah Valley	4:59.17	UNLV Invitational and Sheila Tarr Multis	Mar 14, 2019
+56	Romo, Anahi	FR-1	UT-Rio Grande Valley	4:59.69	South Texas Showdown	Apr 6, 2019
+57	Delorey, Megan	FR-1	Seattle U.	4:59.79	Mike Fanelli Track Classic	Mar 28, 2019
+58	Romero, Michaela	SO-2	New Mexico St.	5:02.00@	2019 Don Kirby Tailwind Open	Apr 6, 2019
+59	Fitzgerald, Kenzie	SR-4	Grand Canyon	5:02.55	2019 Willie Williams Classic College	Mar 15, 2019
+60	Christensen, Rebekah	SO-2	Utah Valley	5:02.78	Beach Invitational	Apr 19, 2019
+61	Linford, Abby	SO-2	Utah Valley	5:02.93	UNLV Invitational and Sheila Tarr Multis	Mar 14, 2019
+62	Bartlett, Anna	FR-1	Cal Baptist	5:02.96	RCC Invitational	Mar 1, 2019
+63	Kirkpatrick, Kelli	SO-2	New Mexico St.	5:04.82@(1)	UTEP Springtime	Mar 15, 2019
+64	Frausto, Alejandra	JR-3	CSU Bakersfield	5:04.99	Titan Team Challenge	Mar 30, 2019
+65	Quintero, Stephanie	SR-4	New Mexico St.	5:05.09	2019 Desert Heat Classic	Apr 27, 2019
+66	Diaz, Alyssa	FR-1	CSU Bakersfield	5:05.81@	WAC Outdoor Track and Field Championships	May 9, 2019
+67	Frausto, Bianca	SO-2	CSU Bakersfield	5:06.24	Titan Team Challenge	Mar 30, 2019
+68	Perry, Annicka	SO-2	Utah Valley	5:06.73	UNLV Invitational and Sheila Tarr Multis	Mar 14, 2019
+69	Hernandez, Francis	FR-1	New Mexico St.	5:07.79@	2019 Don Kirby Tailwind Open	Apr 6, 2019
+70	Koima, Sharon	FR-1	UT-Rio Grande Valley	5:11.61	South Texas Showdown	Apr 6, 2019
+71	Beedy, Chloe	FR-1	Cal Baptist	5:15.60	UC-Riverside Spring Track Classic	Mar 21, 2019
+72	Yanez, Monica	JR-3	UT-Rio Grande Valley	5:17.78	Texas A&M Kingsville Cactus Cup	Mar 22, 2019
+73	Goana, Alea	FR-1	CSU Bakersfield	5:24.97	2019 Pomona-Pitzer Invitational (College/Univ)	Apr 6, 2019
+74	Aguinaga, Kelly	SO-2	UT-Rio Grande Valley	5:32.76	South Texas Showdown	Apr 6, 2019
+75	Lopez, Virginia	FR-1	CSU Bakersfield	5:35.57	2019 Pomona-Pitzer Invitational (College/Univ)	Apr 6, 2019
+76	Ortiz, Kim	SR-4	CSU Bakersfield	7:02.32	2019 Pomona-Pitzer Invitational (College/Univ)	Apr 6, 2019

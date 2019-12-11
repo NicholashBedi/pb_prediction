@@ -1,0 +1,147 @@
+1	Ulrich, William	SR-4	New Hampshire	3:46.43(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+2	Becker, Robert	FR-1	Stony Brook	3:49.78	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+3	Holmes, Derek	SO-2	UMass Lowell	3:49.79	Bryan Clay Invitational	Apr 17, 2019
+4	Hogan , Paul	SR-4	UMass Lowell	3:50.02(1)	Boston University Multi-Team Meet	Jan 19, 2019
+5	Benner, John	JR-3	Vermont	3:50.31	Bryan Clay Invitational	Apr 17, 2019
+6	Willingham, Aaron	SR-4	Maine	3:50.69(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+7	Baranoski, Taylor	SO-2	UMBC	3:50.97	2019 Larry Ellis Invitational	Apr 20, 2019
+8	Schaffer, Dan	JR-3	Binghamton	3:51.93	Virginia Challenge	Apr 19, 2019
+9	Hoerner, Brett	SR-4	New Hampshire	3:52.36	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+10	Gronostaj, Kyle	SR-4	Albany	3:52.41(1)	Boston University Bruce Lehane Scarlet and White Invitationa	Feb 2, 2019
+11	Kimball, Liam		UMass Lowell	3:52.68(1)	2019 America East Indoor Championships	Feb 22, 2019
+12	Hauver, Grant	JR-3	UMass Lowell	3:52.70(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+13	Moffett, Vann	JR-3	Stony Brook	3:52.80	2019 America East Outdoor Championships	May 4, 2019
+14	Maloy, Harrison	JR-3	UMass Lowell	3:53.11(1)	Boston University Multi-Team Meet	Jan 19, 2019
+15	Wilkes, James	FR-1	New Hampshire	3:53.12(1)	NEICAAA Indoor Track & Field Championships	Feb 1, 2019
+16	Kenefick, Timothy	SR-4	New Hampshire	3:53.40(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+17	Sullivan, Aidan	SO-2	New Hampshire	3:53.79(1)	2019 America East Indoor Championships	Feb 22, 2019
+18	Watts, Michael	SR-4	Stony Brook	3:53.89	2019 America East Outdoor Championships	May 4, 2019
+19	Alfond, Christopher	SO-2	UMass Lowell	3:54.10(1)	Boston University Multi-Team Meet	Jan 19, 2019
+20	Teachen, Thomas	SR-4	UMass Lowell	3:54.33(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+21	Marshall, Tyler	SO-2	Vermont	3:54.55	Bryan Clay Invitational	Apr 17, 2019
+22	Petela, Luke	JR-3	Vermont	3:54.61(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+23	Gish, Chris	SO-2	Vermont	3:54.87(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+24	Lanternier, Samuel	JR-3	New Hampshire	3:54.97	2019 America East Outdoor Championships	May 4, 2019
+25	Caulfield, Neville	JR-3	Vermont	3:55.03	Bryan Clay Invitational	Apr 17, 2019
+26	Ragone, Charlie	JR-3	Albany	3:55.65	2019 America East Outdoor Championships	May 4, 2019
+27	Cosgrove, Daniel	FR-1	UMass Lowell	3:55.75(1)	Boston University Multi-Team Meet	Jan 19, 2019
+28	Smyth, Aiden	FR-1	Stony Brook	3:56.24(1)	2019 America East Indoor Championships	Feb 22, 2019
+29	Malanaphy, Conor	FR-1	Stony Brook	3:56.26	2019 America East Outdoor Championships	May 4, 2019
+30	Munnelly, Sean	SR-4	UMass Lowell	3:56.55(1)	Boston University Multi-Team Meet	Jan 19, 2019
+31	Smith, Miles	JR-3	UMBC	3:56.75(1)	Penn State Tune-Up	Feb 16, 2019
+32	Greatorex, Matthew	FR-1	UMass Lowell	3:56.94(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+33	Halpern, Mitch	JR-3	Binghamton	3:57.06	2019 Colonial Relays	Apr 4, 2019
+34	Skelly, Chris	SR-4	UMass Lowell	3:57.18(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+35	Saveliev, Alexander	JR-3	New Hampshire	3:57.22	2019 America East Outdoor Championships	May 4, 2019
+36	Kane, Matthew	SR-4	UMBC	3:57.39(1)	Penn State Tune-Up	Feb 16, 2019
+37	Bearkland, Andrew	JR-3	Stony Brook	3:57.40(1)	2019 America East Indoor Championships	Feb 22, 2019
+38	Johnson, Jake	JR-3	Albany	3:57.86	2019 America East Outdoor Championships	May 4, 2019
+38	Drezek, Benjamin	SO-2	UMass Lowell	3:57.86(1)	Boston University Multi-Team Meet	Jan 19, 2019
+40	O'Driscoll, Steve	FR-1	Vermont	3:58.20	2019 America East Outdoor Championships	May 4, 2019
+41	Dearie, Ryan	SO-2	Stony Brook	3:58.21	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+42	Hynes, Matt	SO-2	Vermont	3:58.63(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+43	Everett, Drew		UMass Lowell	3:58.67(1)	Boston University Multi-Team Meet	Jan 19, 2019
+44	Herburger, Nurlan	SR-4	Hartford	3:58.88(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+45	Adams, Matthew	JR-3	New Hampshire	3:58.91	2019 UNH Wildcat Invitational	Apr 13, 2019
+46	Kelly, Justin	FR-1	Stony Brook	3:59.59	Stony Brook University Snow Flake Spring Opener	Mar 23, 2019
+47	Olivier, James	FR-1	Maine	3:59.67(1)	UMaine Sunday Invitational	Feb 10, 2019
+48	Vinolas, Kevin	SR-4	Stony Brook	3:59.83(1)	Mets Indoor Track & Field Championships	Jan 31, 2019
+49	Groff, Christian	FR-1	Vermont	3:59.98(1)	2019 America East Indoor Championships	Feb 22, 2019
+50	Sevilla-Connelly, Nicolas	JR-3	New Hampshire	4:00.33	2019 UNH Wildcat Invitational	Apr 13, 2019
+51	Comstock, Bill	FR-1	Vermont	4:00.46	University of MA Minuteman Invitational	Apr 6, 2019
+52	Kracher, Taylor	SR-4	Vermont	4:00.61	University of MA Minuteman Invitational	Apr 6, 2019
+53	JeanPierre, Matthew	JR-3	Albany	4:00.73	Sam Howell Invitational	Apr 6, 2019
+54	Howe, Nathaniel	SR-4	Binghamton	4:00.90	Team Challenge	Apr 20, 2019
+55	Antonetti, Peter	FR-1	UMBC	4:00.95	Florida Relays	Mar 28, 2019
+56	Orach, Ethan	SO-2	Maine	4:01.06	2019 UNH Wildcat Invitational	Apr 13, 2019
+57	O'Brien, Nicholas	SO-2	Hartford	4:01.20	2019 America East Outdoor Championships	May 4, 2019
+58	Moshier, Kevin	FR-1	Binghamton	4:01.50(1)	Sykes & Sabock Challange Cup	Feb 2, 2019
+59	Moran, Cody	SO-2	UMass Lowell	4:02.13(1)	Alan Connie Shamrock Invite	Mar 14, 2019
+60	Schmeck, Gavin	JR-3	Vermont	4:02.15(1)	NEICAAA Indoor Track & Field Championships	Feb 1, 2019
+61	Cloutier, Kyle	SO-2	UMass Lowell	4:02.40(1)	Ocean State Invitational	Apr 12, 2019
+62	Sawyer, Spenser	FR-1	New Hampshire	4:02.63	2019 UNH Season Opener	Apr 6, 2019
+63	Gelfand, Kasey	SO-2	Vermont	4:02.69(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+64	Fontaine, Josh	SR-4	UMass Lowell	4:02.76(1)	Boston University Multi-Team Meet	Jan 19, 2019
+65	Staples, Joey	SR-4	Vermont	4:03.17	2019 America East Outdoor Championships	May 4, 2019
+66	Joyce, Joe	FR-1	Vermont	4:03.19(1)	2019 America East Indoor Championships	Feb 22, 2019
+67	Hutchings, Daryn	SR-4	Binghamton	4:03.51	Cornell Big Red Invitational	Apr 28, 2019
+68	Nadal, Nathan		UMBC	4:03.57(1)	2019 Great Dane Classic	Jan 12, 2019
+69	Carbone, Justin	SO-2	UMass Lowell	4:03.71(1)	Boston University Bruce Lehane Scarlet and White Invitationa	Feb 2, 2019
+70	Ireland, Maxwell	SO-2	New Hampshire	4:03.83	2019 UNH Wildcat Invitational	Apr 13, 2019
+71	LaCroix, Will	JR-3	Vermont	4:04.63	University of MA Minuteman Invitational	Apr 6, 2019
+72	Leff, David	SO-2	Binghamton	4:05.02(1)	Marc Deneault Invitational	Feb 16, 2019
+73	Gahagan, Daniel	FR-1	Binghamton	4:05.76	Bison Outdoor Classic	Apr 13, 2019
+74	Lepage, Andrew	FR-1	New Hampshire	4:05.87(1)	Univ of New Hampshire & Univ of Maine	Nov 30, 2018
+75	Yost, Dean	SR-4	New Hampshire	4:06.00(1)	URI Tribute to Bill Falk	Feb 9, 2019
+76	Biondi, Chris	JR-3	Stony Brook	4:06.10	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+77	Kitchen, Patrick	SO-2	Vermont	4:06.97	2019 America East Outdoor Championships	May 4, 2019
+78	Grosner, Isaac	JR-3	Vermont	4:07.11	University of MA Minuteman Invitational	Apr 6, 2019
+79	Langer, Christopher	JR-3	UMass Lowell	4:07.12(1)	Boston University Bruce Lehane Scarlet and White Invitationa	Feb 2, 2019
+80	Matyas, Wyatt	FR-1	Vermont	4:07.24(1)	NEICAAA Indoor Track & Field Championships	Feb 1, 2019
+81	Denis, Ian	SO-2	Vermont	4:07.29	University of MA Minuteman Invitational	Apr 6, 2019
+82	Mclaughlin, Tyler	FR-1	New Hampshire	4:07.41	2019 UNH Wildcat Invitational	Apr 13, 2019
+83	Demers, Phillip	JR-3	UMass Lowell	4:07.67(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+84	Walker, Matthew	FR-1	New Hampshire	4:07.89(1)	UNH vs Maine vs Vermont vs Dartmouth	Jan 26, 2019
+85	Rodriguez, Anthony		UMass Lowell	4:08.12(1)	2019 Beantown Challenge	Jan 12, 2019
+86	Busi, James	SR-4	New Hampshire	4:08.24(1)	UNH vs Maine vs Vermont vs Dartmouth	Jan 26, 2019
+86	Goyden, Matthew	SO-2	Binghamton	4:08.24(1)	Marc Deneault Invitational	Feb 16, 2019
+88	Mclaughlin, Dylan	SO-2	New Hampshire	4:08.50	2019 UNH Wildcat Invitational	Apr 13, 2019
+89	Parlato, Dominic	JR-3	UMass Lowell	4:08.52(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+90	Tardiff, Colin	JR-3	Maine	4:09.00	2019 America East Outdoor Championships	May 4, 2019
+91	Bellomo, Noah	SO-2	UMass Lowell	4:09.22(1)	Alan Connie Shamrock Invite	Mar 14, 2019
+92	Brown, Nicholas	JR-3	New Hampshire	4:09.27	2019 UNH Season Opener	Apr 6, 2019
+93	Velasquez, Dhahran	SR-4	UMass Lowell	4:09.44(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+94	Garrison, Sean	JR-3	Hartford	4:09.45(1)	URI Tribute to Bill Falk	Feb 9, 2019
+95	Huff, Brennan	SO-2	Vermont	4:11.02(1)	2019 Dartmouth Relays - COLLEGE and OPEN	Jan 13, 2019
+96	Manuel, Jordan	SO-2	UMass Lowell	4:11.10	UMass Lowell Invitational	Mar 30, 2019
+97	Carmody, Jack	JR-3	Vermont	4:11.49(1)	Middlebury Winterfell	Jan 19, 2019
+98	Sperl, Austin		Albany	4:11.62(1)	2019 Great Dane Classic	Jan 12, 2019
+99	Garcia, Steven	SO-2	Vermont	4:11.83	University of MA Minuteman Invitational	Apr 6, 2019
+100	Gallagher, Jackson	SR-4	UMass Lowell	4:11.84(1)	Alan Connie Shamrock Invite	Mar 14, 2019
+101	Clark, Davis	SR-4	New Hampshire	4:11.90	2019 UNH Wildcat Invitational	Apr 13, 2019
+102	Walsh, Joseph	FR-1	UMass Lowell	4:12.49(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+103	McCauliff, Chris	FR-1	UMass Lowell	4:12.65	UMass Lowell Invitational	Mar 30, 2019
+104	Perillo, Christopher	JR-3	Albany	4:13.32	2019 RPI Capital District Classic	Apr 27, 2019
+105	Rose, Trent	SO-2	UMBC	4:13.51	George Mason Spring Invitational	Apr 13, 2019
+106	Elkort, Ross	JR-3	Vermont	4:13.70	2019 UNH Pre-Conference Invitational	Apr 27, 2019
+107	Crawford, John	JR-3	New Hampshire	4:13.78(1)	UNH vs Maine vs Vermont vs Dartmouth	Jan 26, 2019
+108	Messler, Jon	JR-3	Albany	4:14.00	2019 Bobbi Palma UAlbany Spring Classic	Apr 18, 2019
+109	Gillooly, Ryan	SO-2	UMass Lowell	4:14.07	2019 UNH Pre-Conference Invitational	Apr 27, 2019
+110	Ferro, Mike	FR-1	Vermont	4:14.28(1)	UNH vs Maine vs Vermont vs Dartmouth	Jan 26, 2019
+111	Kalil, Jack	FR-1	UMass Lowell	4:14.32(1)	Tufts Invitational #1	Jan 12, 2019
+112	Bashant, Michael	SO-2	New Hampshire	4:14.80	Holy Cross Men's Meet	Apr 23, 2019
+113	Ramdani, Nassim	FR-1	Albany	4:15.12	2019 RPI Capital District Classic	Apr 27, 2019
+114	Somerville, Joe		Albany	4:15.54(1)	2019 Great Dane Classic	Jan 12, 2019
+115	Adams, Dawson	SO-2	Vermont	4:15.55(1)	Dartmouth v UNH v Maine v Vermont	Dec 8, 2018
+116	Fossa, Drew	SR-4	UMass Lowell	4:15.83(1)	Tufts Invitational #1	Jan 12, 2019
+117	Machabee, Keith	SR-4	Albany	4:16.27(1)	Fastrack National Invite	Feb 8, 2019
+118	Hoteling, Grayson	JR-3	Binghamton	4:16.40	Team Challenge	Apr 20, 2019
+119	McGivern, Kevin	JR-3	UMBC	4:18.20(1)	Penn State Tune-Up	Feb 16, 2019
+120	Thoms, Chris	FR-1	UMBC	4:18.64(1)	George Mason Patriot Games	Jan 25, 2019
+121	Schlining, Michael	FR-1	UMBC	4:18.78	George Mason Spring Invitational	Apr 13, 2019
+122	Ransom, Clifford	FR-1	Vermont	4:19.18	UMass Lowell Invitational	Mar 30, 2019
+123	Moody, Wesley	SO-2	Hartford	4:19.83	University of MA Minuteman Invitational	Apr 6, 2019
+124	Lesko, Dan	SR-4	Maine	4:20.44(1)	UNH vs Maine vs Vermont vs Dartmouth	Jan 26, 2019
+125	Pierce, Willy	SR-4	Hartford	4:20.68(1)	URI Tribute to Bill Falk	Feb 9, 2019
+126	Smith, Liam	FR-1	Vermont	4:20.91(1)	Middlebury Winterfell	Jan 19, 2019
+127	Moore, Andrew	SR-4	Vermont	4:21.41	UMass Lowell Invitational	Mar 30, 2019
+128	Wofford, Tre	SO-2	Vermont	4:21.92	UMass Lowell Invitational	Mar 30, 2019
+129	Daly, Patrick	FR-1	Vermont	4:22.17(1)	Dartmouth v UNH v Maine v Vermont	Dec 8, 2018
+130	Amsden, Owen	FR-1	Vermont	4:22.64	2019 UNH Pre-Conference Invitational	Apr 27, 2019
+131	Farhat, Joseph	SO-2	UMass Lowell	4:22.78	UMass Lowell Invitational	Mar 30, 2019
+132	Wilson, Brian	JR-3	Vermont	4:26.19	2019 Dartmouth Outdoor Invitational	Apr 12, 2019
+133	Cipolla, Nick	FR-1	Stony Brook	4:29.11(1)	Brian Horowitz Invitational	Jan 11, 2019
+134	Willie, Calvin	FR-1	Hartford	4:33.67	UMass Lowell Invitational	Mar 30, 2019
+135	Looke, Stephen	FR-1	Vermont	4:35.39	Jay Carisella Coaches Invitational	Apr 20, 2019
+136	Salinardo, Jonathan	FR-1	Hartford	4:39.99	UMass Lowell Invitational	Mar 30, 2019
+137	Peary, Dennis	JR-3	UMass Lowell	4:44.42	2019 America East Outdoor Championships	May 4, 2019
+138	Andrews, Aidan	SR-4	Vermont	4:48.73	2019 Dartmouth Outdoor Invitational	Apr 12, 2019
+139	Parasky, Alex	JR-3	Vermont	4:52.59	Catamount Combined Events Challenge	Apr 13, 2019
+140	Genet, Brian	FR-1	New Hampshire	4:54.21	2019 America East Outdoor Championships	May 4, 2019
+141	Snide, DJ	SO-2	Vermont	4:56.29	2019 America East Outdoor Championships	May 4, 2019
+142	Taylor, Najee	SR-4	Albany	4:56.77	2019 America East Outdoor Championships	May 4, 2019
+143	Cleathero, Camden	JR-3	Maine	4:59.36	SCSU Northeast Combined Events Challenge	Apr 11, 2019
+144	Lindsey, Elias	SO-2	Vermont	5:01.81	Catamount Combined Events Challenge	Apr 13, 2019
+145	Monahan, Michael	SO-2	New Hampshire	5:03.62	Catamount Combined Events Challenge	Apr 13, 2019
+146	Miele, Daniel	FR-1	Hartford	5:16.10	2019 America East Outdoor Championships	May 4, 2019
+147	Edwards, Jamel	FR-1	Albany	5:43.42	2019 America East Outdoor Championships	May 4, 2019

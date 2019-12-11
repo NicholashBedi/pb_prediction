@@ -1,0 +1,149 @@
+1	Harris, Jessica	SR-4	Notre Dame	4:11.96	NCAA Division I Outdoor Track & Field Championships	Jun 5, 2019
+2	Pocratsky, Rachel	SR-4	Virginia Tech	4:15.72	NCAA Division I Outdoor Track & Field Championships	Jun 5, 2019
+3	Skyring, Maudie	SO-2	Florida State	4:16.12	Bryan Clay Invitational	Apr 17, 2019
+4	Edwards, Sarah	JR-3	Virginia Tech	4:16.37	NCAA Division I East Region Preliminary Rounds	May 23, 2019
+5	Mareno, Nevada	FR-1	North Carolina St.	4:17.45	Charlotte Invitational 2019	Apr 12, 2019
+6	Clairmonte, Dominique	SO-2	North Carolina St.	4:18.67	Charlotte Invitational 2019	Apr 12, 2019
+7	Duca, Paige	JR-3	Boston College	4:19.66	NCAA Division I East Region Preliminary Rounds	May 23, 2019
+8	Schulz, Johanna	JR-3	Wake Forest	4:20.28	ACC Championships	May 9, 2019
+9	Lansing, Liz	SR-4	Duke	4:20.55	Virginia Grand Prix	Apr 26, 2019
+10	Hallowes, Kim	SR-4	Duke	4:20.79	ACC Championships	May 9, 2019
+11	Mooney, Megan	JR-3	Florida State	4:21.30	ACC Championships	May 9, 2019
+12	Judd, Jodie	SO-2	Florida State	4:21.50	ACC Championships	May 9, 2019
+13	Mircheva, Militsa	SR-4	Florida State	4:21.68	FSU Relays (College)	Mar 22, 2019
+14	Ruiz, Amy	SR-4	Georgia Tech	4:22.65	Joe Walker Classic	Apr 12, 2019
+15	Fegans, Nicole	SO-2	Georgia Tech	4:22.96	Joe Walker Classic	Apr 12, 2019
+16	Berman, Lauren	JR-3	Virginia Tech	4:23.39	ACC Championships	May 9, 2019
+17	DaDamio, Rachel	JR-3	Notre Dame	4:24.01	Louisville Invitational	Apr 12, 2019
+18	Reinhart, Michaela	SO-2	Duke	4:25.12	Virginia Grand Prix	Apr 26, 2019
+19	Zachgo, Julia	FR-1	North Carolina St.	4:25.46	Charlotte Invitational 2019	Apr 12, 2019
+20	Halvorsen, Samantha	SO-2	Wake Forest	4:25.58	Charlotte Invitational 2019	Apr 12, 2019
+21	Salvo, Miranda	SR-4	Pittsburgh	4:26.41	ACC Championships	May 9, 2019
+22	Harding-Delooze, Amy	FR-1	Wake Forest	4:26.80	ACC Championships	May 9, 2019
+23	Gallagher, Annie	FR-1	Georgia Tech	4:27.03	ACC Championships	May 9, 2019
+24	Galarza, Liz	SO-2	Georgia Tech	4:27.17	Joe Walker Classic	Apr 12, 2019
+25	Brunton, Ally	SO-2	Pittsburgh	4:27.46	Bison Outdoor Classic	Apr 13, 2019
+26	Herndon, Hana	SO-2	Georgia Tech	4:27.59	Joe Walker Classic	Apr 12, 2019
+27	Brookover, Hannah	SO-2	Wake Forest	4:27.69	Charlotte Invitational 2019	Apr 12, 2019
+28	Edmundson, Erin	JR-3	North Carolina	4:27.74	Raleigh Relays	Mar 29, 2019
+29	Platek, Sara	FR-1	Duke	4:27.82	Virginia Grand Prix	Apr 26, 2019
+30	Holt, Heather	FR-1	North Carolina St.	4:28.17	Charlotte Invitational 2019	Apr 12, 2019
+31	Keller, Annasophia	SO-2	Notre Dame	4:28.23	Louisville Invitational	Apr 12, 2019
+32	Brush, Elizabeth	SO-2	Virginia Tech	4:28.25	Duke Invitational	Apr 19, 2019
+33	Ferguson, Emma	FR-1	North Carolina St.	4:28.29	Raleigh Relays	Mar 29, 2019
+34	Easterly, Kayla	SO-2	Florida State	4:28.34	Crimson Tide Invitational	Apr 11, 2019
+35	Coggins, Addison	SO-2	Florida State	4:28.54	Crimson Tide Invitational	Apr 11, 2019
+36	Wilson, Aurilla	SR-4	Louisville	4:28.56	ACC Championships	May 9, 2019
+37	Spiers, Abigail	FR-1	Syracuse	4:28.81	Bison Outdoor Classic	Apr 13, 2019
+38	Freix, Sara	JR-3	Virginia Tech	4:28.89	Tennessee Relays	Apr 11, 2019
+39	Denner, Maddy	FR-1	Notre Dame	4:30.07	Louisville Invitational	Apr 12, 2019
+40	Gaughan, Jacqueline	FR-1	Notre Dame	4:30.15	Raleigh Relays	Mar 29, 2019
+41	Torino, Leigha	SO-2	Duke	4:30.54	Virginia Grand Prix	Apr 26, 2019
+42	Armstrong, Sarah	JR-3	Duke	4:30.63	ACC Championships	May 9, 2019
+43	Sullivan, Erin	SO-2	Notre Dame	4:31.10	Louisville Invitational	Apr 12, 2019
+44	Lodge, Melissa	SR-4	Syracuse	4:31.32	ACC Championships	May 9, 2019
+45	Lima, Jennifer	SO-2	Florida State	4:31.47	FSU Relays (College)	Mar 22, 2019
+46	Wallace, Eleanor	JR-3	Florida State	4:31.96	Bryan Clay Invitational	Apr 17, 2019
+47	Smith , Meredith	SR-4	Wake Forest	4:32.22	HPU VertKlasse Meeting	Mar 21, 2019
+48	Knight, Stephanie	SR-4	Notre Dame	4:33.10	2019 Billy Hayes Invitational	May 3, 2019
+49	Fisher, Emmeline	SO-2	North Carolina	4:33.20	Virginia Grand Prix	Apr 26, 2019
+50	Solomon, Mary Claire	SO-2	Georgia Tech	4:33.21	Tiger Track Classic 2019	Apr 5, 2019
+51	Moran, Hannah	SO-2	Virginia	4:33.45	Virginia Grand Prix	Apr 26, 2019
+52	Harris, Madison	SR-4	Florida State	4:33.69	Crimson Tide Invitational	Apr 11, 2019
+53	Derry, Kaitlin	SO-2	Wake Forest	4:34.57	Charlotte Invitational 2019	Apr 12, 2019
+54	Hewitt, Althea	SR-4	Florida State	4:34.84	FSU Relays (College)	Mar 22, 2019
+55	Sargent, Olivia	JR-3	Virginia	4:34.86	Virginia Grand Prix	Apr 26, 2019
+56	Bernicke, Kathryn	SO-2	Florida State	4:35.24	Crimson Tide Invitational	Apr 11, 2019
+57	Wright, Elise	FR-1	Wake Forest	4:35.53	HPU VertKlasse Meeting	Mar 21, 2019
+58	Reneau, Elizabeth	FR-1	Duke	4:35.70	Virginia Grand Prix	Apr 26, 2019
+59	Evans, Georgia	FR-1	Wake Forest	4:35.72	Raleigh Relays	Mar 29, 2019
+60	Martin, Jessica	SR-4	Boston College	4:35.85	ACC Championships	May 9, 2019
+61	Harris, Mikie	SO-2	Clemson	4:36.39	Gamecock Invitational Outdoor	Apr 13, 2019
+62	Zeh, Makenzie	SR-4	Pittsburgh	4:36.50	Mountaineer Open	May 4, 2019
+63	Delanis, Emeline	JR-3	Boston College	4:36.89(1)	Ocean State Invitational	Apr 12, 2019
+64	Savchik, Clara	FR-1	Duke	4:37.42	Virginia Grand Prix	Apr 26, 2019
+65	Bothwell, Kiera	SO-2	Virginia	4:37.65	Virginia v. Maryland, Pitt, West Virginia	Apr 6, 2019
+66	Flood, Ellen	JR-3	Georgia Tech	4:37.88	Georgia Tech Invitational	Apr 19, 2019
+67	Korkernak, Amelia	FR-1	Virginia	4:37.89	2019 Fred Hardy Invitational	Mar 29, 2019
+68	Rempel, Megan	SR-4	North Carolina St.	4:37.93	Charlotte Invitational 2019	Apr 12, 2019
+69	McLaughlin, Erin	SR-4	Clemson	4:38.20	North Florida Spring Break Invitational	Mar 21, 2019
+70	Moritz, Claire	FR-1	Georgia Tech	4:38.43	Georgia Tech Invitational	Apr 19, 2019
+71	Burd, Emily	SO-2	Pittsburgh	4:38.83	Bison Outdoor Classic	Apr 13, 2019
+72	Rice, Elizabeth	FR-1	Georgia Tech	4:39.02	Tiger Track Classic 2019	Apr 5, 2019
+73	Vlasic, Mikaela	SO-2	Pittsburgh	4:39.39(1)	Bison Outdoor Classic	Apr 13, 2019
+74	Zimmermann, Isabel	SO-2	North Carolina St.	4:39.62	Charlotte Invitational 2019	Apr 12, 2019
+75	Hoernlein, Devon	FR-1	Pittsburgh	4:40.25	Bison Outdoor Classic	Apr 13, 2019
+76	DeLoreto, Katherine	SO-2	Boston College	4:41.22	Sam Howell Invitational	Apr 6, 2019
+77	Smith, Ashley	SO-2	North Carolina	4:41.54	Virginia Challenge	Apr 19, 2019
+78	Wittrock, Morgan	JR-3	Clemson	4:41.71	Gamecock Invitational Outdoor	Apr 13, 2019
+79	Davison, Madeleine	JR-3	Syracuse	4:42.41	Bison Outdoor Classic	Apr 13, 2019
+80	Knott, Mary Kathryn	FR-1	Georgia Tech	4:42.67	Torrin Lawrence Memorial	Apr 26, 2019
+81	Dawson, Elizabeth	SR-4	Clemson	4:43.02	North Florida Spring Break Invitational	Mar 21, 2019
+82	Call, Emma	JR-3	Virginia	4:43.47	Virginia v. Maryland, Pitt, West Virginia	Apr 6, 2019
+83	Heffernan, Annie	JR-3	Notre Dame	4:44.04	Louisville Invitational	Apr 12, 2019
+84	Hall, Janay	SO-2	North Carolina St.	4:44.09	Raleigh Relays	Mar 29, 2019
+85	Criscuolo, Emily	SO-2	Boston College	4:44.62(1)	Ocean State Invitational	Apr 12, 2019
+86	Raftis, Kylee	SO-2	Boston College	4:45.31	Tufts Snowflake Classic	Mar 30, 2019
+87	Hilton, Natalie	SR-4	Pittsburgh	4:45.46	2019 CMU 5 Team Invite	Mar 23, 2019
+88	O'Connell, Erin	SR-4	Pittsburgh	4:45.66	Raleigh Relays	Mar 29, 2019
+89	Prouty, Mary	SR-4	Georgia Tech	4:45.84	Torrin Lawrence Memorial	Apr 26, 2019
+90	Greengrass, Rebekah	JR-3	North Carolina St.	4:46.13	ACC Championships	May 9, 2019
+91	Parrish, Sarah	SO-2	Florida State	4:46.25	UNF Invitational	Apr 5, 2019
+92	Lansing, Maryanna	JR-3	Virginia	4:46.27	2019 Fred Hardy Invitational	Mar 29, 2019
+93	Richardson, Mikayla	JR-3	Virginia Tech	4:46.77	Duke Invitational	Apr 19, 2019
+94	Den Otter, Anne	SR-4	Miami (Fla.)	4:47.24	Miami Hurricane Alumni Invitational	Apr 12, 2019
+95	Bonaventure, Emily	FR-1	Pittsburgh	4:47.39(1)	Bison Outdoor Classic	Apr 13, 2019
+96	Sauder, Liz	FR-1	Clemson	4:47.85	LSU Alumni Gold	Apr 20, 2019
+97	Bowland, Isabella	FR-1	Georgia Tech	4:48.00	Tiger Track Classic 2019	Apr 5, 2019
+98	Wirtz, Josie	FR-1	Clemson	4:48.06	LSU Alumni Gold	Apr 20, 2019
+99	Swigler, Ella	SO-2	Florida State	4:48.51	FSU Relays (College)	Mar 22, 2019
+100	Bowen, Rylee	FR-1	Duke	4:49.50	Raleigh Relays	Mar 29, 2019
+101	McConnell, Nicole	SO-2	Florida State	4:49.56	FAMU Relays	Mar 15, 2019
+102	Wilbur, Sheridan	SR-4	Duke	4:50.07	Virginia Grand Prix	Apr 26, 2019
+103	Flynn, Anna	JR-3	Boston College	4:50.46(1)	Ocean State Invitational	Apr 12, 2019
+104	Folio, Samantha	SO-2	Georgia Tech	4:50.59	Torrin Lawrence Memorial	Apr 26, 2019
+105	Melehan, Alexandra	JR-3	Georgia Tech	4:50.78	Torrin Lawrence Memorial	Apr 26, 2019
+106	Kennedy, Isabelle	SR-4	Boston College	4:50.86	Stonehill Skyhawk Invitational	Apr 27, 2019
+107	Davidson, Libby	FR-1	Virginia	4:51.25	Virginia Grand Prix	Apr 26, 2019
+108	Hill, Annie	FR-1	Clemson	4:51.33	Gamecock Invitational Outdoor	Apr 13, 2019
+109	Phelps, Erin	SO-2	Florida State	4:51.49	FAMU Relays	Mar 15, 2019
+110	Kettle, Abby	SO-2	Georgia Tech	4:52.11	Torrin Lawrence Memorial	Apr 26, 2019
+111	Jones, Kayli	JR-3	Syracuse	4:53.29	Bison Outdoor Classic	Apr 13, 2019
+112	Hayes, Delia	SR-4	Boston College	4:53.51(1)	Ocean State Invitational	Apr 12, 2019
+113	Jones, Amelia	SO-2	Clemson	4:54.21	North Florida Spring Break Invitational	Mar 21, 2019
+114	Petit, Hannah	JR-3	Georgia Tech	4:54.68	Torrin Lawrence Memorial	Apr 26, 2019
+115	Gearing, Jenna	SO-2	Clemson	4:54.69	Yellow Jacket Invitational	Mar 15, 2019
+116	Vreeland, Simone	SO-2	Miami (Fla.)	4:54.78	Miami Hurricane Alumni Invitational	Apr 12, 2019
+117	Jenkins, Elizabeth	SO-2	Florida State	4:55.30	FSU Relays (College)	Mar 22, 2019
+118	Frazier, Ryen	JR-3	North Carolina St.	4:55.65	Virginia Challenge	Apr 19, 2019
+119	Hansen, Britney	JR-3	Louisville	4:55.70	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+120	Ruane, Hannah	FR-1	Boston College	4:56.39(1)	Ocean State Invitational	Apr 12, 2019
+121	Torres, Micaela	SO-2	Florida State	4:57.06	FAMU Relays	Mar 15, 2019
+122	McClelland, Caroline	FR-1	Boston College	4:58.04(1)	Ocean State Invitational	Apr 12, 2019
+123	Elston, Olivia	FR-1	Syracuse	4:58.20	Cornell Big Red Invitational	Apr 28, 2019
+124	Cultra, Elizabeth	FR-1	Syracuse	4:58.87	Cornell Big Red Invitational	Apr 28, 2019
+125	Cobb, Elizabeth	SR-4	Florida State	4:59.17	FAMU Relays	Mar 15, 2019
+126	Lewis, Anna	SO-2	Florida State	4:59.71	FSU Relays (College)	Mar 22, 2019
+127	Blankenbaker, Julia	JR-3	Florida State	5:00.38	FSU Relays (College)	Mar 22, 2019
+128	Motaghedi, Nasim	FR-1	Georgia Tech	5:00.56	Torrin Lawrence Memorial	Apr 26, 2019
+129	Miekley, Kate	FR-1	Clemson	5:00.68	Gamecock Invitational Outdoor	Apr 13, 2019
+130	Richichi, Gabrielle	SR-4	Duke	5:00.96	Battle of the Blues	Apr 6, 2019
+131	Jaffer, Fatema	SR-4	Florida State	5:01.23	FAMU Relays	Mar 15, 2019
+132	Zupan, Mariah	SO-2	Florida State	5:01.26	UNF Invitational	Apr 5, 2019
+133	Lonas, Jessica	SR-4	Florida State	5:01.76	FAMU Relays	Mar 15, 2019
+134	Lednak, Stephanie	SR-4	Pittsburgh	5:02.92	2019 CMU 5 Team Invite	Mar 23, 2019
+135	Warren, Emma	SO-2	Florida State	5:03.49	FAMU Relays	Mar 15, 2019
+136	Shields, Sam	JR-3	Pittsburgh	5:04.04	Yellow Jacket Invitational	Mar 15, 2019
+137	Aponte, Kelly	SO-2	Florida State	5:05.12	FAMU Relays	Mar 15, 2019
+138	Durrwachter, Katrina	SO-2	Pittsburgh	5:05.83	2019 CMU 5 Team Invite	Mar 23, 2019
+139	Unthank, Haley	FR-1	Georgia Tech	5:07.11	Yellow Jacket Invitational	Mar 15, 2019
+140	Zaubi, Nicole	SO-2	Georgia Tech	5:07.17	Yellow Jacket Invitational	Mar 15, 2019
+141	Kuhn, Katherine	JR-3	Florida State	5:10.49	UNF Invitational	Apr 5, 2019
+142	Oakes-Lottridge, Sidney	SO-2	Florida State	5:11.70	FAMU Relays	Mar 15, 2019
+143	Gusmerotti, Gabrielle	SO-2	Georgia Tech	5:18.05	Tiger Track Classic 2019	Apr 5, 2019
+144	Myers, Sarah	SO-2	Florida State	5:19.37	FAMU Relays	Mar 15, 2019
+145	Baysinger, Mackenzie	SR-4	Florida State	5:24.75	FAMU Relays	Mar 15, 2019
+146	Reyna-Lopez, Alondra	SO-2	Florida State	5:25.24	FSU Relays (College)	Mar 22, 2019
+147	Stumvoll, Haley	JR-3	Georgia Tech	5:25.66	Georgia Tech Invitational	Apr 19, 2019
+148	Kissel, Macy	SO-2	Florida State	5:27.26	FAMU Relays	Mar 15, 2019
+149	Zyla, Melissa	SR-4	Florida State	5:58.72	FAMU Relays	Mar 15, 2019

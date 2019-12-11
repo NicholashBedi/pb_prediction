@@ -1,0 +1,90 @@
+1	Anstey, Jack	JR-3	Illinois State	3:41.81	NCAA Division I West Region Preliminary Rounds	May 23, 2019
+2	White, Kevin	SR-4	Loyola (Ill.)	3:44.15	Bryan Clay Invitational	Apr 17, 2019
+3	Kelly, Kevin	SR-4	Drake	3:44.72	Drake Relays presented by Hy-Vee	Apr 24, 2019
+4	Ward, Michael	SR-4	Bradley	3:44.87	Bryan Clay Invitational	Apr 17, 2019
+5	Pierce, Quentin	SR-4	Indiana State	3:47.86	Drake Relays presented by Hy-Vee	Apr 24, 2019
+6	Dunderdale, Haran	SR-4	Bradley	3:48.48	SIU Bill Cornell Spring Classic	Mar 22, 2019
+7	Maier, Josh	SR-4	Southern Illinois	3:48.52	SIU Bill Cornell Spring Classic	Mar 22, 2019
+8	Johnson, Kimathi	JR-3	Illinois State	3:50.58	Mike Fanelli Track Classic	Mar 28, 2019
+9	Cash, Ryan	SR-4	Indiana State	3:50.61	Crimson Tide Invitational	Apr 11, 2019
+10	Medrano, Akis	SR-4	Indiana State	3:50.65	2019 Billy Hayes Invitational	May 3, 2019
+11	Potrykus, Ben	JR-3	Bradley	3:51.05	Bryan Clay Invitational	Apr 17, 2019
+12	Paige, Simon	JR-3	Bradley	3:51.72	Bryan Clay Invitational	Apr 17, 2019
+13	Seymour, Scott	JR-3	Bradley	3:52.14	Bryan Clay Invitational	Apr 17, 2019
+14	Khat, Wal	JR-3	Northern Iowa	3:52.21	Drake Relays presented by Hy-Vee	Apr 24, 2019
+15	Kilian, Cale	SO-2	Indiana State	3:53.46	Drake Relays presented by Hy-Vee	Apr 24, 2019
+16	DeMeulenaere, Riley	JR-3	Loyola (Ill.)	3:54.12	Bryan Clay Invitational	Apr 17, 2019
+17	Hoffert, Jake	JR-3	Bradley	3:54.52	Illinois Twilight	Apr 13, 2019
+18	May, CJ	SO-2	Northern Iowa	3:54.65	Wisconsin Alumni Classic	May 3, 2019
+19	Lechleitner, Xavier	JR-3	Drake	3:55.38	MVC Championship	May 10, 2019
+20	Panici, Demetri	JR-3	Loyola (Ill.)	3:55.69	Bryan Clay Invitational	Apr 17, 2019
+21	Champagne, Emmanuel	SO-2	Loyola (Ill.)	3:55.72	Bryan Clay Invitational	Apr 17, 2019
+22	Cozine, Matt	JR-3	Drake	3:55.85	MVC Championship	May 10, 2019
+23	Wallace, Kenny	SO-2	Loyola (Ill.)	3:56.63	MVC Championship	May 10, 2019
+24	Danner, Alec	FR-1	Bradley	3:56.78	Illinois Twilight	Apr 13, 2019
+24	Hartman, Alec	SO-2	Bradley	3:56.78	Bryan Clay Invitational	Apr 17, 2019
+26	Mader, Jack	SR-4	Valparaiso	3:57.03	Gibson Invitational	Apr 6, 2019
+27	Hickey, Conner	SR-4	Valparaiso	3:57.75	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+28	Veloz Bonilla, Ignacio	FR-1	Valparaiso	3:57.93	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+29	Gillum, Jake	SO-2	Illinois State	3:58.01	Ole Miss Classic	Mar 30, 2019
+30	Bentz, Isaac	JR-3	Indiana State	3:58.15	Gibson Invitational	Apr 6, 2019
+31	Blanco, Matt	FR-1	Illinois State	4:00.26	Illinois State Redbird Invitational	Apr 6, 2019
+32	Ghosh, Akhil	FR-1	Loyola (Ill.)	4:00.62	Bryan Clay Invitational	Apr 17, 2019
+33	Niederhaus, Justin	FR-1	Indiana State	4:00.67	2019 Billy Hayes Invitational	May 3, 2019
+34	Porter, Nick	JR-3	Bradley	4:01.00	MVC Championship	May 10, 2019
+34	Koski, Kevin	SO-2	Illinois State	4:01.00	Illinois State Redbird Invitational	Apr 6, 2019
+36	Ahlrichs, Ben	SR-4	Northern Iowa	4:01.05	2019 Husker Spring Invitational	Apr 5, 2019
+37	Worman, Jack	SO-2	Valparaiso	4:01.10	Illinois Twilight	Apr 13, 2019
+38	Paoletti, Dominic	SO-2	Valparaiso	4:01.52	Gibson Invitational	Apr 6, 2019
+39	Rink, Derek	JR-3	Loyola (Ill.)	4:01.72	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+40	Hufnagel, Noah	FR-1	Indiana State	4:01.90	Gibson Invitational	Apr 6, 2019
+41	O'Meara, Maximilian	JR-3	Loyola (Ill.)	4:02.14	Lewis Twilight	Apr 23, 2019
+42	Pipilas, Stephen	FR-1	Loyola (Ill.)	4:02.65	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+43	Hahndorf , Michael	SO-2	Bradley	4:02.85	SIU Bill Cornell Spring Classic	Mar 22, 2019
+44	Bell, Colton	SO-2	Illinois State	4:02.88	Wisconsin Alumni Classic	May 3, 2019
+45	Gschwendtner, Kerry	JR-3	Bradley	4:03.06	Gibson Invitational	Apr 6, 2019
+46	Arthur, Skyler	JR-3	Illinois State	4:03.40	Illinois State Redbird Invitational	Apr 6, 2019
+47	Jackson, Alex	SR-4	Northern Iowa	4:03.44	2019 Husker Spring Invitational	Apr 5, 2019
+48	Yeager, Joshua	SR-4	Drake	4:03.49	2019 Jim Duncan Invitational	Mar 29, 2019
+49	Franklin, Jack	FR-1	Bradley	4:03.63	Gibson Invitational	Apr 6, 2019
+50	Hess, Nikolas	SR-4	Bradley	4:04.08	Gibson Invitational	Apr 6, 2019
+51	Kanipe, Miles	SO-2	Loyola (Ill.)	4:05.14	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+52	Black, Ronald	JR-3	Valparaiso	4:06.13	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+53	McCool, Sam	FR-1	Northern Iowa	4:06.76	Musco Twilight	Apr 13, 2019
+54	Chudzik, Nick	FR-1	Loyola (Ill.)	4:07.05	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+55	Schnitker, Brandon	FR-1	Southern Illinois	4:07.56	SIU Bill Cornell Spring Classic	Mar 22, 2019
+56	Edwards, Christopher	JR-3	Southern Illinois	4:07.68	Tennessee Relays	Apr 11, 2019
+57	Church, Michael	SO-2	Southern Illinois	4:07.77	Kentucky Track & Field Invitational	Apr 20, 2019
+58	Fortin, Victor	JR-3	Valparaiso	4:07.85	MVC Championship	May 10, 2019
+59	Simon, Joey	FR-1	Bradley	4:07.96	2019 Kip Janvrin Open	Apr 25, 2019
+60	Wyman, Wyatt	FR-1	Indiana State	4:08.80	Ole Miss Classic	Mar 30, 2019
+61	May, Jon	SO-2	Bradley	4:09.22	SIU Bill Cornell Spring Classic	Mar 22, 2019
+62	Hendrix, Enrique	JR-3	Evansville	4:09.36	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+63	Buysse, Blake	FR-1	Loyola (Ill.)	4:09.40	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+64	Miller, Rylee	SO-2	Drake	4:09.79	John McDonnell Invitational	Apr 12, 2019
+65	Cummings, Ian	FR-1	Loyola (Ill.)	4:09.81	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+66	Heal, Wes	JR-3	Loyola (Ill.)	4:13.61	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+67	Kline, Carson	FR-1	Evansville	4:14.05	Bellarmine Classic 2019	Apr 13, 2019
+68	Hood, Dawson	SO-2	Evansville	4:15.39	MVC Championship	May 10, 2019
+69	Vertelney, Ben	JR-3	Indiana State	4:15.74	Pacesetter Sports Invitational	Apr 19, 2019
+70	Collins, Kyle	SO-2	Indiana State	4:20.15	Gibson Invitational	Apr 6, 2019
+71	Slagle, Kaleb	FR-1	Evansville	4:24.13	Kentucky Wesleyan Twilight Invitational	Apr 5, 2019
+72	Ramirez, Francisco	FR-1	Valparaiso	4:24.47	Illinois Twilight	Apr 13, 2019
+73	Izewski, Nathaniel	SO-2	Valparaiso	4:24.52	Gibson Invitational	Apr 6, 2019
+74	Dreyer, Rylan	FR-1	Valparaiso	4:25.98	Illinois Twilight	Apr 13, 2019
+75	Dawson, Tucker	JR-3	Evansville	4:37.53	Stan Lyons 2019	Mar 16, 2019
+76	Maguire, James	FR-1	Drake	4:37.94	2019 Jim Duncan Invitational	Mar 29, 2019
+77	Thompson, Trevor	FR-1	Southern Illinois	4:44.53	SIU Bill Cornell Spring Classic	Mar 22, 2019
+78	Heitland, Austin	SR-4	Northern Iowa	4:44.93	MVC Championship	May 10, 2019
+79	Frields-Reifsteck, Tyler	SO-2	Evansville	4:45.70	Kentucky Wesleyan Twilight Invitational	Apr 5, 2019
+80	Ochs, Kalen	SO-2	Evansville	4:46.48	SIU Bill Cornell Spring Classic	Mar 22, 2019
+81	Fortener, Zack	SO-2	Valparaiso	4:48.56	MVC Championship	May 10, 2019
+82	Rucinski, Joey	FR-1	Evansville	4:50.49	2019 Lenny Lyles-Clark Wood Invitational	Apr 26, 2019
+83	Griffith, Richard	JR-3	Indiana State	4:51.53	MVC Championship	May 10, 2019
+84	Perry, Josh	JR-3	Indiana State	4:57.94	MVC Championship	May 10, 2019
+85	Miedema, Caleb	FR-1	Illinois State	5:09.51	Tennessee Relays	Apr 11, 2019
+86	Brandenburg, James	SR-4	Illinois State	5:09.54	MVC Championship	May 10, 2019
+87	Rogers, Noah	JR-3	Indiana State	5:12.18	MVC Championship	May 10, 2019
+88	Klecki, Nick	FR-1	Illinois State	5:14.83	MVC Championship	May 10, 2019
+89	Wilkerson, Jordan	JR-3	Illinois State	5:18.55	MVC Championship	May 10, 2019
+90	Bigelow, Matthew	SR-4	Southern Illinois	5:22.41	MVC Championship	May 10, 2019

@@ -1,0 +1,61 @@
+1	Brawner, Megan	JR-3	Central Connecticut	4:32.39	Bison Outdoor Classic	Apr 13, 2019
+2	Thorne, Jacqueline	JR-3	Sacred Heart	4:33.76	George Mason Spring Invitational	Apr 13, 2019
+3	Weiss, Olivia	JR-3	Sacred Heart	4:35.46	Raleigh Relays	Mar 29, 2019
+4	Carney, Sara	JR-3	Wagner	4:40.02	2019 Colonial Relays	Apr 4, 2019
+5	Jaskot, Erin	SR-4	Mount St. Mary's	4:40.91	Raleigh Relays	Mar 29, 2019
+6	Kole, Madeline	JR-3	Mount St. Mary's	4:43.02	2019 Colonial Relays	Apr 4, 2019
+7	De Lucia, Bianca	JR-3	Sacred Heart	4:44.83	Sam Howell Invitational	Apr 6, 2019
+8	Rafter, Angelia	SO-2	Central Connecticut	4:45.15	24th Annual Monmouth Season Opener	Mar 29, 2019
+9	Searles, Jade	JR-3	Fairleigh Dickinson	4:45.97	2019 Adidas Winthrop University Invitational	Mar 21, 2019
+10	Jones, Hannah	SO-2	Saint Francis University	4:46.22	Northeast Conference Championship	May 4, 2019
+11	Jaskowak, Catherine	JR-3	Saint Francis University	4:46.75	George Mason Spring Invitational	Apr 13, 2019
+12	Elder, Alexandra	JR-3	Wagner	4:51.82	Mets Outdoor Track and Field Championship	Apr 12, 2019
+13	Cody, Shannon	FR-1	Saint Francis University	4:52.73	George Mason Spring Invitational	Apr 13, 2019
+14	Kattman, Gaelyn	SO-2	Sacred Heart	4:53.76	George Mason Spring Invitational	Apr 13, 2019
+15	Whitfield, Taya	SO-2	Saint Francis University	4:53.92	2019 Colonial Relays	Apr 4, 2019
+16	Dana, Ashley	FR-1	Central Connecticut	4:54.98	24th Annual Monmouth Season Opener	Mar 29, 2019
+17	Cary, Emma	SR-4	Sacred Heart	4:55.72	George Mason Spring Invitational	Apr 13, 2019
+18	Boone, Destiny	SO-2	Mount St. Mary's	5:00.28	Hopkins Loyola Invitational	Apr 12, 2019
+19	Thibodeau, Brenna	SO-2	Sacred Heart	5:01.00	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+20	Wright, Madison	SO-2	Saint Francis University	5:01.71	Jim Taylor Invite	Mar 30, 2019
+21	Hay, Kayla	FR-1	Wagner	5:03.00	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+22	Hubbell, Dawn	SR-4	Central Connecticut	5:04.78	CCSU T&F Invitational	Apr 27, 2019
+23	Pirozzi, Adria	SO-2	Mount St. Mary's	5:04.96	Hopkins Loyola Invitational	Apr 12, 2019
+24	Richardson, Tara	SO-2	Robert Morris	5:05.49	West Virginia Open	Mar 23, 2019
+25	Jepkogei, Stella	JR-3	Fairleigh Dickinson	5:07.37	Mets Outdoor Track and Field Championship	Apr 12, 2019
+26	Campise, Breann	JR-3	Bryant	5:07.44(1)	Ocean State Invitational	Apr 12, 2019
+27	Ayres, Julia	FR-1	Bryant	5:07.92	University of MA Minuteman Invitational	Apr 6, 2019
+28	Koenig, Julia	SO-2	Sacred Heart	5:09.00	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+29	Vega, Gabrielle	SO-2	Sacred Heart	5:11.00	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+30	Bryant, Diondra	SR-4	St. Francis (N.Y.)	5:12.32	Mets Outdoor Track and Field Championship	Apr 12, 2019
+31	Freeman, Sarah	FR-1	Bryant	5:12.60	Black & Gold Invitational	Mar 29, 2019
+32	Weaver , Kabrina	FR-1	Wagner	5:14.18	Northeast Conference Championship	May 4, 2019
+33	Mondo, Madeline	SR-4	Central Connecticut	5:14.54	CCSU T&F Invitational	Apr 27, 2019
+34	McElheny, Mandy	FR-1	Saint Francis University	5:15.78	2019 Adidas Winthrop University Invitational	Mar 21, 2019
+35	Gardner, Martha	SO-2	Robert Morris	5:16.78	West Virginia Open	Mar 23, 2019
+36	King, Grace	JR-3	Mount St. Mary's	5:17.05	Northeast Conference Championship	May 4, 2019
+37	Noel, Kendall	SR-4	Robert Morris	5:20.27	Towson Invitational 2019	Apr 6, 2019
+38	Rivers , Leah	SO-2	St. Francis (N.Y.)	5:20.82	Wagner College Invitional	Mar 23, 2019
+39	Kneski, Olivia	FR-1	Sacred Heart	5:25.40	Wesleyan University Spring Classic	Mar 23, 2019
+40	Noecker, Stella	FR-1	Mount St. Mary's	5:25.66	Towson Invitational 2019	Apr 6, 2019
+41	Goyette, Elizabeth	SO-2	Bryant	5:25.85	CSU Spring Break Invitational	Mar 16, 2019
+42	Kipkorir, Sylvia	JR-3	Fairleigh Dickinson	5:26.03	Rider 5-Way	Mar 30, 2019
+43	Ciesluk, Kaylin	SO-2	Sacred Heart	5:26.52	Wesleyan University Spring Classic	Mar 23, 2019
+44	Ricci, Morgan	SR-4	Central Connecticut	5:27.13	CCSU T&F Invitational	Apr 27, 2019
+45	Arsenault, Kelly	FR-1	Sacred Heart	5:27.70	Wesleyan University Spring Classic	Mar 23, 2019
+46	Chepkoit, Sarah	FR-1	Mount St. Mary's	5:28.68	2019 Navy Spring Meet	Mar 30, 2019
+47	Mannino, Danielle	JR-3	Sacred Heart	5:28.93	Wesleyan University Spring Classic	Mar 23, 2019
+48	Meizen, Caroline	SO-2	Bryant	5:29.33	University of MA Minuteman Invitational	Apr 6, 2019
+49	Lynch, Victoria	JR-3	Sacred Heart	5:31.33	Rider 5-Way	Mar 30, 2019
+50	Alberghini, Alyssa	JR-3	Robert Morris	5:31.72	Towson Invitational 2019	Apr 6, 2019
+51	Sorilla, Jordan	SO-2	Wagner	5:32.94	24th Annual Monmouth Season Opener	Mar 29, 2019
+52	Lintelman, Laura	FR-1	Robert Morris	5:36.05	West Virginia Open	Mar 23, 2019
+53	Lock, Kierstin	SO-2	Bryant	5:36.20	Black & Gold Invitational	Mar 29, 2019
+54	Pirkl, Anna	FR-1	Sacred Heart	5:38.78	Wesleyan University Spring Classic	Mar 23, 2019
+55	Gentile, Emma	FR-1	Saint Francis University	5:43.41	George Mason Spring Invitational	Apr 13, 2019
+56	Rondeau, Carly	SO-2	Sacred Heart	5:44.05	Wesleyan University Spring Classic	Mar 23, 2019
+57	Wilson, Taylor	SO-2	St. Francis (N.Y.)	5:46.72	Northeast Conference Championship	May 4, 2019
+58	Carrion i Barea , Anna	FR-1	Wagner	5:52.11	Mets Outdoor Track and Field Championship	Apr 12, 2019
+59	Ducharme, Ashley	JR-3	Wagner	5:56.56	Wagner College Invitional	Mar 23, 2019
+60	Redinger, Jordan	FR-1	Robert Morris	6:00.91	Northeast Conference Championship	May 4, 2019
+61	Weyer, Noelle	SO-2	St. Francis (N.Y.)	6:38.25	24th Annual Monmouth Season Opener	Mar 29, 2019

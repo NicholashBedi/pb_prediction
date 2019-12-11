@@ -1,0 +1,153 @@
+1	Viljoen, Carina	JR-3	Arkansas	4:13.27	NCAA Division I West Region Preliminary Rounds	May 23, 2019
+2	Gregory, Lauren	FR-1	Arkansas	4:15.62	Payton Jordan Invitational	May 2, 2019
+3	Clark, Devin	JR-3	Arkansas	4:17.01	Payton Jordan Invitational	May 2, 2019
+4	Barrett, Imogen	FR-1	Florida	4:17.29	SEC Outdoor Track & Field Championships	May 9, 2019
+5	Werner, Taylor	SO-2	Arkansas	4:17.79	Bryan Clay Invitational	Apr 17, 2019
+6	Gitahi, Esther	JR-3	Alabama	4:18.40	Florida Relays	Mar 28, 2019
+7	Reed, Maddy	JR-3	Arkansas	4:19.22	John McDonnell Invitational	Apr 12, 2019
+8	Gardner, Nicole	SR-4	Alabama	4:20.25	Florida Relays	Mar 28, 2019
+9	Brown, Sydney	SR-4	Arkansas	4:20.69	SEC Outdoor Track & Field Championships	May 9, 2019
+10	Jensen, Grace	FR-1	Vanderbilt	4:21.40	SEC Outdoor Track & Field Championships	May 9, 2019
+11	King, Madeleine	SO-2	Ole Miss	4:21.51	Joe Walker Classic	Apr 12, 2019
+12	Underwood, Meghan	FR-1	Arkansas	4:22.39	Bryan Clay Invitational	Apr 17, 2019
+13	Farrow, Ersula	SR-4	LSU	4:22.91	LSU Invitational	Apr 27, 2019
+14	Drop, Jessica	JR-3	Georgia	4:23.18	Spec Towns Invitational	Apr 5, 2019
+15	Parker, Hollie	SR-4	LSU	4:23.32	LSU Alumni Gold	Apr 20, 2019
+16	Wilkinson, Gabrielle	FR-1	Florida	4:23.41	UF Tom Jones Memorial	Apr 26, 2019
+17	Bergh, Elisabeth	JR-3	Florida	4:23.89	UF Tom Jones Memorial	Apr 26, 2019
+18	Pascoe, Jessica	JR-3	Florida	4:24.82	UF Tom Jones Memorial	Apr 26, 2019
+19	Meydrich, Mia	SR-4	Miss State	4:25.17	National Relay Championships	Apr 26, 2019
+20	Owen, Quinn	FR-1	Arkansas	4:25.27	Arkansas Twilight	May 3, 2019
+21	Traxler, Ylva	SO-2	Ole Miss	4:25.33	SEC Outdoor Track & Field Championships	May 9, 2019
+22	Thronson, Katie	FR-1	Tennessee	4:25.79	SEC Outdoor Track & Field Championships	May 9, 2019
+23	Campbell, Hannah	SR-4	Texas A&M	4:26.11	Bryan Clay Invitational	Apr 17, 2019
+24	Hutton, Ginger	SR-4	Vanderbilt	4:26.98	SEC Outdoor Track & Field Championships	May 9, 2019
+25	Elkin, Anna	SO-2	Ole Miss	4:27.31	Joe Walker Classic	Apr 12, 2019
+26	Bustamante, Reagan	JR-3	Vanderbilt	4:27.62	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+27	Russell, Sylvia	SO-2	Miss State	4:28.90	Crimson Tide Invitational	Apr 11, 2019
+28	Barlow, Caroline	SR-4	Alabama	4:29.51	Florida Relays	Mar 28, 2019
+29	Huckabee, Micah	JR-3	Arkansas	4:29.67	SEC Outdoor Track & Field Championships	May 9, 2019
+30	Mueller , Allison	SR-4	South Carolina	4:29.74	USC Open Outdoor	Apr 20, 2019
+31	Fair, Shannon	SR-4	Miss State	4:30.04	Crimson Tide Invitational	Apr 11, 2019
+32	McDonald, Katy-Ann	FR-1	LSU	4:31.02	LSU Invitational	Apr 27, 2019
+33	Revord, Reilly	FR-1	Missouri	4:31.16	Mike Fanelli Track Classic	Mar 28, 2019
+34	Menghini, Melissa	SO-2	Missouri	4:31.31	John McDonnell Invitational	Apr 12, 2019
+35	Morse, Madison	JR-3	Florida	4:31.35	UF Tom Jones Memorial	Apr 26, 2019
+36	Buteau, Rebecca	SO-2	Alabama	4:31.47	Crimson Tide Invitational	Apr 11, 2019
+37	Kigen, Brenda	JR-3	Auburn	4:31.51	War Eagle Invitational 2019	Apr 19, 2019
+38	Stoddard, Anna	SO-2	South Carolina	4:31.59	Spec Towns Invitational	Apr 5, 2019
+39	Walker, Haley	FR-1	Vanderbilt	4:31.62	Raleigh Relays	Mar 29, 2019
+40	Zane, Abbey	SO-2	Auburn	4:31.78	Tiger Track Classic 2019	Apr 5, 2019
+41	Bernardo, Rachel	SO-2	Texas A&M	4:32.25	Bryan Clay Invitational	Apr 17, 2019
+42	Nasir, Maryah	FR-1	South Carolina	4:32.46	Spec Towns Invitational	Apr 5, 2019
+43	Heavern, Ansley	JR-3	Georgia	4:33.72	Spec Towns Invitational	Apr 5, 2019
+44	McClintock, Halle	SO-2	Georgia	4:34.33	Spec Towns Invitational	Apr 5, 2019
+45	Drum, Chelsea	SO-2	Ole Miss	4:34.65	Ole Miss Classic	Mar 30, 2019
+46	Harrelson, Abbie	SO-2	Florida	4:34.68	FSU Relays (College)	Mar 22, 2019
+47	Stone , Heather	SO-2	South Carolina	4:35.03	Spec Towns Invitational	Apr 5, 2019
+48	O'Brien, Pamela	FR-1	Florida	4:35.32	UF Tom Jones Memorial	Apr 26, 2019
+49	Liz, Karina	JR-3	Missouri	4:35.61	Wichita State Herm Wilson Invitational	Mar 21, 2019
+50	Findley, Tori	FR-1	Missouri	4:35.67	John McDonnell Invitational	Apr 12, 2019
+51	Bourque, Hannah	SR-4	LSU	4:35.72	LSU Invitational	Apr 27, 2019
+52	Reed, Mikayla	FR-1	Missouri	4:35.86	Wichita State Herm Wilson Invitational	Mar 21, 2019
+53	Moffett, Lauren	JR-3	Vanderbilt	4:36.18	Tennessee Relays	Apr 11, 2019
+54	Bett, Faith	FR-1	Auburn	4:37.34	Torrin Lawrence Memorial	Apr 26, 2019
+55	Roth, Emma	FR-1	Missouri	4:37.45	Mizzou Spring Open	Apr 6, 2019
+56	Morgan, Anna Grace	SO-2	Vanderbilt	4:37.55	Tennessee Relays	Apr 11, 2019
+57	Brown, Shelby	SR-4	Ole Miss	4:37.67	Ole Miss Classic	Mar 30, 2019
+58	Derry, Kendall	JR-3	Vanderbilt	4:37.77	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+59	Maddox, Gigi	FR-1	Auburn	4:37.90	FSU Relays (College)	Mar 22, 2019
+60	Hukka, Minttu	SR-4	Tennessee	4:38.31	Tennessee Relays	Apr 11, 2019
+61	Pietrzyk, Caroline	SR-4	Vanderbilt	4:38.46	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+62	Blair, Grace	FR-1	Florida	4:38.48	LSU Alumni Gold	Apr 20, 2019
+63	Keys, Nikki	JR-3	Texas A&M	4:38.51	Roadrunner Invitational	Mar 21, 2019
+64	Funderburk, Sara	SO-2	LSU	4:38.52	LSU Alumni Gold	Apr 20, 2019
+65	Driscoll, Ashley	JR-3	Texas A&M	4:38.97	The Reveille Meet	Apr 6, 2019
+66	Tucker, Emma	SO-2	Miss State	4:39.34	Crimson Tide Invitational	Apr 11, 2019
+67	Boice, Rachel	FR-1	Kentucky	4:39.55	Tennessee Relays	Apr 11, 2019
+68	Tarwater, Hannah	FR-1	Auburn	4:39.56	Torrin Lawrence Memorial	Apr 26, 2019
+69	Patrick, Frances	SO-2	Auburn	4:40.14	FSU Relays (College)	Mar 22, 2019
+70	Yue, Tiffany	JR-3	Georgia	4:40.46	Torrin Lawrence Memorial	Apr 26, 2019
+71	Smith, Abigail	SO-2	Tennessee	4:40.74	Tennessee Relays	Apr 11, 2019
+72	Hutcherson, Ashton	JR-3	Texas A&M	4:40.83	Texas A&M Alumni Muster	Apr 27, 2019
+73	Bradley, Valarie	JR-3	Texas A&M	4:40.86	2019 Baldy Castillo Invitational	Mar 15, 2019
+74	Stamey, Alicia	SO-2	LSU	4:40.87	Miami Hurricane Alumni Invitational	Apr 12, 2019
+75	Bagwell, Emma Rose	FR-1	Georgia	4:41.18	Spec Towns Invitational	Apr 5, 2019
+76	Rose, Morgan Claire	FR-1	Ole Miss	4:41.43	Joe Walker Classic	Apr 12, 2019
+77	Carson, Josie	FR-1	Arkansas	4:41.67	Arkansas Twilight	May 3, 2019
+78	Akin, Emily	FR-1	Kentucky	4:41.88	Kentucky Track & Field Invitational	Apr 20, 2019
+79	Thomas, Hannah	SR-4	Missouri	4:42.40	Tom Botts Invitational	Apr 19, 2019
+80	Wilson, Brooke	SO-2	South Carolina	4:42.87	Black and Gold Challange	Mar 15, 2019
+81	McClure, Heather	FR-1	Auburn	4:42.94	Torrin Lawrence Memorial	Apr 26, 2019
+82	Mortimer, Gillian	SO-2	Vanderbilt	4:43.02	Tennessee Relays	Apr 11, 2019
+83	Santoro, Abbey	FR-1	Texas A&M	4:43.06	Michael Johnson Invitational	Apr 19, 2019
+84	Patton, Megan	FR-1	Alabama	4:43.32	LSU Invitational	Apr 27, 2019
+85	Nichwitz, Rachel	JR-3	Arkansas	4:43.38	Bryan Clay Invitational	Apr 17, 2019
+86	Fairchild, Laura	FR-1	Texas A&M	4:44.44	2019 Baldy Castillo Invitational	Mar 15, 2019
+87	Tolson, Brittany	SO-2	Alabama	4:44.64	LSU Battle on the Bayou	Apr 6, 2019
+88	Black, Julia	FR-1	Texas A&M	4:45.45	Michael Johnson Invitational	Apr 19, 2019
+89	Nohilly, Brooke	SO-2	Kentucky	4:45.50	Kentucky Track & Field Invitational	Apr 20, 2019
+90	Lacy, Kaitlyn	FR-1	Kentucky	4:45.57	Kentucky Track & Field Invitational	Apr 20, 2019
+91	Kleve, Jordyn	JR-3	Missouri	4:46.16	Tom Botts Invitational	Apr 19, 2019
+92	Brooks, Caroline	JR-3	Alabama	4:46.69	South Alabama Jaguar Opener	Mar 15, 2019
+93	Liggett, Mallory	FR-1	Kentucky	4:46.78	Tennessee Relays	Apr 11, 2019
+94	Ebihara, Sophie	SO-2	Florida	4:46.80	FSU Relays (College)	Mar 22, 2019
+95	Schelp, Riley	FR-1	Alabama	4:46.85	FSU Relays (College)	Mar 22, 2019
+96	Chapa, Lizette	SR-4	Texas A&M	4:46.89	Michael Johnson Invitational	Apr 19, 2019
+97	McPherson, Louisa	SO-2	Auburn	4:46.90	Torrin Lawrence Memorial	Apr 26, 2019
+98	Shepard, Caitlin	JR-3	Kentucky	4:46.92	Kentucky Track & Field Invitational	Apr 20, 2019
+99	Meske, Peighton	SR-4	Tennessee	4:47.01	Tennessee Relays	Apr 11, 2019
+100	Wallace, Ana	FR-1	Vanderbilt	4:47.75	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+101	Mami, Leahrose	FR-1	Alabama	4:47.79	LSU Invitational	Apr 27, 2019
+102	Iler, Tess	SO-2	Arkansas	4:48.16	John McDonnell Invitational	Apr 12, 2019
+103	Tiernan, Delaney	JR-3	Florida	4:48.29	UF Tom Jones Memorial	Apr 26, 2019
+104	Janssen, Michala	FR-1	Texas A&M	4:48.46	Michael Johnson Invitational	Apr 19, 2019
+105	Breeding, Kacie	JR-3	Vanderbilt	4:48.74	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+106	Rizor, Jessica	SR-4	Tennessee	4:48.91	Miami Power 5 Trailblazer Challenge	Mar 23, 2019
+107	Cruz, Alexa	SO-2	Alabama	4:48.98	South Alabama Jaguar Opener	Mar 15, 2019
+108	McCollum, Emily	SO-2	Texas A&M	4:49.02	Texas A&M Alumni Muster	Apr 27, 2019
+109	Taylor, Greta	SO-2	Arkansas	4:49.53	National Relay Championships	Apr 26, 2019
+110	Walsh, Kelli	FR-1	Kentucky	4:49.69	Kentucky Track & Field Invitational	Apr 20, 2019
+111	Carrier, Sophie	FR-1	Kentucky	4:50.13	Kentucky Track & Field Invitational	Apr 20, 2019
+112	Purifoy, Kylie	SO-2	Texas A&M	4:50.46	Michael Johnson Invitational	Apr 19, 2019
+113	Fernandez, Maria	FR-1	Florida	4:50.69	UF Tom Jones Memorial	Apr 26, 2019
+114	Piniella, Sophia	FR-1	Florida	4:50.72	FSU Relays (College)	Mar 22, 2019
+115	Desselle, Amber	SO-2	LSU	4:50.90	LSU Battle on the Bayou	Apr 6, 2019
+116	McKinley, Lainey	FR-1	Kentucky	4:51.48	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+117	Palin, Julia	FR-1	LSU	4:51.65	Louisiana Classics	Mar 15, 2019
+118	Koshy, Brianna	SR-4	Alabama	4:51.72	LSU Invitational	Apr 27, 2019
+119	Noethlich, Savannah	FR-1	Alabama	4:51.94	South Alabama Jaguar Opener	Mar 15, 2019
+120	Edobi, Jennifer	SR-4	Vanderbilt	4:52.03	War Eagle Invitational 2019	Apr 19, 2019
+121	Brown, Payton	SO-2	Arkansas	4:52.72	National Relay Championships	Apr 26, 2019
+122	Witherspoon, Eliza	FR-1	Alabama	4:53.50	LSU Battle on the Bayou	Apr 6, 2019
+123	Warren, Kelsie	JR-3	Texas A&M	4:53.53	The Reveille Meet	Apr 6, 2019
+124	Mitchell, Cori	SO-2	LSU	4:54.00	LSU Invitational	Apr 27, 2019
+125	Larkin , Kelsey	JR-3	South Carolina	4:54.04	Buccaneer Invitational	Mar 23, 2019
+126	Odneal, Sarah	JR-3	Texas A&M	4:54.12	Texas A&M Alumni Muster	Apr 27, 2019
+127	Maddox, Lexi	SO-2	Missouri	4:54.18	Mizzou Spring Open	Apr 6, 2019
+128	Badham, Katherine	FR-1	Miss State	4:55.81	Crimson Tide Invitational	Apr 11, 2019
+129	Petit, Marisa	FR-1	Georgia	4:56.79	Torrin Lawrence Memorial	Apr 26, 2019
+130	Barrientos, Lauryn	JR-3	Texas A&M	4:56.82	The Reveille Meet	Apr 6, 2019
+131	Jung, Annie	SO-2	LSU	4:56.96	LSU Invitational	Apr 27, 2019
+132	Funkenbusch, Kayla	JR-3	Missouri	4:56.98	Tom Botts Invitational	Apr 19, 2019
+133	Michels, Sarah	FR-1	Kentucky	4:57.62	Kentucky Track & Field Invitational	Apr 20, 2019
+134	Clements, Grace	FR-1	Georgia	4:59.38	Torrin Lawrence Memorial	Apr 26, 2019
+135	Mohan, Molly	FR-1	Auburn	5:00.08	War Eagle Invitational 2019	Apr 19, 2019
+136	Shonekan, Faramola	JR-3	Missouri	5:00.10	Tom Botts Invitational	Apr 19, 2019
+137	Doherty, Emily	SO-2	Georgia	5:00.32	Torrin Lawrence Memorial	Apr 26, 2019
+138	Conway, Caitlin	SO-2	South Carolina	5:00.38	Gamecock Invitational Outdoor	Apr 13, 2019
+139	Woods, Jayda	FR-1	Georgia	5:00.75	Spec Towns Invitational	Apr 5, 2019
+140	Whitehurst, Amelie	SO-2	LSU	5:00.87	LSU Alumni Gold	Apr 20, 2019
+141	Smith, Kate	JR-3	Missouri	5:03.25	Tom Botts Invitational	Apr 19, 2019
+142	Michals, Morgan	FR-1	Texas A&M	5:03.29	Texas A&M Alumni Muster	Apr 27, 2019
+143	Deturris, Elly	SR-4	Missouri	5:03.58	Tom Botts Invitational	Apr 19, 2019
+144	Ford , Leah	JR-3	South Carolina	5:06.05	Gamecock Invitational Outdoor	Apr 13, 2019
+145	Hake, Abby	FR-1	Missouri	5:06.08	Tom Botts Invitational	Apr 19, 2019
+146	Forbis, Susan	SO-2	Missouri	5:06.66	Tom Botts Invitational	Apr 19, 2019
+147	Grisbaum, Devon	SR-4	Vanderbilt	5:06.87	Vanderbilt Black & Gold Invitational	Mar 22, 2019
+148	Galvez, Isabella	FR-1	Kentucky	5:11.10	Kentucky Track & Field Invitational	Apr 20, 2019
+149	Seals, Allyson	SO-2	LSU	5:12.58	LSU Invitational	Apr 27, 2019
+150	Saucier, Caroline	FR-1	LSU	5:14.22	LSU Alumni Gold	Apr 20, 2019
+151	Glowacki, Kayla	FR-1	Missouri	5:16.26	Tom Botts Invitational	Apr 19, 2019
+152	Bennett, Jennifer	FR-1	LSU	5:18.80	LSU Invitational	Apr 27, 2019
+153	Campbell, Lauren	FR-1	Arkansas	5:42.80	Arkansas Spring Invitational	Mar 22, 2019

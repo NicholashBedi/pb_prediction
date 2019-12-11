@@ -1,0 +1,89 @@
+1	Dimick, Sharlie	SR-4	Southern Utah	4:16.95	NCAA Division I West Region Preliminary Rounds	May 23, 2019
+2	Nickerson, Angie	SR-4	Southern Utah	4:21.08@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+3	Eitel, Pipi	SO-2	Northern Arizona	4:23.43	Bryan Clay Invitational	Apr 17, 2019
+4	Quinones, Amy	SR-4	Sacramento St.	4:23.99	Bryan Clay Invitational	Apr 17, 2019
+5	Lowry, Maryn	SR-4	Montana	4:24.72	Bryan Clay Invitational	Apr 17, 2019
+6	Behunin, Hannah	SO-2	Northern Arizona	4:24.75	Bryan Clay Invitational	Apr 17, 2019
+7	Pray, Alison	SO-2	Southern Utah	4:26.96@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+8	Dodge, Jenica	SR-4	Idaho State	4:28.69@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+9	Rasmussen, Delaney	SO-2	Northern Arizona	4:28.89	Bryan Clay Invitational	Apr 17, 2019
+10	Carruth, Maggie	SR-4	Northern Arizona	4:29.69	2019 Baldy Castillo Invitational	Mar 15, 2019
+11	Story, Kara	JR-3	Idaho	4:29.81@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+12	Duncan, Cagnei	SO-2	Sacramento St.	4:31.59	Bryan Clay Invitational	Apr 17, 2019
+13	Mitchell, MarLee	JR-3	Weber State	4:31.73@	Weber State Spring Classic	Apr 12, 2019
+14	Thacker, Malaina	SO-2	Idaho	4:31.75	2019 Triton Invitational	Apr 12, 2019
+15	Gibson, Kaila	JR-3	Portland State	4:32.09	Oregon State High Performance Meet	Apr 26, 2019
+16	Noe, Camila	FR-1	Montana State	4:32.62@	Tom Gage Classic	May 3, 2019
+17	Hamilton, Madeline	SO-2	Montana	4:32.71	Bryan Clay Invitational	Apr 17, 2019
+18	Story, Krista	JR-3	Idaho	4:33.67	Oregon State High Performance Meet	Apr 26, 2019
+19	Sjolund, Emma	FR-1	Northern Arizona	4:33.70	Bryan Clay Invitational	Apr 17, 2019
+20	Condie, Andrea	SR-4	Idaho	4:33.88	14th Sam Adams Classic Scoring Invite	Mar 21, 2019
+21	Sjolund, Emma	FR-1	Northern Arizona	4:34.65@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+22	Kyro, Alexi	SO-2	Montana State	4:34.68@	Tom Gage Classic	May 3, 2019
+23	Rasmussen, Delaney	SO-2	Northern Arizona	4:34.92	Stanford Invitational	Mar 29, 2019
+24	Williams, Isabella	JR-3	Weber State	4:34.96	Bryan Clay Invitational	Apr 17, 2019
+25	Porcaro, Morgan	SR-4	Southern Utah	4:35.69@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+26	Carlson, Patricia	SO-2	Montana State	4:36.27	2019 Triton Invitational	Apr 12, 2019
+27	Medved, Sarah	SR-4	Portland State	4:36.48	Oregon State High Performance Meet	Apr 26, 2019
+28	Lasota, Kelsi	SR-4	Montana State	4:36.83@	Cat-Griz Dual	Apr 27, 2019
+29	Thompson, Alicia	SR-4	Northern Colorado	4:37.15@	2019 Tom Benich Invite	Mar 30, 2019
+30	Molvin, Shannon	JR-3	Northern Arizona	4:37.53	2019 Baldy Castillo Invitational	Mar 15, 2019
+31	Maness, Gillian	JR-3	Montana State	4:38.10	Jim Bush Legends Invitational	Mar 30, 2019
+32	Liechty, Madison	JR-3	Montana State	4:38.62@	Tom Gage Classic	May 3, 2019
+33	Pratt, Michelle	FR-1	Weber State	4:38.98	Mike Fanelli Track Classic	Mar 28, 2019
+34	Malaspina, Mikayla	JR-3	Northern Arizona	4:39.20	2019 Baldy Castillo Invitational	Mar 15, 2019
+35	Olsen, Molly	SO-2	Idaho State	4:39.38	Mike Fanelli Track Classic	Mar 28, 2019
+36	Tatum, Alyssa	FR-1	Northern Colorado	4:39.64@	2019 Tom Benich Invite	Mar 30, 2019
+37	Larson, Kendra	SR-4	Montana State	4:39.76	Bob Larsen Distance Carnival	Mar 29, 2019
+38	Kavulich, Linnaea	FR-1	Portland State	4:40.74	Mike Fanelli Track Classic	Mar 28, 2019
+39	Sondag, Ashley	SR-4	Idaho State	4:40.84@	Montana State Open	Apr 20, 2019
+40	Oliver, Layne	SR-4	Montana State	4:41.23@	Montana State Open	Apr 20, 2019
+41	Tanne, Haley	FR-1	Southern Utah	4:41.41@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+42	Campos, Nathalia	FR-1	Idaho	4:42.19	8th Annual Whitworth Twilight	Apr 18, 2019
+43	McCaffrey, Jenna	SO-2	Northern Arizona	4:43.11	40th Sun Angel Track Classic	Apr 5, 2019
+44	Slater, Luna	FR-1	Northern Arizona	4:43.12	40th Sun Angel Track Classic	Apr 5, 2019
+45	Sargent, Cammy	SR-4	Northern Colorado	4:44.81@	Colorado Invitational 2019	Apr 5, 2019
+46	Wylie, Hannah	FR-1	Montana	4:45.05@	Tom Gage Classic	May 3, 2019
+47	Marshall, Mary Kate	FR-1	Idaho State	4:46.64@	2019 UVU Collegiate Invitational	Mar 29, 2019
+48	Riordan, Abby	FR-1	Northern Arizona	4:46.67	Bryan Clay Invitational	Apr 17, 2019
+49	Victor, Rachel	SO-2	Sacramento St.	4:47.17	Bryan Clay Invitational	Apr 17, 2019
+50	Wall, Zoe	JR-3	Northern Arizona	4:47.48	40th Sun Angel Track Classic	Apr 5, 2019
+51	Lawrence, Abby	SO-2	Weber State	4:47.76@	Weber State Spring Classic	Apr 12, 2019
+52	Bushar, Josie	SO-2	Southern Utah	4:48.42@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+53	Pecha, Erica	FR-1	Idaho	4:48.83	2019 Triton Invitational	Apr 12, 2019
+54	Glassman, Brighton	SR-4	Southern Utah	4:49.40	Bryan Clay Invitational	Apr 17, 2019
+55	Auernig, Megan	SO-2	Sacramento St.	4:50.99	Woody Wilson Classic	Apr 13, 2019
+56	Simison, Erica	FR-1	Montana	4:51.22@	Al Manuel Northwest Challenge	Mar 29, 2019
+57	Wilson, Emily	FR-1	Northern Colorado	4:51.26@	UNC Invite	Apr 19, 2019
+58	White, Delaney	SO-2	Portland State	4:51.86	Linfield Open	May 4, 2019
+59	Riordan, Abby	FR-1	Northern Arizona	4:53.29	40th Sun Angel Track Classic	Apr 5, 2019
+60	French, Anna	JR-3	Montana State	4:53.96@	Cat-Griz Dual	Apr 27, 2019
+61	Ledwith, Gracie	SR-4	Eastern Washington	4:54.18@	Al Manuel Northwest Challenge	Mar 29, 2019
+62	Pear, Amelia	JR-3	Sacramento St.	4:54.21	Aggie Open 2019	Mar 9, 2019
+63	Hansis, Mikaela	FR-1	Northern Colorado	4:54.74@	UNC Invite	Apr 19, 2019
+64	Cosgrove, Chloe	FR-1	Montana	4:56.95@	Montana Open	Apr 12, 2019
+65	Devries, Lyric	FR-1	Montana	4:57.09@	Montana Open	Apr 12, 2019
+66	Alicke, Laura	SO-2	Idaho State	4:58.32@	Montana State Open	Apr 20, 2019
+67	Torrey, Rachel	FR-1	Montana	4:58.44@	Tom Gage Classic	May 3, 2019
+68	Brown, Phoebe	FR-1	Portland State	4:59.22	Linfield Open	May 4, 2019
+69	Weedn, Katie	SO-2	Idaho State	5:00.00@	Aggie Iinvitational	Apr 12, 2019
+70	Arreola, Ashley	SO-2	Eastern Washington	5:00.26	Oregon State High Performance Meet	Apr 26, 2019
+71	Leinweber, Erika	FR-1	Eastern Washington	5:00.76@	Al Manuel Northwest Challenge	Mar 29, 2019
+72	Herrera, Jordan	SO-2	Northern Colorado	5:00.87@	Colorado Invitational 2019	Apr 5, 2019
+73	David, Rosemary	SO-2	Sacramento St.	5:03.12	Woody Wilson Classic	Apr 13, 2019
+74	Stites, Lizzie	FR-1	Eastern Washington	5:03.27@	Al Manuel Northwest Challenge	Mar 29, 2019
+75	Beaman, Molly	SO-2	Eastern Washington	5:05.13	Oregon State High Performance Meet	Apr 26, 2019
+76	Bailey, Jessica	SR-4	Montana	5:05.44@	Al Manuel Northwest Challenge	Mar 29, 2019
+77	Pitzman, Megan	FR-1	Eastern Washington	5:05.62@	Al Manuel Northwest Challenge	Mar 29, 2019
+78	Aguilar, Phoenix	SO-2	Eastern Washington	5:07.71@	Al Manuel Northwest Challenge	Mar 29, 2019
+79	Walker, Kristen	FR-1	Portland State	5:07.90	Mike Fanelli Track Classic	Mar 28, 2019
+80	Armstrong, Emma	JR-3	Sacramento St.	5:08.53	Aggie Open 2019	Mar 9, 2019
+81	Kennedy, Cami	SR-4	Northern Colorado	5:08.78@	UNC Invite	Apr 19, 2019
+82	Mans, Celie	SO-2	Idaho	5:09.68	14th Sam Adams Classic Scoring Invite	Mar 21, 2019
+83	Baldwin-Joiner, Alana	SO-2	Portland State	5:10.20	John Knight Twilight	Apr 5, 2019
+84	Dolan, Blayney	SO-2	Sacramento St.	5:11.93	2019 Mondo Team Challenge	Mar 30, 2019
+85	Brewer, Maizy	SO-2	Idaho	5:12.70	WAR 12	Apr 5, 2019
+86	Martin, McKenna	SO-2	Portland State	5:14.43	L&C Spring Break Open 2019	Mar 16, 2019
+87	Marquez, Conley	SR-4	Northern Colorado	5:15.59@	UNC Invite	Apr 19, 2019
+88	Baxter, Lillian	FR-1	Northern Colorado	5:18.52@	UNC Invite	Apr 19, 2019
+89	Salazar, Monica	FR-1	Portland State	5:19.16	2019 Willamette Opener	Mar 2, 2019

@@ -1,0 +1,76 @@
+1	Nelson, Karisa	SR-4	Samford	4:16.47	NCAA Division I Outdoor Track & Field Championships	Jun 5, 2019
+2	Carnahan, Savannah	JR-3	Furman	4:18.67	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+3	Steelman , Hannah	SO-2	Wofford	4:21.15	8th Annual Terrier Relays	Mar 30, 2019
+4	Jennings, Gabrielle	JR-3	Furman	4:21.89	Swarthmore Final Qualifier Meet	May 13, 2019
+5	Gear, Kristlin	SO-2	Furman	4:24.71	Swarthmore Final Qualifier Meet	May 13, 2019
+6	Strozier, Mary Grace	SO-2	Samford	4:24.81	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+7	Thomson, Kennedy	JR-3	Chattanooga	4:27.26	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+8	Kuntz, Emma	SO-2	Furman	4:27.47	Swarthmore Final Qualifier Meet	May 13, 2019
+9	Stallworth, Lindsey	SO-2	East Tenn. St.	4:28.67	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+10	Hurley, Emma Grace	JR-3	Furman	4:28.77	USC Open Outdoor	Apr 20, 2019
+11	Schwarz, Genevieve	FR-1	East Tenn. St.	4:30.39	Mount Olive First Chance and Multi	May 10, 2019
+12	Mallory, Shian	JR-3	Samford	4:33.00	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+13	Buehrle, Nicole	JR-3	Chattanooga	4:34.23	War Eagle Invitational 2019	Apr 19, 2019
+14	Nikolaou, Christina	SR-4	Western Carolina	4:35.05	Tiger Track Classic 2019	Apr 5, 2019
+15	Paraskeva, Madison	JR-3	Wofford	4:35.69	Charlotte 49er Classic	Mar 14, 2019
+16	Lyle, Veronica	JR-3	Samford	4:35.94(1)	Samford Alabama Track Challenge 2019	Apr 11, 2019
+17	Burr, Riley	JR-3	Furman	4:36.32	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+18	Feuchtenberger, Heather	SO-2	East Tenn. St.	4:37.78	Tennessee Relays	Apr 11, 2019
+19	Delaney, Taylor	JR-3	UNC-Greensboro	4:39.47	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+20	Dwyer, Grace	JR-3	Furman	4:39.65	USC Open Outdoor	Apr 20, 2019
+21	Barnett, Jamie	SR-4	Wofford	4:40.64	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+22	Giorgi, Giulia	FR-1	Mercer	4:44.56	North Florida Spring Break Invitational	Mar 21, 2019
+23	Dill, Kassidy	SO-2	UNC-Greensboro	4:44.84	2019 Southern Conference Outdoor Track & Field Championships	Apr 27, 2019
+24	Lane, Emily	SO-2	Furman	4:44.91	USC Open Outdoor	Apr 20, 2019
+25	Stephenson, Jennifer	JR-3	Furman	4:47.83	USC Open Outdoor	Apr 20, 2019
+26	Broling , Ashlynd	SO-2	Chattanooga	4:49.20	JSU Girls Day Out Track & Field Meet	Apr 6, 2019
+27	McCaslin, Chandler	FR-1	UNC-Greensboro	4:49.57	2019 Fred Hardy Invitational	Mar 29, 2019
+28	Biggar, Lindsey	FR-1	Samford	4:49.77	Tiger Track Classic 2019	Apr 5, 2019
+29	Henderson, Julia	JR-3	Chattanooga	4:49.94	War Eagle Invitational 2019	Apr 19, 2019
+30	Mattison, Kate	FR-1	Western Carolina	4:51.11	Tiger Track Classic 2019	Apr 5, 2019
+31	McGee, Josephine	SO-2	UNC-Greensboro	4:52.18	HPU VertKlasse Meeting	Mar 21, 2019
+32	Trotter, Lindsey	JR-3	Western Carolina	4:52.59	2019 Adidas Winthrop University Invitational	Mar 21, 2019
+33	McKenzie, Sommer	JR-3	Wofford	4:54.93	8th Annual Terrier Relays	Mar 30, 2019
+34	Caldwell, Reilly	SO-2	Furman	4:55.42	8th Annual Terrier Relays	Mar 30, 2019
+35	Shaw, Makayla	SO-2	East Tenn. St.	4:56.33	HPU VertKlasse Meeting	Mar 21, 2019
+36	Godlock, India	SO-2	UNC-Greensboro	4:58.02	HPU VertKlasse Meeting	Mar 21, 2019
+37	Garcia, Ariana	SO-2	UNC-Greensboro	4:58.84	HPU VertKlasse Meeting	Mar 21, 2019
+38	Owings, Madison	SO-2	UNC-Greensboro	4:59.29	Duke Invitational	Apr 19, 2019
+39	Wilson , Mary	JR-3	Wofford	4:59.51	8th Annual Terrier Relays	Mar 30, 2019
+40	McMahon, Ashley	FR-1	Mercer	4:59.56	Yellow Jacket Invitational	Mar 15, 2019
+41	Thorne, Mary	FR-1	Samford	5:00.91	BSC Hilltop Classic	Mar 30, 2019
+42	Neglia, Sophia	SO-2	Chattanooga	5:01.66	JSU Girls Day Out Track & Field Meet	Apr 6, 2019
+43	Gates, Siena	FR-1	Western Carolina	5:02.85	2019 Catamount Classic	Apr 12, 2019
+44	Kapaya, Shila	FR-1	East Tenn. St.	5:03.04	2019 Catamount Classic	Apr 12, 2019
+45	Blaylock, Jamie	FR-1	Western Carolina	5:03.13	2019 Catamount Classic	Apr 12, 2019
+46	Fadgyas, Rebeka	SR-4	Wofford	5:03.50	8th Annual Terrier Relays	Mar 30, 2019
+47	Huntington, Anna	SO-2	Samford	5:03.53	BSC Hilltop Classic	Mar 30, 2019
+48	Jones , Makenzie		Chattanooga	5:04.45	JSU Choccolocco Challenge	Mar 8, 2019
+49	Granier, Lauren	JR-3	Samford	5:07.76	BSC Hilltop Classic	Mar 30, 2019
+50	Miller, Casey	SO-2	Citadel	5:08.95	Buccaneer Invitational	Mar 23, 2019
+51	Hanson, Jerrica	FR-1	Mercer	5:10.43	Berry Field Day Invitational	Apr 12, 2019
+52	McAndrew, Shannon	JR-3	Wofford	5:12.04	8th Annual Terrier Relays	Mar 30, 2019
+53	Anderson, Kathryn	FR-1	UNC-Greensboro	5:12.09	HPU VertKlasse Meeting	Mar 21, 2019
+54	Corson, Hannah	FR-1	Mercer	5:12.23	Yellow Jacket Invitational	Mar 15, 2019
+55	Contreras, Kayla	SO-2	UNC-Greensboro	5:12.24	HPU VertKlasse Meeting	Mar 21, 2019
+56	Knoblett, Julianne	JR-3	VMI	5:12.83	Bison Outdoor Classic	Apr 13, 2019
+57	Van Sickle, Marina	SO-2	Mercer	5:14.20	Berry Field Day Invitational	Apr 12, 2019
+58	Girardi, Mia	FR-1	Wofford	5:14.65	Gamecock Invitational Outdoor	Apr 13, 2019
+59	Opp, Amber	SO-2	Citadel	5:15.77	East Carolina University Bill Carson Invitational	Apr 5, 2019
+60	Dalton, Ashlyn	SO-2	UNC-Greensboro	5:16.15	Aggie Invitational	Apr 12, 2019
+61	Mordoff, Holly	JR-3	UNC-Greensboro	5:16.77	Wendy's Seahawk Invitational	Mar 8, 2019
+62	Belcher, Hannah	SR-4	Samford	5:18.52	BSC Hilltop Classic	Mar 30, 2019
+63	Cowart, Madison	JR-3	Mercer	5:20.13	Berry Field Day Invitational	Apr 12, 2019
+64	Sawyer , Taylor	SR-4	Chattanooga	5:20.51	Emory Invitational	Mar 22, 2019
+65	McManus, Lefler	SO-2	UNC-Greensboro	5:22.23	HPU VertKlasse Meeting	Mar 21, 2019
+66	Schoessow, Caroline	FR-1	Western Carolina	5:23.23	Charlotte 49er Classic	Mar 14, 2019
+67	Roberts, Meredith	FR-1	UNC-Greensboro	5:23.62	HPU VertKlasse Meeting	Mar 21, 2019
+68	Thomas, Isabella	FR-1	Mercer	5:23.99	Berry Field Day Invitational	Apr 12, 2019
+69	Hale, Jada	SO-2	Chattanooga	5:26.07	JSU Girls Day Out Track & Field Meet	Apr 6, 2019
+70	Harrell, Emily	SO-2	Samford	5:32.58(1)	Samford Alabama Track Challenge 2019	Apr 11, 2019
+71	Shashidhara, Nidhi	JR-3	Mercer	5:33.26	Victor Ice Breaker Duals	Mar 2, 2019
+72	Padgett, Kenslee	SO-2	Citadel	5:36.61	USC Open Outdoor	Apr 20, 2019
+73	Sanchez-Martinez, Daniela	JR-3	Citadel	5:38.94	USC Open Outdoor	Apr 20, 2019
+74	Reeves, Bethany	SR-4	Citadel	5:40.85	Buccaneer Invitational	Mar 23, 2019
+75	Sulzbach, Shona	SR-4	Citadel	6:04.29	Gamecock Invitational Outdoor	Apr 13, 2019
+76	Burroughs, Anastasia	SO-2	Wofford	6:23.36	8th Annual Terrier Relays	Mar 30, 2019

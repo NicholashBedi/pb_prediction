@@ -1,0 +1,68 @@
+1	Anastasakis, Melissa	JR-3	Elon	4:19.75	NCAA Division I East Region Preliminary Rounds	May 23, 2019
+2	Smith, Chelsea	SR-4	Elon	4:27.61	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+3	Jackson, Erica	SR-4	James Madison	4:29.42	2019 Colonial Relays	Apr 4, 2019
+4	Meyer, Michaela	JR-3	Delaware	4:29.55	2019 Larry Ellis Invitational	Apr 20, 2019
+5	Kowalk, Charlotte	JR-3	William and Mary	4:32.02	Raleigh Relays	Mar 29, 2019
+6	Finikiotis, Lauren	SO-2	William and Mary	4:32.62	2019 Colonial Relays	Apr 4, 2019
+7	Geraniotis, Coralea	SR-4	Elon	4:33.99	Charlotte Invitational 2019	Apr 12, 2019
+8	Viparina, Olivia	SR-4	James Madison	4:35.29	George Mason Spring Invitational	Apr 13, 2019
+9	Savioz, Natacha	SR-4	Elon	4:35.82	Raleigh Relays	Mar 29, 2019
+10	Anicic, Kylie	FR-1	Towson	4:36.42	2019 Larry Ellis Invitational	Apr 20, 2019
+11	Paxton, Olivia	JR-3	William and Mary	4:37.98	2019 Dan Stimson Memorial Meet	Mar 23, 2019
+12	Preeo, Hannah	FR-1	Elon	4:38.72	Phoenix Invitational 2019	Apr 6, 2019
+13	Walak, Kelsey	SO-2	Northeastern	4:38.73	Black and Gold Challange	Mar 15, 2019
+14	Romero, Valerie	JR-3	Delaware	4:38.86	CAA Outdoor Track and Field Championships	May 3, 2019
+15	King, Paige	JR-3	Elon	4:38.95	Phoenix Invitational 2019	Apr 6, 2019
+16	Janke, Olivia	FR-1	Towson	4:39.31	Towson Invitational 2019	Apr 6, 2019
+17	Connelly, Kayla	SO-2	James Madison	4:39.64	2019 Fred Hardy Invitational	Mar 29, 2019
+17	Jones, Taylor	SO-2	William and Mary	4:39.64	George Mason Spring Invitational	Apr 13, 2019
+19	Witt, Averi	SO-2	James Madison	4:40.19	George Mason Spring Invitational	Apr 13, 2019
+20	Ruffo, Kerri	SR-4	Northeastern	4:41.16(1)	Ocean State Invitational	Apr 12, 2019
+21	Capparell, Tina	FR-1	Delaware	4:41.58	2019 Morgan State Legacy Track & Field Meet	Apr 19, 2019
+22	Salas, Sydney	SR-4	Northeastern	4:41.70	Jay Carisella Coaches Invitational	Apr 20, 2019
+23	Ambrose, Cate	SO-2	Col. of Charleston	4:44.02	CAA Outdoor Track and Field Championships	May 3, 2019
+24	Dunn, Diana	JR-3	Delaware	4:44.31	Raleigh Relays	Mar 29, 2019
+25	Jones, Mackenzie	JR-3	Delaware	4:44.33	2019 Adidas Winthrop University Invitational	Mar 21, 2019
+26	Casey, Deirdre	JR-3	William and Mary	4:44.90	2019 Dan Stimson Memorial Meet	Mar 23, 2019
+27	Snyder, Rachel	SR-4	William and Mary	4:45.14	William & Mary Triangular	Mar 16, 2019
+28	Garcia, Carina	JR-3	William and Mary	4:45.35	George Mason Spring Invitational	Apr 13, 2019
+29	Cortina, Camila	SR-4	Northeastern	4:45.38	University of MA Minuteman Invitational	Apr 6, 2019
+30	Paolucci, Emily	SR-4	Delaware	4:49.96	Delaware Open	Apr 28, 2019
+31	Tavares, Karina	JR-3	William and Mary	4:50.11	2019 Colonial Relays	Apr 4, 2019
+32	McCarten, Kelley	SO-2	Elon	4:50.33	Duke Invitational	Apr 19, 2019
+33	Lewin, Deirdre	SO-2	William and Mary	4:50.45	William & Mary Triangular	Mar 16, 2019
+34	Zodl, Lauren	SR-4	Delaware	4:50.48	Delaware Classic	Mar 30, 2019
+35	Miller, Kate	SO-2	William and Mary	4:50.49	George Mason Spring Invitational	Apr 13, 2019
+36	Wasko, Anna	JR-3	William and Mary	4:50.84	2019 Colonial Relays	Apr 4, 2019
+37	Gauthier, Abby	SR-4	Towson	4:51.34	Hopkins Loyola Invitational	Apr 12, 2019
+38	Kanaley, Bridget	SO-2	Elon	4:51.68	Charlotte Invitational 2019	Apr 12, 2019
+39	Bobbie, Shelby	SR-4	Towson	4:52.70	Hopkins Loyola Invitational	Apr 12, 2019
+40	Lambert, Julia	FR-1	William and Mary	4:52.84	Virginia Grand Prix	Apr 26, 2019
+41	Kaminski, Analise	JR-3	Delaware	4:55.22	2019 Eastern Shore Challenge	Apr 13, 2019
+42	Bugara, Grace	SO-2	Northeastern	4:55.89	University of MA Minuteman Invitational	Apr 6, 2019
+43	Cherry, Kristen	FR-1	Col. of Charleston	4:57.63	Gamecock Invitational Outdoor	Apr 13, 2019
+44	Koehler, Sierra	SO-2	UNCW	4:59.41	Charlotte Invitational 2019	Apr 12, 2019
+45	Smith, Emily	JR-3	Elon	4:59.48	Charlotte 49er Classic	Mar 14, 2019
+46	Byrd, Chloe	FR-1	UNCW	4:59.77	Wendy's Seahawk Invitational	Mar 8, 2019
+47	Dailey, Kathleen	SR-4	Delaware	5:00.00	2019 Colonial Relays	Apr 4, 2019
+48	Odom, Mandy	FR-1	Delaware	5:01.78	2019 Colonial Relays	Apr 4, 2019
+49	Swanson, Caitlin	SO-2	James Madison	5:01.90	CAA Outdoor Track and Field Championships	May 3, 2019
+50	Ledgett, Julia	SO-2	UNCW	5:02.32	Wendy's Seahawk Invitational	Mar 8, 2019
+51	Delahanty, McKenzie	FR-1	Towson	5:03.12	2019 Morgan State Legacy Track & Field Meet	Apr 19, 2019
+52	Rovin, Olivia	FR-1	William and Mary	5:04.41	2019 Colonial Relays	Apr 4, 2019
+53	Bezborodko, Nicole	FR-1	Towson	5:05.07	Hopkins Loyola Invitational	Apr 12, 2019
+54	Graham, Melissa	JR-3	Towson	5:07.07	Hopkins Loyola Invitational	Apr 12, 2019
+55	Smithwick, Cameron	SO-2	UNCW	5:10.89	East Carolina University Bill Carson Invitational	Apr 5, 2019
+56	Vaughn, Elizabeth	FR-1	Towson	5:12.27	2019 Morgan State Legacy Track & Field Meet	Apr 19, 2019
+57	Owens, Summer	SO-2	UNCW	5:16.40	2019 Adidas Winthrop University Invitational	Mar 21, 2019
+58	Farmer, Hannah	JR-3	Col. of Charleston	5:16.52	2019 Rainbow Relays	Mar 22, 2019
+59	Iacaruso, Nicki	SR-4	Towson	5:17.18	Towson Invitational 2019	Apr 6, 2019
+60	Fogleman, Laurie	FR-1	Col. of Charleston	5:17.71	Duke Invitational	Apr 19, 2019
+61	Smithwick, Haley	SO-2	UNCW	5:18.82	East Carolina University Bill Carson Invitational	Apr 5, 2019
+62	DeRoberts, Emmaleine	FR-1	Col. of Charleston	5:19.71	Gamecock Invitational Outdoor	Apr 13, 2019
+63	Terzotis, Sarah	FR-1	UNCW	5:22.33	East Carolina University Bill Carson Invitational	Apr 5, 2019
+64	Behrends, Leah	SO-2	UNCW	5:24.66	UNCW Invitational	Mar 15, 2019
+65	Boese, Megan	FR-1	Hofstra	5:28.79	Rider Invitational 2019	Apr 13, 2019
+66	Kosiorek, Jace	SR-4	Col. of Charleston	5:32.16	Gamecock Invitational Outdoor	Apr 13, 2019
+67	Shires, Morgan	SO-2	UNCW	5:41.64	UNCW Invitational	Mar 15, 2019
+68	Bacher, Alli	JR-3	Hofstra	6:10.97	Rider Invitational 2019	Apr 13, 2019

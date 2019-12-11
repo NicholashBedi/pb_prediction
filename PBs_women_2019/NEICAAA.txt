@@ -1,0 +1,500 @@
+1NEICAAA	Black, Lotte	SO-2	Rhode Island	4:13.02	NCAA Division I Outdoor Track & Field Championships	Jun 5, 2019
+2NEICAAA	Paladino, Millie	SR-4	Providence	4:13.51(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+3NEICAAA	Chau, Jocelyn	FR-1	Yale	4:19.07	Army West Point Twilight	May 9, 2019
+4NEICAAA	Duca, Paige	JR-3	Boston College	4:19.66	NCAA Division I East Region Preliminary Rounds	May 23, 2019
+5NEICAAA	Juul, Anna	SO-2	Harvard	4:20.02	NCAA Division I East Region Preliminary Rounds	May 23, 2019
+6NEICAAA	Murdock, Shannon	JR-3	New Hampshire	4:20.75(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+7NEICAAA	Gillespie, Kathryn	JR-3	Harvard	4:21.59(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+8NEICAAA	Ilarda, Brianna	SR-4	Providence	4:21.64(1)	Ocean State Invitational	Apr 12, 2019
+9NEICAAA	Richards, Kaley	JR-3	UMass Lowell	4:22.95	Army West Point Twilight	May 9, 2019
+10NEICAAA	Bryson, Emily	SR-4	Brandeis	4:23.02	2019 Larry Ellis Invitational	Apr 20, 2019
+11NEICAAA	Nahom, Mia	SO-2	Connecticut	4:23.73(1)	Boston University Bruce Lehane Scarlet and White Invitationa	Feb 2, 2019
+12NEICAAA	Glover, Breanna	FR-1	Dartmouth	4:24.29	Ivy League Outdoor Track & Field Championships	May 4, 2019
+13NEICAAA	Passannante, Anna	JR-3	Williams	4:25.56(1)	NCAA Division III Indoor Track & Field Championships	Mar 8, 2019
+14NEICAAA	Wheeler, Abbey	JR-3	Providence	4:25.70(1)	Ocean State Invitational	Apr 12, 2019
+15NEICAAA	DeLay, Kayley	SO-2	Yale	4:25.86(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+16NEICAAA	Goldstein, Abbe	SO-2	Harvard	4:26.12(1)	H-Y-P	Jan 26, 2019
+17NEICAAA	Clermont, Nicole	FR-1	Boston College	4:26.16(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+18NEICAAA	Fear, Georgia	JR-3	Dartmouth	4:26.72	Ivy League Outdoor Track & Field Championships	May 4, 2019
+19NEICAAA	Trumble, Lauren	SR-4	Vermont	4:26.73(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+20NEICAAA	Claeson, Andrea	FR-1	Boston University	4:26.89	IC4A/ECAC Outdoor Track & Field Championships	May 11, 2019
+21NEICAAA	Eickhoff, Ayden	SR-4	Bates	4:27.53	New England Outdoor Championship - NEICAAA	May 10, 2019
+22NEICAAA	Dougherty, Claire	JR-3	Dartmouth	4:27.58	Sam Howell Invitational	Apr 6, 2019
+23NEICAAA	Nadler, Abigail	SR-4	Middlebury	4:27.77	New England Outdoor Championship - NEICAAA	May 10, 2019
+24NEICAAA	Archer, Lauren	JR-3	Dartmouth	4:27.87	New England Outdoor Championship - NEICAAA	May 10, 2019
+25NEICAAA	Rayle, Maya	FR-1	Harvard	4:28.18	Ivy League Outdoor Track & Field Championships	May 4, 2019
+26NEICAAA	Kompelien, Emily	FR-1	Brown	4:28.40(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+27NEICAAA	Sapone, Lauren	JR-3	Dartmouth	4:30.22	Sam Howell Invitational	Apr 6, 2019
+28NEICAAA	Ghazarian, Sevanne	SO-2	Yale	4:30.53	Sam Howell Invitational	Apr 6, 2019
+29NEICAAA	Valentine, Samantha	SO-2	Brown	4:30.82	Sam Howell Invitational	Apr 6, 2019
+30NEICAAA	Thompson, Grace	SR-4	Dartmouth	4:31.65(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+31NEICAAA	Aneno, Susan	SR-4	Connecticut	4:31.82(1)	Nittany Lion Challenge	Jan 12, 2019
+32NEICAAA	Scartelli, Christina	SR-4	Amherst	4:31.92	New England Outdoor Championship - NEICAAA	May 10, 2019
+33NEICAAA	Quimby, Megan	SO-2	Yale	4:32.07	Ivy League Outdoor Track & Field Championships	May 4, 2019
+34NEICAAA	Roberts, Kaleigh	SR-4	Quinnipiac	4:32.10(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+35NEICAAA	Brawner, Megan	JR-3	Central Connecticut	4:32.39	Bison Outdoor Classic	Apr 13, 2019
+36NEICAAA	Rome, Regan	SR-4	Providence	4:32.83(1)	Ocean State Invitational	Apr 12, 2019
+36NEICAAA	Staiger, Talia	SR-4	Connecticut	4:32.83(1)	The American Indoor Track & Field Championships	Feb 22, 2019
+38NEICAAA	Starn, Brooke	SO-2	Harvard	4:33.08	2019 Harvard - Yale Match	Apr 13, 2019
+39NEICAAA	Medrano, Tessa	SO-2	Harvard	4:33.10	Raleigh Relays	Mar 29, 2019
+40NEICAAA	McPhillips, Marissa	JR-3	MIT	4:33.19(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+41NEICAAA	Toth, Rhemi	JR-3	Tufts	4:33.26(1)	NCAA Division III Indoor Track & Field Championships	Mar 8, 2019
+42NEICAAA	Thorne, Jacqueline	JR-3	Sacred Heart	4:33.76	George Mason Spring Invitational	Apr 13, 2019
+42NEICAAA	Fairchild, Melissa	SR-4	Northeastern	4:33.76(1)	IC4A/ECAC Indoor Track & Field Championships	Mar 1, 2019
+44NEICAAA	Gajewski, Danielle	SR-4	New Hampshire	4:33.95	Raleigh Relays	Mar 29, 2019
+45NEICAAA	Vick, Rachel	SO-2	Connecticut	4:34.10	The American Outdoor Track & Field Championships	May 10, 2019
+46NEICAAA	Marston, Kialeigh	JR-3	Assumption	4:34.28	Northeast-10 Outdoor Track & Field Championships	May 3, 2019
+47NEICAAA	O'Leary, Colette	FR-1	UMass Amherst	4:34.36	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+48NEICAAA	Lord, Arianna	JR-3	Yale	4:34.37	Army West Point Twilight	May 9, 2019
+49NEICAAA	Mooney, Kaitlyn	SO-2	Coast Guard	4:34.41	DIII New England Outdoor Track & Field Championships	May 2, 2019
+50NEICAAA	Sessa, Emily	SO-2	UMass Lowell	4:35.01	2019 America East Outdoor Championships	May 4, 2019
+51NEICAAA	Greene, Tasha	SO-2	Middlebury	4:35.21	2019 California Collegiate Open	Mar 30, 2019
+52NEICAAA	Shipley, Caroline	JR-3	Bowdoin	4:35.41	New England Outdoor Championship - NEICAAA	May 10, 2019
+53NEICAAA	Weiss, Olivia	JR-3	Sacred Heart	4:35.46	Raleigh Relays	Mar 29, 2019
+54NEICAAA	Murphy, Nicole	JR-3	UMass Lowell	4:35.53	2019 America East Outdoor Championships	May 4, 2019
+55NEICAAA	Barretto, Cayla	SO-2	New Hampshire	4:35.73	2019 Larry Ellis Invitational	Apr 20, 2019
+56NEICAAA	Martin, Jessica	SR-4	Boston College	4:35.85	ACC Championships	May 9, 2019
+57NEICAAA	Brehler, Alyssa	SR-4	Rhode Island	4:35.86(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+58NEICAAA	Voight, Morgan	JR-3	Quinnipiac	4:35.87(1)	Metro Atlantic Indoor Track & Field Championships	Feb 16, 2019
+59NEICAAA	Glew, Katie	SO-2	Middlebury	4:35.97	New England Outdoor Championship - NEICAAA	May 10, 2019
+60NEICAAA	O'Shea, Caroline	SO-2	Vermont	4:35.98	2019 America East Outdoor Championships	May 4, 2019
+61NEICAAA	Young, Emily	FR-1	Quinnipiac	4:36.64	New England Outdoor Championship - NEICAAA	May 10, 2019
+62NEICAAA	Dekker, Eliza	SR-4	Dartmouth	4:36.67	2019 Larry Ellis Invitational	Apr 20, 2019
+63NEICAAA	Clark, Caroline	SO-2	UMass Amherst	4:36.68	2019 Larry Ellis Invitational	Apr 20, 2019
+64NEICAAA	Barnes, Anna	SR-4	Trinity (Conn.)	4:36.77	NCAA Division III Outdoor Track & Field Championships	May 23, 2019
+65NEICAAA	Delanis, Emeline	JR-3	Boston College	4:36.89(1)	Ocean State Invitational	Apr 12, 2019
+66NEICAAA	Champagne, Margaret	JR-3	New Hampshire	4:37.07(1)	Ocean State Invitational	Apr 12, 2019
+67NEICAAA	Kearney, Cassidy	FR-1	Middlebury	4:37.23	Silfen Invitational 2019	Apr 12, 2019
+68NEICAAA	Martell, AnneMarie	SO-2	Vermont	4:37.27	2019 America East Outdoor Championships	May 4, 2019
+69NEICAAA	Alsup, Allie	SO-2	Connecticut	4:37.31(1)	The American Indoor Track & Field Championships	Feb 22, 2019
+70NEICAAA	Tierney, Kelsey	SR-4	Tufts	4:37.44	Silfen Invitational 2019	Apr 12, 2019
+71NEICAAA	Ocker, Coco	JR-3	Boston University	4:37.52(1)	Ocean State Invitational	Apr 12, 2019
+72NEICAAA	Yeomans, Nicole	FR-1	New Hampshire	4:37.60	New England Outdoor Championship - NEICAAA	May 10, 2019
+73NEICAAA	Tuthill, Margaret	JR-3	Dartmouth	4:37.96	2019 Dartmouth Outdoor Invitational	Apr 12, 2019
+74NEICAAA	Smith, Kayla	FR-1	Boston College	4:38.10(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+75NEICAAA	Bryson, Julia	SR-4	Brandeis	4:38.13(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+76NEICAAA	Conery, Michaella	JR-3	New Hampshire	4:38.21(1)	Ocean State Invitational	Apr 12, 2019
+77NEICAAA	Trautner, Margaret	JR-3	MIT	4:38.23	DIII New England Outdoor Track & Field Championships	May 2, 2019
+78NEICAAA	Fiutak, Rhoen	SR-4	Wesleyan	4:38.27(1)	Fastrack Last Chance	Feb 15, 2019
+79NEICAAA	Koufos, Emily	FR-1	Holy Cross	4:38.36	Patriot League Outdoor Track & Field Championships	May 3, 2019
+80NEICAAA	Salas, Sydney	SR-4	Northeastern	4:38.50(1)	2019 Beantown Challenge	Jan 12, 2019
+81NEICAAA	Curtin, Meghan	JR-3	Quinnipiac	4:38.57	War Eagle Invitational 2019	Apr 19, 2019
+81NEICAAA	Stevenson, Julia	JR-3	Dartmouth	4:38.57	2019 Dartmouth Outdoor Invitational	Apr 12, 2019
+83NEICAAA	Ludwikowski, Rachel	SO-2	Dartmouth	4:38.64(1)	Dartmouth-Yale-Columbia	Jan 18, 2019
+84NEICAAA	Walak, Kelsey	SO-2	Northeastern	4:38.73	Black and Gold Challange	Mar 15, 2019
+85NEICAAA	Chavey, Helen	SR-4	Colby	4:38.76(1)	Tufts National Qualifying Meet	Mar 2, 2019
+86NEICAAA	McArdle, Allison	JR-3	Holy Cross	4:38.90	Patriot League Outdoor Track & Field Championships	May 3, 2019
+87NEICAAA	Kelly, Rory	SR-4	Middlebury	4:38.98	Williams Invitational	Apr 20, 2019
+88	Conway, Chloe	JR-3	Brown	4:39.13	University of MA Minuteman Invitational	Apr 6, 2019
+89	DeLoreto, Katherine	SO-2	Boston College	4:39.28(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+90	Rego, Eliza	SO-2	Harvard	4:39.29	Raleigh Relays	Mar 29, 2019
+91	Oeser, Anna	FR-1	Boston College	4:39.32(1)	NEICAAA Indoor Track & Field Championships	Feb 1, 2019
+92	Steffke, Hannah	JR-3	Yale	4:39.46(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+93	Parker, Hannah	SR-4	Connecticut	4:39.50	Brown Springtime Invitational	Apr 28, 2019
+94	Beroutsos, Carolina	SO-2	Harvard	4:39.71(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+95	Murphy, Glennis	SO-2	Dartmouth	4:39.89	2019 Dartmouth Outdoor Invitational	Apr 12, 2019
+96	Criscuolo, Emily	SO-2	Boston College	4:39.95(1)	ACC Indoor Track & Field Championships	Feb 21, 2019
+97	McCormick, Morgan	FR-1	Yale	4:40.01(1)	Dartmouth-Yale-Columbia	Jan 18, 2019
+98	Miller, Jane	JR-3	Yale	4:40.11(1)	H-Y-P	Jan 26, 2019
+99	Nagpaul, Sunny	JR-3	Vermont	4:40.23	New England Outdoor Championship - NEICAAA	May 10, 2019
+100	Lastra, Anna	JR-3	Stonehill	4:40.31(1)	Ocean State Invitational	Apr 12, 2019
+101	MacCary, Kate	SR-4	Middlebury	4:40.35	DIII New England Outdoor Track & Field Championships	May 2, 2019
+102	Fisher, Kate	SO-2	Merrimack	4:40.38	Northeast-10 Outdoor Track & Field Championships	May 3, 2019
+103	Mitchell, Julia	SR-4	Wesleyan	4:40.82	MIT Division III Final Qualifying Meet	May 16, 2019
+104	Bourne, Brianna	SO-2	Williams	4:40.86	DIII New England Outdoor Track & Field Championships	May 2, 2019
+105	Ruffo, Kerri	SR-4	Northeastern	4:41.16(1)	Ocean State Invitational	Apr 12, 2019
+106	Freeman, Alyssa	JR-3	Stonehill	4:41.19	Northeast-10 Outdoor Track & Field Championships	May 3, 2019
+107	Guerra, Jac	FR-1	Brandeis	4:41.34(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+108	Green, Anita	SR-4	Coast Guard	4:41.42	DIII New England Outdoor Track & Field Championships	May 2, 2019
+109	Giesing, Isabella	FR-1	UMass Lowell	4:41.43(1)	Alan Connie Shamrock Invite	Mar 14, 2019
+110	Butler, Hannah	SO-2	Brown	4:41.63	University of MA Minuteman Invitational	Apr 6, 2019
+111	Wolff, Emily	SR-4	Quinnipiac	4:41.70(1)	Ocean State Invitational	Apr 12, 2019
+112	O'Rourke, Julia	SR-4	Bowdoin	4:41.97	DIII New England Outdoor Track & Field Championships	May 2, 2019
+113	Swanson, Kelsey	SR-4	Connecticut	4:42.16(1)	The American Indoor Track & Field Championships	Feb 22, 2019
+114	Cowles, Grace	SO-2	Wellesley	4:42.22	DIII New England Outdoor Track & Field Championships	May 2, 2019
+115	Hayes, Delia	SR-4	Boston College	4:42.45(1)	2019 Beantown Challenge	Jan 12, 2019
+116	Gayer, Sarah	SO-2	Amherst	4:42.49	DIII New England Outdoor Track & Field Championships	May 2, 2019
+117	Brazil, Abigail	SO-2	Dartmouth	4:42.58	2019 Dartmouth Outdoor Invitational	Apr 12, 2019
+118	Romanchick, Katelynn	SO-2	Connecticut	4:42.60	Brown Springtime Invitational	Apr 28, 2019
+119	Koski, Phoebe	JR-3	Vermont	4:42.76(1)	2019 America East Indoor Championships	Feb 22, 2019
+120	Matora, Katia	SR-4	Brown	4:42.77(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+121	Hurley, Alexina	FR-1	UMass Amherst	4:42.93	2019 Larry Ellis Invitational	Apr 20, 2019
+122	Rustad, Audrey	JR-3	Williams	4:42.99(1)	Springfield College Triangle Classic	Feb 16, 2019
+123	Anderson, Lillian	SR-4	Dartmouth	4:43.00	Yellow Jacket Invitational	Mar 15, 2019
+124	Barry, Caroline	FR-1	Boston College	4:43.25(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+125	Chacko, Celia	FR-1	Connecticut	4:43.30	Brown Springtime Invitational	Apr 28, 2019
+126	Weir, Kosana	FR-1	Yale	4:43.54(1)	H-Y-P	Jan 26, 2019
+127	Casaletto, Stephanie	FR-1	Boston University	4:43.63(1)	Boston University Bruce Lehane Scarlet and White Invitationa	Feb 2, 2019
+128	Suss, Rachel	JR-3	Yale	4:43.75	2019 Harvard - Yale Match	Apr 13, 2019
+129	Kane, Lindsey	SR-4	Connecticut	4:43.99(1)	Dr. Sander Columbia Challenge	Jan 24, 2019
+130	Cortina, Camila	SR-4	Northeastern	4:44.21(1)	Joe Donahue Games	Jan 18, 2019
+131	DeLoreto, Katherine	SO-2	Boston College	4:44.37(1)	Boston University Last Chance Qualifier	Feb 24, 2019
+132	Coffin, Maria	SO-2	Providence	4:44.44(1)	Brown University Invitational	Feb 16, 2019
+133	Shepherd, Gemma	JR-3	Yale	4:44.53	2019 Yale Springtime Invitational	Apr 28, 2019
+134	Batsu, Corinne	SO-2	Boston University	4:44.54(1)	Ocean State Invitational	Apr 12, 2019
+135	Mitchell, Bridget	FR-1	Providence	4:44.64	Raleigh Relays	Mar 29, 2019
+136	De Lucia, Bianca	JR-3	Sacred Heart	4:44.83	Sam Howell Invitational	Apr 6, 2019
+137	Rafter, Angelia	SO-2	Central Connecticut	4:45.15	24th Annual Monmouth Season Opener	Mar 29, 2019
+138	Burr, Randi	FR-1	Connecticut	4:45.20(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+139	Wilson, Meg	JR-3	Middlebury	4:45.22	PLNU Track and Field Invitational	Mar 23, 2019
+140	Nuechertlein, Zoe	SO-2	Yale	4:45.24	2019 Yale Springtime Invitational	Apr 28, 2019
+141	Raftis, Kylee	SO-2	Boston College	4:45.31	Tufts Snowflake Classic	Mar 30, 2019
+142	Brandon, Madeleine	JR-3	New Hampshire	4:45.37	Jay Carisella Coaches Invitational	Apr 20, 2019
+143	Foote, Bridget	FR-1	Northeastern	4:45.38(1)	2019 Beantown Challenge	Jan 12, 2019
+143	Packard, Sydney	JR-3	WPI	4:45.38(1)	Tufts Cupid Challenge	Feb 2, 2019
+145	Sayer, Samantha	SR-4	Vermont	4:45.51(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+146	Bolduc, Andrea	SO-2	Brandeis	4:45.57	UAA Outdoor Championship	Apr 27, 2019
+147	Leatherwood, Sarah	FR-1	Connecticut	4:45.63(1)	Dr. Sander Columbia Challenge	Jan 24, 2019
+148	Paolella, Vanessa	SO-2	Bates	4:45.79(1)	Women's State of Maine	Feb 1, 2019
+149	Buttrey, Kira	FR-1	MIT	4:45.80(1)	Bowdoin Invite II	Jan 19, 2019
+150	Leighton, Jane	FR-1	Vermont	4:45.83	University of MA Minuteman Invitational	Apr 6, 2019
+151	Vizza, Diana	JR-3	Dartmouth	4:45.89	2019 Dartmouth Outdoor Invitational	Apr 12, 2019
+152	Curtin, Catherine	SO-2	UMass Amherst	4:46.13	University of MA Minuteman Invitational	Apr 6, 2019
+153	Livingstone, Alexa	SR-4	UMass Amherst	4:46.20	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+154	Montes De Oca, Isabella	FR-1	Trinity (Conn.)	4:46.55	Silfen Invitational 2019	Apr 12, 2019
+155	Hubbell, Dawn	SR-4	Central Connecticut	4:46.63(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+156	Hintlian, Tarvis	SO-2	Connecticut College	4:46.69(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+157	Wise, Louiza	JR-3	Northeastern	4:46.71(1)	Boston University Last Chance Qualifier	Feb 24, 2019
+158	Weiss, Tessa	JR-3	MIT	4:46.76(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+159	Rittler, Mary	FR-1	Dartmouth	4:46.82	University of MA Minuteman Invitational	Apr 6, 2019
+160	Hasty, Haley	SR-4	Connecticut	4:46.89(1)	Dr. Sander Columbia Challenge	Jan 24, 2019
+161	Collins, Katie	FR-1	MIT	4:46.95(1)	Bowdoin Invite II	Jan 19, 2019
+162	Nobili, Madaket	FR-1	Dartmouth	4:46.96	University of MA Minuteman Invitational	Apr 6, 2019
+163	Schiappa, Regan	SR-4	Connecticut	4:47.10	Brown Springtime Invitational	Apr 28, 2019
+164	Caiazzi, Jillian	SR-4	Stonehill	4:47.13(1)	2019 Beantown Challenge	Jan 12, 2019
+165	Osmanski, Abigael	SO-2	Bowdoin	4:47.29	Silfen Invitational 2019	Apr 12, 2019
+166	Pillard, Sarah	SO-2	Yale	4:47.39	2019 Yale Springtime Invitational	Apr 28, 2019
+167	Bullock, Delaney	FR-1	Bowdoin	4:47.46	DIII New England Outdoor Track & Field Championships	May 2, 2019
+168	Saunders, Shaylyn	FR-1	New Hampshire	4:47.52	2019 UNH Season Opener	Apr 6, 2019
+169	Hajda, Allison	SO-2	Brown	4:47.58	University of MA Minuteman Invitational	Apr 6, 2019
+170	Carlson, Amanda	SO-2	Quinnipiac	4:47.95	2019 Yale Springtime Invitational	Apr 28, 2019
+171	Howard, Jillian	SO-2	Stonehill	4:48.09	Northeast-10 Outdoor Track & Field Championships	May 3, 2019
+172	Graziani, Yasmine	SR-4	American Int'l	4:48.11	UCONN Northeast Challenge	Apr 13, 2019
+172	Bacher, Katie	JR-3	MIT	4:48.11(1)	Bates, Colby, MIT Tri-Meet	Jan 12, 2019
+174	Scott, Abby	FR-1	Williams	4:48.12	Williams Invitational	Apr 20, 2019
+175	Couto, Jill	SO-2	SNHU	4:48.26(1)	2nd Annual Penmen Relays at SNHU	Apr 13, 2019
+176	Chepyegon, Ivy	SR-4	American Int'l	4:48.37(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+177	Lustiber, Shannon	SO-2	Vermont	4:48.49	2019 America East Outdoor Championships	May 4, 2019
+178	Krebs, Emma	FR-1	Connecticut	4:48.50	Brown Springtime Invitational	Apr 28, 2019
+179	Tebeau-Sherry, Alicia	FR-1	Vermont	4:48.51(1)	NEICAAA Indoor Track & Field Championships	Feb 1, 2019
+180	Aarden, Shelby	JR-3	Rhode Island	4:48.53	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+181	McCaffery, Margaret	SR-4	RIC	4:48.68	Black & Gold Invitational	Mar 29, 2019
+182	Santoro, Adrienne	SR-4	Stonehill	4:48.76	Northeast-10 Outdoor Track & Field Championships	May 3, 2019
+183	Chapey, Lauren	JR-3	Yale	4:48.79	2019 Harvard - Yale Match	Apr 13, 2019
+184	Ricalton, Maria	SR-4	Quinnipiac	4:48.83(1)	Ocean State Invitational	Apr 12, 2019
+185	Bonadies, Taylor	SO-2	Connecticut	4:48.88(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+186	Traum, Claire	SO-2	Bowdoin	4:49.03	Aloha Relays at Bates College	Apr 19, 2019
+187	Stanwood, Katherine	FR-1	Boston College	4:49.04(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+188	Albrecht, Autumn	JR-3	Vermont	4:49.25(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+189	Murray, Katherine	SR-4	UMass Lowell	4:49.36(1)	Boston University Multi-Team Meet	Jan 19, 2019
+190	DiCicco, Jody	SO-2	Sacred Heart	4:49.45(1)	NEICAAA Indoor Track & Field Championships	Feb 1, 2019
+191	Clary, Sydney	JR-3	UMass Amherst	4:49.48	University of MA Minuteman Invitational	Apr 6, 2019
+192	Betterbed, Dominique	SR-4	Boston University	4:49.83(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+193	Duncan , Frances	JR-3	Smith	4:49.88(1)	Smith Winter Classic	Dec 1, 2018
+194	McKosky, Samantha	SR-4	Eastern Conn. St.	4:49.90(1)	New England Alliance Indoor Track & Field Championship	Feb 16, 2019
+195	Morris, Allie	JR-3	UMass Lowell	4:50.05(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+196	Williams, Katie	SO-2	MIT	4:50.08(1)	2018 MIT Alumni Meet	Dec 15, 2018
+197	Schadt, Callie	JR-3	WPI	4:50.13	University of MA Minuteman Invitational	Apr 6, 2019
+198	Herrmann, Emma	JR-3	Williams	4:50.23	PLNU Track and Field Invitational	Mar 23, 2019
+199	Flynn, Anna	JR-3	Boston College	4:50.46(1)	Ocean State Invitational	Apr 12, 2019
+200	Grazia, Saige	SR-4	Rhode Island	4:50.47	University of MA Minuteman Invitational	Apr 6, 2019
+201	Jakubowski, Alexis	SR-4	Middlebury	4:50.69	2019 California Collegiate Open	Mar 30, 2019
+202	O'Reilly, Jessica	JR-3	UMass Dartmouth	4:50.84(1)	Boston University Last Chance Qualifier	Feb 24, 2019
+203	Kennedy, Isabelle	SR-4	Boston College	4:50.86	Stonehill Skyhawk Invitational	Apr 27, 2019
+203	Noble, Julia	SR-4	Tufts	4:50.86	Tufts Sunshine Classic	Apr 20, 2019
+205	Cuffe, Dara	SR-4	Providence	4:50.90	Brown Springtime Invitational	Apr 28, 2019
+206	Barrett, Erica	SO-2	Williams	4:50.92	Williams Final Qualifier	May 15, 2019
+207	Tebeau-Sherry, Savanah	FR-1	Vermont	4:50.93(1)	NEICAAA Indoor Track & Field Championships	Feb 1, 2019
+208	Barnett, Olivia	JR-3	Tufts	4:50.95	Silfen Invitational 2019	Apr 12, 2019
+209	Slager, Anna	FR-1	Tufts	4:51.17	Tufts Snowflake Classic	Mar 30, 2019
+209	Pestle, Mia		Quinnipiac	4:51.17(1)	2019 Great Dane Classic	Jan 12, 2019
+211	Doman, Sophie	FR-1	Vermont	4:51.22(1)	2019 America East Indoor Championships	Feb 22, 2019
+212	Sutyak, Lexi	SO-2	Vermont	4:51.35(1)	2019 America East Indoor Championships	Feb 22, 2019
+213	Quigley, Madeline	JR-3	New Hampshire	4:51.42	2019 UNH Wildcat Invitational	Apr 13, 2019
+214	Galvin, Mackenzie	FR-1	Providence	4:51.50(1)	BIG EAST Indoor Track & Field Championships	Feb 22, 2019
+215	Solimine, Jenna	SO-2	UMass Lowell	4:51.52(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+215	Walter, Lela	SR-4	Amherst	4:51.52(1)	Tufts Cupid Challenge	Feb 2, 2019
+217	Alavilli, Aparna	SR-4	Northeastern	4:51.74(1)	Boston University Last Chance Qualifier	Feb 24, 2019
+218	Sheffield, Olivia	FR-1	UMass Lowell	4:51.88(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+219	Marcone, Danielle	SO-2	Quinnipiac	4:51.90(1)	Metro Atlantic Indoor Track & Field Championships	Feb 16, 2019
+220	Hollenbaugh, Erin	JR-3	Bowdoin	4:52.02	Bowdoin Outdoor Invitational	Apr 6, 2019
+221	Harris, Emily	SR-4	Williams	4:52.08(1)	Joe Donahue Games	Jan 18, 2019
+222	Mackinnon, Marina	SO-2	Holy Cross	4:52.20(1)	2018 Howlin Husky Invitational	Dec 8, 2018
+223	Ortlieb, Angela	SR-4	Dartmouth	4:52.35	2019 Dartmouth Outdoor Invitational	Apr 12, 2019
+224	Coakley, Maura	SO-2	SNHU	4:52.45(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+225	Rothmann, Sarah	SR-4	Bates	4:52.46	Aloha Relays at Bates College	Apr 19, 2019
+226	O'Keefe, Siobhan	FR-1	Stonehill	4:52.49(1)	2018 Howlin Husky Invitational	Dec 8, 2018
+227	Rice, Sydney	FR-1	New Hampshire	4:52.55	2019 America East Outdoor Championships	May 4, 2019
+228	Dempsey, Julia	SO-2	Merrimack	4:52.59(1)	Boston University Last Chance Qualifier	Feb 24, 2019
+229	Smith, Chloe	SO-2	Middlebury	4:52.81	2019 California Collegiate Open	Mar 30, 2019
+230	McCann, Sydney	FR-1	Assumption	4:52.84	9th Annual Yellow Jacket Invitational	Apr 6, 2019
+231	Bugara, Grace	SO-2	Northeastern	4:52.87(1)	2018 Howlin Husky Invitational	Dec 8, 2018
+232	Anderle, Sophia	SO-2	Stonehill	4:52.92(1)	URI Tribute to Bill Falk	Feb 9, 2019
+233	Hagen, Brooke	SO-2	Quinnipiac	4:53.02	Rider Invitational 2019	Apr 13, 2019
+234	Forbes, Stephanie	SO-2	Boston University	4:53.05	2019 Larry Ellis Invitational	Apr 20, 2019
+235	Diaz, Lauren	JR-3	Tufts	4:53.19	Bates, RPI, MIT, Tufts Quad Meet	Apr 6, 2019
+236	Cronin, Meredith	SO-2	Connecticut College	4:53.21	Coast Guard Spring Invite	Apr 6, 2019
+236	Gorton, Sophie	SR-4	Merrimack	4:53.21	Coach Pollard Invite	Apr 12, 2019
+238	Evans, Ashley	SO-2	Rhode Island	4:53.33(1)	NEICAAA Indoor Track & Field Championships	Feb 1, 2019
+239	Hebert, Lynne	JR-3	Keene State	4:53.46(1)	DIII New England Women's Indoor Championship	Feb 22, 2019
+240	Kennedy, Isabella	FR-1	Stonehill	4:53.58	Northeast-10 Outdoor Track & Field Championships	May 3, 2019
+241	Bertholon, Camille	JR-3	Rhode Island	4:53.63(1)	URI Tribute to Bill Falk	Feb 9, 2019
+242	O'Malley, Cliodhna	SR-4	Maine	4:53.64	2019 UNH Season Opener	Apr 6, 2019
+243	Rozen, Ari	JR-3	WPI	4:53.67(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+244	Bartczak, Isabela	FR-1	Brown	4:53.68	University of MA Minuteman Invitational	Apr 6, 2019
+245	Kattman, Gaelyn	SO-2	Sacred Heart	4:53.76	George Mason Spring Invitational	Apr 13, 2019
+246	Melanson, Jenna	JR-3	MIT	4:53.88(1)	Bates, Colby, MIT Tri-Meet	Jan 12, 2019
+247	Slinskey, Meghan	SR-4	Assumption	4:53.98	Stonehill Skyhawk Invitational	Apr 27, 2019
+248	Barrett, Lauren	SR-4	Trinity (Conn.)	4:53.99	Coast Guard Spring Invite	Apr 6, 2019
+249	Stang, Shannon	SR-4	New Hampshire	4:54.12(1)	Dartmouth v UNH v Maine v Vermont	Dec 8, 2018
+250	Tully, Sarah	SO-2	Williams	4:54.22	Williams Invitational	Apr 20, 2019
+251	Burns, Sarah	FR-1	UMass Lowell	4:54.28(1)	Ocean State Invitational	Apr 12, 2019
+252	Jacob, Simone	SO-2	Mount Holyoke	4:54.64	NEWMAC Outdoor T&F Championship	Apr 27, 2019
+252	Newman, Abbie	JR-3	Bentley	4:54.64	Northeast-10 Outdoor Track & Field Championships	May 3, 2019
+254	Nistler, Keely	SO-2	WPI	4:54.68(1)	Tufts Cupid Challenge	Feb 2, 2019
+255	Zendell, Kate	SR-4	Yale	4:54.77	2019 Harvard - Yale Match	Apr 13, 2019
+256	Madden, Jenise	JR-3	Bridgewater St.	4:54.96(1)	New England Alliance Indoor Track & Field Championship	Feb 16, 2019
+257	Dana, Ashley	FR-1	Central Connecticut	4:54.98	24th Annual Monmouth Season Opener	Mar 29, 2019
+258	Hoelscher, Grace	FR-1	Holy Cross	4:55.03	Black & Gold Invitational	Mar 29, 2019
+259	Cyr, Makenzie	SR-4	Stonehill	4:55.19(1)	URI Sorlein Invitational	Jan 19, 2019
+259	Heely, Lydia	JR-3	Tufts	4:55.19(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+261	O'Connor, Sarah Jane	FR-1	Williams	4:55.36	Williams Invitational	Apr 20, 2019
+262	Knox, Haley	SR-4	Eastern Conn. St.	4:55.40	Coast Guard Spring Invite	Apr 6, 2019
+263	Lopez-Anido, Rebecca	SO-2	Wesleyan	4:55.41(1)	Wesleyan University Invitational	Feb 2, 2019
+264	Hanlon, Claire	SO-2	Holy Cross	4:55.51	2019 UNH Season Opener	Apr 6, 2019
+265	Bradbury, Maya	FR-1	Wellesley	4:55.52(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+266	Pease, Katelyn	FR-1	Middlebury	4:55.53(1)	Middlebury Team Challenge	Feb 16, 2019
+267	Biddle, Brit	SR-4	Colby	4:55.56	Bowdoin Outdoor Invitational	Apr 6, 2019
+268	Paradiso, Eva	JR-3	Wellesley	4:55.63(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+269	Pacheco, Shaelyn	SO-2	Quinnipiac	4:55.65(1)	Metro Atlantic Indoor Track & Field Championships	Feb 16, 2019
+270	John, Dina	FR-1	Vermont	4:55.69	2019 Dartmouth Outdoor Invitational	Apr 12, 2019
+271	Adeyanju, Haleemot	FR-1	Hartford	4:55.71	UMass Lowell Invitational	Mar 30, 2019
+272	Cary, Emma	SR-4	Sacred Heart	4:55.72	George Mason Spring Invitational	Apr 13, 2019
+273	Brown, Katherine	SO-2	Wheaton (Mass.)	4:55.75	Amherst Spring Fling	Apr 6, 2019
+274	Henson, Grace	FR-1	SNHU	4:55.77	Northeast-10 Outdoor Track & Field Championships	May 3, 2019
+275	Higgins, Kelly	JR-3	Stonehill	4:55.90(1)	Ocean State Invitational	Apr 12, 2019
+276	Akerley, Courtney	SR-4	Connecticut	4:55.94(1)	Vanderbilt Invitational	Jan 18, 2019
+277	Dailey, Grace	FR-1	Williams	4:56.00	NESCAC TF Outdoor Championship	Apr 27, 2019
+278	Rieders, Hannah	SO-2	Mount Holyoke	4:56.06	Amherst Spring Fling	Apr 6, 2019
+279	Gilmore, Riley	SR-4	New Hampshire	4:56.07	2019 UNH Pre-Conference Invitational	Apr 27, 2019
+280	Clark, Anna	SR-4	Dartmouth	4:56.10(1)	NEICAAA Indoor Track & Field Championships	Feb 1, 2019
+281	Rieders, Madeline	SO-2	Mount Holyoke	4:56.17	Amherst Spring Fling	Apr 6, 2019
+282	Parkinson, Laura	SO-2	Boston University	4:56.25(1)	Ocean State Invitational	Apr 12, 2019
+283	Ruane, Hannah	FR-1	Boston College	4:56.39(1)	Ocean State Invitational	Apr 12, 2019
+284	Barton, Mary Kate	JR-3	New Haven	4:56.45(1)	13th Giegengack Invitational	Feb 9, 2019
+285	Kim, So	SO-2	Bates	4:56.53	2019 UNH Wildcat Invitational	Apr 13, 2019
+286	Morrisson, Madeline	JR-3	New Haven	4:56.56	2019 Yale Springtime Invitational	Apr 28, 2019
+287	Laverty , Amy	JR-3	Quinnipiac	4:56.60	Rider Invitational 2019	Apr 13, 2019
+288	Rodriquez, Stephanie	JR-3	Babson	4:56.68	Silfen Invitational 2019	Apr 12, 2019
+289	Lee, Chelsea	JR-3	Rhode Island	4:56.81	UCONN Northeast Challenge	Apr 13, 2019
+290	Feenstra, Samantha	JR-3	Trinity	4:57.22(1)	Wesleyan Indoor Tri-Meet	Dec 7, 2018
+291	Treanor, Una	FR-1	Rhode Island	4:57.29	Atlantic 10 Outdoor Track & Field Championships	May 4, 2019
+292	Buco, Madalyne	SO-2	Holy Cross	4:57.35(1)	Ocean State Invitational	Apr 12, 2019
+293	Rogers, Mia	SR-4	Worcester State	4:57.36	Swanson T&F Invitational	Apr 20, 2019
+294	Sullivan, Caroline	SR-4	Trinity	4:57.51(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+295	Perkowski, Lauren	JR-3	Keene State	4:57.55(1)	New England Alliance Indoor Track & Field Championship	Feb 16, 2019
+296	Barker, Katie	SR-4	Bates	4:57.66(1)	Bates, Colby, MIT Tri-Meet	Jan 12, 2019
+297	Maynard, Sophia	FR-1	Holy Cross	4:57.72(1)	Boston University / Sharon Colyear-Danville Season Opener	Dec 1, 2018
+298	Bibbey, Mary	FR-1	Brown	4:57.75(1)	Brown University Invitational	Feb 16, 2019
+299	Demars, Nicole	SR-4	Hartford	4:57.93(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+300	McClelland, Caroline	FR-1	Boston College	4:58.04(1)	Ocean State Invitational	Apr 12, 2019
+301	Kane, Emily	FR-1	Boston College	4:58.08(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+302	Corbett, Grace	FR-1	Assumption	4:58.15	Coastal Carolina Invitational	Mar 8, 2019
+302	Maliborska, Nicole	SR-4	New Haven	4:58.15(1)	13th Giegengack Invitational	Feb 9, 2019
+304	Bakas, Kaitlin	JR-3	Quinnipiac	4:58.17(1)	URI Sorlein Invitational	Jan 19, 2019
+305	Olson, Elisabeth	JR-3	Worcester State	4:58.26(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+306	Pinsonault, Sara	JR-3	Wesleyan	4:58.39(1)	Fastrack Last Chance	Feb 15, 2019
+307	Suski, Olivia	JR-3	Coast Guard	4:58.51(1)	Wesleyan University Invitational	Feb 2, 2019
+308	Nash, Sydney	FR-1	Mount Holyoke	4:58.55	Amherst Spring Fling	Apr 6, 2019
+309	Gorman, Sophia	SO-2	Colby	4:58.56	Emory Classic	Mar 29, 2019
+310	Wesley, Julianna	SR-4	Hartford	4:58.64(1)	33rd Brown University Alden Invitational	Dec 1, 2018
+311	Wilcox, Sara	JR-3	Quinnipiac	4:58.69	2019 Yale Springtime Invitational	Apr 28, 2019
+312	Winham, Veronica	FR-1	Dartmouth	4:58.70	University of MA Minuteman Invitational	Apr 6, 2019
+313	Post, Abigail	SO-2	Providence	4:58.72(1)	Ocean State Invitational	Apr 12, 2019
+314	Fannon, Jennifer	SR-4	American Int'l	4:58.85(1)	Joe Donahue Games	Jan 18, 2019
+315	Leckbee , Katherine	FR-1	Wheaton (Mass.)	4:58.93	Trinity College Invitational 2019	Apr 20, 2019
+316	Ragle, Nina	SR-4	Coast Guard	4:58.98	Coast Guard Spring Invite	Apr 6, 2019
+317	Blow, Taylor	SO-2	UMass Amherst	4:59.03(1)	2019 Beantown Challenge	Jan 12, 2019
+318	Madeia, Kristen	SR-4	Springfield	4:59.05	Corsair Classic Track & Field Invitational	Mar 30, 2019
+319	Martin, Olivia	SO-2	Tufts	4:59.11(1)	Branwen Smith-King Invitational and Multi	Jan 25, 2019
+320	Klickstein, Lindsay	SR-4	Williams	4:59.30	Williams Invitational	Apr 20, 2019
+321	Rosenfeld, Leah	JR-3	Williams	4:59.60	PLNU Track and Field Invitational	Mar 23, 2019
+322	Brooks, Olivia	FR-1	Vermont	4:59.71	University of MA Minuteman Invitational	Apr 6, 2019
+323	Anderson, Allison	JR-3	Dartmouth	4:59.75(1)	2019 Dartmouth Relays - COLLEGE and OPEN	Jan 13, 2019
+323	Callahan, Jordan	JR-3	Stonehill	4:59.75(1)	URI Tribute to Bill Falk	Feb 9, 2019
+325	Willig, Anna	JR-3	Middlebury	4:59.82	PLNU Track and Field Invitational	Mar 23, 2019
+326	Higgins, Kacie	JR-3	Stonehill	4:59.89(1)	URI Sorlein Invitational	Jan 19, 2019
+327	Scrivanich, Mary	FR-1	WPI	5:00.13	University of MA Minuteman Invitational	Apr 6, 2019
+328	Fraser-Mines, Jaylan	SO-2	Williams	5:00.24	Williams Invitational	Apr 20, 2019
+329	Dawson, Laura	SO-2	Keene State	5:00.28(1)	Smith Winter Classic	Dec 1, 2018
+330	Keohane, Kerri	SR-4	Holy Cross	5:00.38	Holy Cross Invitational 2019	Apr 20, 2019
+331	Enns, Gabrielle	SO-2	MIT	5:00.51(1)	2018 MIT Alumni Meet	Dec 15, 2018
+332	Bettez, Natalie	SR-4	Tufts	5:00.54(1)	Bowdoin Invite II	Jan 19, 2019
+333	Burns, Alison	JR-3	Boston College	5:00.58(1)	2019 Beantown Challenge	Jan 12, 2019
+334	Schwers, Samantha	FR-1	UMass Amherst	5:00.78	UCONN Northeast Challenge	Apr 13, 2019
+335	Moss, Corrin	SR-4	Mount Holyoke	5:00.97	Springfield College Classic	Apr 20, 2019
+336	Thibodeau, Brenna	SO-2	Sacred Heart	5:01.00	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+337	Ruderman, Rachel	SO-2	Amherst	5:01.01	Amherst Spring Fling	Apr 6, 2019
+338	Newman, Emily	SR-4	WPI	5:01.12(1)	Wheaton College Invitational	Jan 18, 2019
+339	Pettengill, Grace	FR-1	UMass Amherst	5:01.13	Black and Gold Challange	Mar 15, 2019
+340	Kaiser, Angela	FR-1	Sacred Heart	5:01.16(1)	2019 NEC Indoor Track & Field Championships	Feb 15, 2019
+341	Garcia, Karena	SO-2	Smith	5:01.32	Springfield College Classic	Apr 20, 2019
+342	Wayss, Danika	JR-3	Stonehill	5:01.33(1)	Ocean State Invitational	Apr 12, 2019
+343	Walsh, Taylor	SO-2	UMass Dartmouth	5:01.39	Coast Guard Spring Invite	Apr 6, 2019
+344	Ogundiran, Doyin	SR-4	Brandeis	5:01.42(1)	UMass Boston Indoor Open	Dec 1, 2018
+345	Ellard, Tara	FR-1	Bates	5:01.43(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+346	Thompson, Alana	FR-1	Franklin Pierce	5:01.70(1)	SNHU Spring Invitational	Apr 6, 2019
+347	Mathis, Kalie	FR-1	Boston University	5:01.75	UMass Lowell Invitational	Mar 30, 2019
+348	Flagg, Laura	SO-2	UMass Lowell	5:01.87(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+349	Berube, Rebecca	JR-3	Colby	5:01.96	Aloha Relays at Bates College	Apr 19, 2019
+350	Baker, Kaeli	SR-4	Hartford	5:02.02	2019 America East Outdoor Championships	May 4, 2019
+351	Reddington, Paige	SO-2	Amherst	5:02.21	Tufts Snowflake Classic	Mar 30, 2019
+352	Delaney, Meghan	JR-3	So. Conn. St.	5:02.26(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+353	Brand, Madison	JR-3	SNHU	5:02.29	Corsair Classic Track & Field Invitational	Mar 30, 2019
+354	Letizio, Liz	FR-1	Assumption	5:02.39	Coastal Carolina Invitational	Mar 8, 2019
+355	Kimball, Delaney	JR-3	Sacred Heart	5:02.57(1)	2019 NEC Indoor Track & Field Championships	Feb 15, 2019
+356	Andrews, Loren	FR-1	Bates	5:02.59	Bates, RPI, MIT, Tufts Quad Meet	Apr 6, 2019
+357	Baker, Isabel	SR-4	Stonehill	5:02.67(1)	URI Sorlein Invitational	Jan 19, 2019
+358	Weir, Olivia	SR-4	UMass Amherst	5:02.68	Holy Cross Invitational 2019	Apr 20, 2019
+359	Griffin, Meredith	FR-1	Colby	5:03.22	Emory Classic	Mar 29, 2019
+360	Foley, Emily	FR-1	Holy Cross	5:03.34	2019 UNH Season Opener	Apr 6, 2019
+361	Scheub, Rachel	JR-3	Trinity (Conn.)	5:03.44	Coast Guard Spring Invite	Apr 6, 2019
+362	Shellard, Madeleine	FR-1	Quinnipiac	5:03.45(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+363	Murray, Emily	SO-2	Tufts	5:03.53	Silfen Invitational 2019	Apr 12, 2019
+364	DiMarcello, Anna	SO-2	Dartmouth	5:03.55	2019 Dartmouth Outdoor Invitational	Apr 12, 2019
+365	Jackson, Jennifer	JR-3	Tufts	5:03.57	Bates, RPI, MIT, Tufts Quad Meet	Apr 6, 2019
+366	Magill, Erin	FR-1	Brandeis	5:03.67	Tufts Snowflake Classic	Mar 30, 2019
+367	Wegman, Liz	JR-3	Wellesley	5:03.84	Emory Invitational	Mar 22, 2019
+368	Cutillo, Jacqueline	SR-4	Stonehill	5:03.86(1)	URI Sorlein Invitational	Jan 19, 2019
+369	Walsh, Alyson	SO-2	Holy Cross	5:03.91	Black & Gold Invitational	Mar 29, 2019
+370	Velie, Becky	FR-1	Wesleyan	5:04.16	Wesleyan University Spring Classic	Mar 23, 2019
+371	Johnson, Nicole	FR-1	Middlebury	5:04.26	Silfen Invitational 2019	Apr 12, 2019
+372	Hamilton, Abby	SO-2	Bates	5:04.37(1)	Bates Invitational and Multi	Jan 18, 2019
+373	Mitchell, Olivia	JR-3	Middlebury	5:04.39	PLNU Track and Field Invitational	Mar 23, 2019
+374	Barry, Meaghan	SR-4	Brandeis	5:04.51	Tufts Snowflake Classic	Mar 30, 2019
+375	Gavish, Einat	FR-1	MIT	5:04.62(1)	Bates, Colby, MIT Tri-Meet	Jan 12, 2019
+376	Gihorski, Kate	FR-1	Quinnipiac	5:04.65(1)	URI Sorlein Invitational	Jan 19, 2019
+377	Bantz, Haley	SR-4	Southern Maine	5:04.69	Aloha Relays at Bates College	Apr 19, 2019
+378	Baptiste, Amanda	SO-2	UMass Lowell	5:04.76(1)	2019 America East Indoor Championships	Feb 22, 2019
+379	Fairchild, Emory	SO-2	Springfield	5:04.96(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+380	Cronin, Emsie	SR-4	Mount Holyoke	5:05.05(1)	2nd Annual Penmen Relays at SNHU	Apr 13, 2019
+381	Kruger, Laurel	FR-1	Smith	5:05.15	Carla Coffey Track & Field Invitational	Apr 6, 2019
+382	Drew, Maggie	FR-1	Amherst	5:05.20	Amherst Spring Fling	Apr 6, 2019
+383	Cavanagh, Emma	SO-2	Babson	5:05.33	Coast Guard Spring Invite	Apr 6, 2019
+383	Prizio, Gabriella		Quinnipiac	5:05.33(1)	2019 Great Dane Classic	Jan 12, 2019
+385	Hartzel, Emma	FR-1	WPI	5:05.34	Silfen Invitational 2019	Apr 12, 2019
+385	Bilodeau, Samantha	FR-1	Bentley	5:05.34(1)	2nd Annual Penmen Relays at SNHU	Apr 13, 2019
+387	Gosselin, Christina	SR-4	Eastern Conn. St.	5:05.46(1)	13th Giegengack Invitational	Feb 9, 2019
+388	Shaz, Samara	SO-2	Wellesley	5:05.51	Aloha Relays at Bates College	Apr 19, 2019
+389	Murdock, Abigail	SO-2	Springfield	5:05.55	Corsair Classic Track & Field Invitational	Mar 30, 2019
+390	Noreika, Emilie	FR-1	So. Conn. St.	5:05.60	2019 Yale Springtime Invitational	Apr 28, 2019
+391	Rowland, Melissa	SO-2	Tufts	5:05.72(1)	Tufts Cupid Challenge	Feb 2, 2019
+392	Austin, Hannah	SR-4	Bates	5:05.81(1)	USM III	Jan 26, 2019
+393	Leckey, Heather	FR-1	UMass Lowell	5:05.82(1)	Boston University Multi-Team Meet	Jan 19, 2019
+394	Rabasco, Toni	JR-3	Vermont	5:05.87(1)	2019 Dartmouth Relays - COLLEGE and OPEN	Jan 13, 2019
+395	Chu, April	SO-2	Wellesley	5:05.92	NEWMAC Outdoor T&F Championship	Apr 27, 2019
+396	Huncharek, Mia	SO-2	Coast Guard	5:06.04	USMMA VS. USCG	Apr 3, 2019
+397	Bhandari, Maya	JR-3	Amherst	5:06.18	Amherst Spring Fling	Apr 6, 2019
+398	Dieterich, Jill	JR-3	SNHU	5:06.21	Corsair Classic Track & Field Invitational	Mar 30, 2019
+399	Oliver, Sarah	JR-3	Tufts	5:06.22	Silfen Invitational 2019	Apr 12, 2019
+400	Kaija, Lauren	SO-2	WPI	5:06.24(1)	Tufts Cupid Challenge	Feb 2, 2019
+401	Guilbo, Katherine	SR-4	Holy Cross	5:06.25(1)	Boston University / Sharon Colyear-Danville Season Opener	Dec 1, 2018
+402	Grape, Caroline	FR-1	Connecticut College	5:06.37(1)	Wesleyan Indoor Tri-Meet	Dec 7, 2018
+403	Chao, Isabella	FR-1	Dartmouth	5:06.44	University of MA Minuteman Invitational	Apr 6, 2019
+404	Scobell, Sophie	FR-1	Wesleyan	5:06.50	Amherst Spring Fling	Apr 6, 2019
+405	Sirek, Greta	FR-1	Middlebury	5:06.65	Williams Invitational	Apr 20, 2019
+406	Burdulis, Julia	SO-2	Trinity (Conn.)	5:06.67	Tufts Snowflake Classic	Mar 30, 2019
+407	Cavalier, Meghan	SR-4	UMass Lowell	5:06.69(1)	George Davis Invitational	Apr 20, 2019
+408	Pardi , Gina	JR-3	Wheaton (Mass.)	5:06.74(1)	NYC DIII Invitational	Feb 1, 2019
+409	Marks, Ariana	FR-1	Wellesley	5:06.86(1)	Wheaton College Invitational	Jan 18, 2019
+410	Polischeck, Olivia	SO-2	Amherst	5:06.89	Amherst Spring Fling	Apr 6, 2019
+411	Matsis, Alexandra	SO-2	UMass Lowell	5:06.90(1)	Boston University Bruce Lehane Scarlet and White Invitationa	Feb 2, 2019
+412	Metzger, Leah	JR-3	Middlebury	5:06.93	Amherst Spring Fling	Apr 6, 2019
+413	Tumavicus, Lucy	FR-1	Tufts	5:06.95(1)	Gordon Kelly Invitational	Feb 9, 2019
+414	Richter, Camden	SO-2	Holy Cross	5:07.00	Holy Cross Invitational 2019	Apr 20, 2019
+415	Stevenson, Caroline	FR-1	Connecticut College	5:07.17	Golden Ram Invitational	Mar 23, 2019
+416	Coyle, Alyson	FR-1	Springfield	5:07.29(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+417	Sirois, Sydney	SO-2	Southern Maine	5:07.44	Aloha Relays at Bates College	Apr 19, 2019
+417	Campise, Breann	JR-3	Bryant	5:07.44(1)	Ocean State Invitational	Apr 12, 2019
+419	D'Amelio, Maison	FR-1	New Hampshire	5:07.50(1)	Dartmouth v UNH v Maine v Vermont	Dec 8, 2018
+420	Carty, Emily	FR-1	Bates	5:07.66(1)	Bowdoin Invite IV	Feb 16, 2019
+421	Kelly, Brigit	SO-2	Sacred Heart	5:07.75(1)	Boston University Multi-Team Meet	Jan 19, 2019
+422	Leggett, Taylor	FR-1	Boston University	5:07.82(1)	Ocean State Invitational	Apr 12, 2019
+423	Cohan, Holly	JR-3	Wheaton (Mass.)	5:07.88(1)	2nd Annual Penmen Relays at SNHU	Apr 13, 2019
+424	Ayres, Julia	FR-1	Bryant	5:07.92	University of MA Minuteman Invitational	Apr 6, 2019
+425	Johnson, Samara	JR-3	Eastern Conn. St.	5:08.17	Corsair Classic Track & Field Invitational	Mar 30, 2019
+426	Bourgeois, Nina	JR-3	Trinity	5:08.19(1)	Pioneer Invitational	Jan 19, 2019
+427	Shearer, Emma	FR-1	Gordon	5:08.20(1)	2nd Annual Penmen Relays at SNHU	Apr 13, 2019
+428	Sabatino, Alexa	FR-1	Boston University	5:08.23(1)	Ocean State Invitational	Apr 12, 2019
+429	McGann, Kate	JR-3	Vermont	5:08.44(1)	Dartmouth v UNH v Maine v Vermont	Dec 8, 2018
+430	Christian, Alexandra	JR-3	Holy Cross	5:08.53	Holy Cross Invitational 2019	Apr 20, 2019
+431	Mahoney, Maggie	SR-4	Vermont	5:08.67	2019 UNH Pre-Conference Invitational	Apr 27, 2019
+432	Molinari, Ryann	FR-1	Worcester State	5:08.69	Corsair Classic Track & Field Invitational	Mar 30, 2019
+433	Del Guercio, Olivia	SR-4	Smith	5:08.70	Tufts Snowflake Classic	Mar 30, 2019
+434	Lewis, Camille	SO-2	Babson	5:08.76	Tufts Snowflake Classic	Mar 30, 2019
+435	White, Taylor	JR-3	Westfield State	5:08.77	Corsair Classic Track & Field Invitational	Mar 30, 2019
+436	O'Sullivan, Amy	FR-1	Westfield State	5:08.82	Coast Guard Spring Invite	Apr 6, 2019
+437	Koenig, Julia	SO-2	Sacred Heart	5:09.00	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+438	Memishian, Wendy	SR-4	Bates	5:09.13(1)	Bates, Colby, MIT Tri-Meet	Jan 12, 2019
+439	Decker, Sydney	FR-1	Vermont	5:09.16(1)	Dartmouth v UNH v Maine v Vermont	Dec 8, 2018
+440	Farago, Marissa	SO-2	Franklin Pierce	5:09.24(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+441	Jevon, Eliza	SO-2	Bowdoin	5:09.45(1)	Bowdoin Invite III	Jan 26, 2019
+442	Brydson, Eva	SR-4	Connecticut College	5:09.58(1)	Tufts Cupid Challenge	Feb 2, 2019
+443	Trapani, Emma	JR-3	Wesleyan	5:09.69	Amherst Spring Fling	Apr 6, 2019
+444	Touri, Tina	SR-4	Bentley	5:09.91(1)	UMass Boston Indoor Open	Dec 1, 2018
+445	Curtin, Samantha	SO-2	Stonehill	5:09.95	Stonehill Skyhawk Invitational	Apr 27, 2019
+446	Pias, Mackenzie	JR-3	Connecticut	5:10.10	UCONN Northeast Challenge	Apr 13, 2019
+447	Schatz, Claudia	SR-4	Wesleyan	5:10.17(1)	Wesleyan Indoor Tri-Meet	Dec 7, 2018
+448	Hattan, Natalie	FR-1	Brandeis	5:10.26	Sean Collier Invitational	Apr 20, 2019
+449	Krupa, Jennifer	JR-3	Tufts	5:10.48	Tufts Sunshine Classic	Apr 20, 2019
+450	Novack, Tressa	SO-2	Assumption	5:10.59	Assumption - Merrimack Meet	Apr 18, 2019
+451	Sims, Emma	SO-2	Coast Guard	5:10.67	USMMA VS. USCG	Apr 3, 2019
+452	Laurent, Eline	FR-1	Amherst	5:10.70	Amherst Spring Fling	Apr 6, 2019
+453	Doubson, Julia	FR-1	Amherst	5:10.86	Amherst Spring Fling	Apr 6, 2019
+454	Vega, Gabrielle	SO-2	Sacred Heart	5:11.00	Stony Brook University - Wolfie Invitational	Apr 20, 2019
+455	Coddington, Sydney	SO-2	Holy Cross	5:11.08	Black & Gold Invitational	Mar 29, 2019
+455	Peckham, Elizabeth	FR-1	Merrimack	5:11.08	Assumption - Merrimack Meet	Apr 18, 2019
+457	Bradley, Kathaleen	FR-1	Quinnipiac	5:11.09(1)	Boston University John Thomas Terrier Classic	Jan 25, 2019
+457	Mondo, Madeline	SR-4	Central Connecticut	5:11.09(1)	Wagner College Invitational	Jan 4, 2019
+459	LeBlanc, Abigail	JR-3	Wheaton (Mass.)	5:11.11(1)	2nd Annual Penmen Relays at SNHU	Apr 13, 2019
+460	Zylak, Rebecca	JR-3	Franklin Pierce	5:11.24(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+461	Roach, Maeve	SO-2	Coast Guard	5:11.31(1)	Wheaton College Invitational	Jan 18, 2019
+462	Davis, Paige	FR-1	Holy Cross	5:11.39	Black & Gold Invitational	Mar 29, 2019
+463	Hackman, Courtney	SR-4	Hartford	5:11.41(1)	2018 Yale Season Opener	Dec 8, 2018
+464	Gioia, Gabrielle	SO-2	Holy Cross	5:11.53	Black & Gold Invitational	Mar 29, 2019
+465	Heininger, Meara	SO-2	Vermont	5:11.57	2019 Dartmouth Outdoor Invitational	Apr 12, 2019
+466	Mannino, Danielle	JR-3	Sacred Heart	5:11.61(1)	13th Giegengack Invitational	Feb 9, 2019
+467	Dulak, Maggie	JR-3	Eastern Conn. St.	5:11.62(1)	13th Giegengack Invitational	Feb 9, 2019
+468	Carson, Kirsten	JR-3	Coast Guard	5:11.76(1)	Wesleyan University Invitational	Feb 2, 2019
+469	Freeman, Sarah	FR-1	Bryant	5:11.83(1)	33rd Brown University Alden Invitational	Dec 1, 2018
+470	Crum, Katie	SO-2	Amherst	5:12.16(1)	Middlebury Team Challenge	Feb 16, 2019
+471	Pipkin, Abigail	FR-1	Wesleyan	5:12.19(1)	Pioneer Invitational	Jan 19, 2019
+472	Dean, Erica	JR-3	Middlebury	5:12.39	Amherst Spring Fling	Apr 6, 2019
+473	House, Rachel	FR-1	Connecticut College	5:12.68	Tufts Snowflake Classic	Mar 30, 2019
+474	Walsh, Hannah	FR-1	Brandeis	5:12.73(1)	Gordon Kelly Invitational	Feb 9, 2019
+475	King, Ella	FR-1	Vermont	5:12.75	2019 Dartmouth Outdoor Invitational	Apr 12, 2019
+475	Levine, Sarah	JR-3	Tufts	5:12.75	Tufts Sunshine Classic	Apr 20, 2019
+477	Wolf, Alexandra	SO-2	Tufts	5:13.03(1)	Bowdoin Invite II	Jan 19, 2019
+478	Cormier, Julia	JR-3	Franklin Pierce	5:13.14(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+479	Epplett, Angie	JR-3	Gordon	5:13.17	Regis Spring Classic - 2019	Apr 5, 2019
+480	Li, Natalie	FR-1	Wellesley	5:13.28	Emory Invitational	Mar 22, 2019
+481	Wentnick, Rachel	SO-2	Springfield	5:13.33(1)	Wesleyan University Invitational	Feb 2, 2019
+482	O'Dea, Katie	FR-1	Smith	5:13.41	Tufts Snowflake Classic	Mar 30, 2019
+483	Erhard, Rebecca	FR-1	Stonehill	5:13.44	Stonehill Skyhawk Invitational	Apr 27, 2019
+484	Nagler, Madeline	FR-1	Wesleyan	5:13.54(1)	13th Giegengack Invitational	Feb 9, 2019
+485	Teare, Caitlin	SR-4	Connecticut College	5:13.64	Tufts Snowflake Classic	Mar 30, 2019
+486	Sullivan, Haley	SO-2	Holy Cross	5:13.69(1)	Boston University / Sharon Colyear-Danville Season Opener	Dec 1, 2018
+487	Skovron, Rosalie	JR-3	Wesleyan	5:14.19	Amherst Spring Fling	Apr 6, 2019
+488	Wells, Lilly	FR-1	Williams	5:14.32	PLNU Track and Field Invitational	Mar 23, 2019
+489	Guyon, Emily	SR-4	Bridgewater St.	5:14.33	2019 Jim Sheehan Memorial Invitational	Apr 6, 2019
+490	Ross, Johanna	SO-2	Tufts	5:14.45(1)	Gordon Kelly Invitational	Feb 9, 2019
+491	Fontaine, Heather	FR-1	Springfield	5:14.48	Silfen Invitational 2019	Apr 12, 2019
+492	Hallstead-Williams, Elise	SO-2	Brandeis	5:14.51(1)	Tufts Cupid Challenge	Feb 2, 2019
+493	Grossman, Jamie	SR-4	Boston University	5:14.54(1)	Boston University David Hemery Valentine Invitational	Feb 8, 2019
+494	Wunderlich, Hannah	SR-4	Springfield	5:14.62	9th Annual Yellow Jacket Invitational	Apr 6, 2019
+495	Beagle, Jenna	FR-1	Bates	5:15.11	2019 UNH Wildcat Invitational	Apr 13, 2019
+496	Tamariz, Nayalina	FR-1	Coast Guard	5:15.12	Springfield College Classic	Apr 20, 2019
+497	Magill, Lauren	FR-1	Merrimack	5:15.21(1)	UMass Boston Indoor Open	Dec 1, 2018
+498	El Hajj , Chelsea	FR-1	Wheaton (Mass.)	5:15.23(1)	2nd Annual Penmen Relays at SNHU	Apr 13, 2019
+499	Lucas, Jasmyn	FR-1	American Int'l	5:15.29	9th Annual Yellow Jacket Invitational	Apr 6, 2019
+500	Orcutt, Cece	SO-2	Connecticut College	5:15.57	Silfen Invitational 2019	Apr 12, 2019

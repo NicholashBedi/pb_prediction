@@ -1,0 +1,132 @@
+1	Beamish, Geordie	JR-3	Northern Arizona	3:39.15	Bryan Clay Invitational	Apr 17, 2019
+2	Grijalva, Luis	SO-2	Northern Arizona	3:39.52	Bryan Clay Invitational	Apr 17, 2019
+3	Quax, Theo	FR-1	Northern Arizona	3:39.84	Bryan Clay Invitational	Apr 17, 2019
+4	Knevelbaard, Kasey	JR-3	Southern Utah	3:41.69	NCAA Division I West Region Preliminary Rounds	May 23, 2019
+5	Didericksen, Wyatt	SR-4	Idaho State	3:44.67@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+6	Espino, George	SR-4	Southern Utah	3:45.88	Stanford Invitational	Mar 29, 2019
+7	Hasty, Brodey	FR-1	Northern Arizona	3:46.05@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+8	Burks, Cade	JR-3	Northern Arizona	3:46.06@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+9	Day, Tyler	JR-3	Northern Arizona	3:46.21	Bryan Clay Invitational	Apr 17, 2019
+10	Barville, Isaac	JR-3	Eastern Washington	3:46.82@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+11	Ferro, Blaise	JR-3	Northern Arizona	3:47.11@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+12	Warnick, Tracen	SO-2	Weber State	3:47.26@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+13	Romero, Jeremy	JR-3	Northern Colorado	3:48.45@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+14	Byrer, Austin	SO-2	Weber State	3:49.49@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+15	Cardenas, Fabian	JR-3	Idaho	3:49.73@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+16	Hamilton, Duncan	FR-1	Montana State	3:50.93@	Tom Gage Classic	May 3, 2019
+17	Seely, Caleb	SO-2	Idaho	3:51.37@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+18	Collins, Josh	JR-3	Southern Utah	3:51.76@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+19	Chamberlain, Gannon	SO-2	Montana State	3:52.49@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+20	Campbell, Josh	JR-3	Northern Colorado	3:52.93	2019 Triton Invitational	Apr 12, 2019
+21	Lundberg, Russell	SO-2	Weber State	3:53.15	Bryan Clay Invitational	Apr 17, 2019
+22	Havriliak, Kyle	SR-4	Northern Arizona	3:53.29	2019 Baldy Castillo Invitational	Mar 15, 2019
+23	Lomong, Peter	SR-4	Northern Arizona	3:53.38	2019 Baldy Castillo Invitational	Mar 15, 2019
+24	Ramirez, Luke	FR-1	Portland State	3:53.54@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+25	Shaw, Ben	FR-1	Idaho	3:53.94	2019 Mondo Team Challenge	Mar 30, 2019
+26	Small, Mitchell	FR-1	Northern Arizona	3:54.70	2019 Baldy Castillo Invitational	Mar 15, 2019
+27	Fitzgerald, James	JR-3	Northern Arizona	3:54.71	Bryan Clay Invitational	Apr 17, 2019
+28	Lamer, Justice	JR-3	Montana State	3:54.83@	Tom Gage Classic	May 3, 2019
+29	Duggan, Luke	JR-3	Northern Colorado	3:54.86@	2019 Tom Benich Invite	Mar 30, 2019
+30	Gindi, Elliot	SO-2	Northern Arizona	3:54.97	Bryan Clay Invitational	Apr 17, 2019
+31	Quinn, Jason	SR-4	Southern Utah	3:55.03	Bryan Clay Invitational	Apr 17, 2019
+32	Baratte, Andrea	FR-1	Montana	3:55.04@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+33	Marquez, Aldo	JR-3	Northern Arizona	3:55.21	2019 Baldy Castillo Invitational	Mar 15, 2019
+34	West, Cooper	FR-1	Montana State	3:55.32@	Montana State Open	Apr 20, 2019
+35	Ramsey, Krey	SO-2	Weber State	3:55.34@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+36	Remington, Isaiah	JR-3	Northern Colorado	3:56.03@	UNC Invite	Apr 19, 2019
+37	Olson, Teagan	FR-1	Montana State	3:56.58@	Tom Gage Classic	May 3, 2019
+38	Changco, Elijah	JR-3	Sacramento St.	3:56.62	Bryan Clay Invitational	Apr 17, 2019
+39	Garz, Daniel	SR-4	Idaho State	3:56.67	2019 Pomona-Pitzer Invitational (College/Univ)	Apr 6, 2019
+40	Stremcha, Braden	FR-1	Montana State	3:56.90@	Tom Gage Classic	May 3, 2019
+41	Prince, Beau	SO-2	Northern Arizona	3:57.09	2019 Baldy Castillo Invitational	Mar 15, 2019
+42	Stafford, Andrew	JR-3	Portland State	3:57.18	Mike Fanelli Track Classic	Mar 28, 2019
+43	Francis, Jacob	SO-2	Southern Utah	3:57.24@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+44	Haas, Stephen	JR-3	Northern Colorado	3:57.46	adidas/Steve Scott Invitational	Apr 26, 2019
+45	Greeves, Scott	SR-4	Idaho State	3:57.56	2019 Pomona-Pitzer Invitational (College/Univ)	Apr 6, 2019
+46	Sloan, Jack	SO-2	Eastern Washington	3:57.68	Bryan Clay Invitational	Apr 17, 2019
+47	Wiberg, Zach	SO-2	Weber State	3:58.35	Bryan Clay Invitational	Apr 17, 2019
+48	Vanderbosch, Ben	FR-1	Montana	3:58.40@	Al Manuel Northwest Challenge	Mar 29, 2019
+49	Anderson, Josiah	JR-3	Idaho	3:58.46	Oregon State High Performance Meet	Apr 26, 2019
+50	Simmons, Joe	JR-3	Idaho State	3:58.96@	Aggie Iinvitational	Apr 12, 2019
+51	Ross, Cameron	FR-1	Northern Colorado	3:59.15@	Colorado Invitational 2019	Apr 5, 2019
+52	Maldonado, Abraham	FR-1	Sacramento St.	3:59.28	Bryan Clay Invitational	Apr 17, 2019
+53	Spence, Max	SO-2	Southern Utah	3:59.29	Bryan Clay Invitational	Apr 17, 2019
+54	Reed, Aidan	JR-3	Southern Utah	3:59.52@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+55	Higgins, Jenner	SO-2	Idaho	3:59.64	14th Sam Adams Classic Scoring Invite	Mar 21, 2019
+56	Adams, Noah	JR-3	Montana	4:00.23@	Al Manuel Northwest Challenge	Mar 29, 2019
+57	Brooks, Ben	FR-1	Southern Utah	4:00.53@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+58	Sandoval, Andres	SO-2	Sacramento St.	4:00.58	UC-Riverside Spring Track Classic	Mar 21, 2019
+59	Ullrich, Collin	FR-1	Northern Arizona	4:01.20	40th Sun Angel Track Classic	Apr 5, 2019
+60	Kredo, Kyle	SO-2	Montana	4:01.39@	Cat-Griz Dual	Apr 27, 2019
+61	Bianchini, Chris	SO-2	Montana State	4:01.49(1)	Bob Larsen Distance Carnival	Mar 29, 2019
+62	Thomson, Tristen	JR-3	Sacramento St.	4:01.50	Bryan Clay Invitational	Apr 17, 2019
+63	Stucker, Dwain	JR-3	Idaho	4:01.53	14th Sam Adams Classic Scoring Invite	Mar 21, 2019
+64	Nelson, Harvey	SR-4	Northern Arizona	4:01.61	2019 Desert Heat Classic	Apr 27, 2019
+65	Ricketts, Christian	SO-2	Southern Utah	4:01.72	Bryan Clay Invitational	Apr 17, 2019
+66	Kennell, Liam	SR-4	Southern Utah	4:01.83	UNLV Invitational and Sheila Tarr Multis	Mar 14, 2019
+67	Morley, Logan	SO-2	Montana State	4:02.33@	Tom Gage Classic	May 3, 2019
+68	Bennett, Mark	SR-4	Southern Utah	4:02.62@(1)	2019 BYU Robison Invitational	Apr 25, 2019
+69	Condelario, Garrett	SO-2	Idaho State	4:02.76@	Montana State Open	Apr 20, 2019
+70	Dillon, Taylor	SO-2	Weber State	4:02.98@	Weber State Spring Classic	Apr 12, 2019
+71	May, Dillon	SR-4	Montana	4:03.14@	Montana State Open	Apr 20, 2019
+72	Kilgore, D'Artangnan	FR-1	Idaho State	4:03.81@	Aggie Iinvitational	Apr 12, 2019
+73	Snyder, Joshua	FR-1	Portland State	4:03.86	Oregon State High Performance Meet	Apr 26, 2019
+74	Garner, Nathaniel	FR-1	Weber State	4:04.07@	2019 Weber State Twilight Meet	May 1, 2019
+75	Ollar, Grayson	JR-3	Idaho	4:04.13	2019 Triton Invitational	Apr 12, 2019
+76	Petty, Joe	JR-3	Idaho State	4:04.15@	Montana State Open	Apr 20, 2019
+77	Vandine, Andrew	JR-3	Montana State	4:04.74@	Tom Gage Classic	May 3, 2019
+78	Schultz, Drew	JR-3	Idaho	4:04.87	14th Sam Adams Classic Scoring Invite	Mar 21, 2019
+79	Jemison, Liam	JR-3	Portland State	4:05.23	Mike Fanelli Track Classic	Mar 28, 2019
+80	Seidel, Drew	FR-1	Portland State	4:05.31	Mike Fanelli Track Classic	Mar 28, 2019
+81	Marshall, Shane	FR-1	Sacramento St.	4:05.41	2019 Mondo Team Challenge	Mar 30, 2019
+82	Finch, Michael	JR-3	Southern Utah	4:05.64	Bryan Clay Invitational	Apr 17, 2019
+83	Price, Ronan	SO-2	Eastern Washington	4:05.88	Beach Invitational	Apr 19, 2019
+84	Ledwith, Carter	FR-1	Eastern Washington	4:06.17@	Al Manuel Northwest Challenge	Mar 29, 2019
+85	Mullineux Perrault, Nicholas	FR-1	Eastern Washington	4:06.40	2019 Buc Scoring Meet	Mar 16, 2019
+86	Blackwood, Zach	FR-1	Sacramento St.	4:06.57	UC-Riverside Spring Track Classic	Mar 21, 2019
+87	Degraaff, Kyle	SR-4	Idaho State	4:06.72@	2019 UVU Collegiate Invitational	Mar 29, 2019
+88	Whited, Drew	SO-2	Eastern Washington	4:06.82	Oregon State High Performance Meet	Apr 26, 2019
+89	Vickstrom, Ian	FR-1	Portland State	4:07.37	Linfield Open	May 4, 2019
+90	Trevino, Konrad	FR-1	Sacramento St.	4:07.64	Woody Wilson Classic	Apr 13, 2019
+91	Lehmuth, Ryan	FR-1	Northern Colorado	4:07.78	adidas/Steve Scott Invitational	Apr 26, 2019
+92	Buck, Collin	SO-2	Montana State	4:07.87@	Tom Gage Classic	May 3, 2019
+93	Stirpe, Jacob	FR-1	Eastern Washington	4:08.14@	Al Manuel Northwest Challenge	Mar 29, 2019
+94	Watson, Chase	SO-2	Northern Colorado	4:08.23@	UNC Invite	Apr 19, 2019
+95	Irish, Tristan	SR-4	Northern Colorado	4:09.76@	Colorado Invitational 2019	Apr 5, 2019
+96	Wolff, Ryan	SR-4	Northern Arizona	4:10.37	40th Sun Angel Track Classic	Apr 5, 2019
+97	Cikutovich, Ben	FR-1	Montana	4:11.29@	Montana Open	Apr 12, 2019
+98	Maule, Jayson	SO-2	Portland State	4:11.46	Linfield Open	May 4, 2019
+99	Solano, Erik	SO-2	Portland State	4:11.59	John Knight Twilight	Apr 5, 2019
+100	Dohm, Timo	FR-1	Idaho	4:12.06	8th Annual Whitworth Twilight	Apr 18, 2019
+101	Horspool, Carson	FR-1	Weber State	4:12.64@	2019 Weber State Twilight Meet	May 1, 2019
+102	Tolander, Mitch	FR-1	Portland State	4:13.24	L&C Spring Break Open 2019	Mar 16, 2019
+103	Bailey, Nick	SR-4	Northern Colorado	4:13.34@	Air Force Twilight Open	May 3, 2019
+104	Rogerson, Joshua	JR-3	Northern Colorado	4:13.40@	Fum McGraw	Mar 22, 2019
+105	Solano, Andy	SO-2	Portland State	4:13.54	John Knight Twilight	Apr 5, 2019
+106	O'Neal, Brock	SO-2	Eastern Washington	4:14.23	2019 Buc Scoring Meet	Mar 16, 2019
+107	Walker, Ross	JR-3	Sacramento St.	4:14.50	2019 Mondo Team Challenge	Mar 30, 2019
+108	Ovnicek, Skylar	SR-4	Idaho	4:14.55	14th Sam Adams Classic Scoring Invite	Mar 21, 2019
+109	Lovercheck, Chase	FR-1	Portland State	4:15.12	L&C Spring Break Open 2019	Mar 16, 2019
+110	Lemus, Anthony	SR-4	Sacramento St.	4:18.05	2019 Mondo Team Challenge	Mar 30, 2019
+111	Newcomb, Sean	JR-3	Southern Utah	4:19.05	UNLV Invitational and Sheila Tarr Multis	Mar 14, 2019
+112	Lawrence, Jordan	FR-1	Portland State	4:20.47	Saint Martin's Jay Hammer Open	Apr 13, 2019
+113	Young, Wilson	FR-1	Northern Colorado	4:26.73@	Fum McGraw	Mar 22, 2019
+114	Shelevy, Elmer	JR-3	Portland State	4:27.40	John Knight Twilight	Apr 5, 2019
+115	Buttry, Nathan	SR-4	Northern Colorado	4:27.93@	Fum McGraw	Mar 22, 2019
+116	Riley, Josh	JR-3	Montana	4:29.17@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+117	Werth, Collin	FR-1	Portland State	4:29.64	2019 Willamette Opener	Mar 2, 2019
+118	Linhart-Wubbena, Parker	FR-1	Eastern Washington	4:30.08	Pelluer Open	Apr 11, 2019
+119	Robinson, Donte	SR-4	Portland State	4:34.87	Bryan Clay Invitational	Apr 17, 2019
+120	Diggs, Aidan	FR-1	Montana	4:36.96@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+121	Wagner V, Will	SR-4	Sacramento St.	4:39.05@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+122	Leonis, Nigel	JR-3	Portland State	4:41.87	2019 Willamette Opener	Mar 2, 2019
+123	Jones, Cody	SO-2	Portland State	4:44.04	2019 Willamette Opener	Mar 2, 2019
+124	Thurber-Blaser, Brendan	SO-2	Montana	4:47.47@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+125	Thompson-Siporen, Wyatt	JR-3	Montana State	4:48.83@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+126	Stich, Andrew	SR-4	Sacramento St.	4:54.10	Jim Click Shootout	Apr 6, 2019
+127	Rodeman, James	SR-4	Idaho State	4:55.29@	Big Sky Outdoor Track & Field Championships	May 8, 2019
+128	Mullanix, Cory	JR-3	Idaho State	5:07.95	Westmont Collegiate Classic with Jim Klein Combined Events	Mar 21, 2019
+129	Hammer, Elijah	FR-1	Eastern Washington	5:24.95	Pelluer Open	Apr 11, 2019
+130	Pullin, Aaron	JR-3	Eastern Washington	5:27.18	14th Sam Adams Classic Scoring Invite	Mar 21, 2019
+131	Porterfield, Quintin	SO-2	Eastern Washington	5:28.22	Pelluer Open	Apr 11, 2019
+132	Treat, Race	SO-2	Eastern Washington	5:32.66	14th Sam Adams Classic Scoring Invite	Mar 21, 2019

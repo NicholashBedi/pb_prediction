@@ -1,0 +1,86 @@
+1	Dahl, Nick	SO-2	Yale	3:44.58	Army West Point Twilight	May 9, 2019
+2	Siegler, Allen	JR-3	Yale	3:45.28	Army West Point Twilight	May 9, 2019
+3	Ritz, Sam	SR-4	Columbia	3:45.62	Stanford Invitational	Mar 29, 2019
+4	Sellaro, Ray	FR-1	Penn	3:45.82	Sam Howell Invitational	Apr 6, 2019
+5	Ellis, Sam	SO-2	Princeton	3:45.92	2019 Larry Ellis Invitational	Apr 20, 2019
+6	Daly, Colin	JR-3	Penn	3:45.93	Sam Howell Invitational	Apr 6, 2019
+7	Lundy, Conor	JR-3	Princeton	3:45.96	2019 Larry Ellis Invitational	Apr 20, 2019
+8	Spiezio, Jeremy	SR-4	Princeton	3:46.69	2019 Larry Ellis Invitational	Apr 20, 2019
+9	Zabilski, Brian	SR-4	Columbia	3:47.32(1)	Ocean State Invitational	Apr 12, 2019
+10	Trippas, Ed	SO-2	Princeton	3:48.61	Army West Point Twilight	May 9, 2019
+11	Gatewood , Mason	FR-1	Penn	3:48.94	2019 Larry Ellis Invitational	Apr 20, 2019
+11	Raymond, Henry	JR-3	Dartmouth	3:48.94	Ivy League Outdoor Track & Field Championships	May 4, 2019
+13	Schreiner, Lucky	SR-4	Columbia	3:49.06(1)	Ocean State Invitational	Apr 12, 2019
+14	Lee, James	FR-1	Penn	3:49.42	Ivy League Outdoor Track & Field Championships	May 4, 2019
+14	Fountain, Solomon	SO-2	Columbia	3:49.42	Ivy League Outdoor Track & Field Championships	May 4, 2019
+16	Cornetta, Justin	FR-1	Penn	3:49.56	Ivy League Outdoor Track & Field Championships	May 4, 2019
+17	Scherrer, David	SO-2	Brown	3:49.73	Ivy League Outdoor Track & Field Championships	May 4, 2019
+18	Laird, Will	SO-2	Yale	3:50.71	Army West Point Twilight	May 9, 2019
+19	Poynter, Mitchell	JR-3	Penn	3:51.10	Ivy League Outdoor Track & Field Championships	May 4, 2019
+20	Neumaier, Steve	JR-3	Cornell	3:51.21	2019 Larry Ellis Invitational	Apr 20, 2019
+21	Daly, Cameron	JR-3	Brown	3:51.27(1)	Ocean State Invitational	Apr 12, 2019
+22	Johnson, Roc	SR-4	Cornell	3:51.39	Ivy League Outdoor Track & Field Championships	May 4, 2019
+23	Daly, William	JR-3	Penn	3:51.69	Sam Howell Invitational	Apr 6, 2019
+24	Fusco, Greg	FR-1	Cornell	3:51.71	2019 Pomona-Pitzer Invitational (College/Univ)	Apr 6, 2019
+25	Carey, Noah	SO-2	Penn	3:52.05	Sam Howell Invitational	Apr 6, 2019
+26	Horton, Reed	SR-4	Dartmouth	3:52.35	North Florida Spring Break Invitational	Mar 21, 2019
+27	Phillips, Brandon	SR-4	Cornell	3:53.69	2019 Pomona-Pitzer Invitational (College/Univ)	Apr 6, 2019
+28	Feffer, Nick	SO-2	Dartmouth	3:54.17	Ivy League Outdoor Track & Field Championships	May 4, 2019
+29	McCauley, Griffin	FR-1	Brown	3:54.22	Ivy League Outdoor Track & Field Championships	May 4, 2019
+30	Anzano, Drake	SO-2	Princeton	3:54.42	2019 Larry Ellis Invitational	Apr 20, 2019
+30	Fish, John	SO-2	Harvard	3:54.42	Ivy League Outdoor Track & Field Championships	May 4, 2019
+32	Zepf, Tim	SO-2	Dartmouth	3:54.62	North Florida Spring Break Invitational	Mar 21, 2019
+33	Hare, William	FR-1	Penn	3:54.73	Rider Invitational 2019	Apr 13, 2019
+34	Mocarski, Alex	FR-1	Cornell	3:54.90	2019 Larry Ellis Invitational	Apr 20, 2019
+35	Convey, Kurt	SR-4	Penn	3:55.39	2019 Larry Ellis Invitational	Apr 20, 2019
+36	Weber, Isaac	FR-1	Dartmouth	3:56.68	New England Outdoor Championship - NEICAAA	May 10, 2019
+37	Dolan, Tim	FR-1	Penn	3:56.80	Sam Howell Invitational	Apr 6, 2019
+38	Renken, Ryan	FR-1	Penn	3:56.81	Rider Invitational 2019	Apr 13, 2019
+39	Grossman, Matt	JR-3	Princeton	3:56.89	2019 Larry Ellis Invitational	Apr 20, 2019
+40	Morton, Sam	SO-2	Dartmouth	3:57.52	New England Outdoor Championship - NEICAAA	May 10, 2019
+41	Deokar, Viraj	JR-3	Princeton	3:57.57	2019 Larry Ellis Invitational	Apr 20, 2019
+42	Breene, Aaron	SO-2	Columbia	3:57.79	2019 Colonial Relays	Apr 4, 2019
+43	Cohen, Daniel	SO-2	Penn	3:57.85	2019 Larry Ellis Invitational	Apr 20, 2019
+44	Evertsen, Blake	SO-2	Harvard	3:58.66	2019 Harvard - Yale Match	Apr 13, 2019
+45	Nowak, Marek	FR-1	Cornell	3:58.71	Bison Outdoor Classic	Apr 13, 2019
+46	Siff-Scherr, Aaron	FR-1	Penn	3:58.79	Rider Invitational 2019	Apr 13, 2019
+47	Bishop, Mars	SO-2	Cornell	3:58.83	Bison Outdoor Classic	Apr 13, 2019
+48	Belsoi, Edward	SO-2	Cornell	3:59.21	Bison Outdoor Classic	Apr 13, 2019
+49	Klopf, Robert	SR-4	Penn	3:59.28	Rider Invitational 2019	Apr 13, 2019
+50	Sandvold, Cole	SO-2	Princeton	3:59.30	Stanford Invitational	Mar 29, 2019
+51	Thompson, Scott	FR-1	Princeton	3:59.73	Stanford Invitational	Mar 29, 2019
+52	Reimer, Tomas	SR-4	Cornell	3:59.90	2019 Dan Stimson Memorial Meet	Mar 23, 2019
+53	Bayuex, Patrick	FR-1	Columbia	3:59.97(1)	Ocean State Invitational	Apr 12, 2019
+54	Benjamin, Hughes	SO-2	Brown	4:00.08	University of MA Minuteman Invitational	Apr 6, 2019
+55	Roth, Alex	SO-2	Penn	4:00.46	2019 Larry Ellis Invitational	Apr 20, 2019
+56	Vorbach, David	FR-1	Columbia	4:00.53(1)	Ocean State Invitational	Apr 12, 2019
+57	Jamieson, Liam	FR-1	Dartmouth	4:01.09	University of MA Minuteman Invitational	Apr 6, 2019
+58	Cooney, Quinn	JR-3	Dartmouth	4:01.30	North Florida Spring Break Invitational	Mar 21, 2019
+59	Granata, Jamie	FR-1	Cornell	4:02.02	2019 Dan Stimson Memorial Meet	Mar 23, 2019
+60	Hally, Andrew	JR-3	Penn	4:02.08	Penn Challenge	Mar 23, 2019
+61	Whitney, Robert	JR-3	Cornell	4:02.11	Sam Howell Invitational	Apr 6, 2019
+62	Casavant, Paul	SO-2	Cornell	4:02.59	Cornell Big Red Invitational	Apr 28, 2019
+63	Kruse, Kaeo	SO-2	Harvard	4:02.77	Virginia Challenge	Apr 19, 2019
+64	Van Vorst, Kevin	SO-2	Cornell	4:03.26	2019 Dan Stimson Memorial Meet	Mar 23, 2019
+65	Romero, Chris	FR-1	Penn	4:03.29	Sam Howell Invitational	Apr 6, 2019
+66	Hackett, Liam	SR-4	Harvard	4:04.51	Sean Collier Invitational	Apr 20, 2019
+67	Caswell, Jake	JR-3	Columbia	4:04.76	Penn Challenge	Mar 23, 2019
+68	Alber, Michael	JR-3	Harvard	4:05.11	Sean Collier Invitational	Apr 20, 2019
+69	Lingard, Thomas	FR-1	Dartmouth	4:05.26	Sam Howell Invitational	Apr 6, 2019
+70	Hale, Tom	SR-4	Brown	4:05.30	2019 Larry Ellis Invitational	Apr 20, 2019
+71	Wang, Jason	FR-1	Dartmouth	4:05.59	University of MA Minuteman Invitational	Apr 6, 2019
+72	Davis, Charlie	JR-3	Harvard	4:07.14	Sean Collier Invitational	Apr 20, 2019
+73	Morganti, Dominic	SO-2	Brown	4:07.75	University of MA Minuteman Invitational	Apr 6, 2019
+74	Scudamore, Harrison	FR-1	Columbia	4:07.81	Sam Howell Invitational	Apr 6, 2019
+75	Thompson, Chris	SR-4	Columbia	4:07.93(1)	Ocean State Invitational	Apr 12, 2019
+76	Crowley, Greg	SO-2	Dartmouth	4:07.94	University of MA Minuteman Invitational	Apr 6, 2019
+77	Irish, Ian	FR-1	Columbia	4:08.47	Penn Challenge	Mar 23, 2019
+78	Perreira, Matthew	SO-2	Harvard	4:08.68	2019 Harvard - Yale Match	Apr 13, 2019
+79	Capello, Zach	SR-4	Yale	4:10.05	2019 Yale Springtime Invitational	Apr 28, 2019
+80	Ose, Benjamin	SR-4	Dartmouth	4:33.36	Spec Towns Invitational	Apr 5, 2019
+81	Lee, Evan	JR-3	Penn	4:42.79	Tennessee Relays	Apr 11, 2019
+82	Lord, Harry	JR-3	Princeton	4:47.48	Ivy League Outdoor Track & Field Championships	May 4, 2019
+83	Jeffrey, Clayton	JR-3	Cornell	4:50.07	Ivy League Outdoor Track & Field Championships	May 4, 2019
+84	Mirfield, James	SO-2	Penn	5:21.02	Tennessee Relays	Apr 11, 2019
+85	Iosivas, Andrei	FR-1	Princeton	5:22.28	Ivy League Outdoor Track & Field Championships	May 4, 2019
+86	Minicus, John	FR-1	Harvard	5:29.35	Ivy League Outdoor Track & Field Championships	May 4, 2019

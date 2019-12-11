@@ -1,0 +1,85 @@
+1	Ramirez, Kelsey	SO-2	Stephen F. Austin	4:25.28	Bryan Clay Invitational	Apr 17, 2019
+2	Buckley, Katie	JR-3	Lamar	4:35.77	Bryan Clay Invitational	Apr 17, 2019
+3	Wood, Sophie	JR-3	Lamar	4:36.14	37th Annual Victor Lopez Classic	Mar 21, 2019
+4	Surratt, Taryn	JR-3	Stephen F. Austin	4:36.24	37th Annual Victor Lopez Classic	Mar 21, 2019
+5	Gerlach, Briahna	SO-2	Abilene Christian	4:37.57	Bryan Clay Invitational	Apr 17, 2019
+6	Alcantar, Itzel	FR-1	Incarnate Word	4:37.97	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+7	Blair, Charlotte	SO-2	Central Arkansas	4:38.04	North Florida Spring Break Invitational	Mar 21, 2019
+8	Henderson, Alia	FR-1	Incarnate Word	4:38.10	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+9	Hyde, Gracie	FR-1	Central Arkansas	4:40.39(1)	2019 Rhodes Invitational Track & Field Meet	Mar 15, 2019
+10	Gonzalez, Rebeca	SO-2	Sam Houston St.	4:40.68	Bryan Clay Invitational	Apr 17, 2019
+11	Ramirez, Katherine	JR-3	Incarnate Word	4:41.97	Texas State Bobcat Invitational	Mar 28, 2019
+12	McCutchen, Morgan	JR-3	Texas A&M-CC	4:42.35	J Fred Duckett Twilight Meet	Apr 20, 2019
+13	Davis, LaSean	SO-2	Stephen F. Austin	4:43.75	SFA Carl Kight Invitational	Apr 3, 2019
+14	Campos, Valentina	SO-2	Texas A&M-CC	4:44.87	Roadrunner Invitational	Mar 21, 2019
+15	Woodward, Erin	JR-3	Central Arkansas	4:45.30	Mt. SAC Relays	Apr 18, 2019
+16	Emmerson, Julie	JR-3	Lamar	4:46.49	37th Annual Victor Lopez Classic	Mar 21, 2019
+17	Tucker, Cryslan	FR-1	Sam Houston St.	4:46.92	37th Annual Victor Lopez Classic	Mar 21, 2019
+18	Allen, Dominique	JR-3	Incarnate Word	4:47.01	UIW Invitational	Apr 12, 2019
+19	Marrone, Madeline	FR-1	Incarnate Word	4:47.03	J Fred Duckett Twilight Meet	Apr 20, 2019
+20	Hernandez, Megan	SO-2	Incarnate Word	4:47.04	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+21	Compass, Madison	SR-4	Stephen F. Austin	4:47.11	Louisiana Classics	Mar 15, 2019
+22	Taylor, Mya	FR-1	Lamar	4:47.56	37th Annual Victor Lopez Classic	Mar 21, 2019
+23	Eykelbosch, Alex	SR-4	McNeese State	4:47.69	McNeese State Cowboy Relays	Mar 9, 2019
+24	Alcantar, Ivette	FR-1	Incarnate Word	4:48.01	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+25	Evans, Carolyn	FR-1	Stephen F. Austin	4:51.90	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+26	Gore, Casey	FR-1	Central Arkansas	4:51.95	Kansas Relays	Apr 17, 2019
+27	Drews, Johanna	FR-1	Houston Baptist	4:52.46	2019 TSU Relays (College/University)	Mar 15, 2019
+28	Martinez, Danielle	JR-3	Incarnate Word	4:52.99	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+29	Crone, Claire	JR-3	Stephen F. Austin	4:53.04	Michael Johnson Invitational	Apr 19, 2019
+30	Graham, Carnley	SR-4	Abilene Christian	4:53.20	ACU Wes Kittley Invitational & Multi 2019	Mar 14, 2019
+31	Kinney, Bailey	FR-1	Stephen F. Austin	4:53.46	Michael Johnson Invitational	Apr 19, 2019
+32	Eckford, Jamie	SR-4	Sam Houston St.	4:53.78	Texas State Bobcat Invitational	Mar 28, 2019
+33	Abeyta, Andrea	FR-1	Incarnate Word	4:53.80	Texas State Bobcat Invitational	Mar 28, 2019
+34	Fox, Jessica	JR-3	McNeese State	4:54.44	37th Annual Victor Lopez Classic	Mar 21, 2019
+35	Stuntz, Tara	SO-2	SE Louisiana	4:54.86	Southern Miss Invitational	Mar 30, 2019
+36	Diaz, Stephanie	SR-4	Incarnate Word	4:55.21	UIW Invitational	Apr 12, 2019
+37	Garza, Haley	FR-1	Sam Houston St.	4:56.04	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+38	Alvarado, Elizabeth	SO-2	Incarnate Word	4:56.13	UIW Invitational	Apr 12, 2019
+39	Ariceaga, Crystal	SO-2	Stephen F. Austin	4:57.17	Texas A&M Alumni Muster	Apr 27, 2019
+40	Groth, Rebekah	SR-4	Sam Houston St.	4:57.37	Texas State Bobcat Invitational	Mar 28, 2019
+41	Smith, Clarissa	SR-4	SE Louisiana	4:57.62	Southeastern vs Southern Dual	Mar 22, 2019
+42	Hudson, Isabella	SO-2	Northwestern St.	4:57.67	Leon Johnson NSU Invitational	Apr 12, 2019
+43	Clarkin, Sandy	FR-1	Sam Houston St.	4:57.71	Texas State Bobcat Invitational	Mar 28, 2019
+44	Jerotich, Gladys	SR-4	McNeese State	4:57.86	McNeese State Cowboy Relays	Mar 9, 2019
+45	Whiteoak, Katy	SO-2	Lamar	4:58.10	37th Annual Victor Lopez Classic	Mar 21, 2019
+46	Hernandez, Christina	FR-1	Stephen F. Austin	4:58.32	37th Annual Victor Lopez Classic	Mar 21, 2019
+47	Waine, Jordan	SO-2	McNeese State	4:59.37	Texas State Bobcat Invitational	Mar 28, 2019
+48	Quiroga, Cynthia	SR-4	Texas A&M-CC	4:59.66	South Texas Showdown	Apr 6, 2019
+49	Spruill, Monique	FR-1	Sam Houston St.	5:00.24	Michael Johnson Invitational	Apr 19, 2019
+50	Lander, Alissa	SO-2	McNeese State	5:01.95	McNeese State Cowboy Relays	Mar 9, 2019
+51	Garcia Verges, Julia	FR-1	Nicholls State	5:02.06	LSU Alumni Gold	Apr 20, 2019
+52	Cartwright, Emily	FR-1	Incarnate Word	5:02.61	UIW Invitational	Apr 12, 2019
+53	Compass, Allison	SR-4	Stephen F. Austin	5:04.96	Louisiana Classics	Mar 15, 2019
+54	Carrasco, Graciela	FR-1	Stephen F. Austin	5:05.80	Michael Johnson Invitational	Apr 19, 2019
+55	Martinez, Macie	FR-1	Sam Houston St.	5:06.77	37th Annual Victor Lopez Classic	Mar 21, 2019
+56	Wagler, Sarah	FR-1	Abilene Christian	5:06.95	Baylor Invitational	Mar 23, 2019
+57	Elrod, Kirstin	FR-1	Northwestern St.	5:07.44	LSU Alumni Gold	Apr 20, 2019
+58	Callejas, Eleana	SO-2	Nicholls State	5:07.95	LSU Alumni Gold	Apr 20, 2019
+59	Timmerman, Kennedy	FR-1	Central Arkansas	5:08.80	North Florida Spring Break Invitational	Mar 21, 2019
+60	Ruiz, Alejandra	SR-4	Central Arkansas	5:09.50	UCA OPEN	Apr 12, 2019
+61	Lukijaniuk, Marta	SO-2	McNeese State	5:10.36	McNeese State Springtime Classic	Apr 6, 2019
+62	Blankenship, Alana	FR-1	Texas A&M-CC	5:10.64	South Texas Showdown	Apr 6, 2019
+63	Hutcheson, Lindsey	SO-2	SE Louisiana	5:13.12	McNeese State Cowboy Relays	Mar 9, 2019
+64	Hughes, Sally	SR-4	McNeese State	5:15.06	McNeese State Cowboy Relays	Mar 9, 2019
+65	Gregoire, Haley	SR-4	Nicholls State	5:15.91	Leon Johnson NSU Invitational	Apr 12, 2019
+66	Keter, Faith	FR-1	Nicholls State	5:17.28	McNeese State Springtime Classic	Apr 6, 2019
+67	Talazac, Jade	FR-1	Northwestern St.	5:20.55	Leon Johnson NSU Invitational	Apr 12, 2019
+68	Meek, Sarah	FR-1	Central Arkansas	5:21.63	Little Rock Open	Apr 5, 2019
+69	Sanchez, Hanna	SO-2	Sam Houston St.	5:22.05	ACU Wes Kittley Invitational & Multi 2019	Mar 14, 2019
+70	Simei, Naomi	FR-1	Houston Baptist	5:22.13	2019 TSU Relays (College/University)	Mar 15, 2019
+71	Kiplagat, Joyce	SO-2	Nicholls State	5:22.52	Leon Johnson NSU Invitational	Apr 12, 2019
+72	Reinhold, Taylor	SO-2	Abilene Christian	5:22.97	ACU Oliver Jackson Twilight	Apr 25, 2019
+73	Crayton, Faith	SO-2	Houston Baptist	5:23.15	J Fred Duckett Twilight Meet	Apr 20, 2019
+74	Foster, Sarah	JR-3	Lamar	5:26.55	Houston Alumni Invitational	Apr 6, 2019
+75	Stewart, Kaylee	SO-2	Central Arkansas	5:29.82	Little Rock Open	Apr 5, 2019
+76	Grabner, Sophie	SO-2	McNeese State	5:31.19	McNeese State Cowboy Relays	Mar 9, 2019
+77	Nolan, Chase	FR-1	Abilene Christian	5:33.19	ACU Oliver Jackson Twilight	Apr 25, 2019
+78	Blanchard, Emily	SO-2	Northwestern St.	5:33.88	Leon Johnson NSU Invitational	Apr 12, 2019
+79	Schroeder, Alyssa	SO-2	Abilene Christian	5:36.95	North Texas Classic	Apr 6, 2019
+80	Crayton, Miracle	JR-3	Houston Baptist	5:41.95	2019 TSU Relays (College/University)	Mar 15, 2019
+81	Newell, Elizabeth	JR-3	Nicholls State	5:48.43	Louisiana Classics	Mar 15, 2019
+82	Rivenbark, Sarah	FR-1	Houston Baptist	5:53.66	2019 TSU Relays (College/University)	Mar 15, 2019
+83	Caron, Isabelle	FR-1	Nicholls State	5:53.95	McNeese State Springtime Classic	Apr 6, 2019
+84	White, Lindsey		Abilene Christian	6:03.28	North Texas Classic	Apr 6, 2019
+85	Daniels, Tabatha	FR-1	Central Arkansas	6:40.62	UCA Spring Opener	Mar 9, 2019

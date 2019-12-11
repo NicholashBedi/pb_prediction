@@ -1,0 +1,111 @@
+1	Cortez, Garett	SR-4	Incarnate Word	3:45.70	Bryan Clay Invitational	Apr 17, 2019
+2	Rowe, Jordan	JR-3	Lamar	3:46.34	Bryan Clay Invitational	Apr 17, 2019
+3	Cleary, Ryan	SR-4	Abilene Christian	3:50.25	North Texas Classic	Apr 6, 2019
+4	Hardy, Deion	JR-3	Incarnate Word	3:50.46	UIW Invitational	Apr 12, 2019
+5	Quintero, Jorge	SR-4	Incarnate Word	3:53.21	UIW Cardinal Spring Break Classic	Mar 14, 2019
+6	Albert, Aaron	SR-4	New Orleans	3:54.23	Al Schmidt Bulldog Relays Invite	Mar 22, 2019
+7	Hernandez, Matthew	SO-2	Incarnate Word	3:55.01	UIW Invitational	Apr 12, 2019
+8	Gooch, Jack	JR-3	Lamar	3:55.12	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+8	Flanagan, Brian	SO-2	McNeese State	3:55.12	37th Annual Victor Lopez Classic	Mar 21, 2019
+10	Holt, Niall	SR-4	McNeese State	3:55.51	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+11	Arnold, Matthew	JR-3	Lamar	3:55.56	37th Annual Victor Lopez Classic	Mar 21, 2019
+12	Burthem, Liam	JR-3	Lamar	3:56.68	37th Annual Victor Lopez Classic	Mar 21, 2019
+13	Jeandree, Julien	SR-4	Central Arkansas	3:57.47	Mt. SAC Relays	Apr 18, 2019
+14	Zachariou, Christos	JR-3	Houston Baptist	3:58.16	2019 TSU Relays (College/University)	Mar 15, 2019
+15	Henderson, Hunter	FR-1	Central Arkansas	3:58.18	Kansas Relays	Apr 17, 2019
+16	Barthel, Zachary	FR-1	SE Louisiana	3:58.26	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+17	Ferle, Nejc	SO-2	Lamar	3:59.15	Texas State Bobcat Classic	Apr 26, 2019
+18	Garcia, Kyle	JR-3	Lamar	3:59.58	37th Annual Victor Lopez Classic	Mar 21, 2019
+19	Kunkel, Cash	FR-1	Incarnate Word	3:59.90	UIW Cardinal Spring Break Classic	Mar 14, 2019
+20	Vargas, Isaac	SO-2	Texas A&M-CC	4:00.28	Roadrunner Invitational	Mar 21, 2019
+21	Herrera, Adam	JR-3	Incarnate Word	4:00.51	UIW Cardinal Spring Break Classic	Mar 14, 2019
+22	Jard, Baptiste	JR-3	Incarnate Word	4:00.60	Baylor Invitational	Mar 23, 2019
+23	Gilliam, Aaron	FR-1	McNeese State	4:00.65	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+24	Flores, Pedro	SO-2	Stephen F. Austin	4:00.72	Michael Johnson Invitational	Apr 19, 2019
+25	Leon, Jordan	SR-4	Sam Houston St.	4:00.80	Texas State Bobcat Invitational	Mar 28, 2019
+26	Leyva, Oscar	JR-3	Texas A&M-CC	4:01.38	Roadrunner Invitational	Mar 21, 2019
+27	Armendariz, Sergio	FR-1	Sam Houston St.	4:01.59	37th Annual Victor Lopez Classic	Mar 21, 2019
+28	Stockings, James	SR-4	Lamar	4:01.66	37th Annual Victor Lopez Classic	Mar 21, 2019
+29	Miller, Conner	SO-2	Abilene Christian	4:02.33	ACU Oliver Jackson Twilight	Apr 25, 2019
+30	Horgan, Luke	SO-2	McNeese State	4:02.55	2019 92nd Clyde Littlefield Texas Relays	Mar 27, 2019
+31	Barrera - Lopez, Miguel	JR-3	McNeese State	4:03.07	Texas State Bobcat Invitational	Mar 28, 2019
+32	Hernandez, Jonathan	FR-1	Nicholls State	4:04.02	LSU Alumni Gold	Apr 20, 2019
+33	Lantau, Brandon	FR-1	Lamar	4:04.09	37th Annual Victor Lopez Classic	Mar 21, 2019
+34	Lagat, Denis	FR-1	Abilene Christian	4:04.18	ACU Wes Kittley Invitational & Multi 2019	Mar 14, 2019
+35	Marcello, Lucas	SO-2	New Orleans	4:04.58	Al Schmidt Bulldog Relays Invite	Mar 22, 2019
+36	Moran, Josh	FR-1	Houston Baptist	4:04.74	Leon Johnson NSU Invitational	Apr 12, 2019
+37	Sullivan , Chandler	FR-1	New Orleans	4:05.50	Al Schmidt Bulldog Relays Invite	Mar 22, 2019
+38	Groves, Darius	SO-2	Northwestern St.	4:05.57	LSU Alumni Gold	Apr 20, 2019
+39	Saltzman, Kolyn	FR-1	New Orleans	4:05.79	LSU Alumni Gold	Apr 20, 2019
+40	Golay, Mark	SR-4	New Orleans	4:06.29	Al Schmidt Bulldog Relays Invite	Mar 22, 2019
+41	Croft, Joey	FR-1	McNeese State	4:06.76	McNeese State Cowboy Relays	Mar 9, 2019
+42	Ramirez, Enoch	SO-2	Houston Baptist	4:06.96	2019 TSU Relays (College/University)	Mar 15, 2019
+43	Gonzalez, Chris	FR-1	Incarnate Word	4:07.92	UIW Invitational	Apr 12, 2019
+44	Winski, Christopher	JR-3	Incarnate Word	4:07.94	Texas State Bobcat Classic	Apr 26, 2019
+45	Kopp, Markus	SO-2	McNeese State	4:08.05	Texas State Bobcat Invitational	Mar 28, 2019
+46	Shaw, Camden	FR-1	Central Arkansas	4:08.12(1)	2019 Rhodes Invitational Track & Field Meet	Mar 15, 2019
+47	Walker, Zion	SO-2	Houston Baptist	4:08.24	2019 TSU Relays (College/University)	Mar 15, 2019
+48	Halford, Harry	JR-3	Lamar	4:08.30	Houston Alumni Invitational	Apr 6, 2019
+49	Butts, Nic	SO-2	Stephen F. Austin	4:09.03	37th Annual Victor Lopez Classic	Mar 21, 2019
+50	Gerland, Yannik	SO-2	Northwestern St.	4:09.21	2019 TCU Invitational	Mar 16, 2019
+51	Spriestersbach, Marek	JR-3	Texas A&M-CC	4:09.50	South Texas Showdown	Apr 6, 2019
+52	Crockett, Seth	SO-2	Abilene Christian	4:09.51	ACU Oliver Jackson Twilight	Apr 25, 2019
+53	Hamilton, Jaron	JR-3	Central Arkansas	4:09.65(1)	2019 Rhodes Invitational Track & Field Meet	Mar 15, 2019
+54	Cain, Thomas	FR-1	Central Arkansas	4:09.78	UCA Spring Opener	Mar 9, 2019
+55	Suire, Ethan	FR-1	New Orleans	4:09.83	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+56	Silva, Julian	SO-2	New Orleans	4:10.34	Al Schmidt Bulldog Relays Invite	Mar 22, 2019
+57	Herbstritt, Spencer	FR-1	Incarnate Word	4:10.47	UIW Invitational	Apr 12, 2019
+58	Hernandez, Alex	JR-3	Sam Houston St.	4:11.02	Texas State Bobcat Invitational	Mar 28, 2019
+59	Nava, Aldo	FR-1	Incarnate Word	4:11.11	Texas State Bobcat Invitational	Mar 28, 2019
+60	Saina, Daniel	JR-3	McNeese State	4:11.49	McNeese State Cowboy Relays	Mar 9, 2019
+61	Lara, Matthew	FR-1	Texas A&M-CC	4:11.67	J Fred Duckett Twilight Meet	Apr 20, 2019
+62	McBride, Parker	FR-1	SE Louisiana	4:11.68	Cole-Lancon Conference Challenge	Apr 13, 2019
+63	Jacobs, Travis	FR-1	Houston Baptist	4:12.27	2019 TSU Relays (College/University)	Mar 15, 2019
+64	Austin III, Joe	SO-2	Sam Houston St.	4:13.24	Texas State Bobcat Invitational	Mar 28, 2019
+65	Figueroa, Daniel	FR-1	Nicholls State	4:14.13	37th Annual Victor Lopez Classic	Mar 21, 2019
+66	Orihuela, Israel	SO-2	Incarnate Word	4:14.49	UIW Cardinal Spring Break Classic	Mar 14, 2019
+67	Martin, Tyler	SO-2	Incarnate Word	4:14.52	UIW Cardinal Spring Break Classic	Mar 14, 2019
+68	Aguilar, Stephen	SO-2	Houston Baptist	4:15.17	Leon Johnson NSU Invitational	Apr 12, 2019
+69	Buley, Grant	SR-4	Sam Houston St.	4:17.74	37th Annual Victor Lopez Classic	Mar 21, 2019
+70	Worley, Dustin	FR-1	Nicholls State	4:18.53	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+71	White, Bryant	JR-3	SE Louisiana	4:18.66	McNeese State Cowboy Relays	Mar 9, 2019
+72	Cherin, Jordan	JR-3	Incarnate Word	4:19.05	UIW Cardinal Spring Break Classic	Mar 14, 2019
+73	Salinas, Juan	FR-1	Texas A&M-CC	4:19.91	South Texas Showdown	Apr 6, 2019
+74	Phillips, Nicholas	SO-2	New Orleans	4:19.99	McNeese State Cowboy Relays	Mar 9, 2019
+75	Carpenter , Cameron	FR-1	New Orleans	4:21.71	McNeese State Cowboy Relays	Mar 9, 2019
+76	Granger, Tyler	FR-1	Nicholls State	4:21.92	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+77	Whaley, Tate	FR-1	Central Arkansas	4:22.56	Kansas Relays	Apr 17, 2019
+78	Ankrom, Elijah	FR-1	Central Arkansas	4:23.40	North Florida Spring Break Invitational	Mar 21, 2019
+79	Daigle, Thomas	FR-1	Northwestern St.	4:24.66	2019 TCU Invitational	Mar 16, 2019
+80	Hammonds, Cody	SR-4	Houston Baptist	4:24.94	2019 TSU Relays (College/University)	Mar 15, 2019
+81	Kelly, Ian	FR-1	Central Arkansas	4:25.20	UCA OPEN	Apr 12, 2019
+82	Callegan, Reed	SO-2	SE Louisiana	4:25.54	McNeese State Cowboy Relays	Mar 9, 2019
+83	Michel, Leo	JR-3	Sam Houston St.	4:26.63	37th Annual Victor Lopez Classic	Mar 21, 2019
+84	Gandy, Andrew	FR-1	Texas A&M-CC	4:27.61	South Texas Showdown	Apr 6, 2019
+85	Singh, Shawn	FR-1	SE Louisiana	4:30.36	McNeese State Cowboy Relays	Mar 9, 2019
+86	Robichaux, Lane	FR-1	Nicholls State	4:34.17	McNeese State Springtime Classic	Apr 6, 2019
+87	Wagner, Chistopher	FR-1	New Orleans	4:34.44	McNeese State Cowboy Relays	Mar 9, 2019
+88	Yulee, Tyji	SR-4	Stephen F. Austin	4:38.31	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+89	Littlejohn, Rodney	JR-3	Incarnate Word	4:38.44	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+90	MacDonald, Troy	FR-1	Abilene Christian	4:40.73	ACU Wes Kittley Invitational & Multi 2019	Mar 14, 2019
+91	Boon, Scott	FR-1	Houston Baptist	4:42.37	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+92	Lambeth, Bradley	SO-2	Central Arkansas	4:43.76	Little Rock Open	Apr 5, 2019
+93	Wilbur, Connor	SR-4	Stephen F. Austin	4:43.95	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+94	Rogers, Denim	SO-2	Houston Baptist	4:45.20	Bryan Clay Invitational	Apr 17, 2019
+95	Dean, Ross	FR-1	Abilene Christian	4:51.14	Angelo State David Noble Relays	Apr 6, 2019
+96	Palka, Cole	SO-2	Abilene Christian	4:51.59	Angelo State David Noble Relays	Apr 6, 2019
+97	Berney, Noah	JR-3	Stephen F. Austin	4:53.46	SFA Carl Kight Invitational	Apr 3, 2019
+98	Adams, Tyler	SR-4	Sam Houston St.	4:53.61	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+99	Skuza, Cade	SO-2	Sam Houston St.	4:54.13	SFA Carl Kight Invitational	Apr 3, 2019
+100	Walker, Chris	SR-4	Central Arkansas	4:57.23	UCA Spring Opener	Mar 9, 2019
+101	Beaty, Bradley	SR-4	Stephen F. Austin	4:58.70	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+102	Anthony, Luke	FR-1	Central Arkansas	4:59.35	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+103	Bitton, Zac	JR-3	Central Arkansas	4:59.43	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+104	Adden, Bjoern	JR-3	Texas A&M-CC	5:02.19	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+105	Cazayoux, Ben	FR-1	Nicholls State	5:03.25	Leon Johnson NSU Invitational	Apr 12, 2019
+106	Dresselhaus, Timon	FR-1	Central Arkansas	5:06.41	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+107	Day, Tanner	SO-2	Sam Houston St.	5:07.95	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+108	Parks, Tanner	SR-4	Stephen F. Austin	5:08.00	Southland Conference Outdoor Track and Field Championship	May 3, 2019
+109	Ellis, Riley	SO-2	Abilene Christian	5:13.96	ACU Wes Kittley Invitational & Multi 2019	Mar 14, 2019
+110	Brown, AJ	FR-1	Abilene Christian	5:18.06	Angelo State David Noble Relays	Apr 6, 2019
+111	Adegbite, Johnson	FR-1	Central Arkansas	6:01.90	UCA Spring Opener	Mar 9, 2019
