@@ -8,6 +8,8 @@ def round(n, decimals=0):
     return math.floor(n*multiplier + 0.5) / multiplier
 
 def convert_to_seconds_from_string(string_time):
+    if ":" not in string_time:
+        return round(float(string_time), 2)
     time_split_on_colon = string_time.split(":")
     minutes = float(time_split_on_colon[0])
     if "@" in time_split_on_colon[1]:

@@ -1,4 +1,5 @@
 import numpy as np
+from athletes_PBS import convert_to_seconds_from_string
 
 data_folder = ""
 data_name = "test_data"
@@ -31,4 +32,20 @@ data_names = {'name':0,
                 '1500m':7}
 all_data[:, data_names['is_women']] = [replace_gender_string[gender] for gender in all_data[:, data_names['is_women']]]
 
-print(all_data)
+# change times from string to number
+times_to_change = [data_names['PB'], data_names['300m'], data_names['700m'], data_names['1100m'], data_names['1500m']]
+for idx in times_to_change:
+    all_data[:,idx] = [convert_to_seconds_from_string(string_time) for string_time in all_data[:,idx]]
+
+input_data = np.vstack((all_data[:,data_names['is_women']],
+                        all_data[:,data_names['place']],
+                        all_data[:,data_names['300m']],
+                        all_data[:,data_names['700m']],
+                        all_data[:,data_names['1100m']],
+                        all_data[:,data_names['1500m']])).T.astype(float)
+target_data = all_data[:,data_names['PB']].astype(float)
+name_data = all_data[:,data_names['name']]
+
+print(input_data)
+print(target_data)
+print(name_data)
