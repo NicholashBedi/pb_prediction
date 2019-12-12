@@ -30,26 +30,26 @@ def get_output_line(entry, gender, race_name):
         athlete_pb = convert_to_string_from_seconds(personal_best[name.lower()])
         sb = athlete_pb
     else:
-        athlete_pb = "UNKOWN"
-        sb = "UNKOWN"
+        athlete_pb = "UNKNOWN"
+        sb = "UNKNOWN"
     place = tab_split_entry[0]
-    m100 = "UNKOWN"
-    m200 = "UNKOWN"
+    m100 = "UNKNOWN"
+    m200 = "UNKNOWN"
     split_init_index = 7
     if tab_split_entry[split_init_index] == '':
         split_init_index = 8
     m300 = tab_split_entry[split_init_index].split(" ")[0]
-    m400 = "UNKOWN"
-    m500 = "UNKOWN"
-    m600 = "UNKOWN"
+    m400 = "UNKNOWN"
+    m500 = "UNKNOWN"
+    m600 = "UNKNOWN"
     m700 = tab_split_entry[split_init_index + 1 ].split(" ")[0]
-    m800 = "UNKOWN"
-    m900 ="UNKOWN"
-    m1000 ="UNKOWN"
+    m800 = "UNKNOWN"
+    m900 ="UNKNOWN"
+    m1000 ="UNKNOWN"
     m1100 = tab_split_entry[split_init_index + 2].split(" ")[0]
-    m1200 = "UNKOWN"
-    m1300 = "UNKOWN"
-    m1400 = "UNKOWN"
+    m1200 = "UNKNOWN"
+    m1300 = "UNKNOWN"
+    m1400 = "UNKNOWN"
     m1500 = tab_split_entry[6]
     return name + "," + gender + "," + athlete_pb + "," + sb + "," \
          + race_name + "," + place + "," \

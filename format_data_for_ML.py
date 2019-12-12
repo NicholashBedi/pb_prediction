@@ -12,7 +12,7 @@ data_names = {'name':0,
 
 def break_into_name_input_target(data):
     o_data = {}
-    o_data["output"] = np.vstack((data[:,data_names['is_women']],
+    o_data["input"] = np.vstack((data[:,data_names['is_women']],
                             data[:,data_names['place']],
                             data[:,data_names['300m']],
                             data[:,data_names['700m']],
@@ -51,10 +51,16 @@ def break_data_into_components(i_data, training_percent = 0.8, testing_percent =
     return data
 
 
+def discard_unknown_data(data) :
+    rows_of_unknown_pb = np.where(np.char.equal(data[:,2], 'UNKNOWN'))
+    data = np.delete(data, rows_of_unknown_pb, 0)
+    return data
+
 def get_data(data_folder = "", data_name = "test_data",
             training_percent = 0.8, testing_percent = 0.1):
     data = np.genfromtxt(data_folder + data_name + ".txt",
                                   dtype=np.unicode_, delimiter=',', skip_header=1)
+    data = discard_unknown_data(data)
 
     # Remove unused data
     # 0:Name,1:Gender,2:PB,3:SB,4:Race,5:Place,
@@ -81,7 +87,17 @@ def get_data(data_folder = "", data_name = "test_data",
     return break_data_into_components(data, training_percent, testing_percent)
 
 if __name__ == '__main__':
-    data = get_data()
+    data_folder = ""
+    data_name = "test_data"
+    data = np.genfromtxt(data_folder + data_name + ".txt",
+                                  dtype=np.unicode_, delimiter=',', skip_header=1)
+
+    data = get_data(data_folder = data_folder, data_name = data_name,
+                training_percent = 0.9, testing_percent = 0.1)
+
+    print("\nTraining")
     print(data["training"])
+    print("\nTesting")
     print(data["testing"])
+    print("\nValidation")
     print(data["validation"])
