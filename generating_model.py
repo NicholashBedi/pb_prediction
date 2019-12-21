@@ -34,14 +34,21 @@ model = tf.keras.Sequential([
     tf.keras.layers.Dense(1)
 ])
 
-sgd = tf.keras.optimizers.RMSprop(lr=0.0002)
+optim = tf.keras.optimizers.Adam(lr=0.0002)
 
-model.compile(optimizer = sgd,
-              loss ='mse',
-              metrics =['mean_squared_error'])
+def get_huber_loss_fn(**huber_loss_kwargs):
 
-es = tf.keras.callbacks.EarlyStopping(monitor='val_mean_squared_error', mode='min',
-                    verbose=0, patience=50)
+    def custom_huber_loss(y_true, y_pred):
+        return tf.losses.huber_loss(y_true, y_pred, **huber_loss_kwargs)
+
+    return custom_huber_loss
+
+model.compile(optimizer = optim,
+              loss =get_huber_loss_fn(delta=0.05),
+              metrics =['mean_absolute_error'])
+
+es = tf.keras.callbacks.EarlyStopping(monitor='val_loss', mode='min',
+                    verbose=0, patience=100)
 mc = tf.keras.callbacks.ModelCheckpoint('best_model.h5',
                     monitor='val_loss',
                     mode='min', verbose=0,
@@ -54,7 +61,7 @@ history = model.fit(x=data["training"]["input"],
         verbose=1,
         validation_data=(data["validation"]["input"], data["validation"]["target"]),
         callbacks=[es, mc])
-saved_model = tf.keras.models.load_model('best_model.h5')
+saved_model = tf.keras.models.load_model('best_model.h5',custom_objects={'custom_huber_loss': get_huber_loss_fn(delta=0.1)})
 if (testing_percent > 0):
     test_loss, test_acc = saved_model.evaluate(x=data["testing"]["input"],
                                         y=data["testing"]["target"],
@@ -70,8 +77,8 @@ if (testing_percent > 0):
             + str(athletes_PBS.round(predictions[0][i] - real_target[i], 2)))
 
 # Plot training & validation accuracy svalues
-plt.plot(history.history['mean_squared_error'])
-plt.plot(history.history['val_mean_squared_error'])
+plt.plot(history.history['mean_absolute_error'])
+plt.plot(history.history['val_mean_absolute_error'])
 plt.title('Model accuracy')
 plt.ylabel('Accuracy')
 plt.xlabel('Epoch')
