@@ -2,6 +2,7 @@ import tensorflow as tf
 import matplotlib.pyplot as plt
 import numpy as np
 import format_data_for_ML
+import athletes_PBS
 
 model_name = "initial"
 data_folder = ""
@@ -17,18 +18,20 @@ data = format_data_for_ML.get_data(data_folder = data_folder, data_name = data_n
 
 reg_lamb = 0.001
 
-#
-
 model = tf.keras.Sequential([
-  tf.keras.layers.Dense(12, activation="relu", input_shape=(6,),
+    tf.keras.layers.Dense(12, activation="relu", input_shape=(6,),
                         kernel_regularizer=tf.keras.regularizers.l2(reg_lamb),
                         kernel_initializer=tf.keras.initializers.RandomNormal(
                                             mean=0.0, stddev=0.05, seed=None)),
-  tf.keras.layers.Dense(12, activation="relu",
+    tf.keras.layers.Dense(12, activation="relu",
                         kernel_regularizer=tf.keras.regularizers.l2(reg_lamb),
                         kernel_initializer=tf.keras.initializers.RandomNormal(
                                             mean=0.0, stddev=0.05, seed=None)),
-  tf.keras.layers.Dense(1)
+    tf.keras.layers.Dense(12, activation="relu",
+                          kernel_regularizer=tf.keras.regularizers.l2(reg_lamb),
+                          kernel_initializer=tf.keras.initializers.RandomNormal(
+                                              mean=0.0, stddev=0.05, seed=None)),
+    tf.keras.layers.Dense(1)
 ])
 
 sgd = tf.keras.optimizers.RMSprop(lr=0.0002)
@@ -37,25 +40,34 @@ model.compile(optimizer = sgd,
               loss ='mse',
               metrics =['mean_squared_error'])
 
-# es = tf.keras.callbacks.EarlyStopping(monitor='val_loss', mode='min',
-#                     verbose=1, patience=100)
-# mc = tf.keras.callbacks.ModelCheckpoint('best_model.h5',
-#                     monitor='val_acc',
-#                     mode='max', verbose=0,
-#                     save_best_only=True)
+es = tf.keras.callbacks.EarlyStopping(monitor='val_mean_squared_error', mode='min',
+                    verbose=0, patience=50)
+mc = tf.keras.callbacks.ModelCheckpoint('best_model.h5',
+                    monitor='val_loss',
+                    mode='min', verbose=0,
+                    save_best_only=True)
+
 history = model.fit(x=data["training"]["input"],
         y=data["training"]["target"],
-        epochs=501,
+        epochs=5001,
         batch_size=32,
         verbose=1,
-        validation_data=(data["validation"]["input"], data["validation"]["target"]))
-
+        validation_data=(data["validation"]["input"], data["validation"]["target"]),
+        callbacks=[es, mc])
+saved_model = tf.keras.models.load_model('best_model.h5')
 if (testing_percent > 0):
-    test_loss, test_acc = model.evaluate(x=data["testing"]["input"],
+    test_loss, test_acc = saved_model.evaluate(x=data["testing"]["input"],
                                         y=data["testing"]["target"],
                                         batch_size=32)
     print('Test accuracy:', test_acc)
     print('Test loss:', test_loss)
+    predictions = saved_model.predict(x=data["testing"]["input"]).T *data["norm_target"] + data["mean_target"]
+    real_target = data["testing"]["target"]*data["norm_target"] + data["mean_target"]
+    print("Target \t  Prediction \t  Difference")
+    for i in range(0, len(data["testing"]["target"])):
+        print(athletes_PBS.convert_to_string_from_seconds(real_target[i]) + "\t  "
+            + athletes_PBS.convert_to_string_from_seconds(predictions[0][i]) + "\t  "
+            + str(athletes_PBS.round(predictions[0][i] - real_target[i], 2)))
 
 # Plot training & validation accuracy svalues
 plt.plot(history.history['mean_squared_error'])
@@ -66,13 +78,13 @@ plt.xlabel('Epoch')
 plt.legend(['Train', 'Test'], loc='upper left')
 plt.show()
 
-# plt.plot(history.history['loss'])
-# plt.plot(history.history['val_loss'])
-# plt.title('Model Loss')
-# plt.ylabel('Loss')
-# plt.xlabel('Epoch')
-# plt.legend(['Train', 'Test'], loc='upper left')
-# plt.show()
+plt.plot(history.history['loss'])
+plt.plot(history.history['val_loss'])
+plt.title('Model Loss')
+plt.ylabel('Loss')
+plt.xlabel('Epoch')
+plt.legend(['Train', 'Test'], loc='upper left')
+plt.show()
 
 
 # if (input('Press s to save model or anykey otherwise:') == "s"):
