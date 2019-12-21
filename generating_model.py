@@ -15,17 +15,23 @@ data = format_data_for_ML.get_data(data_folder = data_folder, data_name = data_n
             training_percent = training_percent, testing_percent = testing_percent)
 
 
-reg_lamb = 0.01
+reg_lamb = 0.001
+
+#
 
 model = tf.keras.Sequential([
-  tf.keras.layers.Dense(5, activation="relu", input_shape=(6,),
-                        kernel_regularizer=tf.keras.regularizers.l2(reg_lamb)),
-  tf.keras.layers.Dense(3, activation="relu",
-                        kernel_regularizer=tf.keras.regularizers.l2(reg_lamb)),
+  tf.keras.layers.Dense(12, activation="relu", input_shape=(6,),
+                        kernel_regularizer=tf.keras.regularizers.l2(reg_lamb),
+                        kernel_initializer=tf.keras.initializers.RandomNormal(
+                                            mean=0.0, stddev=0.05, seed=None)),
+  tf.keras.layers.Dense(12, activation="relu",
+                        kernel_regularizer=tf.keras.regularizers.l2(reg_lamb),
+                        kernel_initializer=tf.keras.initializers.RandomNormal(
+                                            mean=0.0, stddev=0.05, seed=None)),
   tf.keras.layers.Dense(1)
 ])
 
-sgd = tf.keras.optimizers.RMSprop(lr=0.005)
+sgd = tf.keras.optimizers.RMSprop(lr=0.0002)
 
 model.compile(optimizer = sgd,
               loss ='mse',
@@ -37,12 +43,19 @@ model.compile(optimizer = sgd,
 #                     monitor='val_acc',
 #                     mode='max', verbose=0,
 #                     save_best_only=True)
-history = model.fit(data["training"]["input"], data["training"]["target"],
-        epochs=1001,
+history = model.fit(x=data["training"]["input"],
+        y=data["training"]["target"],
+        epochs=501,
         batch_size=32,
         verbose=1,
         validation_data=(data["validation"]["input"], data["validation"]["target"]))
 
+if (testing_percent > 0):
+    test_loss, test_acc = model.evaluate(x=data["testing"]["input"],
+                                        y=data["testing"]["target"],
+                                        batch_size=32)
+    print('Test accuracy:', test_acc)
+    print('Test loss:', test_loss)
 
 # Plot training & validation accuracy svalues
 plt.plot(history.history['mean_squared_error'])
@@ -53,18 +66,13 @@ plt.xlabel('Epoch')
 plt.legend(['Train', 'Test'], loc='upper left')
 plt.show()
 
-plt.plot(history.history['loss'])
-plt.plot(history.history['val_loss'])
-plt.title('Model Loss')
-plt.ylabel('Loss')
-plt.xlabel('Epoch')
-plt.legend(['Train', 'Test'], loc='upper left')
-plt.show()
-
-if (testing_percent > 0):
-    test_loss, test_acc = saved_model.evaluate(data["testing"]["input"], data["testing"]["target"])
-    print('Test accuracy:', test_acc)
-    print('Test loss:', test_loss)
+# plt.plot(history.history['loss'])
+# plt.plot(history.history['val_loss'])
+# plt.title('Model Loss')
+# plt.ylabel('Loss')
+# plt.xlabel('Epoch')
+# plt.legend(['Train', 'Test'], loc='upper left')
+# plt.show()
 
 
 # if (input('Press s to save model or anykey otherwise:') == "s"):

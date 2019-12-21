@@ -56,6 +56,33 @@ def discard_unknown_data(data) :
     data = np.delete(data, rows_of_unknown_pb, 0)
     return data
 
+def whiten_data(data):
+    data["mean_input"] = np.mean(data["training"]["input"], axis=0)
+    data["mean_input"][0] = 0.5
+    num_input = np.shape(data["training"]["input"])[1]
+    for i in range(0,num_input):
+        data["training"]["input"][:,i] -= data["mean_input"][i]
+        data["validation"]["input"][:,i] -= data["mean_input"][i]
+        data["testing"]["input"][:,i] -= data["mean_input"][i]
+
+    data["norm_imput"] = np.linalg.norm(data["training"]["input"], axis=0)
+    data["norm_imput"][data["norm_imput"] ==0] = 1
+    for i in range(1,num_input): # Can skip 0 because it should be norm to 1
+        data["training"]["input"][:,i] /= data["norm_imput"][i]
+        data["validation"]["input"][:,i] /= data["norm_imput"][i]
+        data["testing"]["input"][:,i] /= data["norm_imput"][i]
+
+    data["mean_target"] = np.mean(data["training"]["target"])
+    data["training"]["target"] -= data["mean_target"]
+    data["validation"]["target"] -= data["mean_target"]
+    data["testing"]["target"] -= data["mean_target"]
+
+    data["norm_target"] = np.linalg.norm(data["training"]["target"], axis=0)
+    data["training"]["target"] /= data["norm_target"]
+    data["validation"]["target"] /= data["norm_target"]
+    data["testing"]["target"] /= data["norm_target"]
+    return data
+
 def get_data(data_folder = "", data_name = "test_data",
             training_percent = 0.8, testing_percent = 0.1):
     data = np.genfromtxt(data_folder + data_name + ".txt",
@@ -84,7 +111,8 @@ def get_data(data_folder = "", data_name = "test_data",
     for idx in times_to_change:
         data[:,idx] = [convert_to_seconds_from_string(string_time) for string_time in data[:,idx]]
 
-    return break_data_into_components(data, training_percent, testing_percent)
+    data_components = break_data_into_components(data, training_percent, testing_percent)
+    return whiten_data(data_components)
 
 if __name__ == '__main__':
     data_folder = ""
