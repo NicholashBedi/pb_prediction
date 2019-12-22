@@ -22,13 +22,18 @@ def convert_to_seconds_from_string(string_time):
     return round(minutes*60 + seconds, 2)
 
 def convert_to_string_from_seconds(time_number):
+    output = ""
+    if time_number < 0:
+        output = "-"
+        time_number *= -1
     minutes = math.floor(time_number/60)
     seconds = time_number - 60*minutes
-    if seconds < 10:
-        str_seconds = "0" + str(round(seconds,2))
-    else:
-        str_seconds = str(round(seconds,2))
-    return str(minutes) + ":" + str_seconds
+    if minutes != 0:
+        output += str(minutes) + ":"
+        if seconds < 10:
+            output += "0"
+    output += str(round(seconds,2))
+    return output
 
 def first_then_second_name(name):
     split_name = name.split(", ")
