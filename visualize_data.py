@@ -35,32 +35,41 @@ def sort_data_by_place(data, data_names):
                   data[i,data_names["target"]])
     return place
 
-def plot_bar_graph(height_vals, y_lab = ""):
+def plot_bar_graph(height_vals, num_of_data, y_lab = ""):
     show_to_place = 15
     place_vals = np.arange(1,show_to_place+1, 1)
+    height_vals_to_show = height_vals[:show_to_place]
 
-    plt.bar(x = place_vals - 1, height = height_vals[:show_to_place])
+    plt.bar(x = place_vals - 1, height = height_vals_to_show)
     plt.xticks(place_vals - 1, place_vals)
     plt.xlabel("Place")
     plt.ylabel(y_lab)
+    for i, v in enumerate(height_vals_to_show):
+        plt.text(i, v, "{0:2.0f}".format(num_of_data[i]),
+                color='blue', fontweight='bold')
     plt.show()
+
 
 # Find what place has most PBs run
 def place_pb_relation(data, data_names):
     place = sort_data_by_place(data, data_names)
     place_percent_pbs = np.zeros(18)
+    num_of_data = np.zeros(18)
     for i in range(1,19):
-        place_percent_pbs[i-1] = np.mean(place[str(i)] == 0)
-    plot_bar_graph(place_percent_pbs, y_lab = "Number of PBs")
+        place_percent_pbs[i-1] = np.mean(place[str(i)] < 0.1)
+        num_of_data[i-1] = np.shape(place[str(i)])[0]
+    plot_bar_graph(place_percent_pbs, num_of_data, y_lab = "Number of PBs")
 
 
 # Find how place impacts target
 def place_bar_graph(data, data_names):
     place = sort_data_by_place(data, data_names)
     place_mean_target = np.zeros(18)
+    num_of_data = np.zeros(18)
     for i in range(1,19):
         place_mean_target[i-1] = np.mean(place[str(i)])
-    plot_bar_graph(place_mean_target, y_lab = "Mean Difference From Season End PB")
+        num_of_data[i-1] = np.shape(place[str(i)])[0]
+    plot_bar_graph(place_mean_target, num_of_data, y_lab = "Mean Difference From Season End PB")
 
 def mean_as_prediction(data, data_names, print_vals = False):
     mean_target = np.mean(data[:, data_names["target"]])
@@ -111,10 +120,6 @@ def k_means(data, num_clusters):
     plt.show()
     return
 
-    # plt.scatter(x_0[:,0], x_0[:,1], c="black", s=10)
-    # plt.scatter(kmeans.cluster_centers_[:, 0], kmeans.cluster_centers_[:, 1],
-    #             s=300, c='red', alpha=0.8)
-    # plt.show()
 if __name__ == "__main__":
     data_folder = ""
     data_name = "test_data"
@@ -141,5 +146,5 @@ if __name__ == "__main__":
     # just_split_data = np.hstack((data[:,2:5], data[:,6:]))
     # k_means_get_elbow(just_split_data)
     # k_means(just_split_data, num_clusters = 4)
-    # place_pb_relation(data, data_names)
+    place_pb_relation(data, data_names)
     # place_bar_graph(data, data_names)
