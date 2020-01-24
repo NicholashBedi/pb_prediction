@@ -2,6 +2,7 @@ import tensorflow as tf
 from mpl_toolkits import mplot3d
 import matplotlib.pyplot as plt
 from scipy.stats import norm
+from scipy.stats import ttest_ind
 import numpy as np
 import format_data_for_ML
 import athletes_PBS
@@ -100,6 +101,12 @@ def split_data_into_pbs_and_not(data, data_names, limit = 0.001):
     pb_data = data[PBs,:]
     not_pb_data = data[np.logical_not(PBs), :]
     return pb_data, not_pb_data
+
+# Tests if two normally distributed datasets means differ in a statistically
+# significant way
+def normal_stat_diff(d1, d2):
+    _, p = ttest_ind(d1, d2)
+    return p
 
 # This is a comaprison for machine learning algorithm
 # Find the average people run slower than their year end PB. Use that to predict
@@ -209,7 +216,11 @@ if __name__ == "__main__":
     pb_data, not_pb_data = split_data_into_pbs_and_not(data, data_names)
     data_pb_or_not = [pb_data, not_pb_data]
     values = ["300m", "700m", "1100m", "1500m", "target"]
-    # values = ["target"]
+    values = ["place"]
     for d in data_pb_or_not:
         for v in values:
             histogram(d[:,data_names[v]], xlabel = v)
+    for v in values:
+        print("{0:>6} p-values: {1:3.2f}".format(v,
+                                normal_stat_diff(pb_data[:, data_names[v]],
+                                                not_pb_data[:, data_names[v]])))
