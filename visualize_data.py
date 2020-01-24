@@ -93,6 +93,13 @@ def number_of_pbs(target_data, limit = 0.001):
     print("Num of PBs: " + str(num_of_pbs) + " Num not PBs: " + str(num_not_pbs))
     return num_of_pbs, num_not_pbs
 
+# Splits data into PBs and not PBs
+def split_data_into_pbs_and_not(data, data_names, limit = 0.001):
+    data[:,data_names["target"]]
+    PBs = data[:,data_names["target"]] <= limit
+    pb_data = data[PBs,:]
+    not_pb_data = data[np.logical_not(PBs), :]
+    return pb_data, not_pb_data
 
 # This is a comaprison for machine learning algorithm
 # Find the average people run slower than their year end PB. Use that to predict
@@ -166,6 +173,7 @@ def histogram(data, bins_i = 'auto', xlabel = "", ylabel = "Density (%)"):
     return
 
 
+
 if __name__ == "__main__":
     data_folder = ""
     data_name = "test_data"
@@ -197,4 +205,11 @@ if __name__ == "__main__":
     # values = ["300m", "700m", "1100m", "1500m", "target"]
     # for v in values:
     #     histogram(data[:,data_names[v]], xlabel = v)
-    number_of_pbs(data[:,data_names["target"]])
+    # number_of_pbs(data[:,data_names["target"]])
+    pb_data, not_pb_data = split_data_into_pbs_and_not(data, data_names)
+    data_pb_or_not = [pb_data, not_pb_data]
+    values = ["300m", "700m", "1100m", "1500m", "target"]
+    # values = ["target"]
+    for d in data_pb_or_not:
+        for v in values:
+            histogram(d[:,data_names[v]], xlabel = v)
